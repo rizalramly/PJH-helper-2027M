@@ -1,0 +1,2561 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "eiman",
+    "label": "Eiman",
+    "name": "Eiman Travel Malaysia",
+    "legalName": "Eiman Travel & Tours Sdn Bhd",
+    "website": "www.eimantravel.com.my",
+    "publicContact": "011-6200 0716 (Puan Atie); 011-2821 1669 (Hj. Abdullah); 019-329 2757 (Hj. Mohd); 03-7805 2707 (Pejabat HQ)",
+    "licenceNumberAsPublished": "PJH 11/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 48,
+        "text": "PJH 11/1448H No. Lesen PJH — 718599 (No. SSM) — KPK/LN: 7571 (No. MOTAC)",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga, tarikh dan jenis penerbangan tertakluk pada kekosongan dan kelulusan TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "Harga , Tarikh dan jenis penerbangan tertakluk pada kekosongan dan kelulusan pihak Tabung Haji dan syarikat penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Harga dan maklumat pakej tertakluk kepada terma dan syarat, kekosongan bilik, tiket penerbangan, keretapi laju dan khemah PMN.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "Harga dan maklumat pakej tertakluk kepada terma dan syarat, kekosongan bilik , kekosongan tiket penerbangan keretapi laju,, kekosongan khemah PMN dan lain-lain.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pembayaran terus ke akaun syarikat (Bank Islam / Maybank Eiman Travel & Tours Sdn Bhd).",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "Segala pembayaran hendaklah dibuat terus pada akaun syarikat seperti dinyatakan dalam brosur. BANK ISLAM EIMAN TRAVEL & TOURS SDN BHD 1213 101000 5900; Maybank 5623 5752 1115",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan/penundaan seperti dalam borang pengesahan terima tawaran (dicetak '1447H/2026').",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "SYARAT MENARIK DIRI PAKEJ — Jika bakal Haji membuat pembatalan atau penundaan pemergian Haji, kadar denda yang dikenakan kepada bakal Haji adalah seperti yang dinyatakan di dalam borang PENGESAHAN TERIMA TAWARAN PERKHIDMATAN PAKEJ HAJI 1447H/2026.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      48,
+      50
+    ],
+    "pagesReviewed": [
+      48,
+      49,
+      50
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 48,
+        "content": "Muka depan (harga 'serendah' Klasik RM49,900 / Premium RM53,900 – ulangan); Mekah Klasik Romance ETKR04 (tanpa Aziziyah, Muaessim); Mekah Tower ETMT04; Safwah Leader ETSL05-02; nota bayaran haji RM23,398 (dicetak 1447H/2026M); lesen PJH 11/1448H."
+      },
+      {
+        "pdfPage": 49,
+        "content": "Klasik Dallah ETKD04-02 (Muaessim); Safwah Dallah ETSD05-02; Gold + PMN ETGL02; Diamond + PMN ETDM02; nota PMN RM7,500 termasuk dan Business Class tambahan; set kit haji; naik taraf (PMN+Bas VIP RM9,990, Business Class RM17,990+-, Aziziyah ber-2 RM7,490 / ber-3 RM4,990)."
+      },
+      {
+        "pdfPage": 50,
+        "content": "Petugas, 'Mengapa memilih kami' (kelas penerbangan/keretapi mengikut pakej, makanan), kuliah, hubungan, akaun bank, terma pendaftaran dan syarat menarik diri. Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "eiman-mekah-klasik-romance",
+      "name": "Pakej Mekah Klasik Romance",
+      "series": "Klasik",
+      "tierLabel": "Mekah Klasik Romance",
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 47,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "PAKEJ MEKAH KLASIK ROMANCE 38-47+- Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "Bilangan hari tertakluk pada tarikh penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Masuk terus ke hotel Mekah tanpa hotel transit Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "MASUK TERUS KE HOTEL MEKAH (TANPA HOTEL TRANSIT AZIZIYAH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaessim",
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "KHEMAH MUAESSIM",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS EKONOMI — Khas kepada Pakej Mekah Tower, Safwah, & Klasik",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — Kelas Ekonomi :Pakej Mekah tower, Safwah dan Klasik; Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International, tertakluk pakej); Aziziyah: 3 kali buffet.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "3 KALI MAKAN SEHARI — Aziziyah: 3 kali buffet; Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International) tertakluk pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Dilabel 'TEMPAT TERHAD'."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Romance Al-Sadd",
+          "orEquivalent": true,
+          "roomCategory": "3 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 380,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MEKAH ROMANCE AL-SADD @ SETARAF ★★★ 380m ke dataran Masjid al-Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Leader Munakareem",
+          "orEquivalent": true,
+          "roomCategory": "4 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MADINAH LEADER MUNAKAREEM @ SETARAF ★★★★ 180m ke dataran Masjid al-Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Termasuk train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "TERMASUK TRAIN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Termasuk hotel Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "TERMASUK HOTEL MEKAH MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ETKR04",
+          "codeIsInternal": false,
+          "priceSen": 4990000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 SEBILIK MADINAH & MEKAH",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "ETKR04 4 SEBILIK MADINAH & MEKAH RM 49,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-mekah-tower",
+      "name": "Pakej Mekah Tower",
+      "series": "Mekah Tower",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 47,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "PAKEJ MEKAH TOWER 38-47+- Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "Bilangan hari tertakluk pada tarikh penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          5
+        ],
+        "defaultArrangementNote": "Bilik Ber 5 di Aziziyah (Suite Al-Maqam @ setaraf, penginapan bertaraf hotel).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "AZIZIYAH — Bilik Ber 5 — SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 390m ke dataran Jamrat",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "HOTEL SELESA AZIZIYAH ✓",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": null,
+        "evidence": []
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS EKONOMI — Khas kepada Pakej Mekah Tower, Safwah, & Klasik",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — Kelas Ekonomi :Pakej Mekah tower, Safwah dan Klasik; Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International, tertakluk pakej); Aziziyah: 3 kali buffet.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "3 KALI MAKAN SEHARI — Aziziyah: 3 kali buffet; Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International) tertakluk pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Dilabel 'TEMPAT TERHAD'."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Mekah Tower",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MEKAH MEKAH TOWER @ SETARAF ★★★★★ 50m ke dataran Masjid al-Haram — Bilik Ber 4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Suite Al-Maqam",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 390,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "ke dataran Jamrat",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "AZIZIYAH — Bilik Ber 5 — SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 390m ke dataran Jamrat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Dallah Taibah",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MADINAH DALLAH TAIBAH @ SETARAF ★★★★★ 100m ke dataran Masjid al-Nabawi — Bilik Ber 4",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "TRAIN ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Termasuk penginapan Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "TERMASUK PENGINAPAN MEKAH MADINAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel selesa Aziziyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "HOTEL SELESA AZIZIYAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ETMT04",
+          "codeIsInternal": false,
+          "priceSen": 5390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "PAKEJ MEKAH TOWER RM 53,900 4 SEBILIK ETMT04",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-safwah-leader",
+      "name": "Pakej Safwah Leader",
+      "series": "Safwah",
+      "tierLabel": "Safwah Leader",
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 47,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "PAKEJ SAFWAH LEADER 38-47+- Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "Bilangan hari tertakluk pada tarikh penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 48,
+            "text": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina). AZIZIYAH SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 390m ke dataran Jamrat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": null,
+        "evidence": []
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS EKONOMI — Khas kepada Pakej Mekah Tower, Safwah, & Klasik",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — Kelas Ekonomi :Pakej Mekah tower, Safwah dan Klasik; Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International, tertakluk pakej); Aziziyah: 3 kali buffet.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "3 KALI MAKAN SEHARI — Aziziyah: 3 kali buffet; Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International) tertakluk pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Dilabel 'TEMPAT TERHAD'."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 1",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MEKAH SAFWAH TOWER 1 @ SETARAF ★★★★★ 50m ke dataran Masjid al-Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Suite Al-Maqam",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 390,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "ke dataran Jamrat",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "AZIZIYAH SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 390m ke dataran Jamrat — Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Leader Munakareem",
+          "orEquivalent": true,
+          "roomCategory": "4 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "MADINAH LEADER MUNAKAREEM @ SETARAF ★★★★ 180m ke dataran Masjid al-Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "TRAIN ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Premium Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "PREMIUM MEKAH MADINAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel selesa Aziziyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 48,
+              "text": "HOTEL SELESA AZIZIYAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ETSL05",
+          "codeIsInternal": false,
+          "priceSen": 5390000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "RM 53,900 ETSL05 5 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSL04",
+          "codeIsInternal": false,
+          "priceSen": 5590000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "ETSL04 RM 55,900 4 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSL03",
+          "codeIsInternal": false,
+          "priceSen": 5790000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "ETSL03 RM 57,900 3 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSL02",
+          "codeIsInternal": false,
+          "priceSen": 6490000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 48,
+              "text": "ETSL02 RM 64,900 2 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-klasik-dallah",
+      "name": "Pakej Klasik Dallah",
+      "series": "Klasik",
+      "tierLabel": "Klasik Dallah",
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 47,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "PAKEJ KLASIK DALLAH 38-47+- Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "Bilangan hari tertakluk pada tarikh penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Hotel Aziziyah tidak disenaraikan (Makkah, Madinah, Khemah Muaessim sahaja); tiada tanda 'Hotel Selesa Aziziyah'.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": []
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaessim",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "KHEMAH MUAESSIM @ SETARAF",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS EKONOMI — Khas kepada Pakej Mekah Tower, Safwah, & Klasik",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — Kelas Ekonomi :Pakej Mekah tower, Safwah dan Klasik; Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International, tertakluk pakej); Aziziyah: 3 kali buffet.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "3 KALI MAKAN SEHARI — Aziziyah: 3 kali buffet; Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International) tertakluk pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Romance Al-Sadd",
+          "orEquivalent": true,
+          "roomCategory": "3 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 380,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MEKAH ROMANCE AL-SADD @ SETARAF ★★★ 380m ke dataran Masjid al-Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dallah Taibah",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MADINAH DALLAH TAIBAH @ SETARAF ★★★★★ 100m ke dataran Masjid al-Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "TRAIN ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Premium Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "PREMIUM MEKAH MADINAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ETKD04",
+          "codeIsInternal": false,
+          "priceSen": 5390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "PAKEJ KLASIK DALLAH RM 53,900 ETKD04 4 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETKD03",
+          "codeIsInternal": false,
+          "priceSen": 5590000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "ETKD03 RM 55,900 3 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETKD02",
+          "codeIsInternal": false,
+          "priceSen": 5990000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "ETKD02 RM 59,900 2 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-safwah-dallah",
+      "name": "Pakej Safwah Dallah",
+      "series": "Safwah",
+      "tierLabel": "Safwah Dallah",
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 47,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "PAKEJ SAFWAH DALLAH 38-47+- Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 48,
+            "text": "Bilangan hari tertakluk pada tarikh penerbangan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina). AZIZIYAH SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 360m ke dataran Jamrat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": null,
+        "evidence": []
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS EKONOMI — Khas kepada Pakej Mekah Tower, Safwah, & Klasik",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — Kelas Ekonomi :Pakej Mekah tower, Safwah dan Klasik; Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International, tertakluk pakej); Aziziyah: 3 kali buffet.",
+        "evidence": [
+          {
+            "pdfPage": 50,
+            "text": "3 KALI MAKAN SEHARI — Aziziyah: 3 kali buffet; Mekah & Madinah: 3 kali buffet hotel (menu Asian/Far East/International) tertakluk pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 1",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MEKAH SAFWAH TOWER 1 @ SETARAF ★★★★★ 50m ke dataran Masjid al-Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Suite Al-Maqam",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 360,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "ke dataran Jamrat",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "AZIZIYAH SUITE AL-MAQAM @ SETARAF Penginapan bertaraf Hotel 360m ke dataran Jamrat — Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Dallah Taibah",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MADINAH DALLAH TAIBAH @ SETARAF ★★★★★ 100m ke dataran Masjid al-Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "TRAIN ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Premium Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "PREMIUM MEKAH MADINAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel selesa Aziziyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "HOTEL SELESA AZIZIYAH ✓",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ETSD05",
+          "codeIsInternal": false,
+          "priceSen": 6190000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "PAKEJ SAFWAH DALLAH RM 61,900 ETSD05 5 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSD04",
+          "codeIsInternal": false,
+          "priceSen": 6590000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "ETSD04 RM 65,900 4 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSD03",
+          "codeIsInternal": false,
+          "priceSen": 6790000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "ETSD03 RM 67,900 3 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ETSD02",
+          "codeIsInternal": false,
+          "priceSen": 7290000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "ETSD02 RM 72,900 2 SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-gold",
+      "name": "Gold Pakej + PMN",
+      "series": "Gold",
+      "tierLabel": "Gold",
+      "duration": {
+        "value": null,
+        "min": 28,
+        "max": 30,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "GOLD PAKEJ + PMN 28-30+- Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Aziziyah + PMN: Suite Al-Maqam @ setaraf, penginapan bertaraf hotel; susunan bilik Aziziyah tidak dinyatakan.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "AZIZIYAH + PMN — SUITE AL-MAQAM @ SETARAF + BAS KHAS MASHAER Penginapan bertaraf Hotel 360m ke dataran Jamrat FULLBOARD FAREAST",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "HOTEL SELESA SEWAKTU HARI MELONTAR",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN + Bas Khas Mashaer; ke Arafah 9 Zulhijjah. Kos PMN RM7,500 termasuk dalam pakej.",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "GOLD PAKEJ + PMN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "KHEMAH PMN ... BAS KHAS MASHAER ... KE ARAFAH 9 ZULHIJJAH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "Kos PMN sebanyak RM7500 telah termasuk dalam Pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "PENERBANGAN BUSINESS CLASS — HARGA TIKET BELUM TERMASUK",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "Kos tambahan penerbangan Kelas Perniagaan tidak termasuk pakej, tambahan bermula serendah RM17,900+- (tertakluk pada harga akhir syarikat penerbangan)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS PERNIAGAAN — Pakej Gold dan Pakej Diamond (Dengan bayaran tambahan)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "TERMASUK TRAIN (Kelas Perniagaan)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — ... Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian International di Makkah dan Madinah; Fullboard Fareast di Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "SAFWAH TOWER 1 ... SAJIAN INTERNATIONAL; DAR IMAN INT. ... SAJIAN INTERNATIONAL; SUITE AL-MAQAM ... FULLBOARD FAREAST",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 1",
+          "orEquivalent": true,
+          "roomCategory": "Haram View (5 bintang)",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": "Sajian International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MEKAH SAFWAH TOWER 1 @ SETARAF ★★★★★ 50m ke dataran Masjid al-Haram — SAJIAN INTERNATIONAL; HARAM VIEW",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Suite Al-Maqam",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 360,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "ke dataran Jamrat",
+          "meals": "Fullboard Fareast",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "AZIZIYAH + PMN SUITE AL-MAQAM @ SETARAF + BAS KHAS MASHAER Penginapan bertaraf Hotel 360m ke dataran Jamrat FULLBOARD FAREAST",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Dar Iman Int.",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 10,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": "Sajian International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MADINAH DAR IMAN INT. @ SETARAF ★★★★★ 10m ke dataran Masjid al-Nabawi — SAJIAN INTERNATIONAL",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Khemah PMN",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "ISTIMEWA PAKEJ — KHEMAH PMN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian International",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SAJIAN INTERNATIONAL",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas Khas Mashaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "BAS KHAS MASHAER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haram View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "HARAM VIEW",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ke Arafah 9 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "KE ARAFAH 9 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Termasuk train (Kelas Perniagaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "TERMASUK TRAIN (Kelas Perniagaan)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel premium Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "HOTEL PREMIUM MEKAH MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tiket penerbangan Business Class (harga tiket belum termasuk)",
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "PENERBANGAN BUSINESS CLASS — HARGA TIKET BELUM TERMASUK",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 49,
+              "text": "Kos tambahan penerbangan Kelas Perniagaan tidak termasuk pakej, tambahan bermula serendah RM17,900+- (tertakluk pada harga akhir syarikat penerbangan)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "ETGL02",
+          "codeIsInternal": false,
+          "priceSen": 11290000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "GOLD PAKEJ + PMN — ETGL02 2 SEBILIK RM 112,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eiman-diamond",
+      "name": "Diamond Pakej + PMN",
+      "series": "Diamond",
+      "tierLabel": "Diamond",
+      "duration": {
+        "value": null,
+        "min": 28,
+        "max": 30,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "DIAMOND PAKEJ + PMN 28-30+- Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Hotel Aziziyah tidak disenaraikan; dicetak 'Masuk terus ke hotel Mekah (awal)' dan PMN Khemah Khas.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": []
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "PMN Khemah Khas + Bas Khas Mashaer + GMC SUV Private; ke Arafah 9 Zulhijjah. Kos PMN RM7,500 termasuk dalam pakej.",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "DIAMOND PAKEJ + PMN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "PMN KHEMAH KHAS + BAS KHAS MASHAER GMC SUV PRIVATE",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "Kos PMN sebanyak RM7500 telah termasuk dalam Pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "PENERBANGAN BUSINESS CLASS — HARGA TIKET BELUM TERMASUK",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 49,
+            "text": "Kos tambahan penerbangan Kelas Perniagaan tidak termasuk pakej, tambahan bermula serendah RM17,900+- (tertakluk pada harga akhir syarikat penerbangan)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 50,
+            "text": "PENERBANGAN KELAS PERNIAGAAN — Pakej Gold dan Pakej Diamond (Dengan bayaran tambahan)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "TERMASUK TRAIN (Kelas Perniagaan)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 50,
+            "text": "KERETAPI LAJU — ... Kelas Perniagaan: Pakej Gold, Diamond",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian International di Makkah dan Madinah.",
+        "evidence": [
+          {
+            "pdfPage": 49,
+            "text": "SAFWAH TOWER 1 ... SAJIAN INTERNATIONAL; BILTMORE BY OBEROI ... SAJIAN INTERNATIONAL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 1",
+          "orEquivalent": true,
+          "roomCategory": "Kaabah View (5 bintang)",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
+          "meals": "Sajian International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MEKAH SAFWAH TOWER 1 @ SETARAF ★★★★★ 50m ke dataran Masjid al-Haram — SAJIAN INTERNATIONAL; KAABAH VIEW",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Biltmore by Oberoi",
+          "orEquivalent": true,
+          "roomCategory": "5 bintang",
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 10,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
+          "meals": "Sajian International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MADINAH BILTMORE BY OBEROI @ SETARAF ★★★★★ 10m ke dataran Masjid al-Nabawi — SAJIAN INTERNATIONAL",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Khemah PMN",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "ISTIMEWA PAKEJ — KHEMAH PMN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian International",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SAJIAN INTERNATIONAL",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas Khas Mashaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "BAS KHAS MASHAER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kaabah View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "KAABAH VIEW",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ke Arafah 9 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "KE ARAFAH 9 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Termasuk train (Kelas Perniagaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "TERMASUK TRAIN (Kelas Perniagaan)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel premium Mekah Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "HOTEL PREMIUM MEKAH MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Mekah (5 kali umrah & ziarah asas) dan Madinah (ziarah sejarah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "ZIARAH MEKAH & MADINAH — Mekah: 5 kali umrah & Ziarah Asas; Madinah: Ziarah Sejarah Baginda Nabi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Skim insuran perjalanan asas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "SKIM INSURAN PERJALANAN — Insuran Perjalanan Asas",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji berterusan, kuliah harian Tanah Suci, majlis apresiasi dan reunion",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 50,
+              "text": "KURSUS HAJI BERTERUSAN — Latihan Intensif Haji bersama tenaga pengajar PIHTAS sebelum & selepas berangkat ke Mekah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set kit haji (bagasi 28\" & 20\", beg sandar, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "SET KIT HAJI — Bantal Leher, Sejadah, ... Bagasi 28', Bagasi 20', Beg Sandar, ... Kain Ihram, ... Telekung ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Masuk terus ke hotel Mekah (awal)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "MASUK TERUS KE HOTEL MEKAH (AWAL)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "GMC SUV private (Mashaer)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "BAS KHAS MASHAER GMC SUV PRIVATE",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tiket penerbangan Business Class (harga tiket belum termasuk)",
+          "evidence": [
+            {
+              "pdfPage": 49,
+              "text": "PENERBANGAN BUSINESS CLASS — HARGA TIKET BELUM TERMASUK",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 49,
+              "text": "Kos tambahan penerbangan Kelas Perniagaan tidak termasuk pakej, tambahan bermula serendah RM17,900+- (tertakluk pada harga akhir syarikat penerbangan)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "ETDM02",
+          "codeIsInternal": false,
+          "priceSen": 16290000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 49,
+              "text": "DIAMOND PAKEJ + PMN — ETDM02 2 SEBILIK RM 162,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "eiman-pmn-bas-vip",
+      "packageIds": [
+        "eiman-mekah-klasik-romance",
+        "eiman-mekah-tower",
+        "eiman-safwah-leader",
+        "eiman-klasik-dallah",
+        "eiman-safwah-dallah"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Perkhidmatan Masyair Naik Taraf PMN + Bas VIP (khemah hampir kawasan melontar, bas Mashaer khas)",
+      "priceSen": 999000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Harga bermula; tertakluk pada kekosongan dan harga akhir. Pakej yang layak tidak dinyatakan (diandaikan pakej tanpa PMN).",
+      "evidence": [
+        {
+          "pdfPage": 49,
+          "text": "Perkhidmatan Masyair Naik Taraf PMN + Bas VIP — Khemah Hampir dengan Kawasan Melontar - Pengunaan Bas Mashaer Khas - Pergerakan Haji Khas - Tertakluk pada kekosongan - Tertakluk pada harga Akhir — Harga Bermula /Seorang RM9,990",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "eiman-penerbangan-kelas-perniagaan",
+      "packageIds": [
+        "eiman-gold",
+        "eiman-diamond"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Penerbangan Kelas Perniagaan (bayaran tambahan)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Harga bermula RM17,990+- (kotak naik taraf) atau RM17,900+- (nota Gold/Diamond); tertakluk pada kekosongan dan harga akhir tiket.",
+      "evidence": [
+        {
+          "pdfPage": 49,
+          "text": "Perkhidmatan Penerbangan Kelas Perniagaan - Tertakluk pada kekosongan - Tertakluk pada harga Akhir tiket penerbangan. Harga Bermula /Seorang RM17,990+-",
+          "status": "conflict"
+        },
+        {
+          "pdfPage": 49,
+          "text": "Kos tambahan penerbangan Kelas Perniagaan tidak termasuk pakej, tambahan bermula serendah RM17,900+- (tertakluk pada harga akhir syarikat penerbangan)",
+          "status": "conflict"
+        },
+        {
+          "pdfPage": 50,
+          "text": "PENERBANGAN KELAS PERNIAGAAN — Pakej Gold dan Pakej Diamond (Dengan bayaran tambahan)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "eiman-aziziyah-bilik-berdua",
+      "packageIds": [
+        "eiman-mekah-tower",
+        "eiman-safwah-leader",
+        "eiman-safwah-dallah"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf ke bilik ber-2 di Aziziyah",
+      "priceSen": 749000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Harga bermula; tertakluk pada kekosongan.",
+      "evidence": [
+        {
+          "pdfPage": 49,
+          "text": "Naik Taraf Bilik ber-2 di Aziziyah — Naik Taraf ke bilik ber-2 di Aziziyah bagi pengalaman lebih Premium - Tertakluk pada kekosongan - Harga ber-2 (RM7,490) - Harga ber-3 (RM4,990) — Harga Bermula /Seorang RM7,490",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "eiman-aziziyah-bilik-bertiga",
+      "packageIds": [
+        "eiman-mekah-tower",
+        "eiman-safwah-leader",
+        "eiman-safwah-dallah"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf ke bilik ber-3 di Aziziyah",
+      "priceSen": 499000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 3,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk pada kekosongan.",
+      "evidence": [
+        {
+          "pdfPage": 49,
+          "text": "Naik Taraf Bilik ber-2 di Aziziyah — Naik Taraf ke bilik ber-2 di Aziziyah bagi pengalaman lebih Premium - Tertakluk pada kekosongan - Harga ber-2 (RM7,490) - Harga ber-3 (RM4,990) — Harga Bermula /Seorang RM7,490",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "eiman-bayaran-haji-pjh",
+      "packageIds": [
+        "eiman-mekah-klasik-romance",
+        "eiman-mekah-tower",
+        "eiman-safwah-leader",
+        "eiman-klasik-dallah",
+        "eiman-safwah-dallah",
+        "eiman-gold",
+        "eiman-diamond"
+      ],
+      "description": "Bayaran Haji PJH (didebit daripada akaun TH); dicetak '1447H/2026M'",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 48,
+          "text": "Harga pakej Haji adalah termasuk bayaran Haji PJH 1447H/2026M sebanyak **RM23,398** yang akan didebitkan dari akaun TH jemaah Haji PIH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "eiman-caj-pmn",
+      "packageIds": [
+        "eiman-gold",
+        "eiman-diamond"
+      ],
+      "description": "Kos PMN termasuk dalam pakej Gold dan Diamond",
+      "priceSen": 750000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 49,
+          "text": "Kos PMN sebanyak RM7500 telah termasuk dalam Pakej",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "eiman-caj-tambahan-th",
+      "packageIds": [
+        "eiman-mekah-klasik-romance",
+        "eiman-mekah-tower",
+        "eiman-safwah-leader",
+        "eiman-klasik-dallah",
+        "eiman-safwah-dallah",
+        "eiman-gold",
+        "eiman-diamond"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 48,
+          "text": "Harga pakej Haji adalah termasuk bayaran Haji PJH 1447H/2026M sebanyak **RM23,398** yang akan didebitkan dari akaun TH jemaah Haji PIH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga 'serendah' muka depan: Pakej Haji Klasik RM49,900 dan Pakej Haji Premium RM53,900",
+      "reason": "Ulangan varian sedia ada (ETKR04; ETMT04/ETSL05/ETKD04), bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 48,
+          "text": "PAKEJ HAJI KLASIK SERENDAH RM49,900 MASUK TERUS KE HOTEL MEKAH; PAKEJ HAJI PREMIUM SERENDAH RM53,900 HOTEL PREMIUM 5 BINTANG 50 Meter ke dataran",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "charges.eiman-bayaran-haji-pjh",
+      "note": "Nota bayaran haji di hlm. 48 dicetak 'PJH 1447H/2026M' (bukan 1448H/2027M) dengan amaun RM23,398; kemungkinan salah cetak musim.",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair/pmnStatus",
+      "note": "Mekah Tower, Safwah Leader dan Safwah Dallah tidak menyatakan jenis khemah (Muaessim/PMN); pmnStatus = not_stated. Naik taraf PMN + Bas VIP RM9,990 ditawarkan secara umum.",
+      "pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan. Gold/Diamond menyebut 'Ke Arafah 9 Zulhijjah'.",
+      "pages": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "eiman-klasik-dallah",
+      "field": "aziziyah",
+      "note": "Klasik Dallah tidak menyenaraikan Aziziyah (Khemah Muaessim di tempatnya); tiada ayat 'tanpa Aziziyah' seperti Klasik Romance. Muka depan 'Pakej Haji Klasik — masuk terus ke hotel Mekah' mungkin terpakai.",
+      "pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "eiman-diamond",
+      "field": "aziziyah",
+      "note": "Diamond tidak menyenaraikan Aziziyah; dicetak 'Masuk terus ke hotel Mekah (awal)'. Tidak dinyatakan secara jelas sama ada tiada Aziziyah.",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "eiman-gold",
+      "field": "aziziyah.defaultOccupancies",
+      "note": "Susunan bilik Aziziyah bagi Gold tidak dinyatakan; naik taraf Aziziyah ber-2/ber-3 tidak dikaitkan dengan Gold.",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.eiman-penerbangan-kelas-perniagaan.priceSen",
+      "note": "Konflik harga: kotak naik taraf RM17,990+- vs nota Gold/Diamond RM17,900+-; kedua-duanya 'bermula' dan anggaran. priceSen = null.",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.priceSen",
+      "note": "Naik taraf PMN + Bas VIP (RM9,990) dan Aziziyah ber-2 (RM7,490) berlabel 'Harga Bermula'; direkod seperti dicetak. Pakej layak PMN + Bas VIP tidak dinyatakan (diandaikan pakej tanpa PMN).",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "charges.eiman-caj-pmn",
+      "note": "Nota 'Kos PMN sebanyak RM7500' dicetak sangat kecil; dibaca pada 400 dpi.",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.terms",
+      "note": "Hlm. 50 merujuk borang 'PENGESAHAN TERIMA TAWARAN PERKHIDMATAN PAKEJ HAJI 1447H/2026' untuk kadar denda; kadar sebenar tidak dicetak.",
+      "pages": [
+        50
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-B",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman penuh + render semula 250 dpi (pdftoppm) dan potongan diperbesar; nota kecil PMN/Business Class dibaca pada 400 dpi.",
+    "independentCheck": null
+  }
+}

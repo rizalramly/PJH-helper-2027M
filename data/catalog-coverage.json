@@ -13,13 +13,13 @@
   ],
   "totals": {
     "pjhExpected": 34,
-    "pjhWithCatalogFile": 29,
+    "pjhWithCatalogFile": 34,
     "pjhReviewed": 0,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
-    "packageFamilies": 143,
-    "variantsIdentified": 449,
-    "variantsImported": 449,
+    "packageFamilies": 161,
+    "variantsIdentified": 502,
+    "variantsImported": 502,
     "variantsPublished": 0,
     "unresolvedVariants": 0
   },
@@ -250,27 +250,38 @@
         25
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "AZ Safir Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 2,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        24,
+        25
+      ],
+      "packageFamiliesIdentified": 2,
+      "variantsIdentified": 7,
+      "variantsImported": 7,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "06/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] az-safir: variants.code — Kod varian dicetak sangat kecil dan kabur; dibaca sebagai 'Safir 01'–'Safir 07' (mungkin 'Safr'). Harga dan susunan bilik jelas.",
+        "[non_blocking] az-safir: variants.priceSen — Kad pakej berlabel 'Harga Bermula'; harga direkod seperti dicetak bagi setiap susunan bilik.",
+        "[non_blocking] az-safir: tarwiyah — Tarwiyah tidak dinyatakan dalam hlm. 24–25.",
+        "[non_blocking] az-safir-safir-a: aziziyah — Safir A tidak menyenaraikan Aziziyah (hanya Makkah dan Madinah); tidak dinyatakan secara jelas sama ada tiada.",
+        "[non_blocking] az-safir: stays.distanceReference — Jarak hotel dicetak sebagai '+NNNm / setaraf' tanpa titik ukuran.",
+        "[non_blocking] az-safir: pjh.licenceNumberAsPublished — Nombor lesen PJH kabur (06/1448H dibaca dengan resolusi rendah). Lesen brosur bukan bukti kelulusan 1448H.",
+        "[non_blocking] az-safir: flightClass/trainClass — Kelas penerbangan dan kereta api tidak dinyatakan."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-B (semakan bebas belum dibuat)"
     },
     {
       "index": 7,
@@ -281,27 +292,42 @@
         32
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Az Zuha Group Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 7,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "packageFamiliesIdentified": 4,
+      "variantsIdentified": 14,
+      "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH07/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] az-zuha: variants.priceSen — Kotak harga utama setiap pakej berlabel 'HARGA BERMULA'; harga direkod seperti dicetak bagi setiap susunan bilik.",
+        "[non_blocking] az-zuha: tarwiyah — Tarwiyah tidak dinyatakan dalam hlm. 26–32.",
+        "[non_blocking] az-zuha: masyair.type — Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai tambahan berbayar, maka pmnStatus = not_included.",
+        "[non_blocking] az-zuha: aziziyah.defaultOccupancies — Bilangan sebilik di Aziziah 'mengikut pilihan pakej' — tidak dinyatakan sebagai nombor; hotel Dar AlHamd/Dar AlSalah (dua pilihan).",
+        "[non_blocking] az-zuha: upgrades.basis — Harga PMN RM8,900 dan naik taraf penerbangan RM11,900 tidak menyatakan 'seorang'; dianggap per jemaah.",
+        "[non_blocking] az-zuha: stays.orEquivalent — Tiada 'setaraf' dicetak bagi hotel Makkah/Madinah; nama hotel direkod tepat."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-B (semakan bebas belum dibuat)"
     },
     {
       "index": 8,
@@ -361,27 +387,37 @@
         45
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Citra Travel & Tours Sdn. Bhd.",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 1,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        45
+      ],
+      "packageFamiliesIdentified": 3,
+      "variantsIdentified": 12,
+      "variantsImported": 12,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 09/1448",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] citra: upgrades.citra-aziziyah-bilik-berdua.priceSen — Naik taraf bilik ber-2 Shisha/Aziziyyah dicetak dalam SAR (SR5,000/pax); tiada nilai MYR, jadi priceSen = null.",
+        "[non_blocking] citra: masyair/pmnStatus — Jenis khemah Mina/Arafah (PMN atau Muaisim) tidak dinyatakan.",
+        "[non_blocking] citra: tarwiyah — Tarwiyah tidak dinyatakan.",
+        "[non_blocking] citra: flightClass/trainClass — Kelas penerbangan dan kereta api tidak dinyatakan.",
+        "[non_blocking] citra-standard-eko: aziziyah — Status explicitly_not_included berdasarkan label 'TANPA TRANSIT' berbanding 'PAKEJ TRANSIT' (yang termasuk hotel Shisha/Aziziyyah); tiada ayat 'tanpa Aziziyah' secara harfiah. Perlu disahkan penyemak.",
+        "[non_blocking] citra: stays.distanceReference — Jarak hotel Makkah/Madinah dicetak sebagai 'NN METER' tanpa titik ukuran.",
+        "[non_blocking] citra: stays.location — Hotel Safwat Al Masyaeir berada di 'Shisha'; brosur menyamakan 'Shisha/Aziziyyah', maka direkod sebagai location aziziyah."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-B (semakan bebas belum dibuat)"
     },
     {
       "index": 10,
@@ -392,27 +428,37 @@
         47
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "CS Holidays Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 2,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        46,
+        47
+      ],
+      "packageFamiliesIdentified": 2,
+      "variantsIdentified": 5,
+      "variantsImported": 5,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH10/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] cs-holidays: aziziyah — Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel transit 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram') dan direkod sebagai stays.location = mina; aziziyah.status = not_stated. Penyemak perlu putuskan sama ada ia setara Aziziyah.",
+        "[non_blocking] cs-holidays-standard: variants.CSS03 — CSS03 dicetak '4 - 5 Orang Sebilik' dengan satu harga; direkod sebagai dua varian (4 dan 5) dengan kod dan harga sama.",
+        "[non_blocking] cs-holidays-standard: upgrades.cs-holidays-bilik-berdua-durrat-mina.includedInVariantCodes — Tidak dinyatakan sama ada CSS01 (2 orang sebilik) sudah termasuk bilik berdua di hotel Mina; nota '**Penginapan di Mina secara berkelompok' mencadangkan tidak, maka includedInVariantCodes = [] (tambahan terpakai kepada semua varian Standard). Perlu disahkan.",
+        "[non_blocking] cs-holidays: tarwiyah — Tarwiyah tidak dinyatakan. Penerangan PMN menyebut pergerakan ke Arafah pagi 9 Zulhijjah (bukan 8 Zulhijjah), iaitu bukan Tarwiyah.",
+        "[non_blocking] cs-holidays-standard: masyair.type — Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak); PMN tambahan RM10,000, maka pmnStatus = not_included.",
+        "[non_blocking] cs-holidays-premier: inclusions.Tawaf Saei Haji awal — Item bertanda '*' tanpa nota kaki yang dapat dikenal pasti."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-B (semakan bebas belum dibuat)"
     },
     {
       "index": 11,
@@ -423,27 +469,42 @@
         50
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Eiman Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 3,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        48,
+        49,
+        50
+      ],
+      "packageFamiliesIdentified": 7,
+      "variantsIdentified": 15,
+      "variantsImported": 15,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 11/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 10,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] eiman: charges.eiman-bayaran-haji-pjh — Nota bayaran haji di hlm. 48 dicetak 'PJH 1447H/2026M' (bukan 1448H/2027M) dengan amaun RM23,398; kemungkinan salah cetak musim.",
+        "[non_blocking] eiman: masyair/pmnStatus — Mekah Tower, Safwah Leader dan Safwah Dallah tidak menyatakan jenis khemah (Muaessim/PMN); pmnStatus = not_stated. Naik taraf PMN + Bas VIP RM9,990 ditawarkan secara umum.",
+        "[non_blocking] eiman: tarwiyah — Tarwiyah tidak dinyatakan. Gold/Diamond menyebut 'Ke Arafah 9 Zulhijjah'.",
+        "[non_blocking] eiman-klasik-dallah: aziziyah — Klasik Dallah tidak menyenaraikan Aziziyah (Khemah Muaessim di tempatnya); tiada ayat 'tanpa Aziziyah' seperti Klasik Romance. Muka depan 'Pakej Haji Klasik — masuk terus ke hotel Mekah' mungkin terpakai.",
+        "[non_blocking] eiman-diamond: aziziyah — Diamond tidak menyenaraikan Aziziyah; dicetak 'Masuk terus ke hotel Mekah (awal)'. Tidak dinyatakan secara jelas sama ada tiada Aziziyah.",
+        "[non_blocking] eiman-gold: aziziyah.defaultOccupancies — Susunan bilik Aziziyah bagi Gold tidak dinyatakan; naik taraf Aziziyah ber-2/ber-3 tidak dikaitkan dengan Gold.",
+        "[non_blocking] eiman: upgrades.eiman-penerbangan-kelas-perniagaan.priceSen — Konflik harga: kotak naik taraf RM17,990+- vs nota Gold/Diamond RM17,900+-; kedua-duanya 'bermula' dan anggaran. priceSen = null.",
+        "[non_blocking] eiman: upgrades.priceSen — Naik taraf PMN + Bas VIP (RM9,990) dan Aziziyah ber-2 (RM7,490) berlabel 'Harga Bermula'; direkod seperti dicetak. Pakej layak PMN + Bas VIP tidak dinyatakan (diandaikan pakej tanpa PMN).",
+        "[non_blocking] eiman: charges.eiman-caj-pmn — Nota 'Kos PMN sebanyak RM7500' dicetak sangat kecil; dibaca pada 400 dpi.",
+        "[non_blocking] eiman: pjh.terms — Hlm. 50 merujuk borang 'PENGESAHAN TERIMA TAWARAN PERKHIDMATAN PAKEJ HAJI 1447H/2026' untuk kadar denda; kadar sebenar tidak dicetak."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-B (semakan bebas belum dibuat)"
     },
     {
       "index": 12,

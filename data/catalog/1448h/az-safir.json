@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "az-safir",
+    "label": "Az-Safir",
+    "name": "AZ Safir Travel & Tours",
+    "legalName": "AZ Safir Travel & Tours Sdn Bhd",
+    "website": "http://azsafirtraveltours.com",
+    "publicContact": "+6082 511 001 (Pejabat); aztraveltourssafir@gmail.com",
+    "licenceNumberAsPublished": "06/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 24,
+        "text": "No. Lesen PJH : 06/1448H — No SSM : 1143822X — No Lesen MOTAC : KPK/LN8060 [IOTU]",
+        "status": "unclear"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga tertakluk kepada perubahan kadar hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan.",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Harga yang ditawarkan tertakluk kepada perubahan kadar hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan yang dimaklumkan dari masa ke semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan tertakluk kepada ketetapan penerbangan charter haji TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan charter haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: Kategori 1 5%, Kategori 2 20%, Kategori 3 40% daripada harga pakej selepas ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Kategori 1: Denda pembatalan sebanyak 5% ... Kategori 2: ... 20% ... Kategori 3: ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bayaran ke akaun CIMB AZ Safir Travel & Tours Sdn Bhd.",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Bayaran pakej haji hendaklah dibayar ke akaun AZ Safir Travel & Tours Sdn Bhd : CIMB BANK 860 227 3327",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      24,
+      25
+    ],
+    "pagesReviewed": [
+      24,
+      25
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 24,
+        "content": "Pakej Safir A (Muaisim, 35-45 hari, Safir 01-04) dan Safir Z (PMN + Aziziyah, 25-30 hari, Safir 05-07); hotel; nota PMN RM8,000 Safir Z sahaja; lesen PJH."
+      },
+      {
+        "pdfPage": 25,
+        "content": "Kelebihan syarikat (umrah 5 kali, keretapi Haramain 1 hala), maklumat penting, denda pembatalan, akaun bank, alamat. Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "az-safir-safir-a",
+      "name": "Pakej Safir A",
+      "series": "Safir",
+      "tierLabel": "Safir A",
+      "duration": {
+        "value": null,
+        "min": 35,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "35-45 Hari — PAKEJ SAFIR A",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": []
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Mina Muaisim",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Mina : Khemah Mina Muaisim",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Penerbangan : Charter TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard 3 kali sehari (Fareast Asia)",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Makan : Fullboard 3 kali sehari (Fareast Asia)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada perubahan kadar hotel, kekosongan bilik dan penerbangan (hlm. 25)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Azka Al-Safa",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 350,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "+350m (titik ukuran tidak dinyatakan)",
+          "meals": "Fullboard 3 kali sehari (Fareast Asia)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "(Makkah) Azka Al-Safa (+350m / setaraf)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Kingsgate Deyar",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 300,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "+300m (titik ukuran tidak dinyatakan)",
+          "meals": "Fullboard 3 kali sehari (Fareast Asia)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "(Madinah) Kingsgate Deyar (+300m / setaraf)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Kursus Haji Intensif Tanah Air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Kursus Haji Intensif Tanah Air",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Simulasi Manasik Haji Komprehensif di Tanah Air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Simulasi Manasik Haji Komprehensif di Tanah Air",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Intensif di Tanah Suci",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Bimbingan Intensif di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian Rohani di Tanah Suci (Tazkirah & Motivasi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Pengisian Rohani di Tanah Suci (Tazkirah & Motivasi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program Menelusuri Sirah Nabawi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Program Menelusuri Sirah Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 5 kali bersama Pembimbing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Umrah 5 kali bersama Pembimbing",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Kota Mekah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Ziarah sekitar Kota Mekah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati kelengkapan haji (bagasi kargo saiz L, bagasi hand carry, beg sandang, set ihram/telekung, T-shirt, buku panduan, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "CENDERAHATI KELENGKAPAN HAJI AZ SAFIR TRAVEL & TOURS SDN BHD — Bagasi kargo saiz (L), Bagasi hand carry/(Masyair), Beg sandang, ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "Safir 01",
+          "codeIsInternal": false,
+          "priceSen": 4790000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik berlima",
+          "notes": "Dilabel 'Harga Bermula' pada kad pakej.",
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "Harga Bermula RM47,900 Bilik berlima Safir 01",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "Safir 02",
+          "codeIsInternal": false,
+          "priceSen": 5390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM53,900 Bilik berempat Safir 02",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "Safir 03",
+          "codeIsInternal": false,
+          "priceSen": 5890000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM58,900 Bilik bertiga Safir 03",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "Safir 04",
+          "codeIsInternal": false,
+          "priceSen": 6590000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM65,900 Bilik berdua Safir 04",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "az-safir-safir-z",
+      "name": "Pakej Safir Z",
+      "series": "Safir",
+      "tierLabel": "Safir Z",
+      "duration": {
+        "value": null,
+        "min": 25,
+        "max": 30,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "25-30 Hari — PAKEJ SAFIR Z",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Bilik Berempat Dan Berlima sahaja",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "(Aziziyah) Al Maqam Suits (+390m / setaraf) Bilik Berempat Dan Berlima sahaja",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf (PMN), RM8,000 seorang termasuk dalam bayaran Pakej Safir Z sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Mina : Perkhidmatan Masyair Naik Taraf (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 24,
+            "text": "\"Perkhidmatan Masyair Naik Taraf (PMN)\" RM 8,000.00 seorang. Perkhidmatan ini disediakan dan telah termasuk dalam bayaran bagi Pakej Haji Safir Z sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah, Madinah dan Aziziyah disenaraikan; urutan tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Penerbangan Pergi : Charter TH; Penerbangan Balik : Komersil",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 25,
+            "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard 3 kali sehari (Fareast Asia)",
+        "evidence": [
+          {
+            "pdfPage": 24,
+            "text": "Makan : Fullboard 3 kali sehari (Fareast Asia)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada perubahan kadar hotel, kekosongan bilik dan penerbangan (hlm. 25)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Movenpick Hajar",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "+80m (titik ukuran tidak dinyatakan)",
+          "meals": "Fullboard 3 kali sehari (Fareast Asia)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "(Makkah) Movenpick Hajar (+80m / setaraf)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millennium Al Haram",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "+80m (titik ukuran tidak dinyatakan)",
+          "meals": "Fullboard 3 kali sehari (Fareast Asia)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "(Madinah) Grand Millennium Al Haram (+80m / setaraf)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Al Maqam Suits",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 390,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "+390m (titik ukuran tidak dinyatakan)",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "(Aziziyah) Al Maqam Suits (+390m / setaraf) Bilik Berempat Dan Berlima sahaja",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Kursus Haji Intensif Tanah Air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Kursus Haji Intensif Tanah Air",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Simulasi Manasik Haji Komprehensif di Tanah Air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Simulasi Manasik Haji Komprehensif di Tanah Air",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Intensif di Tanah Suci",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Bimbingan Intensif di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian Rohani di Tanah Suci (Tazkirah & Motivasi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Pengisian Rohani di Tanah Suci (Tazkirah & Motivasi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program Menelusuri Sirah Nabawi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Program Menelusuri Sirah Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 5 kali bersama Pembimbing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Umrah 5 kali bersama Pembimbing",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Kota Mekah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Ziarah sekitar Kota Mekah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 25,
+              "text": "Perkhidmatan Keretapi Haramain (1 hala)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati kelengkapan haji (bagasi kargo saiz L, bagasi hand carry, beg sandang, set ihram/telekung, T-shirt, buku panduan, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "CENDERAHATI KELENGKAPAN HAJI AZ SAFIR TRAVEL & TOURS SDN BHD — Bagasi kargo saiz (L), Bagasi hand carry/(Masyair), Beg sandang, ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyair Naik Taraf (PMN)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM 8,000.00 seorang. Perkhidmatan ini disediakan dan telah termasuk dalam bayaran bagi Pakej Haji Safir Z sahaja.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "Safir 05",
+          "codeIsInternal": false,
+          "priceSen": 7890000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik berempat",
+          "notes": "Dilabel 'Harga Bermula' pada kad pakej.",
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "Harga Bermula RM78,900 Bilik berempat Safir 05",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "Safir 06",
+          "codeIsInternal": false,
+          "priceSen": 8190000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM81,900 Bilik bertiga Safir 06",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "Safir 07",
+          "codeIsInternal": false,
+          "priceSen": 8590000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 24,
+              "text": "RM85,900 Bilik berdua Safir 07",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [],
+  "charges": [
+    {
+      "id": "az-safir-bayaran-haji-pjh",
+      "packageIds": [
+        "az-safir-safir-a",
+        "az-safir-safir-z"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 24,
+          "text": "HARGA PAKEJ HAJI adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari akaun TH Jemaah Haji PJH. TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-safir-caj-pmn",
+      "packageIds": [
+        "az-safir-safir-z"
+      ],
+      "description": "Perkhidmatan Masyair Naik Taraf (PMN), termasuk dalam harga Safir Z sahaja",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 24,
+          "text": "\"Perkhidmatan Masyair Naik Taraf (PMN)\" RM 8,000.00 seorang. Perkhidmatan ini disediakan dan telah termasuk dalam bayaran bagi Pakej Haji Safir Z sahaja.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-safir-caj-tambahan-th",
+      "packageIds": [
+        "az-safir-safir-a",
+        "az-safir-safir-z"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 24,
+          "text": "HARGA PAKEJ HAJI adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari akaun TH Jemaah Haji PJH. TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.code",
+      "note": "Kod varian dicetak sangat kecil dan kabur; dibaca sebagai 'Safir 01'–'Safir 07' (mungkin 'Safr'). Harga dan susunan bilik jelas.",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.priceSen",
+      "note": "Kad pakej berlabel 'Harga Bermula'; harga direkod seperti dicetak bagi setiap susunan bilik.",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan dalam hlm. 24–25.",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "az-safir-safir-a",
+      "field": "aziziyah",
+      "note": "Safir A tidak menyenaraikan Aziziyah (hanya Makkah dan Madinah); tidak dinyatakan secara jelas sama ada tiada.",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jarak hotel dicetak sebagai '+NNNm / setaraf' tanpa titik ukuran.",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.licenceNumberAsPublished",
+      "note": "Nombor lesen PJH kabur (06/1448H dibaca dengan resolusi rendah). Lesen brosur bukan bukti kelulusan 1448H.",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass/trainClass",
+      "note": "Kelas penerbangan dan kereta api tidak dinyatakan.",
+      "pages": [
+        24,
+        25
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-B",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman penuh + render semula 250 dpi (pdftoppm) dan potongan diperbesar bagi teks kecil (kod varian, nota Aziziyah, lesen).",
+    "independentCheck": null
+  }
+}

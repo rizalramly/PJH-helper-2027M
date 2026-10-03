@@ -1,0 +1,1813 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "az-zuha",
+    "label": "Az-Zuha",
+    "name": "Azzuha Group Travel & Tours",
+    "legalName": "Az Zuha Group Travel & Tours Sdn Bhd",
+    "website": "www.pakejhaji.com.my",
+    "publicContact": "03-8912 3367; 011-1078 3467; haji.azzuha@gmail.com; Syed Azim Azraei (Pengurus Jualan Haji) 011-1091 3367",
+    "licenceNumberAsPublished": "PJH07/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 26,
+        "brochurePage": 1,
+        "text": "No. Lesen PJH : PJH07/1448H — No. SSM : 974805-M — No. Lesen MOTAC : KPK/LN : 6839 — Nama Syarikat : Az Zuha Group Travel & Tours Sdn Bhd",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Syarat penerimaan: bakal haji telah berdaftar dengan TH dan menerima surat tawaran; bertanggungjawab mencukupkan bayaran haji pada kadar yang ditetapkan TH.",
+        "evidence": [
+          {
+            "pdfPage": 32,
+            "brochurePage": 7,
+            "text": "1) Bakal Haji telah berdaftar dengan TH dan menerima surat tawaran. 2) Bakal Haji bertanggungjawab mencukupkan bayaran haji pada kadar bayaran haji jemaah muassasah atau kadar bayaran haji yang ditetapkan oleh TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: Kategori 1 5%, Kategori 2 20%, Kategori 3 40% daripada harga pakej selepas ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 32,
+            "brochurePage": 7,
+            "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bayaran di ibu pejabat/cawangan atau ke akaun Maybank Islamic syarikat.",
+        "evidence": [
+          {
+            "pdfPage": 32,
+            "brochurePage": 7,
+            "text": "KAEDAH PEMBAYARAN — ... pindahan wang terus ke akaun Maybank Islamic syarikat. Maybank 5622 6355 1450",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      26,
+      32
+    ],
+    "pagesReviewed": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 26,
+        "content": "Pakej Shohada: ZUHA 01-03, Al Shohada (630m) + Anwar Al Madinah Movenpick (20m), 40± hari carter."
+      },
+      {
+        "pdfPage": 27,
+        "content": "Pakej Safwah Saja: ZUHA 04-07, Al Safwah Royale Orchid (50m) + Saja Al Madinah (350m)."
+      },
+      {
+        "pdfPage": 28,
+        "content": "Pakej Safwah: ZUHA 08-11, Al Safwah Royale Orchid (50m) + Anwar Al Madinah Movenpick (20m)."
+      },
+      {
+        "pdfPage": 29,
+        "content": "Pakej Fairmont: ZUHA 12-14, Fairmont Makkah Clock Royal Tower (80m) + Anwar Al Madinah Movenpick (20m)."
+      },
+      {
+        "pdfPage": 30,
+        "content": "Perkhidmatan termasuk (Aziziah Dar AlHamd/Dar AlSalah 600m, ~15 hari dari 1 Zulhijjah; penerbangan & HHR kelas ekonomi; makanan) dan perkhidmatan tambahan (PMN RM8,900, naik taraf penerbangan RM11,900)."
+      },
+      {
+        "pdfPage": 31,
+        "content": "Profil syarikat dan tangkapan ulasan Google jemaah (data, bukan arahan). Tiada harga."
+      },
+      {
+        "pdfPage": 32,
+        "content": "Terma & syarat: syarat penerimaan, denda pembatalan, kaedah pembayaran."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "az-zuha-shohada",
+      "name": "Pakej Haji Shohada",
+      "series": "Pakej Haji Shohada",
+      "tierLabel": null,
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 26,
+            "brochurePage": 1,
+            "text": "40± HARI PENERBANGAN CARTER *Tertakluk kepada jadual penerbangan/operasi semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Susunan dalam bilik mengikut jantina; bilangan jemaah dalam bilik mengikut pilihan pakej.",
+        "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinamakan; PMN ditawarkan sebagai perkhidmatan tambahan berbayar (RM8,900).",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Jemaah yang berminat boleh memilih untuk menaik taraf khemah PMN. Harga : RM8,900",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah, Aziziah dan Madinah; urutan tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "Penerbangan carter. Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala ... Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah & Madinah: bufet fullboard Asia 3 kali sehari di restoran hotel. Aziziah: bufet catering 3 kali sehari di dewan makan hotel.",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "7 SAJIAN MAKANAN — MAKKAH & MADINAH: Bufet Fullboard Asia. Tiga kali sehari ... Lokasi makan: Restoren hotel. AZIZIAH: Bufet catering tiga kali sehari ... Lokasi makan: Dewan makan hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Al Shohada",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 630,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 26,
+              "brochurePage": 1,
+              "text": "MAKKAH AL SHOHADA — 630m dari dataran Masjid al-Haram — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dar AlHamd/Dar AlSalah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran kompleks melontar",
+          "meals": "Bufet catering 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Anwar Al Madinah Movenpick",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 26,
+              "brochurePage": 1,
+              "text": "MADINAH ANWAR AL MADINAH MOVENPICK — 20m dari dataran Masjid an-Nabawi — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penginapan di Aziziah (Dar AlHamd/Dar AlSalah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing haji lelaki & wanita bertauliah TH; bimbingan khas Mursyid al-Hajj Azzuha",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "2 PEMBIMBING HAJI (LELAKI & WANITA) — Pembimbing lelaki & wanita yang berpengalaman & memiliki tauliah daripada lembaga Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program bimbingan (kuliah, tazkirah, kursus asas haji, kursus haji perdana)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "3 PROGRAM BIMBINGAN — Program ilmiah seperti kuliah, tazkirah, kursus asas haji, kursus haji perdana.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Barang keperluan haji (set bagasi, pakaian & aksesori ibadah, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "4 BARANG KEPERLUAN HAJI — Set bagasi pakaian. Pakaian & aksesori ibadah. ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah dalam dan luar sekitar Makkah dan Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "5 AKTIVITI ZIARAH — MAKKAH: Ziarah dalam sekitar Masjid al-Haram; Ziarah luar sekitar kota Makkah. MADINAH: ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penerbangan carter (Saudia Airlines atau Malaysia Airlines), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "PENERBANGAN — Penerbangan Saudia Airlines atau Malaysia Airlines. Penerbangan carter. Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain High Speed Railway sehala (Makkah–Madinah atau Madinah–Makkah), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala (Makkah - Madinah atau Madinah - Makkah). Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan di lapangan (Malaysia dan Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "8 PERKHIDMATAN DI LAPANGAN — Pegawai Azzuha khas ketika perlepasan di Movenpick Sepang & KLIA ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZUHA 01",
+          "codeIsInternal": false,
+          "priceSen": 5390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 26,
+              "brochurePage": 1,
+              "text": "ZUHA 01 BILIK BEREMPAT RM53,900 (HARGA BERMULA)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 02",
+          "codeIsInternal": false,
+          "priceSen": 6290000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 26,
+              "brochurePage": 1,
+              "text": "ZUHA 02 BILIK BERTIGA RM62,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 03",
+          "codeIsInternal": false,
+          "priceSen": 7390000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 26,
+              "brochurePage": 1,
+              "text": "ZUHA 03 BILIK BERDUA RM73,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-safwah-saja",
+      "name": "Pakej Haji Safwah Saja",
+      "series": "Pakej Haji Safwah Saja",
+      "tierLabel": null,
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 27,
+            "brochurePage": 2,
+            "text": "40± HARI PENERBANGAN CARTER *Tertakluk kepada jadual penerbangan/operasi semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Susunan dalam bilik mengikut jantina; bilangan jemaah dalam bilik mengikut pilihan pakej.",
+        "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinamakan; PMN ditawarkan sebagai perkhidmatan tambahan berbayar (RM8,900).",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Jemaah yang berminat boleh memilih untuk menaik taraf khemah PMN. Harga : RM8,900",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah, Aziziah dan Madinah; urutan tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "Penerbangan carter. Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala ... Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah & Madinah: bufet fullboard Asia 3 kali sehari di restoran hotel. Aziziah: bufet catering 3 kali sehari di dewan makan hotel.",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "7 SAJIAN MAKANAN — MAKKAH & MADINAH: Bufet Fullboard Asia. Tiga kali sehari ... Lokasi makan: Restoren hotel. AZIZIAH: Bufet catering tiga kali sehari ... Lokasi makan: Dewan makan hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Al Safwah Royale Orchid",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "MAKKAH AL SAFWAH ROYALE ORCHID — 50m dari dataran Masjid al-Haram — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dar AlHamd/Dar AlSalah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran kompleks melontar",
+          "meals": "Bufet catering 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Saja Al Madinah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 350,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "MADINAH SAJA AL MADINAH — 350m dari dataran Masjid an-Nabawi — HOTEL 4 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penginapan di Aziziah (Dar AlHamd/Dar AlSalah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing haji lelaki & wanita bertauliah TH; bimbingan khas Mursyid al-Hajj Azzuha",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "2 PEMBIMBING HAJI (LELAKI & WANITA) — Pembimbing lelaki & wanita yang berpengalaman & memiliki tauliah daripada lembaga Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program bimbingan (kuliah, tazkirah, kursus asas haji, kursus haji perdana)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "3 PROGRAM BIMBINGAN — Program ilmiah seperti kuliah, tazkirah, kursus asas haji, kursus haji perdana.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Barang keperluan haji (set bagasi, pakaian & aksesori ibadah, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "4 BARANG KEPERLUAN HAJI — Set bagasi pakaian. Pakaian & aksesori ibadah. ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah dalam dan luar sekitar Makkah dan Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "5 AKTIVITI ZIARAH — MAKKAH: Ziarah dalam sekitar Masjid al-Haram; Ziarah luar sekitar kota Makkah. MADINAH: ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penerbangan carter (Saudia Airlines atau Malaysia Airlines), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "PENERBANGAN — Penerbangan Saudia Airlines atau Malaysia Airlines. Penerbangan carter. Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain High Speed Railway sehala (Makkah–Madinah atau Madinah–Makkah), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala (Makkah - Madinah atau Madinah - Makkah). Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan di lapangan (Malaysia dan Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "8 PERKHIDMATAN DI LAPANGAN — Pegawai Azzuha khas ketika perlepasan di Movenpick Sepang & KLIA ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZUHA 04",
+          "codeIsInternal": false,
+          "priceSen": 5790000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berlima",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "ZUHA 04 BILIK BERLIMA RM57,900 (HARGA BERMULA)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 05",
+          "codeIsInternal": false,
+          "priceSen": 6290000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "ZUHA 05 BILIK BEREMPAT RM62,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 06",
+          "codeIsInternal": false,
+          "priceSen": 6790000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "ZUHA 06 BILIK BERTIGA RM67,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 07",
+          "codeIsInternal": false,
+          "priceSen": 7790000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 27,
+              "brochurePage": 2,
+              "text": "ZUHA 07 BILIK BERDUA RM77,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-safwah",
+      "name": "Pakej Haji Safwah",
+      "series": "Pakej Haji Safwah",
+      "tierLabel": null,
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 28,
+            "brochurePage": 3,
+            "text": "40± HARI PENERBANGAN CARTER *Tertakluk kepada jadual penerbangan/operasi semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Susunan dalam bilik mengikut jantina; bilangan jemaah dalam bilik mengikut pilihan pakej.",
+        "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinamakan; PMN ditawarkan sebagai perkhidmatan tambahan berbayar (RM8,900).",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Jemaah yang berminat boleh memilih untuk menaik taraf khemah PMN. Harga : RM8,900",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah, Aziziah dan Madinah; urutan tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "Penerbangan carter. Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala ... Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah & Madinah: bufet fullboard Asia 3 kali sehari di restoran hotel. Aziziah: bufet catering 3 kali sehari di dewan makan hotel.",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "7 SAJIAN MAKANAN — MAKKAH & MADINAH: Bufet Fullboard Asia. Tiga kali sehari ... Lokasi makan: Restoren hotel. AZIZIAH: Bufet catering tiga kali sehari ... Lokasi makan: Dewan makan hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Al Safwah Royale Orchid",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "MAKKAH AL SAFWAH ROYALE ORCHID — 50m dari dataran Masjid al-Haram — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dar AlHamd/Dar AlSalah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran kompleks melontar",
+          "meals": "Bufet catering 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Anwar Al Madinah Movenpick",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "MADINAH ANWAR AL MADINAH MOVENPICK — 20m dari dataran Masjid an-Nabawi — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penginapan di Aziziah (Dar AlHamd/Dar AlSalah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing haji lelaki & wanita bertauliah TH; bimbingan khas Mursyid al-Hajj Azzuha",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "2 PEMBIMBING HAJI (LELAKI & WANITA) — Pembimbing lelaki & wanita yang berpengalaman & memiliki tauliah daripada lembaga Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program bimbingan (kuliah, tazkirah, kursus asas haji, kursus haji perdana)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "3 PROGRAM BIMBINGAN — Program ilmiah seperti kuliah, tazkirah, kursus asas haji, kursus haji perdana.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Barang keperluan haji (set bagasi, pakaian & aksesori ibadah, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "4 BARANG KEPERLUAN HAJI — Set bagasi pakaian. Pakaian & aksesori ibadah. ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah dalam dan luar sekitar Makkah dan Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "5 AKTIVITI ZIARAH — MAKKAH: Ziarah dalam sekitar Masjid al-Haram; Ziarah luar sekitar kota Makkah. MADINAH: ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penerbangan carter (Saudia Airlines atau Malaysia Airlines), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "PENERBANGAN — Penerbangan Saudia Airlines atau Malaysia Airlines. Penerbangan carter. Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain High Speed Railway sehala (Makkah–Madinah atau Madinah–Makkah), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala (Makkah - Madinah atau Madinah - Makkah). Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan di lapangan (Malaysia dan Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "8 PERKHIDMATAN DI LAPANGAN — Pegawai Azzuha khas ketika perlepasan di Movenpick Sepang & KLIA ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZUHA 08",
+          "codeIsInternal": false,
+          "priceSen": 6490000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berlima",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "ZUHA 08 BILIK BERLIMA RM64,900 (HARGA BERMULA)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 09",
+          "codeIsInternal": false,
+          "priceSen": 6690000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "ZUHA 09 BILIK BEREMPAT RM66,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 10",
+          "codeIsInternal": false,
+          "priceSen": 7490000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "ZUHA 10 BILIK BERTIGA RM74,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 11",
+          "codeIsInternal": false,
+          "priceSen": 8490000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 28,
+              "brochurePage": 3,
+              "text": "ZUHA 11 BILIK BERDUA RM84,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-fairmont",
+      "name": "Pakej Haji Fairmont",
+      "series": "Pakej Haji Fairmont",
+      "tierLabel": null,
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 29,
+            "brochurePage": 4,
+            "text": "40± HARI PENERBANGAN CARTER *Tertakluk kepada jadual penerbangan/operasi semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Susunan dalam bilik mengikut jantina; bilangan jemaah dalam bilik mengikut pilihan pakej.",
+        "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinamakan; PMN ditawarkan sebagai perkhidmatan tambahan berbayar (RM8,900).",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Jemaah yang berminat boleh memilih untuk menaik taraf khemah PMN. Harga : RM8,900",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah, Aziziah dan Madinah; urutan tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "Penerbangan carter. Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala ... Tempat duduk kelas ekonomi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah & Madinah: bufet fullboard Asia 3 kali sehari di restoran hotel. Aziziah: bufet catering 3 kali sehari di dewan makan hotel.",
+        "evidence": [
+          {
+            "pdfPage": 30,
+            "brochurePage": 5,
+            "text": "7 SAJIAN MAKANAN — MAKKAH & MADINAH: Bufet Fullboard Asia. Tiga kali sehari ... Lokasi makan: Restoren hotel. AZIZIAH: Bufet catering tiga kali sehari ... Lokasi makan: Dewan makan hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Fairmont Makkah Clock Royal Tower",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 29,
+              "brochurePage": 4,
+              "text": "MAKKAH FAIRMONT MAKKAH CLOCK ROYAL TOWER — 80m dari dataran Masjid al-Haram — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dar AlHamd/Dar AlSalah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Bermula 1 Zulhijjah (anggaran 15 hari)",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran kompleks melontar",
+          "meals": "Bufet catering 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "*Jemaah dianggarkan berada dalam tempoh 15 hari bermula 1 Zulhijah. *Susunan dalam bilik mengikut jantina, bilangan jemaah dalam bilik mengikut pilihan pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Anwar Al Madinah Movenpick",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
+          "meals": "Bufet fullboard Asia 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 29,
+              "brochurePage": 4,
+              "text": "MADINAH ANWAR AL MADINAH MOVENPICK — 20m dari dataran Masjid an-Nabawi — HOTEL 5 BINTANG",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penginapan di Aziziah (Dar AlHamd/Dar AlSalah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "1 PENGINAPAN DI AZIZIAH — Menggunakan hotel Dar AlHamd/Dar AlSalah. 600m dari dataran kompleks melontar.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing haji lelaki & wanita bertauliah TH; bimbingan khas Mursyid al-Hajj Azzuha",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "2 PEMBIMBING HAJI (LELAKI & WANITA) — Pembimbing lelaki & wanita yang berpengalaman & memiliki tauliah daripada lembaga Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program bimbingan (kuliah, tazkirah, kursus asas haji, kursus haji perdana)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "3 PROGRAM BIMBINGAN — Program ilmiah seperti kuliah, tazkirah, kursus asas haji, kursus haji perdana.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Barang keperluan haji (set bagasi, pakaian & aksesori ibadah, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "4 BARANG KEPERLUAN HAJI — Set bagasi pakaian. Pakaian & aksesori ibadah. ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah dalam dan luar sekitar Makkah dan Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "5 AKTIVITI ZIARAH — MAKKAH: Ziarah dalam sekitar Masjid al-Haram; Ziarah luar sekitar kota Makkah. MADINAH: ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penerbangan carter (Saudia Airlines atau Malaysia Airlines), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "PENERBANGAN — Penerbangan Saudia Airlines atau Malaysia Airlines. Penerbangan carter. Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain High Speed Railway sehala (Makkah–Madinah atau Madinah–Makkah), kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "HARAMAIN HIGH SPEED RAILWAY (HHR) — Laluan perjalanan sehala (Makkah - Madinah atau Madinah - Makkah). Tempat duduk kelas ekonomi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan di lapangan (Malaysia dan Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 30,
+              "brochurePage": 5,
+              "text": "8 PERKHIDMATAN DI LAPANGAN — Pegawai Azzuha khas ketika perlepasan di Movenpick Sepang & KLIA ...",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZUHA 12",
+          "codeIsInternal": false,
+          "priceSen": 7390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 29,
+              "brochurePage": 4,
+              "text": "ZUHA 12 BILIK BEREMPAT RM73,900 (HARGA BERMULA)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 13",
+          "codeIsInternal": false,
+          "priceSen": 8090000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 29,
+              "brochurePage": 4,
+              "text": "ZUHA 13 BILIK BERTIGA RM80,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZUHA 14",
+          "codeIsInternal": false,
+          "priceSen": 9290000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 29,
+              "brochurePage": 4,
+              "text": "ZUHA 14 BILIK BERDUA RM92,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "az-zuha-pmn",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Naik taraf khemah kepada Perkhidmatan Masyair Naik Taraf (PMN)",
+      "priceSen": 890000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Asas harga (seorang) tidak dicetak secara eksplisit; dianggap per jemaah.",
+      "evidence": [
+        {
+          "pdfPage": 30,
+          "brochurePage": 5,
+          "text": "PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Jemaah yang berminat boleh memilih untuk menaik taraf khemah PMN. Harga : RM8,900",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-penerbangan-kelas-perniagaan",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Naik taraf tempat duduk penerbangan kepada kelas perniagaan",
+      "priceSen": 1190000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan. Asas harga (seorang) tidak dicetak secara eksplisit.",
+      "evidence": [
+        {
+          "pdfPage": 30,
+          "brochurePage": 5,
+          "text": "NAIK TARAF PENERBANGAN — Pilihan naik taraf tempat duduk kepada kelas perniagaan namun tertakluk kepada kekosongan. Harga : RM11,900",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "az-zuha-bayaran-haji-pjh",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 26,
+          "brochurePage": 1,
+          "text": "*Harga Pakej Haji adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 29,
+          "brochurePage": 4,
+          "text": "*Harga Pakej Haji adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-caj-tambahan-th",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 26,
+          "brochurePage": 1,
+          "text": "*Harga Pakej Haji adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-kerusi-roda-buggy",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "description": "Khidmat kerusi roda/buggy semasa tawaf dan saie (perkhidmatan tambahan berbayar)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 30,
+          "brochurePage": 5,
+          "text": "Terdapat bayaran tambahan sekiranya JH memerlukan perkhidmatan tambahan berikut: ... KHIDMAT KERUSI RODA/BUGGY — Kegunaan semasa tawaf dan saie bagi jemaah yang memerlukan.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-kad-perubatan-swasta",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "description": "Kad perubatan swasta (perkhidmatan tambahan berbayar)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 30,
+          "brochurePage": 5,
+          "text": "KAD PERUBATAN SWASTA — Azzuha turut menawarkan kad perubatan swasta kepada jemaah.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "az-zuha-ziarah-taif-jeddah",
+      "packageIds": [
+        "az-zuha-shohada",
+        "az-zuha-safwah-saja",
+        "az-zuha-safwah",
+        "az-zuha-fairmont"
+      ],
+      "description": "Pakej ziarah tambahan ke Taif & Jeddah (pilihan berbayar)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 30,
+          "brochurePage": 5,
+          "text": "ZIARAH KE KOTA TAIF/JEDDAH — Pakej ziarah tambahan ke kota Taif & Jeddah bagi jemaah yang berminat.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.priceSen",
+      "note": "Kotak harga utama setiap pakej berlabel 'HARGA BERMULA'; harga direkod seperti dicetak bagi setiap susunan bilik.",
+      "pages": [
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan dalam hlm. 26–32.",
+      "pages": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair.type",
+      "note": "Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai tambahan berbayar, maka pmnStatus = not_included.",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah.defaultOccupancies",
+      "note": "Bilangan sebilik di Aziziah 'mengikut pilihan pakej' — tidak dinyatakan sebagai nombor; hotel Dar AlHamd/Dar AlSalah (dua pilihan).",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.basis",
+      "note": "Harga PMN RM8,900 dan naik taraf penerbangan RM11,900 tidak menyatakan 'seorang'; dianggap per jemaah.",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.orEquivalent",
+      "note": "Tiada 'setaraf' dicetak bagi hotel Makkah/Madinah; nama hotel direkod tepat.",
+      "pages": [
+        26,
+        27,
+        28,
+        29
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-B",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman penuh + render semula 250 dpi (pdftoppm) dan potongan diperbesar bagi kotak harga, nota Aziziah dan perkhidmatan tambahan.",
+    "independentCheck": null
+  }
+}

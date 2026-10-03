@@ -6,7 +6,7 @@ Aplikasi web (mengutamakan telefon) untuk membantu bakal jemaah membandingkan **
 - Pelan pelaksanaan: [`docs/IMPLEMENTATION_PLAN.md`](docs/IMPLEMENTATION_PLAN.md)
 - Sistem reka bentuk: [`design-system/pjh-helper/MASTER.md`](design-system/pjh-helper/MASTER.md)
 
-> **Status: Fasa 1 (katalog) bermula.** Aplikasi belum menilai pakej. Skop katalog ialah semua 34 PJH dalam kompilasi sumber (spesifikasi v1.3 §23). Liputan sebenar direkod dalam [`data/catalog-coverage.json`](data/catalog-coverage.json): setakat ini 0/34 PJH selesai diproses (Busyra: transkripsi siap, belum diimport).
+> **Status: Fasa 1 (katalog + engine), pas pertama siap.** 34/34 PJH mempunyai fail katalog transkripsi (161 keluarga pakej, 502 varian) dan engine penilaian berfungsi merentas katalog. **Semakan bebas belum dibuat**: 0/34 PJH berstatus `reviewed`, 1 PJH `blocked`, 0 kelulusan disahkan. Butiran: [`data/catalog-coverage.json`](data/catalog-coverage.json) dan [`docs/sources/catalog-first-pass-notes.md`](docs/sources/catalog-first-pass-notes.md).
 
 ## Stack
 
@@ -58,6 +58,6 @@ Lihat `.env.example`. Semua rahsia hanya di server. Jangan guna awalan `NEXT_PUB
 
 ## Batasan semasa
 
-- Katalog 34 PJH belum diimport; tiada wizard, engine atau pentadbir lagi (Fasa 1–7).
+- Katalog belum melalui semakan bebas; tiada wizard, API atau pentadbir lagi (Fasa 3–7).
 - Kelulusan PJH bagi 1448H belum disahkan daripada sumber rasmi.
 - Tiada tempahan, pembayaran atau mesej kepada PJH.

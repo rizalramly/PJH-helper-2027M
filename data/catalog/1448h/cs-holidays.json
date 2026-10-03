@@ -1,0 +1,1063 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "cs-holidays",
+    "label": "CS Holidays",
+    "name": "CSHOLIDAYS",
+    "legalName": "CS Holidays Sdn Bhd",
+    "website": "www.csholidays.my",
+    "publicContact": "03 2697 0800; Hajjah Maznah 012.930.9207; Hj Naim Shauqy 012.654.6604; Hajjah Ummi 017.674.9246",
+    "licenceNumberAsPublished": "PJH10/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 46,
+        "text": "PJH10/1448H — 208598D — KPL/LN3131",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Pakej berdasarkan ketibaan bermula 1 Zulhijjah 1448H di Jeddah; ketibaan awal tertakluk kos tambahan dan kekosongan bilik, penginapan berkelompok mengikut jantina.",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah. 2. Sebarang ketibaan awal adalah tertakluk kepada kos tambahan lain yang tidak dapat dielakkan. 3. Sebarang ketibaan awal adalah berdasarkan kepada kekosongan Bilik Penginapan serta tertakluk kepada Penginapan secara berkelompok mengikut jantina.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tiada pemulangan wang bagi perkhidmatan tidak digunakan, ketibaan lewat, pelepasan awal atau pembatalan sukarela; pemulangan lain ikut polisi penyedia perkhidmatan, 30-60 hari bekerja.",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "TERMA & SYARAT PEMULANGAN WANG (REFUND) 1. Tiada pemulangan wang akan diberikan bagi perkhidmatan yang tidak digunakan ... 3. Proses pemulangan wang mungkin mengambil masa sehingga 30-60 hari bekerja selepas kelulusan diberikan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Semua kelebihan tertakluk kepada kelulusan & pengesahan pihak berkuasa; tempoh penginapan tertakluk jadual penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bayaran ke akaun Maybank Islamic CS Holidays Sdn Bhd.",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "MAKLUMAT PEMBAYARAN: Maybank Islamic — CS HOLIDAYS SDN BHD 5640 9810 1116",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      46,
+      47
+    ],
+    "pagesReviewed": [
+      46,
+      47
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 46,
+        "content": "Pakej Standard CSS01-03 (±40 hari, carter TH), hotel Mina Syisyah → Le Meridien → Mysk Touch; PMN tambahan RM10,000; bilik berdua Durrat Mina tambahan RM1,500; kelebihan PMN; lesen PJH10/1448H."
+      },
+      {
+        "pdfPage": 47,
+        "content": "Pakej Premier CSP01 RM120,000 (2 sebilik, PMN termasuk, ±20-25 hari, Business Class); maklumat tambahan ketibaan 1 Zulhijjah; inklusi; terma refund; testimoni (data)."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "cs-holidays-standard",
+      "name": "Pakej Haji Standard (CSS)",
+      "series": "Standard",
+      "tierLabel": "CSS",
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "Anggaran +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Ketibaan bermula 1 Zulhijjah 1448H (Jeddah)",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Brosur tidak menyebut 'Aziziyah'. Hotel transit 01-15 Zulhijjah ialah 'hotel Mina' Durrat Mina / Durrat Rose di kawasan Syisyah; penginapan berkelompok mengikut jantina; bilik berdua dengan bayaran tambahan RM1,500.",
+        "dateLabel": "01 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "DURRAT MINA / DURRAT ROSE SYISYAH** 01 - 15 Zulhijjah — **Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 46,
+            "text": "6. Lokasi hotel Mina terletak di kawasan Syisyah (masih dalam Tanah Haram).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah Mina untuk mabit malam 11, 12 & 13 Zulhijjah; berehat di hotel Mina pada siang hari. PMN ialah tambahan RM10,000.",
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "3. Khemah Mina disediakan bagi bermabit pada malam ke 11, 12 & 13 Zulhijjah. 4. Selepas melontar terus balik berehat di hotel di sepanjang waktu siang.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 46,
+            "text": "Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN) Tambahan RM10,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 2,
+        "note": "Hotel Mina Syisyah (01-15 Zulhijjah) → Le Meridien Makkah (15 Zulhijjah-01 Muharram) → Mysk Touch Madinah (01-10 Muharram).",
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "DURRAT MINA / DURRAT ROSE SYISYAH 01 - 15 Zulhijjah > LE MERIDIEN HOTEL MAKKAH 15 Zulhijjah - 01 Muharram > MYSK TOUCH MADINAH 01 - 10 Muharram",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "Penerbangan Cater Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "2. TERMASUK tiket keretapi laju Makkah - Madinah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "3 kali sehari",
+        "evidence": [
+          {
+            "pdfPage": 46,
+            "text": "Makan disediakan 3 kali sehari.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 47,
+            "text": "SAJIAN MAKANAN — 3x sehari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "mina",
+          "sequence": 1,
+          "hotelNameAsPublished": "Durrat Mina / Durrat Rose Syisyah",
+          "orEquivalent": false,
+          "roomCategory": "3 bintang",
+          "dateLabel": "01 - 15 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 960,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Dataran Kompleks Melontar",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "DURRAT MINA / DURRAT ROSE SYISYAH** ★★★ 01 - 15 Zulhijjah +-960m dari Dataran Kompleks Melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 46,
+              "text": "**Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Le Meridien Hotel Makkah",
+          "orEquivalent": false,
+          "roomCategory": "5 bintang",
+          "dateLabel": "15 Zulhijjah - 01 Muharram",
+          "nightCount": null,
+          "distanceM": 260,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "LE MERIDIEN HOTEL MAKKAH ★★★★★ 15 Zulhijjah - 01 Muharram +-260m dari Dataran Masjid",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Mysk Touch Madinah",
+          "orEquivalent": false,
+          "roomCategory": "3 bintang",
+          "dateLabel": "01 - 10 Muharram",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Pintu Pagar Masjid",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "MYSK TOUCH MADINAH ★★★ 01 - 10 Muharram +-80m dari Pintu Pagar Masjid",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Tiket keretapi laju Makkah - Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "2. TERMASUK tiket keretapi laju Makkah - Madinah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "1 ekor kambing korban bagi setiap jemaah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "5. TERMASUK 1 ekor Kambing Korban bagi setiap jamaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah Mina untuk mabit malam 11, 12 & 13 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 46,
+              "text": "3. Khemah Mina disediakan bagi bermabit pada malam ke 11, 12 & 13 Zulhijjah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan 3x sehari",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "SAJIAN MAKANAN — 3x sehari",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 2x di Makkah & 1x di Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "ZIARAH MAKKAH & MADINAH — Ziarah 2x di Makkah & 1x di Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas: nisbah 1 petugas bagi tiap 50 jemaah haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "PETUGAS — Nisbah 1 petugas bagi tiap 50 jemaah haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati (set bagasi haji, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "CENDERAHATI — Set bagasi haji, kain ihram, telekung, sarung tangan wanita, uncang kasut, tag nama, buku panduan haji umrah, beg sandang & uncang belakang serbaguna.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan: taklimat di Tanah Air dan Tanah Suci",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "BIMBINGAN — Taklimat di Tanah Air dan Tanah Suci akan dibimbing oleh pembimbing yang berpengalaman",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji intensif di Kuala Lumpur dan taklimat akhir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "KURSUS HAJI — Secara intensif di Kuala Lumpur dan taklimat akhir sebelum berlepas",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Insurans perjalanan (atas permintaan dengan bayaran tambahan)",
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "INSURAN PERJALANAN — Atas permintaan jemaah dengan bayaran tambahan kecuali Premier telah termasuk.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "CSS03",
+          "codeIsInternal": false,
+          "priceSen": 5498000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 - 5 Orang Sebilik",
+          "notes": "Harga sama bagi 4 atau 5 orang sebilik (dicetak '4 - 5 Orang Sebilik').",
+          "priceEvidence": [
+            {
+              "pdfPage": 46,
+              "text": "CSS03 RM 54,980 — 4 - 5 Orang Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CSS03",
+          "codeIsInternal": false,
+          "priceSen": 5498000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 - 5 Orang Sebilik",
+          "notes": "Harga sama bagi 4 atau 5 orang sebilik (dicetak '4 - 5 Orang Sebilik').",
+          "priceEvidence": [
+            {
+              "pdfPage": 46,
+              "text": "CSS03 RM 54,980 — 4 - 5 Orang Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CSS02",
+          "codeIsInternal": false,
+          "priceSen": 5798000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 Orang Sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 46,
+              "text": "CSS02 RM 57,980 — 3 Orang Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CSS01",
+          "codeIsInternal": false,
+          "priceSen": 5998000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 Orang Sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 46,
+              "text": "CSS01 RM 59,980 — 2 Orang Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-premier",
+      "name": "Pakej Haji Premier (CSP)",
+      "series": "Premier",
+      "tierLabel": "CSP",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 25,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "Anggaran +- 20-25 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Ketibaan bermula 1 Zulhijjah 1448H (Jeddah)",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Brosur tidak menyebut 'Aziziyah'. Hotel 01-15 Zulhijjah ialah Durrat Mina Syisyah ('hotel berdekatan Mina Jamarat').",
+        "dateLabel": "01 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "DURRAT MINA SYISYAH ★★★ 01 - 15 Zulhijjah +-890m dari Dataran Kompleks Melontar",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Termasuk PMN; khemah PMN di Arafah & Mina (bernilai RM10,000); bas sewa khas 9 Zulhijjah ke Arafah dan terus ke hotel Mina selepas mabit di Muzdalifah.",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "TERMASUK Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 47,
+            "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 46,
+            "text": "Khemah PMN bagi urusan Mabit di Mina terletak 200m ke Kompleks Melontar (Haji 1448H) berbanding jarak 4km jika di Muaissem. Khemah di Mina digunakan hanya bagi tujuan berMabit sahaja. Selesai Mabit, semua akan berehat di hotel Mina di sepanjang siang hari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 2,
+        "note": "Durrat Mina Syisyah (01-15 Zulhijjah) → Rotana Clock Tower Makkah (15-21 Zulhijjah) → The Biltmore Madinah (21-25 Zulhijjah).",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "DURRAT MINA SYISYAH 01 - 15 Zulhijjah > ROTANA CLOCK TOWER MAKKAH 15 - 21 Zulhijjah > THE BILTMORE MADINAH 21 - 25 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "Tiket Penerbangan BUSINESS CLASS (komersil bernilai RM18k - RM26k)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "Keretapi Laju BUSINESS CLASS ke Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "3 kali sehari",
+        "evidence": [
+          {
+            "pdfPage": 47,
+            "text": "Selepas melontar balik berehat di hotel. Makanan disediakan 3 kali sehari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "mina",
+          "sequence": 1,
+          "hotelNameAsPublished": "Durrat Mina Syisyah",
+          "orEquivalent": false,
+          "roomCategory": "3 bintang",
+          "dateLabel": "01 - 15 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 890,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Dataran Kompleks Melontar",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "DURRAT MINA SYISYAH ★★★ 01 - 15 Zulhijjah +-890m dari Dataran Kompleks Melontar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Rotana Clock Tower Makkah",
+          "orEquivalent": false,
+          "roomCategory": "5 bintang",
+          "dateLabel": "15 - 21 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "ROTANA CLOCK TOWER MAKKAH ★★★★★ 15 - 21 Zulhijjah +-80m dari Dataran Masjid",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Madinah",
+          "orEquivalent": false,
+          "roomCategory": "5 bintang",
+          "dateLabel": "21 - 25 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Pintu Pagar Masjid",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "THE BILTMORE MADINAH ★★★★★ 21 - 25 Zulhijjah +-15m dari Pintu Pagar Masjid",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Tiket penerbangan Business Class (komersil)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Tiket Penerbangan BUSINESS CLASS (komersil bernilai RM18k - RM26k)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi laju Business Class ke Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Keretapi Laju BUSINESS CLASS ke Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "1 ekor kambing korban bagi setiap jemaah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "1 ekor kambing korban bagi setiap jemaah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah PMN di Arafah & Mina",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insurans perjalanan yang komprehensif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Insurans perjalanan yang komprehensif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tawaf Saei Haji awal",
+          "condition": "Bertanda '*' tanpa nota kaki yang kelihatan; semua kelebihan tertakluk kepada kelulusan & pengesahan pihak berkuasa.",
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Tawaf Saei Haji awal*",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas sewa khas 9 Zulhijjah ke Arafah dan terus ke hotel Mina selepas mabit di Muzdalifah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "Bas Sewa Khas bagi pergerakan 9 Zulhijjah ke Arafah dan selepas Mabit di Muzdalifah terus ke Hotel Mina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan 3x sehari",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "SAJIAN MAKANAN — 3x sehari",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 2x di Makkah & 1x di Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "ZIARAH MAKKAH & MADINAH — Ziarah 2x di Makkah & 1x di Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas: nisbah 1 petugas bagi tiap 50 jemaah haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "PETUGAS — Nisbah 1 petugas bagi tiap 50 jemaah haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati (set bagasi haji, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "CENDERAHATI — Set bagasi haji, kain ihram, telekung, sarung tangan wanita, uncang kasut, tag nama, buku panduan haji umrah, beg sandang & uncang belakang serbaguna.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan: taklimat di Tanah Air dan Tanah Suci",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "BIMBINGAN — Taklimat di Tanah Air dan Tanah Suci akan dibimbing oleh pembimbing yang berpengalaman",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji intensif di Kuala Lumpur dan taklimat akhir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 47,
+              "text": "KURSUS HAJI — Secara intensif di Kuala Lumpur dan taklimat akhir sebelum berlepas",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "CSP01",
+          "codeIsInternal": false,
+          "priceSen": 12000000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 Orang Sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 47,
+              "text": "RM CSP01 120,000 — 2 Orang Sebilik — TERMASUK Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "cs-holidays-pmn",
+      "packageIds": [
+        "cs-holidays-standard"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN)",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Asas 'seorang' tidak dicetak bersebelahan; harga pakej dinyatakan berdasarkan harga seorang peserta.",
+      "evidence": [
+        {
+          "pdfPage": 46,
+          "text": "Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN) Tambahan RM10,000",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-bilik-berdua-durrat-mina",
+      "packageIds": [
+        "cs-holidays-standard"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Tambahan bilik berdua di hotel Mina Durrat Mina Syisyah (01-15 Zulhijjah)",
+      "priceSen": 150000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Penginapan di Mina asalnya berkelompok mengikut jantina; tempahan bilik berdua dengan bayaran tambahan.",
+      "evidence": [
+        {
+          "pdfPage": 46,
+          "text": "Tambahan Bilik Berdua DURRAT MINA SYISYAH ★★★ RM 1,500 — Harga Pakej berdasarkan harga seorang peserta.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 46,
+          "text": "**Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "cs-holidays-bayaran-haji-pjh",
+      "packageIds": [
+        "cs-holidays-standard",
+        "cs-holidays-premier"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 47,
+          "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 47,
+          "text": "5. Harga Pakej Haji adalah TERMASUK Bayaran Haji PJH 1448H / 2027M. Bayaran Haji ini akan didebitkan dari AKAUN TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-caj-pmn-premier",
+      "packageIds": [
+        "cs-holidays-premier"
+      ],
+      "description": "Khemah PMN di Arafah & Mina (nilai RM10,000), termasuk dalam harga Premier",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 47,
+          "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-caj-tambahan-th",
+      "packageIds": [
+        "cs-holidays-standard",
+        "cs-holidays-premier"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 47,
+          "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-ketibaan-awal",
+      "packageIds": [
+        "cs-holidays-standard",
+        "cs-holidays-premier"
+      ],
+      "description": "Kos tambahan bagi ketibaan awal (sebelum 1 Zulhijjah)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 47,
+          "text": "2. Sebarang ketibaan awal adalah tertakluk kepada kos tambahan lain yang tidak dapat dielakkan.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "cs-holidays-insurans-perjalanan",
+      "packageIds": [
+        "cs-holidays-standard"
+      ],
+      "description": "Insurans perjalanan atas permintaan (bayaran tambahan; Premier sudah termasuk)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 47,
+          "text": "INSURAN PERJALANAN — Atas permintaan jemaah dengan bayaran tambahan kecuali Premier telah termasuk.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah",
+      "note": "Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel transit 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram') dan direkod sebagai stays.location = mina; aziziyah.status = not_stated. Penyemak perlu putuskan sama ada ia setara Aziziyah.",
+      "pages": [
+        46,
+        47
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "cs-holidays-standard",
+      "field": "variants.CSS03",
+      "note": "CSS03 dicetak '4 - 5 Orang Sebilik' dengan satu harga; direkod sebagai dua varian (4 dan 5) dengan kod dan harga sama.",
+      "pages": [
+        46
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "cs-holidays-standard",
+      "field": "upgrades.cs-holidays-bilik-berdua-durrat-mina.includedInVariantCodes",
+      "note": "Tidak dinyatakan sama ada CSS01 (2 orang sebilik) sudah termasuk bilik berdua di hotel Mina; nota '**Penginapan di Mina secara berkelompok' mencadangkan tidak, maka includedInVariantCodes = [] (tambahan terpakai kepada semua varian Standard). Perlu disahkan.",
+      "pages": [
+        46
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan. Penerangan PMN menyebut pergerakan ke Arafah pagi 9 Zulhijjah (bukan 8 Zulhijjah), iaitu bukan Tarwiyah.",
+      "pages": [
+        46,
+        47
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "cs-holidays-standard",
+      "field": "masyair.type",
+      "note": "Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak); PMN tambahan RM10,000, maka pmnStatus = not_included.",
+      "pages": [
+        46
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "cs-holidays-premier",
+      "field": "inclusions.Tawaf Saei Haji awal",
+      "note": "Item bertanda '*' tanpa nota kaki yang dapat dikenal pasti.",
+      "pages": [
+        47
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-B",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman penuh + render semula 250 dpi (pdftoppm) dan potongan diperbesar bagi hotel/tarikh/jarak, nota Mina, PMN dan terma.",
+    "independentCheck": null
+  }
+}
