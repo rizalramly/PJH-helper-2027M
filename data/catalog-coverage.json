@@ -14,7 +14,7 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 4,
+    "pjhReviewed": 6,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
@@ -706,23 +706,25 @@
       "variantsImported": 24,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 16 / 1448",
-      "factsVerified": 0,
-      "fieldsNotPublished": 6,
+      "factsVerified": 163,
+      "fieldsNotPublished": 8,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] in-saff: tarwiyah — Hanya 'Hari Tarwiyah' disenaraikan di bawah Istimewa (hlm. 69) tanpa butiran tarikh atau syarat; perlu pengesahan sama ada tertakluk kebenaran TH/Muassasah.",
-        "[non_blocking] in-saff: masyair.type — Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai add-on berbayar (Tier 2–4) atau termasuk (Tier 1).",
+        "[non_blocking] in-saff: masyair.type / pmnStatus — Jenis khemah asas Tier 2–4 (Muaisim atau lain) tidak dinamakan; PMN hanya add-on berbayar bergantung kelulusan TH. Mengikut R4, pmnStatus varian Tier 2–4 = not_stated (bukan not_included). Tier 1 (Raffles) PMN termasuk, bergantung kelulusan TH, RM4,500 dipulangkan jika tidak berjaya.",
         "[non_blocking] in-saff: flightClass — Kelas penerbangan asas Tier 2–4 tidak dinyatakan (Charter atau Komersil); business class ialah add-on berjulat tanpa harga tetap.",
         "[non_blocking] in-saff: packages (pembahagian tier) — Pakej dipecah mengikut tier dan hotel Madinah berdasarkan jadual tier hlm. 67–68 (bilik berdua/seorang dan semua bilik CT B menggunakan The Biltmore). Halaman harga hanya menyebut 'Upgrade Hotel Madinah' tanpa harga berasingan; dianggap termasuk dalam harga varian.",
         "[non_blocking] in-saff: stays.distanceReference — Jarak hotel Makkah/Madinah dicetak dengan ikon sahaja (tiada titik ukuran). Tarikh menginap, malam dan bilangan perpindahan tidak dinyatakan.",
-        "[non_blocking] in-saff: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+        "[non_blocking] in-saff: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+        "[non_blocking] in-saff: upgrades.basis — Asas kadar add-on PMN (RM5,500/RM4,500) dan business class flight tidak dicetak (seorang/sebilik); direkod per_person.",
+        "[non_blocking] in-saff: aziziyah (Raffles) — Susunan bilik Aziziyah bagi Pakej Raffles tidak dicetak (nota 'Semua bilik disediakan mengikut pendaftaran' hanya pada hlm. 64–65); aziziyahOccupancy Raffles dibiarkan null.",
+        "[non_blocking] in-saff: flightClass (Raffles) — Flight business class Tier 1 termasuk tetapi hlm. 71 menyatakan tiada jaminan tempat duduk Kelas Perniagaan; RM9,000 dipulangkan jika tidak berjaya (hlm. 68)."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-D (semakan bebas belum dibuat)"
+      "reviewer": "agen-D; semakan bebas: penyemak-4"
     },
     {
       "index": 17,
@@ -749,10 +751,10 @@
       "variantsImported": 6,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 17/1448H",
-      "factsVerified": 0,
+      "factsVerified": 28,
       "fieldsNotPublished": 8,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -767,7 +769,7 @@
         "[non_blocking] irkaz: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-D (semakan bebas belum dibuat)"
+      "reviewer": "agen-D; semakan bebas: penyemak-4"
     },
     {
       "index": 18,
@@ -797,13 +799,13 @@
       "processingStatus": "blocked",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "18/1448",
-      "factsVerified": 0,
+      "factsVerified": 76,
       "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[blocking] jad-gold: charges.jad-gold-caj-penerbangan-kelas-perniagaan — Info Pakej Gold menyatakan penerbangan komersil kelas perniagaan 'dengan caj tambahan berjumlah sekitar RM1?,000 – RM17,000' (teks sangat kecil; digit julat bawah kabur, RM13,000 atau RM15,000). Tidak jelas sama ada caj ini di luar harga RM110,900–128,900. Kos sebenar Gold tidak boleh dikira sehingga disahkan.",
-        "[non_blocking] jad-gold: masyair / aziziyah / inclusions — Teks Info Pakej Gold sangat kecil (imej sumber ~120 ppi); nilai PMN (dibaca RM10,000), jarak khemah Mina ±200 m dan syarat Aziziyah 'kekal sama' ditanda unclear.",
+        "[blocking] jad-gold: charges.jad-gold-caj-penerbangan-kelas-perniagaan — Info Pakej Gold: 'Penerbangan kapal terbang komersil (kelas perniagaan) dengan caj tambahan berjumlah sekitar RM1?,000 – RM17,000.' Disemak semula oleh penyemak-4 pada 400 dpi dan imej terbenam asal (993 px, ~120 ppi): digit kedua julat bawah masih kabur (13 atau 15). Frasa 'dengan caj tambahan' menunjukkan caj di atas harga RM110,900–128,900, tetapi amaun ialah julat 'sekitar', jadi priceSen kekal null. Kos sebenar Gold tidak boleh dikira sehingga disahkan dengan PJH.",
+        "[non_blocking] jad-gold: masyair / aziziyah / inclusions — Teks Info Pakej Gold sangat kecil (imej sumber ~120 ppi). Dibaca pada 400 dpi: jarak khemah Mina ±200 m, Tawaf & Saie awal, Ziarah Madinah, Kad Perubatan, Aziziyah 'bilik bertiga dan berdua kekal sama' (diguna untuk aziziyahOccupancy JAD 22/23). Nilai PMN dibaca RM10,000 tetapi kekal unclear (tidak digunakan; PMN termasuk).",
         "[non_blocking] jad: tarwiyah — Tarwiyah tidak dinyatakan dalam hlm. 77–80.",
         "[non_blocking] jad: flightClass — Pakej selain Gold: penerbangan carter, kelas tidak dinyatakan.",
         "[non_blocking] jad: stays.distanceReference — Jarak diukur 'ke Masjidil Haram'/'ke Masjid Nabawi' tanpa menyatakan perkarangan; direkod sebagai other. Tarikh menginap, malam dan perpindahan tidak dinyatakan.",
@@ -811,7 +813,7 @@
         "[non_blocking] jad: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-D (semakan bebas belum dibuat)"
+      "reviewer": "agen-D; semakan bebas: penyemak-4"
     },
     {
       "index": 19,
