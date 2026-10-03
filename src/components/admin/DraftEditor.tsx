@@ -281,7 +281,9 @@ export function DraftEditor({ view, role }: { view: DraftView; role: "admin" | "
             {tab === "pakej" ? <PackagesPanel file={draft.file} api={api} /> : null}
             {tab === "item" ? <ItemsPanel file={draft.file} api={api} /> : null}
             {tab === "kelulusan" ? <ApprovalPanel file={draft.file} api={api} /> : null}
-            {tab === "json" ? <JsonPanel key={view.etag} file={draft.file} api={api} /> : null}
+            {tab === "json" ? (
+              <JsonPanel key={view.etag} file={draft.file} api={api} role={role} />
+            ) : null}
           </div>
         </div>
       </div>

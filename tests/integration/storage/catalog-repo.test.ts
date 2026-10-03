@@ -3,8 +3,9 @@ import { join } from "node:path";
 
 import { describe, expect, it, vi } from "vitest";
 
-import { getActiveCatalog } from "@/lib/catalog/active";
+import { getActiveCatalog, invalidateActiveCatalog } from "@/lib/catalog/active";
 import { readRepoCatalog } from "@/lib/catalog/repo-files";
+import { listSeasons } from "@/lib/catalog/season-store";
 import {
   activateVersion,
   getActivePointer,
@@ -13,6 +14,7 @@ import {
   listDatasetVersions,
   publishCatalog,
 } from "@/lib/storage/catalog-repo";
+import { publicStore, requireStore, StoreUnavailableError } from "@/lib/storage/env";
 import { ConflictError, MemoryKV } from "@/lib/storage/kv";
 
 const repo = readRepoCatalog(join(__dirname, "../../.."), "1448H");
@@ -125,7 +127,32 @@ describe("getActiveCatalog", () => {
     expect(a.catalog.pjhs).toHaveLength(34);
   });
 
-  it("tanpa katalog aktif memberi ralat yang jelas", async () => {
+  it("stor tanpa katalog diterbitkan (penggunaan baharu) membaca katalog asas repo", async () => {
+    invalidateActiveCatalog();
+    const a = await getActiveCatalog("1448H", new MemoryKV());
+    expect(a.source).toBe("repo");
+    expect(a.catalog.pjhs).toHaveLength(34);
+  });
+
+  it("tanpa katalog aktif dan tanpa fail repo memberi ralat yang jelas", async () => {
     await expect(getActiveCatalog("1449H", new MemoryKV())).rejects.toThrow(/Tiada katalog aktif/);
+  });
+});
+
+describe("production tanpa BLOB_READ_WRITE_TOKEN", () => {
+  it("halaman awam guna katalog asas repo; fungsi pentadbir memberi ralat konfigurasi", async () => {
+    vi.stubEnv("VERCEL_ENV", "production");
+    vi.stubEnv("BLOB_READ_WRITE_TOKEN", "");
+    vi.spyOn(console, "error").mockImplementation(() => {});
+    try {
+      expect(publicStore()).toBeNull();
+      const a = await getActiveCatalog("1448H");
+      expect(a.source).toBe("repo");
+      expect((await listSeasons()).map((s) => s.id)).toContain("1448H");
+      expect(() => requireStore()).toThrow(StoreUnavailableError);
+    } finally {
+      vi.unstubAllEnvs();
+      vi.restoreAllMocks();
+    }
   });
 });

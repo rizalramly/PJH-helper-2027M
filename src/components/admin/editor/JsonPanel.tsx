@@ -4,14 +4,23 @@ import { Save } from "lucide-react";
 import * as React from "react";
 
 import { Button } from "@/components/ui/button";
+import { fileFromEditor, jsonForRole } from "@/lib/admin/json-edit";
 import type { PjhCatalogFileInput } from "@/lib/catalog/schema";
 
 import type { EditorApi } from "../DraftEditor";
 import { TextField } from "../Fields";
 
 /** Editor JSON lanjutan untuk medan yang tiada borang (stays, bukti, jurang, terma). */
-export function JsonPanel({ file, api }: { file: PjhCatalogFileInput; api: EditorApi }) {
-  const [text, setText] = React.useState(() => JSON.stringify(file, null, 2));
+export function JsonPanel({
+  file,
+  api,
+  role,
+}: {
+  file: PjhCatalogFileInput;
+  api: EditorApi;
+  role: "admin" | "reviewer";
+}) {
+  const [text, setText] = React.useState(() => jsonForRole(file, role));
   const [error, setError] = React.useState<string | null>(null);
   return (
     <form
@@ -31,7 +40,12 @@ export function JsonPanel({ file, api }: { file: PjhCatalogFileInput; api: Edito
         }
         setError(null);
         void api.save(
-          [{ op: "replace_file", file: parsed as Record<string, unknown> }],
+          [
+            {
+              op: "replace_file",
+              file: fileFromEditor(parsed as Record<string, unknown>, file, role),
+            },
+          ],
           "Fail JSON disimpan ke draf.",
         );
       }}
@@ -44,7 +58,11 @@ export function JsonPanel({ file, api }: { file: PjhCatalogFileInput; api: Edito
         className="font-mono"
         value={text}
         onChange={(e) => setText(e.target.value)}
-        hint="Wang dalam sen (integer). null = tidak dinyatakan dalam sumber. Validasi dijalankan selepas simpan."
+        hint={
+          role === "admin"
+            ? "Wang dalam sen (integer). null = tidak dinyatakan dalam sumber. Validasi dijalankan selepas simpan."
+            : "Wang dalam sen (integer). null = tidak dinyatakan dalam sumber. Kelulusan PJH diurus oleh pentadbir dan tidak dipaparkan di sini."
+        }
       />
       {error ? (
         <p role="alert" className="text-sm text-status-fail">

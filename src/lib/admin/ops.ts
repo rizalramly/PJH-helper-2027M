@@ -3,11 +3,16 @@
 // Harga baharu mesti disertakan bukti halaman (spesifikasi §11: jangan reka data).
 import { z } from "zod";
 
-import { DEFAULT_SOURCE_ID, type PjhCatalogFileInput } from "../catalog/schema";
+import {
+  availability,
+  basis,
+  DEFAULT_SOURCE_ID,
+  occupancy,
+  type PjhCatalogFileInput,
+} from "../catalog/schema";
 import { sameContent } from "./diff";
 
 const senInput = z.number().int().nonnegative().max(100_000_000_00);
-const occupancy = z.number().int().min(1).max(12);
 const nullableText = (max: number) =>
   z
     .string()
@@ -42,8 +47,6 @@ const variantKey = z.object({
   travellerCategory: z.string(),
 });
 
-const basis = z.enum(["per_person", "per_room", "per_group", "per_night"]);
-const availability = z.enum(["published", "inquiry_required", "sold_out", "withdrawn"]);
 const idInput = z
   .string()
   .trim()

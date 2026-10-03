@@ -52,8 +52,8 @@ export interface PjhRow {
   pageRange: [number, number];
   packages: number;
   variants: number;
-  processingStatus: string;
-  approvalStatus: string;
+  processingStatus: CoverageEntry["processingStatus"];
+  approvalStatus: CoverageEntry["approvalStatus"];
   reviewStatus: string;
   draft: Pick<Draft, "status" | "updatedAt" | "updatedBy"> | null;
 }

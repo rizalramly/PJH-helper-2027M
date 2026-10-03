@@ -5,6 +5,7 @@ import { connection } from "next/server";
 import { StatusBadge } from "@/components/results/StatusBadge";
 import { getActiveCatalog } from "@/lib/catalog/active";
 import type { CoverageEntry } from "@/lib/catalog/coverage";
+import { APPROVAL, PROCESSING } from "@/lib/catalog/status-labels";
 import { DEFAULT_SEASON_ID } from "@/lib/catalog/seasons";
 import { dateText } from "@/lib/results/format";
 
@@ -21,19 +22,6 @@ interface Manifest {
   totals?: Record<string, number>;
   pjhs?: CoverageEntry[];
 }
-
-const PROCESSING = {
-  reviewed: { status: "MEMENUHI", text: "Disemak" },
-  in_progress: { status: "BERSYARAT", text: "Sedang diproses" },
-  blocked: { status: "TIDAK_MEMENUHI", text: "Tersekat" },
-  not_started: { status: "PERLU_PENGESAHAN", text: "Belum dimulakan" },
-} as const;
-
-const APPROVAL = {
-  verified_approved: { status: "MEMENUHI", text: "Kelulusan disahkan" },
-  not_approved: { status: "TIDAK_MEMENUHI", text: "Tidak diluluskan" },
-  unverified: { status: "PERLU_PENGESAHAN", text: "Kelulusan belum disahkan" },
-} as const;
 
 const isBlocking = (g: string) => g.startsWith("[blocking]");
 const gapText = (g: string) => g.replace(/^\[(non_)?blocking\]\s*/, "");
@@ -52,10 +40,12 @@ export default async function LiputanPage() {
   await connection();
   let manifest: Manifest | null = null;
   let datasetVersion = "";
+  let fromRepo = false;
   try {
     const active = await getActiveCatalog(DEFAULT_SEASON_ID);
     manifest = active.coverage as Manifest;
     datasetVersion = active.datasetVersion;
+    fromRepo = active.source === "repo";
   } catch {
     manifest = null;
   }
@@ -79,7 +69,15 @@ export default async function LiputanPage() {
           Manifest liputan tidak dapat dibaca sekarang. Cuba lagi sebentar.
         </p>
       ) : (
-        <Body manifest={manifest} datasetVersion={datasetVersion} />
+        <>
+          {fromRepo ? (
+            <p className="rounded-md bg-muted p-3 text-sm">
+              Katalog asas yang dibina daripada kompilasi dipaparkan. Ia belum diterbitkan melalui
+              panel pentadbir.
+            </p>
+          ) : null}
+          <Body manifest={manifest} datasetVersion={datasetVersion} />
+        </>
       )}
     </main>
   );

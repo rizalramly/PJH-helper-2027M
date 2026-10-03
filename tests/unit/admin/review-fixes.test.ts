@@ -6,8 +6,10 @@ import { describe, expect, it } from "vitest";
 
 import { csvToVariantOps } from "@/lib/admin/csv";
 import { diffFiles } from "@/lib/admin/diff";
+import { fileFromEditor, jsonForRole } from "@/lib/admin/json-edit";
 import { applyOps, type OpContext } from "@/lib/admin/ops";
 import { readRepoCatalog } from "@/lib/catalog/repo-files";
+import type { PjhCatalogFileInput } from "@/lib/catalog/schema";
 import { initialState, summarize, validateStep } from "@/lib/wizard/state";
 
 const repo = readRepoCatalog(join(__dirname, "../../.."), "1448H");
@@ -81,5 +83,29 @@ describe("Wizard", () => {
     expect(summarize(s).find((i) => i.label === "Bajet seorang")!.value).toContain(
       "RM 9,999,999.99",
     );
+  });
+});
+
+describe("JSON draf mengikut peranan", () => {
+  const file = {
+    pjh: { id: "x", name: "X", approval: { status: "verified", source: "TH" } },
+    packages: [],
+  } as unknown as PjhCatalogFileInput;
+
+  it("penyemak tidak melihat kelulusan; simpan memulihkan kelulusan asal", () => {
+    const text = jsonForRole(file, "reviewer");
+    expect(text).not.toContain("approval");
+    const edited = JSON.parse(text);
+    edited.pjh.name = "X baharu";
+    edited.pjh.approval = { status: "verified", source: "palsu" };
+    const out = fileFromEditor(edited, file, "reviewer") as { pjh: Record<string, unknown> };
+    expect(out.pjh.name).toBe("X baharu");
+    expect(out.pjh.approval).toEqual(file.pjh.approval);
+  });
+
+  it("pentadbir melihat dan menyimpan kelulusan seperti disunting", () => {
+    expect(jsonForRole(file, "admin")).toContain("approval");
+    const edited = { pjh: { id: "x", approval: { status: "unverified" } } };
+    expect(fileFromEditor(edited, file, "admin")).toBe(edited);
   });
 });

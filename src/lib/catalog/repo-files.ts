@@ -1,6 +1,6 @@
 // Baca dan sahkan katalog daripada repo (data/catalog/<season>/*.json). Untuk seed, ujian
-// dan mod pembangunan tanpa Blob. Bukan untuk production (production membaca Blob).
-import { readdirSync, readFileSync } from "node:fs";
+// mod pembangunan, dan sandaran production sebelum katalog pertama diterbitkan ke Blob.
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 import { coverageEntry, type CoverageEntry } from "./coverage";
@@ -16,6 +16,11 @@ export interface RepoCatalog {
 }
 
 type IndexEntry = PageIndexEntry & { index: number; label: string };
+
+/** Ada fail katalog repo bagi musim ini? */
+export function repoHasSeason(root: string, seasonId: string) {
+  return existsSync(join(root, "data/catalog", seasonId.toLowerCase()));
+}
 
 export function readRepoCatalog(root: string, seasonId = "1448H"): RepoCatalog {
   const dir = join(root, "data/catalog", seasonId.toLowerCase());

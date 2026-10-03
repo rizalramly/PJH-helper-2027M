@@ -1,23 +1,12 @@
 // Label BM dan status lencana untuk panel pentadbir.
 import type { ReqStatus } from "@/lib/engine/types";
 
+export { APPROVAL, PROCESSING } from "@/lib/catalog/status-labels";
+
 export const DRAFT_STATUS: Record<string, { text: string; status: ReqStatus }> = {
   draft: { text: "Draf", status: "BERSYARAT" },
   submitted: { text: "Menunggu semakan", status: "PERLU_PENGESAHAN" },
   approved: { text: "Diluluskan semakan", status: "MEMENUHI" },
-};
-
-export const PROCESSING: Record<string, { text: string; status: ReqStatus }> = {
-  reviewed: { text: "Disemak (transkripsi)", status: "MEMENUHI" },
-  in_progress: { text: "Sedang diproses", status: "BERSYARAT" },
-  blocked: { text: "Tersekat", status: "TIDAK_MEMENUHI" },
-  not_started: { text: "Belum dimulakan", status: "PERLU_PENGESAHAN" },
-};
-
-export const APPROVAL: Record<string, { text: string; status: ReqStatus }> = {
-  verified_approved: { text: "Kelulusan disahkan", status: "MEMENUHI" },
-  not_approved: { text: "Tidak diluluskan", status: "TIDAK_MEMENUHI" },
-  unverified: { text: "Kelulusan belum disahkan", status: "PERLU_PENGESAHAN" },
 };
 
 export const REVIEW: Record<string, { text: string; status: ReqStatus }> = {

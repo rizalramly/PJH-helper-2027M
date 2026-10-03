@@ -3,7 +3,7 @@ import "server-only";
 import type { NextResponse } from "next/server";
 
 import { apiError } from "../api/http";
-import { getStore } from "../storage/env";
+import { publicStore } from "../storage/env";
 import { readCookie, sessionSecret, SESSION_COOKIE, verifySession, type Role } from "./session";
 import { findUser } from "./users";
 
@@ -18,7 +18,7 @@ export interface SessionUser {
  */
 export async function authenticate(token: string | null): Promise<SessionUser | null> {
   const secret = sessionSecret();
-  const store = getStore();
+  const store = publicStore();
   if (!secret || !store) return null;
   const payload = verifySession(token, secret, Math.floor(Date.now() / 1000));
   if (!payload) return null;

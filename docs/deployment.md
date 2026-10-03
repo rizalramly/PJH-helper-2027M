@@ -70,8 +70,8 @@ Connector Vercel dalam sesi pembangunan tidak mempunyai kebenaran mencipta proje
    - `ADMIN_SETUP_TOKEN`: nilai rawak ≥ 32 aksara (Production; Preview jika mahu menguji). Simpan nilai ini; ia diperlukan sekali di langkah 5.
    - Jangan guna awalan `NEXT_PUBLIC_` untuk mana-mana nilai ini.
 4. **Deploy**: _Deployments → Redeploy_ (atau push baharu) supaya pemboleh ubah di atas digunakan. Status mesti **Ready**.
-5. **Persediaan pertama** (pelayar): buka `https://<domain-production>/admin/persediaan`, masukkan `ADMIN_SETUP_TOKEN`, emel dan kata laluan (≥ 12 aksara). Hanya berjaya jika belum ada pengguna.
-6. Log masuk di `/admin` → _Ringkasan_ → **Terbitkan katalog awal daripada repo** (sekali; setara `pnpm db:seed`). Halaman awam memaparkan "katalog tidak tersedia" sehingga langkah ini selesai.
+5. **Persediaan pertama** (pelayar): buka `https://<domain-production>/admin/persediaan`. Bahagian _Status konfigurasi_ menunjukkan sama ada stor Blob, `AUTH_SECRET` dan `ADMIN_SETUP_TOKEN` telah dikesan (ya/tidak sahaja); betulkan dan _Redeploy_ jika ada yang belum. Kemudian masukkan `ADMIN_SETUP_TOKEN`, emel dan kata laluan (≥ 12 aksara). Hanya berjaya jika belum ada pengguna.
+6. Log masuk di `/admin` → _Ringkasan_ → **Terbitkan katalog awal daripada repo** (sekali; setara `pnpm db:seed`). Sebelum langkah ini, halaman awam memaparkan katalog asas yang dibundel bersama deployment (data sama), dan `/liputan` menandakannya "belum diterbitkan melalui panel pentadbir". Selepas terbit, katalog dibaca daripada Blob dan suntingan panel berkuat kuasa.
 7. _Dokumen sumber_ → muat naik `docs/Pakej_Haji_2027_Semua_34_PJH_Bawah_29MB.pdf` (untuk skrin semakan; SHA-256 `e900b9c5…`).
 8. Padam `ADMIN_SETUP_TOKEN` (titik akhir persediaan tidak lagi berfungsi selepas pentadbir pertama wujud, tetapi buang juga) dan redeploy.
 9. Disyorkan: _Firewall → Rate limiting_ pada `POST /api/admin/session` (cth. 10 permintaan / minit / IP).

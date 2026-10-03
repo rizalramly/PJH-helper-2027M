@@ -53,8 +53,22 @@ export class StoreUnavailableError extends Error {
   }
 }
 
+/**
+ * Stor untuk bacaan awam dan semakan sesi: konfigurasi production yang tidak lengkap dilog dan
+ * dianggap "tiada stor" (katalog asas repo digunakan), bukan ralat yang merosakkan halaman.
+ */
+export function publicStore(): Store | null {
+  try {
+    return getStore();
+  } catch (e) {
+    console.error("[stor]", (e as Error).message);
+    return null;
+  }
+}
+
+/** Fungsi pentadbir: tanpa stor → StoreUnavailableError (503 dengan mesej konfigurasi). */
 export function requireStore(): Store {
-  const s = getStore();
+  const s = publicStore();
   if (!s) throw new StoreUnavailableError();
   return s;
 }

@@ -8,16 +8,17 @@ import {
   getActivePointer,
   getActiveSnapshot,
 } from "../storage/catalog-repo";
-import { getStore } from "../storage/env";
+import { publicStore } from "../storage/env";
 import type { JsonKV } from "../storage/kv";
 import { toEngineCatalog } from "./load";
-import { readRepoCatalog } from "./repo-files";
+import { readRepoCatalog, repoHasSeason } from "./repo-files";
 import { pjhCatalogFileSchema } from "./schema";
 
 export interface ActiveCatalog {
   catalog: Catalog;
   coverage: unknown;
   datasetVersion: string;
+  /** `repo` = katalog asas dalam deployment (belum diterbitkan melalui panel, atau stor tiada). */
   source: "blob" | "store" | "repo";
 }
 
@@ -33,22 +34,17 @@ export function invalidateActiveCatalog() {
 
 /**
  * Katalog aktif bagi satu musim.
- * - Dengan BLOB_READ_WRITE_TOKEN: baca penunjuk aktif + snapshot daripada Vercel Blob (cache ikut versi).
- * - PJH_LOCAL_STORE (pembangunan/E2E): stor fail; jika belum ada penunjuk aktif, baca fail repo.
- * - Tanpa stor (pembangunan/CI): baca fail repo. Production tanpa token ialah ralat konfigurasi.
+ * - Stor (Vercel Blob, atau PJH_LOCAL_STORE dalam pembangunan/E2E): penunjuk aktif + snapshot
+ *   (cache ikut versi).
+ * - Belum ada versi diterbitkan dalam stor, atau stor tidak dikonfigurasi: katalog asas repo yang
+ *   dibundel bersama deployment (data sama dengan seed), supaya halaman awam tidak rosak pada
+ *   penggunaan baharu. Fungsi pentadbir tetap memerlukan stor.
  */
 export async function getActiveCatalog(
   seasonId: string,
-  kv: JsonKV | null = getStore()?.kv ?? null,
+  kv: JsonKV | null = publicStore()?.kv ?? null,
 ): Promise<ActiveCatalog> {
-  if (!kv) {
-    if (process.env.VERCEL_ENV === "production") {
-      throw new Error(
-        "BLOB_READ_WRITE_TOKEN tidak ditetapkan; katalog production mesti dibaca daripada Vercel Blob.",
-      );
-    }
-    return repoCatalog(seasonId);
-  }
+  if (!kv) return repoCatalog(seasonId);
 
   const now = Date.now();
   if (
@@ -61,7 +57,7 @@ export async function getActiveCatalog(
   }
   const pointer = await getActivePointer(kv, seasonId);
   if (!pointer) {
-    if (kv.kind === "file") return repoCatalog(seasonId);
+    if (repoHasSeason(process.cwd(), seasonId)) return repoCatalog(seasonId);
     throw new Error(`Tiada katalog aktif untuk musim ${seasonId}. Jalankan pnpm db:seed.`);
   }
   pointerCache = { seasonId, version: pointer.datasetVersion, at: now };

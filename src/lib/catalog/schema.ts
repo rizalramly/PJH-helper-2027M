@@ -6,7 +6,7 @@ import { z } from "zod";
 export const DEFAULT_SOURCE_ID = "compilation-34pjh-1448h";
 
 const sen = z.number().int().nonnegative();
-const occupancy = z.number().int().min(1).max(12);
+export const occupancy = z.number().int().min(1).max(12);
 
 export const evidenceSchema = z.object({
   sourceId: z.string().default(DEFAULT_SOURCE_ID),
@@ -19,8 +19,8 @@ export const evidenceSchema = z.object({
 const evidenceList = z.array(evidenceSchema).default([]);
 
 const transportClass = z.enum(["business", "economy", "not_stated"]);
-const basis = z.enum(["per_person", "per_room", "per_group", "per_night"]);
-const availability = z.enum(["published", "inquiry_required", "sold_out", "withdrawn"]);
+export const basis = z.enum(["per_person", "per_room", "per_group", "per_night"]);
+export const availability = z.enum(["published", "inquiry_required", "sold_out", "withdrawn"]);
 
 export const staySchema = z.object({
   location: z.enum(["makkah", "madinah", "aziziyah", "mina"]),
