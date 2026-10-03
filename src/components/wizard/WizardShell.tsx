@@ -9,13 +9,14 @@ import {
   initialState,
   restoreState,
   STEPS,
+  summarize,
   toAssessRequest,
   validateStep,
   WIZARD_STORAGE_KEY,
   type StepId,
   type WizardState,
 } from "@/lib/wizard/state";
-import { ASSESS_REQUEST_KEY } from "@/lib/wizard/storage";
+import { writeSavedRequest } from "@/lib/results/client";
 
 import { WizardContext, type WizardContextValue } from "./context";
 import { ErrorSummary } from "./ErrorSummary";
@@ -135,11 +136,7 @@ export function WizardShell() {
   const submit = () => {
     const first = maxReachable(state);
     if (first < 5) return fail(first);
-    try {
-      window.sessionStorage.setItem(ASSESS_REQUEST_KEY, JSON.stringify(toAssessRequest(state)));
-    } catch {
-      /* hasil akan meminta pengguna kembali ke wizard */
-    }
+    writeSavedRequest({ request: toAssessRequest(state), summary: summarize(state) });
     router.push("/hasil");
   };
 

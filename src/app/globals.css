@@ -127,4 +127,27 @@
   .print-avoid-break {
     break-inside: avoid;
   }
+  /* Laporan A4: margin cetak, tajuk tidak terpisah daripada kandungan, pautan dipapar biasa. */
+  @page {
+    size: A4;
+    margin: 15mm 14mm;
+  }
+  html {
+    font-size: 11pt;
+  }
+  body {
+    background: #ffffff;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+  }
+  details > summary {
+    list-style: none;
+  }
+  .sticky {
+    position: static !important;
+  }
 }

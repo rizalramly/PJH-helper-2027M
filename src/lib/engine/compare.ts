@@ -9,39 +9,39 @@ export const STATUS_LABEL: Record<ReqStatus, string> = {
   TIDAK_MEMENUHI: "Tidak memenuhi",
 };
 
-const GROUP_LABEL = {
+export const GROUP_LABEL = {
   full_match: "Memenuhi syarat wajib",
   needs_verification: "Perlu pengesahan",
   not_matching: "Tidak memenuhi",
 } as const;
 
-const TARWIYAH_LABEL = {
+export const TARWIYAH_LABEL = {
   offered: "Ditawarkan",
   offered_subject_to_approval: "Ditawarkan tertakluk kelulusan",
   explicitly_not_offered: "Tidak dilaksanakan",
   not_stated: "Tidak dinyatakan",
 } as const;
 
-const AZIZIYAH_LABEL = {
+export const AZIZIYAH_LABEL = {
   included: "Termasuk",
   optional: "Pilihan",
   explicitly_not_included: "Tidak termasuk",
   not_stated: "Tidak dinyatakan",
 } as const;
 
-const CLASS_LABEL = {
+export const CLASS_LABEL = {
   business: "Kelas perniagaan",
   economy: "Kelas ekonomi",
   not_stated: "Tidak dinyatakan",
 } as const;
-const AVAILABILITY_LABEL = {
+export const AVAILABILITY_LABEL = {
   published: "Diterbitkan (kekosongan belum disahkan)",
   inquiry_required: "Perlu pertanyaan",
   sold_out: "Habis",
   withdrawn: "Ditarik balik",
 } as const;
 
-const REF_LABEL: Record<Stay["distanceReference"], string> = {
+export const REF_LABEL: Record<Stay["distanceReference"], string> = {
   haram_courtyard: "ke perkarangan Masjidil Haram",
   nabawi_courtyard: "ke perkarangan Masjid Nabawi",
   jamarat: "ke Kompleks Jamarat",

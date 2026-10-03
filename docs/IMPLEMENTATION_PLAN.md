@@ -585,7 +585,7 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 - [x] Fasa 3 stor Blob + seed idempotent (`docs/deployment.md`)
 - [x] Fasa 4 API assess/compare/katalog/liputan (`docs/api.md`)
 - [x] Fasa 5 wizard `/nilai` (5 langkah, autosave peranti, E2E 375/1440 + axe) + `/hasil` minimum (kad penuh dalam Fasa 6)
-- [ ] Fasa 6 hasil/banding/laporan cetak/Liputan data
+- [x] Fasa 6 `/hasil` (kad penuh, skor boleh dibuka, kepelbagaian PJH, sifar padanan), `/banding` ≤ 3, `/laporan` cetak A4, `/liputan` (E2E 375/1440 + axe)
 - [ ] Fasa 7 pentadbir + auth + publish/history
 - [ ] Fasa 8 Vercel preview → production + pemeriksaan
 - [ ] Fasa 9 semakan, README, serahan

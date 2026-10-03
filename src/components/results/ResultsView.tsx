@@ -1,270 +1,340 @@
 "use client";
 
-import { ArrowLeft, Info, RefreshCw } from "lucide-react";
+import { ArrowLeft, ArrowRight, Info, Printer, RefreshCw, X } from "lucide-react";
 import Link from "next/link";
 import * as React from "react";
 
+import { CheckboxField } from "@/components/wizard/CheckboxField";
+import { NativeSelect } from "@/components/wizard/NativeSelect";
 import { Button } from "@/components/ui/button";
-import type { assessmentDTO, CandidateDTO } from "@/lib/api/dto";
-import type { RecommendationLabel } from "@/lib/engine/types";
-import { ASSESS_REQUEST_KEY } from "@/lib/wizard/storage";
+import {
+  MAX_COMPARE,
+  requirementsKey,
+  useAssessment,
+  useCompareSelection,
+} from "@/lib/results/client";
+import { dateText } from "@/lib/results/format";
+import type { AssessResponse, CandidateDTO } from "@/lib/results/types";
 
-import { GroupBadge, StatusBadge } from "./StatusBadge";
+import { CandidateCard } from "./CandidateCard";
 
-type AssessResponse = ReturnType<typeof assessmentDTO> & {
-  coverageSummary: { totals: Record<string, number> | null; generatedAt: string | null };
-};
-
-type ApiError = {
-  error: { code: string; message: string; details?: { field: string; message: string }[] };
-};
-
-type LoadState =
-  | { kind: "loading" }
-  | { kind: "no-request" }
-  | { kind: "error"; message: string; details: string[] }
-  | { kind: "done"; data: AssessResponse };
-
-const REC_LABEL: Record<RecommendationLabel, string> = {
-  CADANGAN_UTAMA: "Cadangan utama",
-  ALTERNATIF_JIMAT: "Alternatif jimat",
-  ALTERNATIF_KESELESAAN: "Alternatif keselesaan",
-  CALON_BERSYARAT: "Calon bersyarat",
-};
-
-function CandidateCard({ c, heading }: { c: CandidateDTO; heading?: string }) {
-  const perPerson = c.assignments
-    .map((a) => (a.perPerson ? a.perPerson.text : "Perlu pengesahan"))
-    .join(" / ");
+export function LoadingState({ title, text }: { title: string; text: string }) {
   return (
-    <article
-      className="flex flex-col gap-3 rounded-lg border bg-card p-4"
-      aria-label={`${c.pjh.name}: ${c.package.name}`}
+    <div role="status" aria-live="polite" aria-busy="true" className="flex flex-col gap-3">
+      <h1 className="text-2xl font-semibold sm:text-3xl">{title}</h1>
+      <p className="text-muted-foreground">{text}</p>
+      <div className="h-40 animate-pulse rounded-lg bg-muted motion-reduce:animate-none" />
+      <div className="h-40 animate-pulse rounded-lg bg-muted motion-reduce:animate-none" />
+    </div>
+  );
+}
+
+export function NoRequest() {
+  return (
+    <div className="flex flex-col items-start gap-3">
+      <h1 className="text-2xl font-semibold sm:text-3xl">Tiada penilaian</h1>
+      <p>Isi borang keperluan dahulu untuk melihat pakej yang sesuai.</p>
+      <Button asChild>
+        <Link href="/nilai">Mula penilaian</Link>
+      </Button>
+    </div>
+  );
+}
+
+export function ErrorState({
+  title,
+  message,
+  details,
+  onRetry,
+}: {
+  title: string;
+  message: string;
+  details: string[];
+  onRetry: () => void;
+}) {
+  return (
+    <div
+      role="alert"
+      className="flex flex-col items-start gap-3 rounded-md border border-status-fail/40 bg-status-fail-bg p-4 text-status-fail"
     >
-      {heading ? (
-        <p className="text-sm font-semibold tracking-wide text-primary uppercase">{heading}</p>
+      <h1 className="text-2xl font-semibold">{title}</h1>
+      <p>{message}</p>
+      {details.length ? (
+        <ul className="list-disc pl-6">
+          {details.map((d) => (
+            <li key={d}>{d}</li>
+          ))}
+        </ul>
       ) : null}
-      <div className="flex flex-wrap items-start justify-between gap-2">
-        <div className="min-w-0">
-          <h3 className="text-lg font-semibold [overflow-wrap:anywhere]">{c.package.name}</h3>
-          <p className="text-muted-foreground">{c.pjh.name}</p>
-        </div>
-        <GroupBadge group={c.group} />
+      <div className="flex flex-wrap gap-2">
+        <Button type="button" onClick={onRetry}>
+          <RefreshCw aria-hidden="true" />
+          Cuba lagi
+        </Button>
+        <Button asChild variant="outline">
+          <Link href="/nilai?langkah=5">
+            <ArrowLeft aria-hidden="true" />
+            Ubah keperluan
+          </Link>
+        </Button>
       </div>
-      <dl className="grid gap-x-6 gap-y-2 text-sm sm:grid-cols-3">
+    </div>
+  );
+}
+
+/** Kenyataan liputan dataset (spesifikasi §23.4) — tidak mendakwa liputan penuh jika ada blocker. */
+export function CoverageStatement({ d }: { d: AssessResponse }) {
+  const t = d.coverageSummary.totals;
+  const pjhInResults = new Set(
+    d.candidates.filter((c) => c.group !== "not_matching").map((c) => c.pjh.id),
+  ).size;
+  return (
+    <aside
+      aria-label="Liputan dan batasan data"
+      className="flex gap-3 rounded-md bg-muted p-3 text-sm leading-relaxed"
+    >
+      <Info aria-hidden="true" className="mt-0.5 size-5 shrink-0 text-primary" />
+      <div className="flex flex-col gap-1">
+        <p>
+          {t
+            ? `${t.pjhReviewed} daripada ${t.pjhExpected} PJH dalam kompilasi telah disemak${t.pjhBlocked ? ` (${t.pjhBlocked} PJH masih mempunyai data tersekat)` : ""}. `
+            : ""}
+          {d.counts.full_match + d.counts.needs_verification} pakej daripada {pjhInResults} PJH
+          memenuhi atau hampir memenuhi syarat wajib; {d.counts.not_matching} tidak memenuhi;{" "}
+          {d.counts.rejected} pakej tiada harga bagi susunan bilik anda; {d.counts.archived}{" "}
+          diarkibkan.
+        </p>
+        <p>
+          Kelulusan PJH bagi musim ini belum disahkan dengan senarai rasmi, dan kekosongan perlu
+          disahkan dengan PJH. Data disemak {dateText(d.coverageSummary.generatedAt)}; versi data{" "}
+          <span className="[overflow-wrap:anywhere]">{d.datasetVersion}</span>.{" "}
+          <Link href="/liputan" className="text-primary underline underline-offset-2">
+            Lihat liputan data
+          </Link>
+        </p>
+      </div>
+    </aside>
+  );
+}
+
+type SortKey = "score" | "cost";
+const PAGE = 10;
+
+function sortCandidates(list: CandidateDTO[], key: SortKey) {
+  return [...list].sort((a, b) => {
+    if (key === "cost") {
+      const d = BigInt(a.cost.knownGroup.sen) - BigInt(b.cost.knownGroup.sen);
+      if (d !== 0n) return d < 0n ? -1 : 1;
+    }
+    return b.score - a.score || b.coverage - a.coverage || a.id.localeCompare(b.id);
+  });
+}
+
+function GroupSection({
+  id,
+  title,
+  hint,
+  list,
+  render,
+}: {
+  id: string;
+  title: string;
+  hint: string;
+  list: CandidateDTO[];
+  render: (c: CandidateDTO) => React.ReactNode;
+}) {
+  const [sort, setSort] = React.useState<SortKey>("score");
+  const [shown, setShown] = React.useState(PAGE);
+  const sorted = React.useMemo(() => sortCandidates(list, sort), [list, sort]);
+  if (!list.length) return null;
+  return (
+    <section aria-labelledby={id} className="flex flex-col gap-3">
+      <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
-          <dt className="text-muted-foreground">Kos kumpulan ({c.cost.pilgrims} jemaah)</dt>
-          <dd className="text-base font-semibold money">
-            {c.cost.knownGroup.text}
-            {c.cost.complete ? null : (
-              <span className="block text-xs font-normal text-status-cond">
-                Caj tambahan belum lengkap
-              </span>
-            )}
-          </dd>
+          <h2 id={id} className="text-xl font-semibold">
+            {title} ({list.length})
+          </h2>
+          <p className="text-sm text-muted-foreground">{hint}</p>
         </div>
-        <div>
-          <dt className="text-muted-foreground">Kos seorang</dt>
-          <dd className="money">{perPerson}</dd>
+        <div className="flex items-center gap-2 print:hidden">
+          <label htmlFor={`${id}-susun`} className="text-sm font-medium">
+            Susun
+          </label>
+          <NativeSelect
+            id={`${id}-susun`}
+            value={sort}
+            onChange={(e) => {
+              setSort(e.target.value as SortKey);
+              setShown(PAGE);
+            }}
+          >
+            <option value="score">Skor kesesuaian</option>
+            <option value="cost">Kos terendah</option>
+          </NativeSelect>
         </div>
-        <div>
-          <dt className="text-muted-foreground">Baki bajet</dt>
-          <dd className="money">{c.cost.remaining.text}</dd>
-        </div>
-      </dl>
-      <p className="text-sm">
-        Kod varian: {c.assignments.map((a) => a.variant.code).join(" + ")}
-        {c.pjh.approvalStatus === "verified_approved"
-          ? null
-          : " · Kelulusan PJH musim ini belum disahkan"}
+      </div>
+      <ul className="flex flex-col gap-4">
+        {sorted.slice(0, shown).map((c) => (
+          <li key={c.id}>{render(c)}</li>
+        ))}
+      </ul>
+      {shown < sorted.length ? (
+        <Button
+          type="button"
+          variant="outline"
+          className="self-start"
+          onClick={() => setShown((n) => n + PAGE)}
+        >
+          Papar {Math.min(PAGE, sorted.length - shown)} lagi (dipaparkan {shown} daripada{" "}
+          {sorted.length})
+        </Button>
+      ) : null}
+    </section>
+  );
+}
+
+function CompareTray({
+  ids,
+  names,
+  onRemove,
+  onClear,
+}: {
+  ids: string[];
+  names: Map<string, string>;
+  onRemove: (id: string) => void;
+  onClear: () => void;
+}) {
+  if (!ids.length) return null;
+  return (
+    <div
+      role="region"
+      aria-label="Pilihan untuk dibanding"
+      className="sticky bottom-0 z-10 -mx-4 flex flex-col gap-2 border-t bg-background/95 px-4 py-3 backdrop-blur print:hidden"
+    >
+      <p className="text-sm font-medium" aria-live="polite">
+        {ids.length} daripada {MAX_COMPARE} dipilih untuk dibanding
+        {ids.length < 2 ? ". Pilih sekurang-kurangnya 2." : "."}
       </p>
-      <ul className="flex flex-wrap gap-2" aria-label="Status keperluan">
-        {c.requirements.map((r) => (
-          <li key={r.key}>
-            <StatusBadge status={r.status}>
-              {r.label}:{" "}
-              {
-                {
-                  MEMENUHI: "memenuhi",
-                  BERSYARAT: "bersyarat",
-                  PERLU_PENGESAHAN: "perlu pengesahan",
-                  TIDAK_MEMENUHI: "tidak memenuhi",
-                }[r.status]
-              }
-            </StatusBadge>
+      <ul className="hidden flex-wrap gap-2 sm:flex">
+        {ids.map((id) => (
+          <li key={id}>
+            <Button
+              type="button"
+              variant="secondary"
+              size="sm"
+              onClick={() => onRemove(id)}
+              aria-label={`Buang ${names.get(id) ?? id} daripada perbandingan`}
+            >
+              <span className="max-w-[14rem] truncate">{names.get(id) ?? id}</span>
+              <X aria-hidden="true" />
+            </Button>
           </li>
         ))}
       </ul>
-      {c.uncertainties.length ? (
-        <details className="text-sm">
-          <summary className="min-h-11 cursor-pointer py-2 font-medium">
-            Perkara belum pasti ({c.uncertainties.length})
-          </summary>
-          <ul className="list-disc pl-6">
-            {c.uncertainties.map((u) => (
-              <li key={u}>{u}</li>
-            ))}
-          </ul>
-        </details>
-      ) : null}
-      <p className="text-xs text-muted-foreground">
-        Sumber:{" "}
-        {c.sources
-          .slice(0, 6)
-          .map((s) => `hlm. PDF ${s.pdfPage}`)
-          .join(", ")}
-        {c.sources.length > 6 ? ` dan ${c.sources.length - 6} lagi` : ""}
-      </p>
-    </article>
+      <div className="flex flex-wrap gap-2">
+        {ids.length >= 2 ? (
+          <Button asChild>
+            <Link href="/banding">
+              Bandingkan
+              <ArrowRight aria-hidden="true" />
+            </Link>
+          </Button>
+        ) : (
+          <Button type="button" disabled>
+            Bandingkan
+          </Button>
+        )}
+        <Button type="button" variant="ghost" onClick={onClear}>
+          Kosongkan pilihan
+        </Button>
+      </div>
+    </div>
   );
 }
 
 export function ResultsView() {
-  const [state, setState] = React.useState<LoadState>({ kind: "loading" });
-  const [attempt, setAttempt] = React.useState(0);
+  const { saved, setDiversify, state, retry } = useAssessment();
+  const selection = useCompareSelection(saved ? requirementsKey(saved.request) : null);
 
-  React.useEffect(() => {
-    let raw: string | null = null;
-    try {
-      raw = window.sessionStorage.getItem(ASSESS_REQUEST_KEY);
-    } catch {
-      raw = null;
-    }
-    if (!raw) {
-      // eslint-disable-next-line react-hooks/set-state-in-effect -- keadaan bergantung pada storan pelayar
-      setState({ kind: "no-request" });
-      return;
-    }
-    const controller = new AbortController();
-    setState({ kind: "loading" });
-    fetch("/api/assess", {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: raw,
-      signal: controller.signal,
-    })
-      .then(async (res) => {
-        const json = (await res.json()) as AssessResponse | ApiError;
-        if (!res.ok || "error" in json) {
-          const err = (json as ApiError).error;
-          setState({
-            kind: "error",
-            message: err?.message ?? "Penilaian gagal.",
-            details: err?.details?.map((d) => d.message) ?? [],
-          });
-          return;
-        }
-        setState({ kind: "done", data: json });
-      })
-      .catch((e: unknown) => {
-        if (controller.signal.aborted) return;
-        setState({
-          kind: "error",
-          message:
-            e instanceof Error && e.name === "TypeError"
-              ? "Tiada sambungan ke pelayan. Semak internet anda."
-              : "Penilaian gagal.",
-          details: [],
-        });
-      });
-    return () => controller.abort();
-  }, [attempt]);
-
-  if (state.kind === "loading") {
+  if (state.kind === "loading")
     return (
-      <div role="status" aria-live="polite" aria-busy="true" className="flex flex-col gap-3">
-        <h1 className="text-2xl font-semibold sm:text-3xl">Menilai pakej…</h1>
-        <p className="text-muted-foreground">
-          Membandingkan semua varian dalam katalog dengan keperluan anda.
+      <LoadingState
+        title="Menilai pakej…"
+        text="Membandingkan semua varian dalam katalog dengan keperluan anda."
+      />
+    );
+  if (state.kind === "no-request") return <NoRequest />;
+  if (state.kind === "error")
+    return (
+      <ErrorState
+        title="Penilaian tidak dapat dibuat"
+        message={state.message}
+        details={state.details}
+        onRetry={retry}
+      />
+    );
+
+  const d = state.data;
+  const byId = new Map(d.candidates.map((c) => [c.id, c]));
+  const names = new Map(d.candidates.map((c) => [c.id, `${c.pjh.name}: ${c.package.name}`]));
+  const recIds = new Set(d.recommendations.map((r) => r.candidateId));
+  const pick = (ids: string[]) =>
+    ids
+      .filter((id) => !recIds.has(id))
+      .map((id) => byId.get(id))
+      .filter((c): c is CandidateDTO => !!c);
+  const full = pick(d.groups.full_match);
+  const verify = pick(d.groups.needs_verification);
+  const notMatching = pick(d.groups.not_matching);
+  const primaryCount = d.recommendations.filter((r) => r.label !== "CALON_BERSYARAT").length;
+
+  const card = (c: CandidateDTO, extra?: { recLabel?: (typeof d.recommendations)[number] }) => (
+    <CandidateCard
+      c={c}
+      review={d.coverageSummary.pjhs[c.pjh.id]}
+      recLabel={extra?.recLabel?.label}
+      narrative={extra?.recLabel?.narrative}
+      compare={{
+        selected: selection.has(c.id),
+        disabled: !selection.has(c.id) && selection.ids.length >= MAX_COMPARE,
+        onToggle: () => selection.toggle(c.id),
+      }}
+    />
+  );
+
+  return (
+    <div className="flex flex-col gap-8">
+      <header className="flex flex-col gap-3">
+        <h1 className="text-2xl font-semibold sm:text-3xl">Hasil penilaian</h1>
+        <p aria-live="polite">
+          {d.counts.full_match} pakej memenuhi syarat wajib, {d.counts.needs_verification} perlu
+          pengesahan, {d.counts.not_matching} tidak memenuhi.
         </p>
-        <div className="h-32 animate-pulse rounded-lg bg-muted motion-reduce:animate-none" />
-        <div className="h-32 animate-pulse rounded-lg bg-muted motion-reduce:animate-none" />
-      </div>
-    );
-  }
-
-  if (state.kind === "no-request") {
-    return (
-      <div className="flex flex-col items-start gap-3">
-        <h1 className="text-2xl font-semibold sm:text-3xl">Tiada penilaian</h1>
-        <p>Isi borang keperluan dahulu untuk melihat pakej yang sesuai.</p>
-        <Button asChild>
-          <Link href="/nilai">Mula penilaian</Link>
-        </Button>
-      </div>
-    );
-  }
-
-  if (state.kind === "error") {
-    return (
-      <div
-        role="alert"
-        className="flex flex-col items-start gap-3 rounded-md border border-status-fail/40 bg-status-fail-bg p-4 text-status-fail"
-      >
-        <h1 className="text-2xl font-semibold">Penilaian tidak dapat dibuat</h1>
-        <p>{state.message}</p>
-        {state.details.length ? (
-          <ul className="list-disc pl-6">
-            {state.details.map((d) => (
-              <li key={d}>{d}</li>
-            ))}
-          </ul>
-        ) : null}
         <div className="flex flex-wrap gap-2">
-          <Button type="button" onClick={() => setAttempt((n) => n + 1)}>
-            <RefreshCw aria-hidden="true" />
-            Cuba lagi
-          </Button>
           <Button asChild variant="outline">
             <Link href="/nilai?langkah=5">
               <ArrowLeft aria-hidden="true" />
               Ubah keperluan
             </Link>
           </Button>
+          <Button asChild variant="outline">
+            <Link href="/laporan">
+              <Printer aria-hidden="true" />
+              Laporan dan cetak
+            </Link>
+          </Button>
         </div>
-      </div>
-    );
-  }
-
-  const d = state.data;
-  const byId = new Map(d.candidates.map((c) => [c.id, c]));
-  const totals = d.coverageSummary.totals;
-  const recIds = new Set(d.recommendations.map((r) => r.candidateId));
-  const others = (ids: string[]) =>
-    ids
-      .filter((id) => !recIds.has(id))
-      .map((id) => byId.get(id))
-      .filter((c): c is CandidateDTO => !!c);
-
-  return (
-    <div className="flex flex-col gap-6">
-      <header className="flex flex-col gap-2">
-        <h1 className="text-2xl font-semibold sm:text-3xl">Hasil penilaian</h1>
-        <p aria-live="polite">
-          {d.counts.full_match} pakej memenuhi syarat wajib, {d.counts.needs_verification} perlu
-          pengesahan, {d.counts.not_matching} tidak memenuhi.
-        </p>
-        <Button asChild variant="outline" className="self-start">
-          <Link href="/nilai?langkah=5">
-            <ArrowLeft aria-hidden="true" />
-            Ubah keperluan
-          </Link>
-        </Button>
       </header>
 
-      <aside
-        className="flex gap-3 rounded-md bg-muted p-3 text-sm leading-relaxed"
-        aria-label="Had data"
-      >
-        <Info aria-hidden="true" className="mt-0.5 size-5 shrink-0 text-primary" />
-        <p>
-          {totals
-            ? `Katalog: ${totals.pjhReviewed} daripada ${totals.pjhExpected} PJH telah disemak${totals.pjhBlocked ? `; ${totals.pjhBlocked} PJH masih mempunyai data tersekat` : ""}. `
-            : ""}
-          Kelulusan PJH bagi musim ini belum disahkan dengan senarai rasmi, dan kekosongan perlu
-          disahkan dengan PJH. Versi data {d.datasetVersion}.
-        </p>
-      </aside>
+      <CoverageStatement d={d} />
+
+      <CheckboxField
+        id="utamakan-kepelbagaian"
+        checked={saved?.request.options.diversifyPjh ?? false}
+        onChange={setDiversify}
+        label="Utamakan kepelbagaian PJH"
+        description="Cadangan memilih satu calon terbaik bagi setiap PJH. Calon lain tidak disembunyikan; semuanya kekal dalam senarai di bawah."
+      />
 
       {d.noMatch ? (
         <section
@@ -275,78 +345,92 @@ export function ResultsView() {
             {d.noMatch.message}
           </h2>
           {d.noMatch.reasons.length ? (
-            <ul className="list-disc pl-6">
-              {d.noMatch.reasons.map((r) => (
-                <li key={r}>{r}</li>
-              ))}
-            </ul>
-          ) : null}
-          {d.noMatch.nearest.length ? (
             <>
-              <h3 className="font-semibold">Perubahan minimum yang mungkin</h3>
+              <h3 className="font-semibold">Sebab</h3>
               <ul className="list-disc pl-6">
-                {d.noMatch.nearest.map((n) => (
-                  <li key={n.candidateId}>{n.description}</li>
+                {d.noMatch.reasons.map((r) => (
+                  <li key={r}>{r}</li>
                 ))}
               </ul>
             </>
           ) : null}
+          {d.noMatch.nearest.length ? (
+            <>
+              <h3 className="font-semibold">Calon terdekat dan perubahan minimum</h3>
+              <ul className="list-disc pl-6">
+                {d.noMatch.nearest.map((n) => (
+                  <li key={n.candidateId}>
+                    <span className="font-medium">
+                      {names.get(n.candidateId) ?? n.candidateId}:
+                    </span>{" "}
+                    {n.description}
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : null}
+          <p className="text-sm">
+            Syarat anda tidak dilonggarkan secara automatik. Jika mahu, ubah syarat dan nilai
+            semula.
+          </p>
+          <Button asChild variant="outline" className="self-start">
+            <Link href="/nilai?langkah=5">Ubah syarat</Link>
+          </Button>
         </section>
       ) : null}
 
       {d.recommendations.length ? (
         <section aria-labelledby="cadangan" className="flex flex-col gap-4">
-          <h2 id="cadangan" className="text-xl font-semibold">
-            Cadangan
-          </h2>
-          {d.recommendations.map((r) => {
-            const c = byId.get(r.candidateId);
-            if (!c) return null;
-            return (
-              <div key={`${r.label}-${r.candidateId}`} className="flex flex-col gap-2">
-                <CandidateCard c={c} heading={REC_LABEL[r.label]} />
-                <p className="px-1 text-sm leading-relaxed">{r.narrative}</p>
-              </div>
-            );
-          })}
+          <div>
+            <h2 id="cadangan" className="text-xl font-semibold">
+              Cadangan ({d.recommendations.length})
+            </h2>
+            {primaryCount < 3 ? (
+              <p className="text-sm text-muted-foreground">
+                Hanya {primaryCount} cadangan memenuhi kriteria label. Tiada cadangan tambahan
+                direka untuk mencukupkan bilangan.
+              </p>
+            ) : null}
+          </div>
+          <ul className="flex flex-col gap-4">
+            {d.recommendations.map((r) => {
+              const c = byId.get(r.candidateId);
+              return c ? (
+                <li key={`${r.label}-${r.candidateId}`}>{card(c, { recLabel: r })}</li>
+              ) : null;
+            })}
+          </ul>
         </section>
       ) : null}
 
-      {(
-        [
-          ["full_match", "Lain-lain yang memenuhi syarat wajib"],
-          ["needs_verification", "Perlu pengesahan"],
-        ] as const
-      ).map(([group, title]) => {
-        const list = others(d.groups[group]);
-        if (!list.length) return null;
-        return (
-          <section
-            key={group}
-            aria-labelledby={`kumpulan-${group}`}
-            className="flex flex-col gap-3"
-          >
-            <h2 id={`kumpulan-${group}`} className="text-xl font-semibold">
-              {title} ({list.length})
-            </h2>
-            <details>
-              <summary className="min-h-11 cursor-pointer py-2 font-medium text-primary">
-                Papar senarai
-              </summary>
-              <div className="mt-2 flex flex-col gap-3">
-                {list.slice(0, 20).map((c) => (
-                  <CandidateCard key={c.id} c={c} />
-                ))}
-                {list.length > 20 ? (
-                  <p className="text-sm text-muted-foreground">
-                    Dan {list.length - 20} lagi. Senarai penuh dengan penapis akan ditambah.
-                  </p>
-                ) : null}
-              </div>
-            </details>
-          </section>
-        );
-      })}
+      <GroupSection
+        id="kumpulan-penuh"
+        title="Lain-lain yang memenuhi syarat wajib"
+        hint="Disusun mengikut keutamaan anda."
+        list={full}
+        render={(c) => card(c)}
+      />
+      <GroupSection
+        id="kumpulan-pengesahan"
+        title="Perlu pengesahan"
+        hint="Maklumat bagi sekurang-kurangnya satu syarat wajib tidak dinyatakan atau belum disahkan."
+        list={verify}
+        render={(c) => card(c)}
+      />
+      <GroupSection
+        id="kumpulan-tidak"
+        title="Tidak memenuhi"
+        hint={`Dipaparkan hanya sebagai alternatif jika anda mengubah syarat (${notMatching.length} daripada ${d.counts.not_matching} dipaparkan).`}
+        list={notMatching}
+        render={(c) => card(c)}
+      />
+
+      <CompareTray
+        ids={selection.ids}
+        names={names}
+        onRemove={selection.remove}
+        onClear={selection.clear}
+      />
     </div>
   );
 }

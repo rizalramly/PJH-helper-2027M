@@ -47,7 +47,7 @@ Respons utama:
 - `recommendations`: label (`CADANGAN_UTAMA`, `ALTERNATIF_JIMAT`, `ALTERNATIF_KESELESAAN`, `CALON_BERSYARAT`) dan naratif.
 - `noMatch`: mesej, sebab dan calon terdekat dengan perubahan minimum (tambahan bajet seorang atau satu syarat).
 - `candidates`: pakej, varian per bilik, pecahan kos, status setiap keperluan dengan bukti, skor, liputan bukti, sebab, kompromi, perkara belum pasti, soalan kepada PJH dan sumber halaman.
-- `rejected` (pakej tanpa harga untuk susunan bilik), `archived` (habis/ditarik balik), `coverageSummary`.
+- `rejected` (pakej tanpa harga untuk susunan bilik), `archived` (habis/ditarik balik), `coverageSummary` (`totals`, `generatedAt`, dan `pjhs[id]` = label, status pemprosesan, status kelulusan, tarikh semakan).
 
 Semua calon `full_match` dan `needs_verification` dipulangkan; `not_matching` dihadkan oleh `notMatchingLimit` (jumlah sebenar dalam `counts`). Respons senario A ≈ 0.5 MB.
 

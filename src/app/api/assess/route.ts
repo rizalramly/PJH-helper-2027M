@@ -53,7 +53,34 @@ export async function POST(req: Request) {
   });
 }
 
+interface CoverageLike {
+  totals?: Record<string, number>;
+  generatedAt?: string;
+  pjhs?: {
+    id: string;
+    label: string;
+    processingStatus: string;
+    approvalStatus: string;
+    reviewedAt: string | null;
+  }[];
+}
+
+/** Ringkasan liputan untuk hasil/laporan: jumlah, tarikh dan tarikh semakan setiap PJH. */
 function summary(coverage: unknown) {
-  const totals = (coverage as { totals?: Record<string, number>; generatedAt?: string }) ?? {};
-  return { totals: totals.totals ?? null, generatedAt: totals.generatedAt ?? null };
+  const c = (coverage as CoverageLike | null) ?? {};
+  return {
+    totals: c.totals ?? null,
+    generatedAt: c.generatedAt ?? null,
+    pjhs: Object.fromEntries(
+      (c.pjhs ?? []).map((p) => [
+        p.id,
+        {
+          label: p.label,
+          processingStatus: p.processingStatus,
+          approvalStatus: p.approvalStatus,
+          reviewedAt: p.reviewedAt,
+        },
+      ]),
+    ),
+  };
 }

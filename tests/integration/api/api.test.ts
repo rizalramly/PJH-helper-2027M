@@ -55,6 +55,11 @@ describe("POST /api/assess", () => {
     expect(body.counts.full_match).toBe(body.groups.full_match.length);
     expect(body.groups.not_matching.length).toBeLessThanOrEqual(10);
     expect(body.coverageSummary.totals.pjhExpected).toBe(34);
+    expect(body.coverageSummary.pjhs.busyra).toMatchObject({
+      processingStatus: "reviewed",
+      approvalStatus: "unverified",
+    });
+    expect(body.coverageSummary.pjhs.busyra.reviewedAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);
   });
 
   it("tiada padanan: mesej, sebab dan calon terdekat", async () => {

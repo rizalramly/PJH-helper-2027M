@@ -82,7 +82,7 @@ test("pasangan RM100,000: wizard hingga hasil penilaian", async ({ page }) => {
   await expect(page).toHaveURL(/\/hasil$/);
   await expect(heading(page)).toHaveText("Hasil penilaian", { timeout: 30_000 });
   await expect(page.getByText(/pakej memenuhi syarat wajib, \d+ perlu pengesahan/)).toBeVisible();
-  await expect(page.getByLabel("Had data")).toContainText("belum disahkan");
+  await expect(page.getByLabel("Liputan dan batasan data")).toContainText("belum disahkan");
   await expect(page.locator("main")).not.toContainText(/terjamin|dijamin/i);
   await noHorizontalScroll(page);
   await axe(page);
