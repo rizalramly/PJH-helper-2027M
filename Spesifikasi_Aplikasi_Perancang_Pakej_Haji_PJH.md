@@ -27,8 +27,8 @@ Jangan anggap harga paling rendah dalam iklan ialah harga bagi bilik berdua. Jan
 
 | Input | Reka bentuk dan peraturan |
 |---|---|
-| Bajet seorang | RM; nyatakan sama ada had ini meliputi pakej dan naik taraf sahaja atau turut meliputi perbelanjaan tambahan yang pengguna masukkan. Paparkan kos seorang dan keseluruhan rombongan. |
-| Bilik 4, 3 atau berdua | Pilih susunan Makkah dan Madinah secara berasingan atau gunakan pilihan sama. Tetapkan berasingan untuk Aziziyah. Untuk berdua, pengguna boleh meminta bilik khusus pasangan tanpa jemaah lain. |
+| Bajet seorang | RM; nyatakan sama ada had ini meliputi pakej dan naik taraf sahaja atau turut meliputi perbelanjaan tambahan yang pengguna masukkan. Paparkan kos seorang dan keseluruhan rombongan. **Julat bajet (keputusan pemilik, Oktober 2026):** sistem hanya mencari pakej dalam julat RM10,000 di bawah bajet seorang hingga bajet (cth. RM100,000 → RM90,000–RM100,000); pakej di bawah julat ditanda tidak memenuhi bajet. |
+| Bilik 4, 3 atau berdua | Pilih susunan Makkah dan Madinah secara berasingan atau gunakan pilihan sama. Tetapkan berasingan untuk Aziziyah. Soalan bilik khusus rombongan tanpa jemaah lain dikeluarkan daripada wizard (keputusan pemilik, Oktober 2026); API masih menerima `privateRoom` secara pilihan. |
 | Aziziyah | Wajib ada / wajib tiada / tidak kisah. Jika wajib ada, tanya susunan bilik, minimum keselesaan dan sama ada sanggup berpindah hotel. |
 | Total hari | Julat minimum–maksimum atau sasaran dengan toleransi. Bezakan keseluruhan perjalanan daripada hari Makkah, Madinah dan Aziziyah. |
 | Tarwiyah | Wajib / diutamakan / tidak kisah / mahu pakej yang menyatakan tidak dilaksanakan. Jika wajib, tanya sama ada tawaran tertakluk kelulusan boleh diterima. |
@@ -271,7 +271,7 @@ Kos rujukan:
 - MJPP02: RM102,490 seorang; RM204,980 pasangan; melebihi bajet RM4,980 pasangan.
 - MJP02: tidak memenuhi PMN wajib, walaupun kos dalam bajet.
 
-MTSP02/SFSP02 menjadi calon kewangan yang sesuai; susunan cadangan bergantung keutamaan dan bukti. Selagi pengesahan kelulusan musim, kekosongan atau bilik khusus pasangan belum tersedia, paparkan syarat itu dan jangan melabel tempahan terjamin.
+Kos rujukan di atas diuji tanpa had bawah julat. Dengan julat bajet lalai (RM90,000–RM100,000), MTSP02 berada di bawah julat dan tidak memenuhi bajet; SFSP02 kekal dalam julat. Tanpa had bawah, MTSP02/SFSP02 menjadi calon kewangan yang sesuai; susunan cadangan bergantung keutamaan dan bukti. Selagi pengesahan kelulusan musim, kekosongan atau bilik khusus pasangan belum tersedia, paparkan syarat itu dan jangan melabel tempahan terjamin.
 
 ### B. Tarwiyah wajib tanpa menerima syarat kelulusan
 

@@ -159,3 +159,24 @@ describe("roomsForParty dan summarize", () => {
     for (const i of items) expect(i.value).not.toMatch(FORBIDDEN_WORDS);
   });
 });
+
+describe("Julat bajet dan bilik khusus", () => {
+  it("ringkasan memaparkan julat RM90,000 – RM100,000 bagi bajet RM100,000", () => {
+    const item = summarize(couple()).find((i) => i.label === "Bajet seorang")!;
+    expect(item.value).toContain("RM 90,000.00 – RM 100,000.00");
+  });
+
+  it("permintaan wizard menghasilkan had bawah bajet − RM10,000 dan tiada soalan bilik khusus", () => {
+    const { requirements } = toAssessRequest(couple());
+    expect(requirements).not.toHaveProperty("privateRoom");
+    const r = toRequirements(requirementsSchema.parse(requirements));
+    expect(r.budget.minPerPersonSen).toBe(9_000_000n);
+    expect(r.privateRoom).toBe("any");
+    expect(summarize(couple()).some((i) => /Bilik khusus/.test(i.label))).toBe(false);
+  });
+
+  it("bajet di bawah RM10,000 tidak memberi had bawah negatif", () => {
+    const { requirements } = toAssessRequest(couple({ budgetPerPersonRM: "8000" }));
+    expect(toRequirements(requirementsSchema.parse(requirements)).budget.minPerPersonSen).toBe(0n);
+  });
+});

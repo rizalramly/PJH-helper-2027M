@@ -165,3 +165,47 @@ describe("Tempoh julat anggaran dan utiliti bersyarat", () => {
     expect(util(true)).toBe(1);
   });
 });
+
+describe("Julat bajet (had bawah)", () => {
+  const cat = synthCatalog({
+    packages: [synthPackage("murah"), synthPackage("dalam"), synthPackage("mahal")],
+    variants: [
+      synthVariant("murah", "M2", 2, 8_500_000n),
+      synthVariant("dalam", "D2", 2, 9_500_000n),
+      synthVariant("mahal", "H2", 2, 10_500_000n),
+    ],
+  });
+  const group = (r: ReturnType<typeof assess>, id: string) =>
+    r.candidates.find((c) => c.package.id === id)!.group;
+
+  it("hanya pakej dalam RM90,000–RM100,000 seorang memenuhi; yang lebih murah tidak memenuhi", () => {
+    const r = assess(
+      cat,
+      req({ budget: { perPersonSen: 10_000_000n, minPerPersonSen: 9_000_000n } }),
+    );
+    expect(group(r, "dalam")).toBe("full_match");
+    expect(group(r, "murah")).toBe("not_matching");
+    expect(group(r, "mahal")).toBe("not_matching");
+    const b = r.candidates
+      .find((c) => c.package.id === "murah")!
+      .requirements.find((x) => x.key === "budget")!;
+    expect(b.status).toBe("TIDAK_MEMENUHI");
+    expect(b.detail).toContain("di bawah julat bajet");
+  });
+
+  it("tiada padanan: cadangan menurunkan bajet bagi pakej di bawah julat", () => {
+    const r = assess(
+      synthCatalog({
+        packages: [synthPackage("murah")],
+        variants: [synthVariant("murah", "M2", 2, 8_500_000n)],
+      }),
+      req({ budget: { perPersonSen: 10_000_000n, minPerPersonSen: 9_000_000n } }),
+    );
+    expect(r.noMatch?.nearest[0].description).toContain("RM 85,000.00 seorang");
+  });
+
+  it("tanpa had bawah, pakej lebih murah kekal memenuhi", () => {
+    const r = assess(cat, req({ budget: { perPersonSen: 10_000_000n } }));
+    expect(group(r, "murah")).toBe("full_match");
+  });
+});

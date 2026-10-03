@@ -41,7 +41,8 @@ export function evaluateRequirements(
 ): RequirementResult[] {
   const out: RequirementResult[] = [];
 
-  // Bajet
+  // Bajet: julat [had bawah, bajet] seorang
+  const floorGroupSen = (req.budget.minPerPersonSen ?? 0n) * BigInt(cost.pilgrims);
   if (cost.remainingSen < 0n) {
     out.push(
       result(
@@ -50,6 +51,16 @@ export function evaluateRequirements(
         "TIDAK_MEMENUHI",
         req.budget.hard,
         `Kos diketahui ${formatRM(cost.comparedGroupSen)} melebihi bajet kumpulan ${formatRM(cost.budgetGroupSen)} sebanyak ${formatRM(-cost.remainingSen)}.`,
+      ),
+    );
+  } else if (floorGroupSen > 0n && cost.comparedGroupSen < floorGroupSen) {
+    out.push(
+      result(
+        "budget",
+        "Bajet",
+        "TIDAK_MEMENUHI",
+        req.budget.hard,
+        `Kos ${cost.complete ? "" : "diketahui "}${formatRM(cost.comparedGroupSen)} di bawah julat bajet kumpulan ${formatRM(floorGroupSen)}–${formatRM(cost.budgetGroupSen)} (${formatRM(req.budget.minPerPersonSen ?? 0n)}–${formatRM(req.budget.perPersonSen)} seorang).`,
       ),
     );
   } else if (!cost.complete) {

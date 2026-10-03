@@ -1,7 +1,7 @@
 // Skema permintaan API → Requirements engine. Wang diterima sebagai RM (teks atau nombor).
 import { z } from "zod";
 
-import { parseRMToSen } from "../engine/money";
+import { budgetFloorSen, parseRMToSen } from "../engine/money";
 import type { Requirements } from "../engine/types";
 
 /** Had atas bajet seorang: RM10 juta (melindungi daripada nilai sangat besar / DoS). */
@@ -44,6 +44,8 @@ export const requirementsSchema = z
       perPersonRM: rm,
       scope: z.enum(["package_only", "all_in"]).default("package_only"),
       extrasPerPersonRM: rm.optional(),
+      /** Had bawah julat seorang; lalai bajet − RM10,000. "0" = tiada had bawah. */
+      minPerPersonRM: rm.optional(),
       hard: z.boolean().default(true),
     }),
     aziziyah: z
@@ -117,6 +119,13 @@ export const requirementsSchema = z
         message: "Masukkan peruntukan tambahan untuk bajet menyeluruh",
       });
     }
+    if (r.budget.minPerPersonRM !== undefined && r.budget.minPerPersonRM > r.budget.perPersonRM) {
+      ctx.addIssue({
+        code: "custom",
+        path: ["budget", "minPerPersonRM"],
+        message: "Had bawah julat bajet melebihi bajet seorang",
+      });
+    }
     if (r.comfortFeatures.includes("min_room_size") && r.minRoomSizeSqm === null) {
       ctx.addIssue({
         code: "custom",
@@ -136,6 +145,7 @@ export function toRequirements(parsed: z.output<typeof requirementsSchema>): Req
       perPersonSen: parsed.budget.perPersonRM,
       scope: parsed.budget.scope,
       extrasPerPersonSen: parsed.budget.extrasPerPersonRM ?? 0n,
+      minPerPersonSen: parsed.budget.minPerPersonRM ?? budgetFloorSen(parsed.budget.perPersonRM),
       hard: parsed.budget.hard,
     },
     aziziyah: parsed.aziziyah,

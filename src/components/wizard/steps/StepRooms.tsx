@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { madinahOf, newRoom, type RoomState } from "@/lib/wizard/state";
 
 import { CheckboxField } from "../CheckboxField";
-import { ChoiceCards } from "../ChoiceCards";
 import { fieldId, useWizard } from "../context";
 import { Field } from "../Field";
 import { GlossaryTerm } from "../GlossaryTerm";
@@ -145,20 +144,6 @@ export function StepRooms() {
         <Plus aria-hidden="true" />
         Tambah bilik
       </Button>
-
-      <ChoiceCards
-        name="bilik-khusus"
-        legend="Bilik hotel khusus untuk rombongan anda sahaja (tanpa jemaah lain)?"
-        hint="Contoh: pasangan suami isteri dalam bilik yang sama. Kebanyakan brosur tidak menyatakan perkara ini; pakej akan ditanda 'Perlu pengesahan'."
-        value={state.privateRoom}
-        onChange={(privateRoom) => update({ privateRoom })}
-        columns={3}
-        choices={[
-          { value: "required", label: "Wajib" },
-          { value: "preferred", label: "Diutamakan" },
-          { value: "any", label: "Tidak kisah" },
-        ]}
-      />
     </div>
   );
 }

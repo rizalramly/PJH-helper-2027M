@@ -514,13 +514,13 @@ Senarai penuh jurang setiap PJH (seperti direkodkan semasa transkripsi dan semak
 
 ### A. Pasangan RM100,000 seorang; Aziziyah ber-2 wajib; PMN wajib; Tarwiyah wajib (terima bersyarat); 40 hari
 
-Memenuhi syarat wajib: **7**; perlu pengesahan: 39; tidak memenuhi: 105; daripada 18 PJH.
+Memenuhi syarat wajib: **2**; perlu pengesahan: 2; tidak memenuhi: 147; daripada 4 PJH.
 
 | Label | PJH | Pakej | Kod | Seorang | Kumpulan |
 |---|---|---|---|---:|---:|
-| CADANGAN_UTAMA | Busyra Holidays | Makkah Tower Ekonomi + PMN | MTEP02 | RM 79,490.00 | RM 158,980.00 |
-| ALTERNATIF_JIMAT | Alam Shah Travel & Tours | Safwah Aziziah PMN | SAP02 | RM 77,990.00 | RM 155,980.00 |
-| CALON_BERSYARAT | Juara Travel | Al-Salam Plus (+Khemah PMN) | JTT08 | RM 75,900.00 | RM 151,800.00 |
+| CADANGAN_UTAMA | Busyra Holidays | Safwah Tower Standard + PMN | SFSP02 | RM 91,490.00 | RM 182,980.00 |
+| CALON_BERSYARAT | Rayhar Travels | Pakej Olayan Ajyad | OLA 22 | RM 91,490.00 | RM 182,980.00 |
+| CALON_BERSYARAT | Azzuha Group Travel & Tours | Pakej Haji Fairmont | ZUHA 14 | RM 92,900.00 | RM 185,800.00 |
 
 ### B. Pasangan RM60,000 seorang, tiada syarat lain
 
@@ -540,23 +540,21 @@ Memenuhi syarat wajib: **1**; perlu pengesahan: 0; tidak memenuhi: 134; daripada
 
 ### D. Pasangan RM150,000; Tarwiyah wajib TANPA menerima syarat kelulusan
 
-Memenuhi syarat wajib: **31**; perlu pengesahan: 69; tidak memenuhi: 51; daripada 25 PJH.
+Memenuhi syarat wajib: **2**; perlu pengesahan: 1; tidak memenuhi: 148; daripada 3 PJH.
 
 | Label | PJH | Pakej | Kod | Seorang | Kumpulan |
 |---|---|---|---|---:|---:|
-| CADANGAN_UTAMA | Tri-D Travel & Tours | Pakej Romance Al-Sadd Ekonomi | TRID 03 | RM 51,900.00 | RM 103,800.00 |
-| CALON_BERSYARAT | Tri-D Travel & Tours | Pakej Jumeirah Eksklusif | TRID 12 | RM 95,980.00 | RM 191,960.00 |
-| CALON_BERSYARAT | CSHOLIDAYS | Pakej Haji Standard (CSS) | CSS01 | RM 59,980.00 | RM 119,960.00 |
+| CADANGAN_UTAMA | In Saff Travel & Tours | Raffles – Partial Kaabah View (Tier 1) | RF/B2/PKV | RM 144,970.00 | RM 289,940.00 |
+| CALON_BERSYARAT | Tabung Haji Travel | Pakej Nilam | NILAM 2 | RM 149,990.00 | RM 299,980.00 |
 
 ### E. Tiga jemaah bilik bertiga RM80,000; maksimum 30 hari
 
-Memenuhi syarat wajib: **2**; perlu pengesahan: 5; tidak memenuhi: 123; daripada 6 PJH.
+Memenuhi syarat wajib: **1**; perlu pengesahan: 1; tidak memenuhi: 128; daripada 2 PJH.
 
 | Label | PJH | Pakej | Kod | Seorang | Kumpulan |
 |---|---|---|---|---:|---:|
-| CADANGAN_UTAMA | Al Balad Travel & Tours | Pakej Al Siddiq | AS3 | RM 65,900.00 | RM 197,700.00 |
-| CALON_BERSYARAT | Tabung Haji Travel | Pakej Delima | DELIMA 3 | RM 69,990.00 | RM 209,970.00 |
-| CALON_BERSYARAT | In Saff Travel & Tours | Anjum A (Singkat) – Tier 4 | AJ/1/B3 | RM 58,970.00 | RM 176,910.00 |
+| CADANGAN_UTAMA | KUJDT | Pakej Clock Tower Plus-80 Meter | HCTP-3 | RM 75,900.00 | RM 227,700.00 |
+| CALON_BERSYARAT | KRS Travel | Pakej Ajwa | KRST A05 | RM 76,900.00 | RM 230,700.00 |
 
 ### F. Seperti B tetapi penjimatan penting dan kepelbagaian PJH
 

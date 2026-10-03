@@ -19,6 +19,14 @@ export function parseRMToSen(input: string): bigint | null {
   return BigInt(whole) * 100n + BigInt(frac.padEnd(2, "0") || "0");
 }
 
+/** Lebar julat bajet lalai: pakej dicari dalam RM10,000 di bawah bajet seorang hingga bajet. */
+export const BUDGET_RANGE_SEN = 1_000_000n;
+
+/** Had bawah julat bajet seorang (tidak kurang daripada RM0). */
+export function budgetFloorSen(perPersonSen: bigint, rangeSen: bigint = BUDGET_RANGE_SEN): bigint {
+  return perPersonSen > rangeSen ? perPersonSen - rangeSen : 0n;
+}
+
 export function sumSen(values: bigint[]): bigint {
   return values.reduce((a, b) => a + b, 0n);
 }

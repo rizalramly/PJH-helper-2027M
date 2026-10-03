@@ -1,6 +1,6 @@
 // Keadaan wizard (JSON, disimpan pada peranti) dan penukaran kepada permintaan /api/assess.
 // Fungsi tulen; tiada akses DOM.
-import { formatRM, parseRMToSen } from "../engine/money";
+import { budgetFloorSen, formatRM, parseRMToSen } from "../engine/money";
 import type { RequirementsInput } from "../validation/requirements";
 
 export const WIZARD_STORAGE_KEY = "pjh.wizard.v1";
@@ -36,7 +36,6 @@ export interface WizardState {
   budgetScope: "package_only" | "all_in";
   extrasPerPersonRM: string;
   budgetHard: boolean;
-  privateRoom: Need;
   durationMode: "any" | "target" | "range";
   durationTarget: string;
   durationTolerance: string;
@@ -81,7 +80,6 @@ export function initialState(seasonId = "1448H"): WizardState {
     budgetScope: "package_only",
     extrasPerPersonRM: "",
     budgetHard: true,
-    privateRoom: "any",
     durationMode: "any",
     durationTarget: "40",
     durationTolerance: "5",
@@ -273,7 +271,6 @@ export function toAssessRequest(s: WizardState): {
       duration: { ...duration, acceptApproximate: s.acceptApproximate, hard: s.durationHard },
       tarwiyah: { mode: s.tarwiyahMode, acceptConditional: s.tarwiyahAcceptConditional },
       pmn: s.pmn,
-      privateRoom: s.privateRoom,
       proximity: {
         maxMakkahM: proximityOn ? num(s.proximityMakkahM) : null,
         maxMadinahM: proximityOn ? num(s.proximityMadinahM) : null,
@@ -311,6 +308,11 @@ const IMPORTANCE_TEXT: Record<ImportanceLevel, string> = {
   dont_care: "Tidak kisah",
 };
 
+/** Julat bajet yang dicari: RM10,000 di bawah bajet seorang hingga bajet. */
+export function budgetRangeText(sen: bigint | null): string {
+  return sen === null ? "—" : `${formatRM(budgetFloorSen(sen))} – ${formatRM(sen)}`;
+}
+
 export function summarize(s: WizardState): SummaryItem[] {
   const items: SummaryItem[] = [];
   const pilgrims = totalPilgrims(s);
@@ -319,7 +321,7 @@ export function summarize(s: WizardState): SummaryItem[] {
   items.push({ label: "Jemaah", value: `${pilgrims} orang`, kind: "maklumat", step: 1 });
   items.push({
     label: "Bajet seorang",
-    value: `${rm(sen)}${s.budgetScope === "all_in" ? ` termasuk peruntukan ${rm(parseRMToSen(s.extrasPerPersonRM))} seorang` : " (pakej dan naik taraf sahaja)"}; kumpulan ${sen === null ? "—" : rm(sen * BigInt(pilgrims))}`,
+    value: `${rm(sen)}${s.budgetScope === "all_in" ? ` termasuk peruntukan ${rm(parseRMToSen(s.extrasPerPersonRM))} seorang` : " (pakej dan naik taraf sahaja)"}; julat dicari ${budgetRangeText(sen)} seorang; kumpulan ${sen === null ? "—" : rm(sen * BigInt(pilgrims))}`,
     kind: s.budgetHard ? "wajib" : "keutamaan",
     step: 1,
   });
@@ -331,13 +333,6 @@ export function summarize(s: WizardState): SummaryItem[] {
       step: 2,
     }),
   );
-  if (s.privateRoom !== "any")
-    items.push({
-      label: "Bilik khusus rombongan sendiri",
-      value: NEED_TEXT[s.privateRoom],
-      kind: s.privateRoom === "required" ? "wajib" : "keutamaan",
-      step: 2,
-    });
   const az = {
     required: "Wajib ada",
     preferred: "Diutamakan",

@@ -7,6 +7,7 @@ import type { CoverageEntry } from "../src/lib/catalog/coverage";
 import { toEngineCatalog } from "../src/lib/catalog/load";
 import { readRepoCatalog } from "../src/lib/catalog/repo-files";
 import { assess, formatRM } from "../src/lib/engine";
+import { budgetFloorSen } from "../src/lib/engine/money";
 import type { Requirements } from "../src/lib/engine/types";
 import { computeDatasetVersion } from "../src/lib/storage/catalog-repo";
 
@@ -258,7 +259,12 @@ const scenarios: { name: string; req: Requirements; diversify?: boolean }[] = [
   },
 ];
 for (const s of scenarios) {
-  const r = assess(catalog, s.req, { diversifyPjh: s.diversify ?? false });
+  // Seperti API/wizard: julat bajet lalai RM10,000 di bawah bajet seorang.
+  const req = {
+    ...s.req,
+    budget: { ...s.req.budget, minPerPersonSen: budgetFloorSen(s.req.budget.perPersonSen) },
+  };
+  const r = assess(catalog, req, { diversifyPjh: s.diversify ?? false });
   const pjhCount = new Set(
     r.candidates.filter((c) => c.group !== "not_matching").map((c) => c.pjh.id),
   ).size;

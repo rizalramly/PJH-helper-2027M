@@ -27,7 +27,7 @@ Semua respons JSON. Wang = `{ "sen": "8649000", "text": "RM 86,490.00" }`; `null
   "requirements": {
     "seasonId": "1448H",
     "rooms": [{ "pilgrims": 2, "makkah": 2, "madinah": 2, "aziziyah": 2 }], // aziziyah: null = ikut susunan asal
-    "budget": { "perPersonRM": "100000", "scope": "package_only", "hard": true }, // all_in → extrasPerPersonRM wajib
+    "budget": { "perPersonRM": "100000", "scope": "package_only", "hard": true }, // all_in → extrasPerPersonRM wajib; minPerPersonRM pilihan (lalai bajet − RM10,000; 0 = tiada had bawah)
     "aziziyah": { "mode": "required", "acceptConditional": true }, // required | preferred | not_wanted | any
     "duration": { "target": 40, "tolerance": 0, "acceptApproximate": true, "hard": true }, // atau min/max
     "tarwiyah": { "mode": "required", "acceptConditional": true }, // required | preferred | any | want_not_offered

@@ -48,7 +48,11 @@ describe("POST /api/assess", () => {
     expect(mtsp.cost.knownGroup).toEqual({ sen: "17298000", text: "RM 172,980.00" });
     expect(mtsp.cost.remaining.sen).toBe("2702000");
     expect(mtsp.assignments[0].perPerson.text).toBe("RM 86,490.00");
-    expect(mtsp.group).toBe("full_match");
+    // RM86,490 seorang di bawah julat bajet lalai RM90,000–RM100,000.
+    expect(mtsp.group).toBe("not_matching");
+    const budgetReq = mtsp.requirements.find((r: Json) => r.key === "budget");
+    expect(budgetReq.status).toBe("TIDAK_MEMENUHI");
+    expect(budgetReq.detail).toContain("di bawah julat bajet");
     expect(mtsp.pjh.approvalStatus).toBe("unverified");
     expect(mtsp.sources.length).toBeGreaterThan(0);
     expect(body.recommendations[0].label).toBe("CADANGAN_UTAMA");
@@ -60,6 +64,34 @@ describe("POST /api/assess", () => {
       approvalStatus: "unverified",
     });
     expect(body.coverageSummary.pjhs.busyra.reviewedAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+  });
+
+  it("julat bajet: semua padanan penuh dalam RM10,000 di bawah bajet; minPerPersonRM 0 = tiada had bawah", async () => {
+    const body: Json = await (await assessPOST(post({ requirements: scenarioA }))).json();
+    for (const c of body.candidates.filter((c: Json) => c.group !== "not_matching")) {
+      const perPerson = BigInt(c.cost.comparedGroup.sen) / 2n;
+      expect(perPerson).toBeGreaterThanOrEqual(9_000_000n);
+      expect(perPerson).toBeLessThanOrEqual(10_000_000n);
+    }
+    const open: Json = await (
+      await assessPOST(
+        post({
+          requirements: { ...scenarioA, budget: { ...scenarioA.budget, minPerPersonRM: 0 } },
+        }),
+      )
+    ).json();
+    const mtsp = open.candidates.find((c: Json) => c.assignments[0].variant.code === "MTSP02");
+    expect(mtsp.group).toBe("full_match");
+    expect(mtsp.cost.remaining.sen).toBe("2702000");
+  });
+
+  it("julat bajet: had bawah melebihi bajet ditolak", async () => {
+    const res = await assessPOST(
+      post({
+        requirements: { ...scenarioA, budget: { perPersonRM: 50000, minPerPersonRM: 60000 } },
+      }),
+    );
+    expect(res.status).toBe(422);
   });
 
   it("tiada padanan: mesej, sebab dan calon terdekat", async () => {

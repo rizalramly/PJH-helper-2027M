@@ -4,10 +4,13 @@ import { ChoiceCards } from "../ChoiceCards";
 import { useWizard } from "../context";
 import { Field } from "../Field";
 import { MoneyInput } from "../MoneyInput";
-import { roomsForParty, totalPilgrims, type PartyType } from "@/lib/wizard/state";
+import { parseRMToSen } from "@/lib/engine/money";
+import { budgetRangeText, roomsForParty, totalPilgrims, type PartyType } from "@/lib/wizard/state";
 
 export function StepStart() {
   const { state, update, touch } = useWizard();
+  const budgetSen = parseRMToSen(state.budgetPerPersonRM);
+  const range = budgetSen !== null && budgetSen > 0n ? budgetRangeText(budgetSen) : null;
   return (
     <div className="flex flex-col gap-6">
       <div className="rounded-md bg-muted p-3 text-sm">
@@ -32,7 +35,7 @@ export function StepStart() {
       <Field
         field="budgetPerPersonRM"
         label="Bajet seorang (RM)"
-        hint={`Untuk ${totalPilgrims(state)} jemaah. Contoh: 100000. Kami paparkan kos seorang dan kos seluruh rombongan.`}
+        hint={`Untuk ${totalPilgrims(state)} jemaah. Contoh: 100000. Kami cari pakej dalam julat RM10,000 di bawah bajet hingga bajet${range ? ` (${range} seorang)` : ""}, dan paparkan kos seorang serta kos seluruh rombongan.`}
       >
         {(a11y) => (
           <MoneyInput
@@ -78,7 +81,7 @@ export function StepStart() {
 
       <ChoiceCards
         name="bajet-wajib"
-        legend="Adakah bajet ini had yang tidak boleh dilebihi?"
+        legend="Adakah julat bajet ini wajib?"
         value={state.budgetHard ? "wajib" : "keutamaan"}
         onChange={(v) => update({ budgetHard: v === "wajib" })}
         columns={2}
@@ -86,12 +89,12 @@ export function StepStart() {
           {
             value: "wajib",
             label: "Ya, had wajib",
-            description: "Pakej melebihi bajet tidak dicadangkan",
+            description: "Pakej di luar julat bajet tidak dicadangkan",
           },
           {
             value: "keutamaan",
             label: "Tidak, keutamaan sahaja",
-            description: "Pakej melebihi bajet masih dinilai",
+            description: "Pakej di luar julat bajet masih dinilai",
           },
         ]}
       />

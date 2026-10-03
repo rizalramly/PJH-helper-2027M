@@ -19,7 +19,7 @@ Aplikasi web (mengutamakan telefon) untuk membantu bakal jemaah membandingkan **
 
 ## Ciri
 
-- **Wizard** `/nilai` (5 langkah): bajet seorang, bilik bagi setiap kumpulan (Aziziyah dipilih berasingan), tempoh, Aziziyah, Tarwiyah, PMN, keutamaan. Draf disimpan pada peranti.
+- **Wizard** `/nilai` (5 langkah): bajet seorang (pakej dicari dalam julat RM10,000 di bawah bajet hingga bajet, cth. RM90,000–RM100,000), bilik bagi setiap kumpulan (Aziziyah dipilih berasingan), tempoh, Aziziyah, Tarwiyah, PMN, keutamaan. Draf disimpan pada peranti.
 - **Hasil** `/hasil`: kumpulan _memenuhi syarat wajib_ / _perlu pengesahan_ / _tidak memenuhi_; kad dengan kos seorang dan kumpulan, baki bajet, status setiap keperluan (ikon + teks + warna), skor dan liputan bukti yang boleh dibuka, sebab, kompromi, perkara belum pasti, soalan kepada PJH dan sumber halaman. Tiada padanan → sebab dan perubahan minimum tanpa melonggarkan syarat. Togol _Utamakan kepelbagaian PJH_.
 - **Banding** `/banding` (≤ 3) dengan sebab beza harga; **Laporan** `/laporan` untuk cetak/PDF A4; **Liputan data** `/liputan`.
 - **Pentadbir** `/admin`: lihat [`docs/admin.md`](docs/admin.md).

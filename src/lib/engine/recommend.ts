@@ -228,11 +228,18 @@ export function assess(
         const over = c.cost.remainingSen < 0n ? -c.cost.remainingSen : 0n;
         const extra = over > 0n ? (over + BigInt(pilgrims) - 1n) / BigInt(pilgrims) : null;
         const nonBudget = failing.filter((r) => r.key !== "budget");
+        // Di bawah julat bajet: bajet yang lebih rendah akan merangkumi pakej ini.
+        const lowerTo =
+          extra === null && failing.some((r) => r.key === "budget")
+            ? (c.cost.comparedGroupSen + BigInt(pilgrims) - 1n) / BigInt(pilgrims)
+            : null;
         let description: string;
         if (failing.length === 0)
           description = `Sahkan maklumat: ${verify.map((r) => r.label).join(", ")}.`;
         else if (nonBudget.length === 0 && extra !== null)
           description = `Tambah bajet ${formatRM(extra)} seorang.`;
+        else if (nonBudget.length === 0 && lowerTo !== null)
+          description = `Kos di bawah julat bajet anda; bajet ${formatRM(lowerTo)} seorang akan merangkumi pakej ini.`;
         else if (nonBudget.length === 1 && extra === null)
           description = `Longgarkan satu syarat: ${nonBudget[0].label} (${nonBudget[0].detail})`;
         else

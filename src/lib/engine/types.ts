@@ -238,6 +238,11 @@ export interface Requirements {
     scope: "package_only" | "all_in";
     /** Peruntukan seorang yang pengguna masukkan (belanja peribadi dsb.), untuk scope all_in. */
     extrasPerPersonSen: bigint;
+    /**
+     * Had bawah julat bajet seorang (dibandingkan dengan kos yang sama seperti bajet).
+     * Tiada / 0 = tiada had bawah. API dan wizard menetapkan bajet − RM10,000.
+     */
+    minPerPersonSen?: bigint;
     hard: boolean;
   };
   aziziyah: {
