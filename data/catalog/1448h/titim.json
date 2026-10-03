@@ -13,7 +13,7 @@
       {
         "pdfPage": 128,
         "text": "LESEN PJH: 31/1448H — NO SSM: 498122-H — NO MOTAC: KPL 3509",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 129,
             "text": "1. Tarikh dan tempoh pakej tertakluk kepada jadual penerbangan yang ditetapkan oleh TH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 129,
             "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 129,
             "text": "3. Pendaftaran pakej adalah tertakluk pada Terma dan Syarat yang dilampirkan Borang Pendaftaran Haji Titim Travel dan Tabung Haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 129,
             "text": "4. Deposit pendaftaran adalah sebanyak RM10,000 untuk Panggilan 1 sahaja.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 129,
@@ -68,21 +68,15 @@
           {
             "pdfPage": 129,
             "text": "5. Pembatalan tempahan wajib dimaklumkan kepada pihak TITIM TRAVEL SDN BHD secara bertulis. 6. Kategori 1 - Denda pembatalan sebanyak 5% ... Kategori 2 - ... 20% ... Kategori 3 - ... 40% ... setelah Jadual Penerbangan Haji dikeluarkan dan Visa Haji diperuntukkan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      128,
-      129
-    ],
-    "pagesReviewed": [
-      128,
-      129
-    ],
+    "pageRange": [128, 129],
+    "pagesReviewed": [128, 129],
     "pageNotes": [
       {
         "pdfPage": 128,
@@ -109,7 +103,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF FULL FATRAH +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -130,7 +124,8 @@
         "defaultArrangementNote": null,
         "dateLabel": null,
         "nightCount": null,
-        "evidence": []
+        "evidence": [],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "muaisim",
@@ -139,7 +134,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF FULL FATRAH — KHEMAH MUASSEM",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -154,7 +149,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -164,7 +159,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -174,7 +169,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -205,7 +200,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH ELAF AL BAIT @SETARAF (+-190M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -230,7 +225,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH NUSK AL-EMAN @SETARAF (+-80M KE DATARAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -243,7 +238,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -254,7 +249,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -265,7 +260,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -276,7 +271,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -287,7 +282,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -298,7 +293,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -309,7 +304,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -320,7 +315,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -331,7 +326,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -342,7 +337,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -353,7 +348,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -364,7 +359,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -376,7 +371,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -387,19 +382,40 @@
           "codeIsInternal": false,
           "priceSen": 4299000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM1-04/05 RM42,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM1-04/05",
+          "codeIsInternal": false,
+          "priceSen": 4299000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "not_included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM1-04/05 RM42,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM1-03",
@@ -416,9 +432,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM1-03 RM54,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM1-02",
@@ -435,9 +452,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM1-02 RM59,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -455,7 +473,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF MADINAH 5 STAR +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -476,7 +494,8 @@
         "defaultArrangementNote": null,
         "dateLabel": null,
         "nightCount": null,
-        "evidence": []
+        "evidence": [],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "muaisim",
@@ -485,7 +504,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF MADINAH 5 STAR — KHEMAH MUASSEM",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -500,7 +519,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -510,7 +529,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -520,7 +539,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -551,7 +570,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH ELAF AL BAIT @SETARAF (+-190M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -576,7 +595,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH ELAF AL TAIBA/MOVENPICK @SETARAF (+-50M BERHADAPAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -589,7 +608,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -600,7 +619,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -611,7 +630,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -622,7 +641,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -633,7 +652,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -644,7 +663,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -655,7 +674,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -666,7 +685,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -677,7 +696,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -688,7 +707,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -699,7 +718,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -710,7 +729,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -722,7 +741,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -733,19 +752,40 @@
           "codeIsInternal": false,
           "priceSen": 4799000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM2-04/05 RM47,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM2-04/05",
+          "codeIsInternal": false,
+          "priceSen": 4799000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "not_included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM2-04/05 RM47,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM2-03",
@@ -762,9 +802,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM2-03 RM59,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM2-02",
@@ -781,9 +822,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM2-02 RM64,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -801,7 +843,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF PMN +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -822,7 +864,8 @@
         "defaultArrangementNote": null,
         "dateLabel": null,
         "nightCount": null,
-        "evidence": []
+        "evidence": [],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "pmn",
@@ -831,7 +874,7 @@
           {
             "pdfPage": 128,
             "text": "ELAF PMN — TERMASUK PMN: RM12,000 — KHEMAH MAJR AL KABSH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -846,7 +889,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -856,7 +899,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -866,7 +909,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -897,7 +940,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH ELAF AL BAIT @SETARAF (+-190M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -922,7 +965,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH ELAF AL TAIBA/MOVENPICK @SETARAF (+-50M KE DATARAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -935,7 +978,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -946,7 +989,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -957,7 +1000,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -968,7 +1011,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -979,7 +1022,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -990,7 +1033,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1001,7 +1044,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1012,7 +1055,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1023,7 +1066,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1034,7 +1077,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1045,7 +1088,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1056,7 +1099,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1068,7 +1111,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1079,19 +1122,40 @@
           "codeIsInternal": false,
           "priceSen": 5999000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM3-04/05 TERMASUK PMN: RM12,000 RM59,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM3-04/05",
+          "codeIsInternal": false,
+          "priceSen": 5999000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM3-04/05 TERMASUK PMN: RM12,000 RM59,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM3-03",
@@ -1108,9 +1172,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM3-03 RM71,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM3-02",
@@ -1127,9 +1192,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM3-02 RM85,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -1147,7 +1213,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER AZIZIYAH +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1172,9 +1238,10 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER AZIZIYAH — AZIZIYAH NUZL RAYAN HOTEL @SETARAF (+-900M)",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "muaisim",
@@ -1183,7 +1250,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER AZIZIYAH — KHEMAH MUASSEM",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1198,7 +1265,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1208,7 +1275,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1218,7 +1285,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1249,7 +1316,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH MAKKAH TOWER @SETARAF (+-50M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1274,7 +1341,7 @@
             {
               "pdfPage": 128,
               "text": "AZIZIYAH NUZL RAYAN HOTEL @SETARAF (+-900M)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1299,7 +1366,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH NUSK AL-EMAN @SETARAF (+-80M KE DATARAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1312,7 +1379,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1323,7 +1390,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1334,7 +1401,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1345,7 +1412,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1356,7 +1423,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1367,7 +1434,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1378,7 +1445,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1389,7 +1456,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1400,7 +1467,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1411,7 +1478,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1422,7 +1489,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1433,7 +1500,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1445,7 +1512,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1456,19 +1523,40 @@
           "codeIsInternal": false,
           "priceSen": 4899000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM4-04/05 RM48,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM4-04/05",
+          "codeIsInternal": false,
+          "priceSen": 4899000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "not_included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM4-04/05 RM48,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM4-03",
@@ -1485,9 +1573,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM4-03 RM60,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM4-02",
@@ -1504,9 +1593,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM4-02 RM65,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -1524,7 +1614,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER FULL FATRAH +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1545,7 +1635,8 @@
         "defaultArrangementNote": null,
         "dateLabel": null,
         "nightCount": null,
-        "evidence": []
+        "evidence": [],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "muaisim",
@@ -1554,7 +1645,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER FULL FATRAH — KHEMAH MUASSEM",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1569,7 +1660,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1579,7 +1670,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1589,7 +1680,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1620,7 +1711,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH MAKKAH TOWER @SETARAF (+-50M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1645,7 +1736,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH NUSK AL-EMAN @SETARAF (+-250M KE DATARAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1658,7 +1749,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1669,7 +1760,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1680,7 +1771,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1691,7 +1782,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1702,7 +1793,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1713,7 +1804,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1724,7 +1815,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1735,7 +1826,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1746,7 +1837,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1757,7 +1848,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1768,7 +1859,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1779,7 +1870,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1791,7 +1882,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1802,19 +1893,40 @@
           "codeIsInternal": false,
           "priceSen": 5399000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM5-04/05 RM53,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM5-04/05",
+          "codeIsInternal": false,
+          "priceSen": 5399000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "not_included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM5-04/05 RM53,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM5-03",
@@ -1831,9 +1943,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM5-03 RM65,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM5-02",
@@ -1850,9 +1963,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM5-02 RM70,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -1870,7 +1984,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER PMN +-40H",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1891,7 +2005,8 @@
         "defaultArrangementNote": null,
         "dateLabel": null,
         "nightCount": null,
-        "evidence": []
+        "evidence": [],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "pmn",
@@ -1900,7 +2015,7 @@
           {
             "pdfPage": 128,
             "text": "MAKKAH TOWER PMN — TERMASUK PMN: RM12,000 — KHEMAH MAJR AL KABSH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1915,7 +2030,7 @@
           {
             "pdfPage": 129,
             "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1925,7 +2040,7 @@
           {
             "pdfPage": 129,
             "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1935,7 +2050,7 @@
           {
             "pdfPage": 129,
             "text": "SAJIAN MAKANAN 3X SEHARI — Buffet 3x sehari di Makkah & Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1966,7 +2081,7 @@
             {
               "pdfPage": 128,
               "text": "MAKKAH MAKKAH TOWER @SETARAF (+-50M KE DATARAN MASJIDIL HARAM)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1991,7 +2106,7 @@
             {
               "pdfPage": 128,
               "text": "MADINAH NUSK AL-EMAN @SETARAF (+-250M KE DATARAN MASJID NABAWI)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2004,7 +2119,7 @@
             {
               "pdfPage": 129,
               "text": "TIKET PENERBANGAN — Penerbangan Carter Kelas Ekonomi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2015,7 +2130,7 @@
             {
               "pdfPage": 129,
               "text": "VISA HAJI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2026,7 +2141,7 @@
             {
               "pdfPage": 129,
               "text": "KAD PERUBATAN AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2037,7 +2152,7 @@
             {
               "pdfPage": 129,
               "text": "INSURANS AL-KHAIRI — Memudahkan jemaah melawati klinik pesakit luar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2048,7 +2163,7 @@
             {
               "pdfPage": 129,
               "text": "SET KELENGKAPAN HAJI — SET CENDERAHATI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2059,7 +2174,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN BAS DISEDIAKAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2070,7 +2185,7 @@
             {
               "pdfPage": 129,
               "text": "PENGANGKUTAN PULANG KE HOTEL MAKKAH DARI MINA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2081,7 +2196,7 @@
             {
               "pdfPage": 129,
               "text": "KURSUS HAJI DI MALAYSIA DAN DI TANAH SUCI — Persediaan jemaah Haji sebelum berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2092,7 +2207,7 @@
             {
               "pdfPage": 129,
               "text": "ZIARAH 6 KALI DI MAKKAH & MADINAH *Tertakluk kepada kelulusan Arab Saudi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2103,7 +2218,7 @@
             {
               "pdfPage": 129,
               "text": "LEBIH 30 LAWATAN ZIARAH MAKKAH & MADINAH — Ziarah Makkah, Ziarah Madinah, Ziarah Hudaibiyah, Ziarah Badar, Ziarah Taif, Gua Hira'",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2114,7 +2229,7 @@
             {
               "pdfPage": 129,
               "text": "GURU AGAMA BERTAULIAH — Bertauliah (PIHTAS/PEKTA) dan berpengalaman dari Lembaga Tabung Haji. PETUGAS — Petugas Haji yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2125,7 +2240,7 @@
             {
               "pdfPage": 129,
               "text": "HARAMAIN SPEED TRAIN — Tiket ekonomi sehala speed train termasuk dalam pakej",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2137,7 +2252,7 @@
             {
               "pdfPage": 129,
               "text": "2. Harga pakej bermula dari Kuala Lumpur dan tidak termasuk penerbangan domestik.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2148,19 +2263,40 @@
           "codeIsInternal": false,
           "priceSen": 6599000,
           "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber 4/5",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 128,
+              "text": "BILIK BER 4/5 TTIM6-04/05 TERMASUK PMN: RM12,000 RM65,990",
+              "status": "verified"
+            }
+          ],
+          "aziziyahOccupancy": null
+        },
+        {
+          "code": "TTIM6-04/05",
+          "codeIsInternal": false,
+          "priceSen": 6599000,
+          "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
           "pmnStatus": "included",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber 4/5",
-          "notes": "Dicetak 'Bilik Ber 4/5' (4 atau 5 orang sebilik pada harga sama); direkod 5 (maksimum).",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 128,
               "text": "BILIK BER 4/5 TTIM6-04/05 TERMASUK PMN: RM12,000 RM65,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM6-03",
@@ -2177,9 +2313,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 3 TTIM6-03 RM77,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "TTIM6-02",
@@ -2196,9 +2333,10 @@
             {
               "pdfPage": 128,
               "text": "BILIK BER 2 TTIM6-02 RM82,990",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     }
@@ -2225,7 +2363,7 @@
         {
           "pdfPage": 128,
           "text": "Harga Pakej Haji adalah termasuk Bayaran Haji PJH 1448/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah Haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2249,16 +2387,13 @@
         {
           "pdfPage": 128,
           "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "titim-pmn-termasuk",
-      "packageIds": [
-        "titim-elaf-pmn",
-        "titim-makkah-tower-pmn"
-      ],
+      "packageIds": ["titim-elaf-pmn", "titim-makkah-tower-pmn"],
       "description": "PMN termasuk dalam harga pakej",
       "priceSen": 1200000,
       "basis": "per_person",
@@ -2269,12 +2404,12 @@
         {
           "pdfPage": 128,
           "text": "ELAF PMN — BILIK BER 4/5 TTIM3-04/05 TERMASUK PMN: RM12,000",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 128,
           "text": "MAKKAH TOWER PMN — BILIK BER 4/5 TTIM6-04/05 TERMASUK PMN: RM12,000",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2288,7 +2423,7 @@
         {
           "pdfPage": 128,
           "text": "1448H/2027M PAKEJ HAJI RM42,990 HOTEL LEBIH DEKAT, LEBIH SELESA",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2298,63 +2433,60 @@
       "severity": "non_blocking",
       "packageId": null,
       "field": "variants.makkahOccupancy",
-      "note": "Varian 'Bilik Ber 4/5' (kod -04/05) satu harga untuk 4 atau 5 orang sebilik; direkod sebagai 5 (maksimum). Perlu pengesahan sama ada jemaah boleh memilih 4.",
-      "pages": [
-        128
-      ]
+      "note": "Varian 'Bilik Ber 4/5' (kod -04/05): satu harga dicetak untuk 4 atau 5 orang sebilik; dipecah kepada dua varian (occupancy 4 dan 5, kod dan harga sama) mengikut peraturan R2. Perlu pengesahan sama ada jemaah boleh memilih bilik ber-4.",
+      "pages": [128]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah",
-      "note": "Pakej 'Full Fatrah', 'Elaf Madinah 5 Star' dan PMN tidak menyebut Aziziyah; direkod not_stated. Hanya Makkah Tower Aziziyah menyenaraikan Nuzl Rayan Hotel (+-900m, titik ukuran tidak dinyatakan).",
-      "pages": [
-        128
-      ]
+      "note": "Pakej 'Full Fatrah', 'Elaf Madinah 5 Star' dan PMN tidak menyebut Aziziyah dan tiada teks 'tiada Aziziyah'/sekali check-in; direkod not_stated (R6). Hanya Makkah Tower Aziziyah menyenaraikan Nuzl Rayan Hotel (+-900m, titik ukuran, tarikh dan susunan bilik tidak dinyatakan).",
+      "pages": [128]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak disebut di halaman 128–129.",
-      "pages": [
-        128,
-        129
-      ]
+      "pages": [128, 129]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.terms (pembayaran)",
-      "note": "Teks kecil kotak Pembayaran: '50%'/'60% daripada baki harga pakej' agak kabur; dibaca 50%.",
-      "pages": [
-        129
-      ]
+      "note": "Teks kecil kotak Pembayaran: '50%' daripada baki harga pakej masih kabur pada zum 300 dpi (mungkin 60%); dibaca 50%.",
+      "pages": [129]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 128–129.",
-      "pages": [
-        128,
-        129
-      ]
+      "pages": [128, 129]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        128
-      ]
+      "pages": [128]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.terms (tarikh bayaran)",
+      "note": "Kotak Pembayaran mencetak 'Pembayaran KETIGA selewatnya sebelum 20 Syawal 1447H' — tahun Hijrah mungkin salah cetak (musim 1448H); disalin seperti dicetak (R9).",
+      "pages": [129]
     }
   ],
   "transcription": {
     "reviewer": "agen-G",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan bagi setiap kotak harga, jarak hotel, perkhidmatan dan terma. Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-7",
+      "checkedAt": "2026-10-03",
+      "notes": "Halaman 128–129 dibaca semula (zum 300 dpi); semua 18 harga bercetak, kod, hotel, jarak, khemah, PMN, perkhidmatan dan terma sepadan. Pembetulan: 6 varian 'Bilik Ber 4/5' (TTIM1–6-04/05) dipecah kepada occupancy 4 dan 5 dengan kod dan harga sama (R2), varian 18 → 24. Ditambah gap R9 bagi '20 Syawal 1447H'. Aziziyah pakej bukan 'Makkah Tower Aziziyah' kekal not_stated (R6). Tarwiyah kekal not_stated (tidak disebut). '50%' kotak Pembayaran kekal unclear."
+    }
   }
 }

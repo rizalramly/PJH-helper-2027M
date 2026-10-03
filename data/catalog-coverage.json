@@ -14,12 +14,12 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 0,
+    "pjhReviewed": 4,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
-    "variantsIdentified": 502,
-    "variantsImported": 502,
+    "variantsIdentified": 508,
+    "variantsImported": 508,
     "variantsPublished": 0,
     "unresolvedVariants": 0
   },
@@ -1251,15 +1251,15 @@
       "variantsImported": 7,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 28/1448H",
-      "factsVerified": 0,
+      "factsVerified": 23,
       "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] rehlah-ajwa: upgrades/pmnStatus — Seksyen 'Pilihan Perkhidmatan Tambahan' (PMN RM10,000; Business Class min RM10,000) hanya dicetak pada halaman Sultan (hlm. 118). Tidak pasti sama ada terpakai kepada Ajwa; pmnStatus Ajwa direkod not_stated. Perlu pengesahan PJH.",
+        "[non_blocking] rehlah-ajwa: upgrades/pmnStatus — Seksyen 'Pilihan Perkhidmatan Tambahan' (PMN RM10,000; Business Class min RM10,000) hanya dicetak pada halaman Sultan (hlm. 118). Tidak pasti sama ada terpakai kepada Ajwa. pmnStatus kedua-dua pakej direkod not_stated kerana jenis khemah asas (Muaisim/Muassasah) tidak dinyatakan (peraturan R4). Perlu pengesahan PJH.",
         "[non_blocking] rehlah: masyair — Jenis khemah asas (Muaisim atau lain) tidak dinyatakan untuk kedua-dua pakej.",
         "[non_blocking] rehlah: tarwiyah — Tarwiyah tidak disebut di mana-mana halaman 116–119.",
         "[non_blocking] rehlah: aziziyah.dateLabel/defaultOccupancies — Tarikh/bilangan malam dan susunan bilik di Aziziyah (Nusuk Al Massrah) tidak dinyatakan; susunan bilik Aziziyah tidak dinyatakan sama dengan bilik Makkah.",
@@ -1267,7 +1267,7 @@
         "[non_blocking] rehlah: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-G (semakan bebas belum dibuat)"
+      "reviewer": "agen-G; semakan bebas: penyemak-7"
     },
     {
       "index": 29,
@@ -1294,17 +1294,17 @@
       "variantsImported": 10,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 30/1448H",
-      "factsVerified": 0,
+      "factsVerified": 43,
       "fieldsNotPublished": 8,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] kujdt-makkah-tower: variants.HMT-6.priceSen — Muka depan hlm. 120 'harga dari RM 54,990' vs jadual hlm. 122 HMT-6 RM54,900 (kedua-duanya jelas dibaca). Varian guna RM54,900; perlu pengesahan PJH.",
         "[non_blocking] kujdt: upgrades.kujdt-pmn.basis — Pilihan Upgrade PMN RM12,000 dicetak tanpa 'seorang/pax'; direkod per_person sebagai andaian.",
-        "[non_blocking] kujdt: masyair — Jenis khemah asas (tanpa PMN) tidak dinyatakan.",
+        "[non_blocking] kujdt: masyair — Jenis khemah asas (tanpa PMN) tidak dinyatakan; pmnStatus semua varian direkod not_stated (R4) kerana PMN hanya pilihan naik taraf RM12,000.",
         "[non_blocking] kujdt: stays.distanceReference — Jarak hotel Makkah (+/-50m / +/-80m) dan Madinah (+/-100m) tanpa titik ukuran; infografik hlm. 120 hanya menunjuk ke Masjidil Haram.",
         "[non_blocking] kujdt-clock-tower-plus: flightClass — Penerbangan pergi Charter TH (kelas tidak dinyatakan), pulang Komersial Ekonomi; nilai tunggal direkod not_stated.",
         "[non_blocking] kujdt: inclusions — 'Kekal bilik berdua di Hotel Syisyah hingga selesai Mabit di Mina' (hlm. 120) tidak jelas sama ada untuk semua varian atau hanya varian 2 sebilik.",
@@ -1312,7 +1312,7 @@
         "[non_blocking] kujdt: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-G (semakan bebas belum dibuat)"
+      "reviewer": "agen-G; semakan bebas: penyemak-7"
     },
     {
       "index": 30,
@@ -1323,7 +1323,7 @@
         127
       ],
       "seasonId": "1448H",
-      "legalName": "Syarikat Pelancongan Yaskin Sdn. Bhd.",
+      "legalName": "Syarikat Pelancungan Yaskin Sdn. Bhd.",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
@@ -1339,25 +1339,24 @@
       "variantsImported": 18,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH : 29/1448H",
-      "factsVerified": 0,
-      "fieldsNotPublished": 8,
+      "factsVerified": 92,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] yaskin: tarwiyah — Tarwiyah hanya ditunjukkan dalam 'Ringkasan Perjalanan (Tarwiyah)' hlm. 127; pemetaan kepada pakej Khemah Muassim disimpulkan (pakej PMN mempunyai ringkasan berasingan tanpa Tarwiyah). Tiada syarat khusus Tarwiyah dicetak.",
+        "[non_blocking] yaskin: tarwiyah — Tarwiyah hanya muncul dalam infografik 'Ringkasan Perjalanan (TARWIYAH)' hlm. 127 (langkah 7: 'Bergerak ke Mina untuk Tarwiyah', label tarikh '7 Zulhijjah'), bersebelahan 'Ringkasan Perjalanan (PMN)' tanpa Tarwiyah. Tiada teks yang mengaitkan ringkasan itu dengan pakej tertentu (cth. pakej Khemah Muassim: Rottab, Mariami, Safwah, Ajwah, Ajwah Biz), jadi semua pakej direkod not_stated (R5). Label '7 Zulhijjah' juga berbeza daripada hari Tarwiyah lazim (8 Zulhijjah) — salin seperti dicetak. Perlu pengesahan PJH.",
         "[non_blocking] yaskin-aaliah: stays/relocations/trainClass — Hotel Makkah Aaliah tanpa label 'Selepas 15 Zulhijjah' (berbeza daripada Syifaa); 'Train Business Class' & GMC dicetak dalam kotak Syifaa di bawah tajuk Pakej Premium, tidak pasti terpakai kepada Aaliah.",
         "[non_blocking] yaskin-mabroom: variants.MB01.priceSen — Harga MB01 dicetak 'Daripada RM 89,980'.",
         "[non_blocking] yaskin: upgrades.basis — Naik taraf hlm. 127 (PMN, Business Class, tempoh singkat, domestik, medical card) dicetak 'Dari RM...' tanpa unit; direkod per_person. Skop pakej yang layak tidak dinyatakan; disimpulkan daripada jenis pakej.",
-        "[non_blocking] yaskin: pjh.terms (pembayaran) — Teks kotak PEMBAYARAN kecil dan kabur (deposit RM5,000; bayaran penuh sebelum 10 Dis 2026).",
         "[non_blocking] yaskin: aziziyah.nightCount — Bilangan malam di Syisyah tidak dicetak; ringkasan menunjukkan ketibaan di Syisyah dan pindah ke hotel Makkah 15 Zulhijjah.",
         "[non_blocking] yaskin: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam mana-mana halaman 124–127.",
         "[non_blocking] yaskin: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-G (semakan bebas belum dibuat)"
+      "reviewer": "agen-G; semakan bebas: penyemak-7"
     },
     {
       "index": 31,
@@ -1378,27 +1377,28 @@
         129
       ],
       "packageFamiliesIdentified": 6,
-      "variantsIdentified": 18,
-      "variantsImported": 18,
+      "variantsIdentified": 24,
+      "variantsImported": 24,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "LESEN PJH: 31/1448H",
-      "factsVerified": 0,
-      "fieldsNotPublished": 6,
+      "factsVerified": 48,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] titim: variants.makkahOccupancy — Varian 'Bilik Ber 4/5' (kod -04/05) satu harga untuk 4 atau 5 orang sebilik; direkod sebagai 5 (maksimum). Perlu pengesahan sama ada jemaah boleh memilih 4.",
-        "[non_blocking] titim: aziziyah — Pakej 'Full Fatrah', 'Elaf Madinah 5 Star' dan PMN tidak menyebut Aziziyah; direkod not_stated. Hanya Makkah Tower Aziziyah menyenaraikan Nuzl Rayan Hotel (+-900m, titik ukuran tidak dinyatakan).",
+        "[non_blocking] titim: variants.makkahOccupancy — Varian 'Bilik Ber 4/5' (kod -04/05): satu harga dicetak untuk 4 atau 5 orang sebilik; dipecah kepada dua varian (occupancy 4 dan 5, kod dan harga sama) mengikut peraturan R2. Perlu pengesahan sama ada jemaah boleh memilih bilik ber-4.",
+        "[non_blocking] titim: aziziyah — Pakej 'Full Fatrah', 'Elaf Madinah 5 Star' dan PMN tidak menyebut Aziziyah dan tiada teks 'tiada Aziziyah'/sekali check-in; direkod not_stated (R6). Hanya Makkah Tower Aziziyah menyenaraikan Nuzl Rayan Hotel (+-900m, titik ukuran, tarikh dan susunan bilik tidak dinyatakan).",
         "[non_blocking] titim: tarwiyah — Tarwiyah tidak disebut di halaman 128–129.",
-        "[non_blocking] titim: pjh.terms (pembayaran) — Teks kecil kotak Pembayaran: '50%'/'60% daripada baki harga pakej' agak kabur; dibaca 50%.",
+        "[non_blocking] titim: pjh.terms (pembayaran) — Teks kecil kotak Pembayaran: '50%' daripada baki harga pakej masih kabur pada zum 300 dpi (mungkin 60%); dibaca 50%.",
         "[non_blocking] titim: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 128–129.",
-        "[non_blocking] titim: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+        "[non_blocking] titim: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+        "[non_blocking] titim: pjh.terms (tarikh bayaran) — Kotak Pembayaran mencetak 'Pembayaran KETIGA selewatnya sebelum 20 Syawal 1447H' — tahun Hijrah mungkin salah cetak (musim 1448H); disalin seperti dicetak (R9)."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-G (semakan bebas belum dibuat)"
+      "reviewer": "agen-G; semakan bebas: penyemak-7"
     },
     {
       "index": 32,

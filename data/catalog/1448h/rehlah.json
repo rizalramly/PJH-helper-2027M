@@ -13,7 +13,7 @@
       {
         "pdfPage": 116,
         "text": "NO LESEN HAJI : PJH 28/1448H — NO. SSM : 1298232-V — KPN / LN : 9703",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 117,
             "text": "1. Harga yang dipaparkan adalah tertakluk kepada perubahan pihak Tabung Haji, penerbangan, hotel, Kekosongan bilik dan lain-lain. 2. Sebarang perubahan akan dimaklumkan dari masa ke semasa.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 117,
             "text": "3. Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada Tabung Haji dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 119,
             "text": "Sebelum jadual penerbangan Haji dikeluarkan - 5%; Selepas jadual penerbangan Haji dikeluarkan - 20%; Selepas jadual penerbangan Haji dikeluarkan dan visa Haji diperuntukkan - 40%. Caj dikira daripada harga pakej Haji setelah ditolak Bayaran Haji PJH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 119,
             "text": "DEPOSIT SERENDAH RM 1,500 — PEMBAYARAN : Hendaklah dibuat terus ke akaun MAYBANK ISLAMIC syarikat atas nama: REHLAH INTERNATIONAL TRAVEL & TOURS SDN BHD",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
@@ -96,7 +96,7 @@
           {
             "pdfPage": 117,
             "text": "AJWA 40 - 45 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -121,9 +121,10 @@
           {
             "pdfPage": 117,
             "text": "NUSUK AL MASSRAH — 300M DARI DATARAN KOMPLEKS JAMRAT — [foto] AZIZIYAH",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "not_stated",
@@ -141,7 +142,7 @@
           {
             "pdfPage": 117,
             "text": "3. Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada Tabung Haji dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -151,7 +152,7 @@
           {
             "pdfPage": 117,
             "text": "TERMASUK SPEED TRAIN HARAMAIN MAKKAH KE MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -161,7 +162,7 @@
           {
             "pdfPage": 119,
             "text": "3 KALI MAKAN SEHARI — Masakan di Makkah dan Madinah diuruskan oleh pihak hotel secara buffet",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -192,7 +193,7 @@
             {
               "pdfPage": 117,
               "text": "MAKKAH TOWER — 50M DARI DATARAN MASJIDIL HARAM (MAKKAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -217,7 +218,7 @@
             {
               "pdfPage": 117,
               "text": "NUSUK AL MASSRAH — 300M DARI DATARAN KOMPLEKS JAMRAT (AZIZIYAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -242,7 +243,7 @@
             {
               "pdfPage": 117,
               "text": "ELAF TAIBA — 80M DARI DATARAN MASJID NABAWI (MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -255,7 +256,7 @@
             {
               "pdfPage": 117,
               "text": "TERMASUK SPEED TRAIN HARAMAIN MAKKAH KE MADINAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -266,7 +267,7 @@
             {
               "pdfPage": 119,
               "text": "3 KALI MAKAN SEHARI — Masakan di Makkah dan Madinah diuruskan oleh pihak hotel secara buffet",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -277,7 +278,7 @@
             {
               "pdfPage": 119,
               "text": "PERLINDUNGAN TAKAFUL — Pakej termasuk perlindungan takaful perjalanan ibadah haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -288,7 +289,7 @@
             {
               "pdfPage": 119,
               "text": "BIMBINGAN HAJI — Kursus Haji Intensif diadakan di tanah air sebelum berangkat ke tanah suci, Kuliah agama serta ulangkaji manasik Haji diadakan ketika berada di Makkah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -299,7 +300,7 @@
             {
               "pdfPage": 119,
               "text": "PENGURUSAN LOGISTIK — Bag bagasi, visa, ziarah diurus dengan tersusun",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -310,7 +311,7 @@
             {
               "pdfPage": 119,
               "text": "CENDERAHATI KELENGKAPAN HAJI — Bag Bagasi 26 Inci, Bag Bagasi 20 Inci, Bag Silang, Bag Kasut, Bag Sandang, ... Telekung (Perempuan), Set Kain Ihram (Lelaki), ... Buku Panduan Haji, Tali Pinggang Bagasi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -332,9 +333,10 @@
             {
               "pdfPage": 117,
               "text": "RIA 5 RM 54,990 BILIK BERLIMA",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "RIA 4",
@@ -351,9 +353,10 @@
             {
               "pdfPage": 117,
               "text": "RIA 4 RM 62,990 BILIK BEREMPAT",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "RIA 3",
@@ -370,9 +373,10 @@
             {
               "pdfPage": 117,
               "text": "RIA 3 RM 65,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "RIA 2",
@@ -389,9 +393,10 @@
             {
               "pdfPage": 117,
               "text": "RIA 2 RM 73,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     },
@@ -409,7 +414,7 @@
           {
             "pdfPage": 118,
             "text": "SULTAN 40 - 45 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -434,9 +439,10 @@
           {
             "pdfPage": 118,
             "text": "NUSUK AL MASSRAH — 300M DARI DATARAN KOMPLEKS JAMRAT — [foto] AZIZIYAH",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": null
       },
       "masyair": {
         "type": "not_stated",
@@ -445,7 +451,7 @@
           {
             "pdfPage": 118,
             "text": "Perkhidmatan Masyair Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan sebanyak RM10,000 seorang (tertakluk kepada kadar bayaran sebenar yang bakal ditetapkan oleh pihak Holiday Inn Makkah).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -460,7 +466,7 @@
           {
             "pdfPage": 117,
             "text": "3. Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada Tabung Haji dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -470,7 +476,7 @@
           {
             "pdfPage": 118,
             "text": "TERMASUK SPEED TRAIN HARAMAIN MAKKAH KE MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -480,7 +486,7 @@
           {
             "pdfPage": 119,
             "text": "3 KALI MAKAN SEHARI — Masakan di Makkah dan Madinah diuruskan oleh pihak hotel secara buffet",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -511,7 +517,7 @@
             {
               "pdfPage": 118,
               "text": "SAFWAH TOWER — 50M DARI DATARAN MASJIDIL HARAM (MAKKAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -536,7 +542,7 @@
             {
               "pdfPage": 118,
               "text": "NUSUK AL MASSRAH — 300M DARI DATARAN KOMPLEKS JAMRAT (AZIZIYAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -561,7 +567,7 @@
             {
               "pdfPage": 118,
               "text": "ELAF TAIBA — 80M DARI DATARAN MASJID NABAWI (MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -574,7 +580,7 @@
             {
               "pdfPage": 118,
               "text": "TERMASUK SPEED TRAIN HARAMAIN MAKKAH KE MADINAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -585,7 +591,7 @@
             {
               "pdfPage": 119,
               "text": "3 KALI MAKAN SEHARI — Masakan di Makkah dan Madinah diuruskan oleh pihak hotel secara buffet",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -596,7 +602,7 @@
             {
               "pdfPage": 119,
               "text": "PERLINDUNGAN TAKAFUL — Pakej termasuk perlindungan takaful perjalanan ibadah haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -607,7 +613,7 @@
             {
               "pdfPage": 119,
               "text": "BIMBINGAN HAJI — Kursus Haji Intensif diadakan di tanah air sebelum berangkat ke tanah suci, Kuliah agama serta ulangkaji manasik Haji diadakan ketika berada di Makkah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -618,7 +624,7 @@
             {
               "pdfPage": 119,
               "text": "PENGURUSAN LOGISTIK — Bag bagasi, visa, ziarah diurus dengan tersusun",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -629,7 +635,7 @@
             {
               "pdfPage": 119,
               "text": "CENDERAHATI KELENGKAPAN HAJI — Bag Bagasi 26 Inci, Bag Bagasi 20 Inci, Bag Silang, Bag Kasut, Bag Sandang, ... Telekung (Perempuan), Set Kain Ihram (Lelaki), ... Buku Panduan Haji, Tali Pinggang Bagasi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -643,7 +649,7 @@
           "currency": "MYR",
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Berempat",
           "notes": null,
@@ -651,9 +657,10 @@
             {
               "pdfPage": 118,
               "text": "RIS 4 RM 63,990 BILIK BEREMPAT",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "RIS 3",
@@ -662,7 +669,7 @@
           "currency": "MYR",
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Bertiga",
           "notes": null,
@@ -670,9 +677,10 @@
             {
               "pdfPage": 118,
               "text": "RIS 3 RM 67,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         },
         {
           "code": "RIS 2",
@@ -681,7 +689,7 @@
           "currency": "MYR",
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Berdua",
           "notes": null,
@@ -689,9 +697,10 @@
             {
               "pdfPage": 118,
               "text": "RIS 2 RM 77,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": null
         }
       ]
     }
@@ -714,7 +723,7 @@
         {
           "pdfPage": 118,
           "text": "Perkhidmatan Masyair Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan sebanyak RM10,000 seorang (tertakluk kepada kadar bayaran sebenar yang bakal ditetapkan oleh pihak Holiday Inn Makkah).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -735,7 +744,7 @@
         {
           "pdfPage": 118,
           "text": "Tiket penerbangan kelas perniagaan (Business Class) dengan tambahan bayaran minimum sebanyak RM10,000 seorang (tertakluk kepada harga tiket sebenar, kelulusan pihak TH serta kekosongan tempat duduk penerbangan semasa pendaftaran).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -754,12 +763,12 @@
         {
           "pdfPage": 117,
           "text": "Harga Pakej haji adalah TERMASUK BAYARAN HAJI PJH 1448H / 2027M sebanyak RM 23,398.00 yang akan didebitkan dari akaun TH Jemaah haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 118,
           "text": "Harga Pakej haji adalah TERMASUK BAYARAN HAJI PJH 1448H / 2027M sebanyak RM 23,398.00 yang akan didebitkan dari akaun TH Jemaah haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -776,12 +785,12 @@
         {
           "pdfPage": 117,
           "text": "Walau bagaimanapun, TH Berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 118,
           "text": "Walau bagaimanapun, TH Berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -792,7 +801,7 @@
       "severity": "non_blocking",
       "packageId": "rehlah-ajwa",
       "field": "upgrades/pmnStatus",
-      "note": "Seksyen 'Pilihan Perkhidmatan Tambahan' (PMN RM10,000; Business Class min RM10,000) hanya dicetak pada halaman Sultan (hlm. 118). Tidak pasti sama ada terpakai kepada Ajwa; pmnStatus Ajwa direkod not_stated. Perlu pengesahan PJH.",
+      "note": "Seksyen 'Pilihan Perkhidmatan Tambahan' (PMN RM10,000; Business Class min RM10,000) hanya dicetak pada halaman Sultan (hlm. 118). Tidak pasti sama ada terpakai kepada Ajwa. pmnStatus kedua-dua pakej direkod not_stated kerana jenis khemah asas (Muaisim/Muassasah) tidak dinyatakan (peraturan R4). Perlu pengesahan PJH.",
       "pages": [117, 118]
     },
     {
@@ -835,6 +844,10 @@
     "reviewer": "agen-G",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan bagi harga dan teks kecil. Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-7",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua 4 halaman (116–119) dibaca semula; 7 harga varian, kod, bilik, hotel, jarak, caj, naik taraf dan terma sepadan dengan imej. Pembetulan: pmnStatus varian Sultan (RIS 2/3/4) not_included → not_stated (R4: PMN naik taraf berbayar tetapi khemah asas Muaisim tidak dinyatakan). Tarwiyah kekal not_stated (tidak disebut). Aziziyah Nusuk Al Massrah kekal included (R1)."
+    }
   }
 }
