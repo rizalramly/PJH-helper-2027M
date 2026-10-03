@@ -583,7 +583,7 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 - [x] Fasa 1 katalog 34 PJH + manifest liputan + rekonsiliasi (33/34 reviewed, 1 blocked: Jad Gold; 517 varian)
 - [x] Fasa 2 engine + senario A–F + ujian merentas PJH (dibina lebih awal bersama Fasa 1)
 - [x] Fasa 3 stor Blob + seed idempotent (`docs/deployment.md`)
-- [ ] Fasa 4 API assess/compare/katalog/liputan
+- [x] Fasa 4 API assess/compare/katalog/liputan (`docs/api.md`)
 - [ ] Fasa 5 wizard
 - [ ] Fasa 6 hasil/banding/laporan cetak/Liputan data
 - [ ] Fasa 7 pentadbir + auth + publish/history

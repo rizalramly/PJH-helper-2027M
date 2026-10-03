@@ -52,6 +52,10 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<query>" --domain ux
 python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<query>" --stack nextjs
 ```
 
+## API
+
+`POST /api/assess`, `POST /api/compare`, `GET /api/catalog/{seasons,pjhs,packages,variants/:id}` dan `GET /api/coverage`. Kontrak dan contoh: [`docs/api.md`](docs/api.md).
+
 ## Stor data
 
 Katalog diterbitkan sebagai snapshot berversi dalam Vercel Blob dengan penunjuk aktif. Lihat [`docs/deployment.md`](docs/deployment.md) untuk susun atur, seed, persekitaran dan rollback. Tanpa `BLOB_READ_WRITE_TOKEN`, pembangunan setempat membaca fail repo.
@@ -62,7 +66,7 @@ Lihat `.env.example`. Semua rahsia hanya di server. Jangan guna awalan `NEXT_PUB
 
 ## Batasan semasa
 
-- Jad Gold: caj penerbangan Business Class kabur (blocker). Tiada wizard, API atau pentadbir lagi (Fasa 3–7).
+- Jad Gold: caj penerbangan Business Class kabur (blocker). Tiada wizard, paparan hasil atau pentadbir lagi (Fasa 5–7).
 - Kelulusan PJH 1448H belum disahkan daripada sumber rasmi; kekosongan semua pakej perlu pertanyaan.
 - Kelulusan PJH bagi 1448H belum disahkan daripada sumber rasmi.
 - Tiada tempahan, pembayaran atau mesej kepada PJH.
