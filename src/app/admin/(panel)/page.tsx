@@ -2,6 +2,7 @@ import Link from "next/link";
 import { connection } from "next/server";
 
 import { AUDIT_ACTION, DRAFT_STATUS, fmtDateTime } from "@/components/admin/labels";
+import { SeedButton } from "@/components/admin/SeedButton";
 import { StatusBadge } from "@/components/results/StatusBadge";
 import { dashboard, recentAudit } from "@/lib/admin/queries";
 import { requirePageUser } from "@/lib/auth/page";
@@ -16,7 +17,7 @@ const STORE_LABEL = {
 
 export default async function AdminHome() {
   await connection();
-  await requirePageUser("/admin");
+  const user = await requirePageUser("/admin");
   const store = requireStore();
   const [d, audit] = await Promise.all([
     dashboard(store, DEFAULT_SEASON_ID),
@@ -40,11 +41,23 @@ export default async function AdminHome() {
             diaktifkan {fmtDateTime(d.pointer.activatedAt)} oleh {d.pointer.activatedBy}.{" "}
             {d.versions.length} versi dalam sejarah.
           </p>
-        ) : (
+        ) : store.kind === "file" ? (
           <p className="text-sm">
             Tiada versi diterbitkan dalam stor ini. Katalog awam dibaca daripada fail repo (
             <span className="font-mono">{d.baseVersion ?? "—"}</span>) sehingga penerbitan pertama.
           </p>
+        ) : (
+          <div className="flex flex-col gap-2 text-sm">
+            <p className="text-status-cond">
+              Stor ini belum mempunyai katalog aktif; halaman awam memaparkan &quot;katalog tidak
+              tersedia&quot; sehingga katalog awal diterbitkan.
+            </p>
+            {user.role === "admin" ? (
+              <SeedButton />
+            ) : (
+              <p>Minta pentadbir menerbitkan katalog awal.</p>
+            )}
+          </div>
         )}
       </section>
 

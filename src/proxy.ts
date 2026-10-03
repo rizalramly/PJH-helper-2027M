@@ -4,7 +4,12 @@ import { sessionSecret, SESSION_COOKIE, verifySession } from "@/lib/auth/session
 
 // Semakan awal sahaja (tandatangan + tempoh token). Setiap Route Handler dan halaman pentadbir
 // mengesahkan sesi sepenuhnya (pengguna, peranan, status) melalui src/lib/auth/guard.ts.
-const PUBLIC = new Set(["/admin/log-masuk", "/api/admin/session"]);
+const PUBLIC = new Set([
+  "/admin/log-masuk",
+  "/api/admin/session",
+  "/admin/persediaan",
+  "/api/admin/setup",
+]);
 
 export function proxy(req: NextRequest) {
   const { pathname, search } = req.nextUrl;
