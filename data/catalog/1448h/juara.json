@@ -13,7 +13,7 @@
       {
         "pdfPage": 84,
         "text": "NO. LESEN PJH: PJH 20/1448H — NO. PENDAFTARAN SSM: 320807M — NO. LESEN MOTAC: KPL 2819 — NO. KELULUSAN IKLAN: IU00539",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 87,
             "text": "7. Wang pendahuluan (deposit) sebanyak rm2000.00 seorang (bakal haji terpilih) ... baki pembayaran hendaklah dibayar 45 hari sebelum berangkat ke tanah suci.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 87,
             "text": "8. Sekiranya pakej pilihan utama tiada kekosongan atau tidak mencukupi di akhir penyusunan bilik penginapan, bakal jemaah haji akan ditawarkan pakej-pakej pilihan alternatif.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 87,
             "text": "5. Tiada bayaran balik sekiranya tidak menggunakan mana-mana perkhidmatan yang disediakan di dalam pakej.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 87,
             "text": "4. Pihak syarikat berhak untuk menukar atucara perjalanan, tempat penginapan dan lain-lain sekiranya perlu",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -63,23 +63,15 @@
           {
             "pdfPage": 87,
             "text": "KATEGORI 1 ... 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga Pakej Haji setelah ditolak bayaran Haji PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      84,
-      87
-    ],
-    "pagesReviewed": [
-      84,
-      85,
-      86,
-      87
-    ],
+    "pageRange": [84, 87],
+    "pagesReviewed": [84, 85, 86, 87],
     "pageNotes": [
       {
         "pdfPage": 84,
@@ -112,7 +104,7 @@
           {
             "pdfPage": 85,
             "text": "AL-SALAM TEMPOH HARI ±40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -122,7 +114,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -143,14 +135,15 @@
           {
             "pdfPage": 86,
             "text": "Perkhidmatan Naik Taraf Hotel Masyaeir (PTM), bermula dari RM7,500. \"Tertakluk kepada kekosongan. Availability\"",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 84,
             "text": "TERMASUK PENGINAPAN AZIZIYAH UNTUK PAKEJ AL-FURQAN",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "Hotel Masyaeir (PTM)"
       },
       "masyair": {
         "type": "not_stated",
@@ -159,7 +152,7 @@
           {
             "pdfPage": 87,
             "text": "9. Perkhidmatan masya'ir naik taraf (PMN) bagi khemah Arafah dan Mina disediakan secara pilihan dengan caj tambahan sebanyak rm7,000 mengikut kadar bayaran yang akan ditetapkan oleh pihak berautoriti / berkuasa di Arab Saudi (tertakluk pada perubahan oleh pihak TH).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -174,7 +167,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -184,12 +177,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 86,
             "text": "11. Termasuk high speed train (Sehala).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -199,12 +192,12 @@
           {
             "pdfPage": 85,
             "text": "3X SEHARI MAKAN SAJIAN ASIA",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 86,
             "text": "6. 3x hidangan makanan sehari citarasa melayu/asia sepanjang berada di Tanah Suci.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -229,12 +222,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MAKKAH ELAF ALKHAIR *Atau Setaraf ±400 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MAKKAH EKONOMI ELAF ALKHAIR *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±400 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -252,12 +245,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MADINAH LEADER MUNA KAREEM *Atau Setaraf ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MADINAH ★★★★ LEADER MUNA KAREEM *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -270,12 +263,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK ZIARAH TAIF",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "12. Termasuk ziarah ke Kota Taif.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -286,7 +279,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -297,7 +290,7 @@
             {
               "pdfPage": 84,
               "text": "7x KALI UMRAH BERSAMA PEMBIMBING",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -308,12 +301,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK BUGGY BAGI TAWAF & SAEI HAJI",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "13. Termasuk 1x perkhidmatan BUGGY untuk Tawaf Saei Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -324,7 +317,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HOP ON HOP OFF (TOUR MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -335,7 +328,7 @@
             {
               "pdfPage": 86,
               "text": "10. Termasuk 3x ke Masjid Quba.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -346,7 +339,7 @@
             {
               "pdfPage": 85,
               "text": "TERMASUK ZIARAH MUZIUM WAHYU (MAKKAH). TERMASUK ZIARAH MUZIUM AS-SAFIYAH (MADINAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -357,7 +350,7 @@
             {
               "pdfPage": 85,
               "text": "PROGRAM JALAN SUBUR IMAN MAKKAH (8 TEMPAT SEJARAH) ... ZIARAH LUAR KOTA SUCI MADINAH (5 TEMPAT ZIARAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -368,7 +361,7 @@
             {
               "pdfPage": 85,
               "text": "JAMUAN ISTIMEWA KABSAH HASHI (NASI UNTA).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -379,7 +372,7 @@
             {
               "pdfPage": 86,
               "text": "8. Penyediaan Kursus Haji Perdana secara teori dan simulasi turut diadakan sebelum para jemaah HAJI Juara Travel & Tours berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -390,7 +383,7 @@
             {
               "pdfPage": 86,
               "text": "SET CENDERAHATI • Buku Doa, Umrah & Haji • Beg Bagasi ... • Ihram (bagi Lelaki) • Tikar Arafah ... • Adapter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -401,7 +394,7 @@
             {
               "pdfPage": 86,
               "text": "Semua pengangkutan pergerakan semasa dan di masyaeir (Arafah - Muzdalifah - Mina) akan disediakan oleh pihak berkuasa (Naqabah) untuk semua pakej. Pergerakan ziarah selain hari masyaeir disediakan oleh PJH JTT.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -413,7 +406,7 @@
           "priceSen": 4990000,
           "makkahOccupancy": 5,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-5 (MAKKAH) *TERHAD BILIK BER-4 (MADINAH)",
           "notes": null,
@@ -421,7 +414,7 @@
             {
               "pdfPage": 84,
               "text": "JTT01 RM 49,900 BILIK BER-5 (MAKKAH) *TERHAD BILIK BER-4 (MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -430,7 +423,7 @@
           "priceSen": 5390000,
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-4",
           "notes": null,
@@ -438,7 +431,7 @@
             {
               "pdfPage": 84,
               "text": "JTT02 RM 53,900 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -447,7 +440,7 @@
           "priceSen": 5790000,
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-3",
           "notes": null,
@@ -455,7 +448,7 @@
             {
               "pdfPage": 84,
               "text": "JTT03 RM 57,900 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -464,7 +457,7 @@
           "priceSen": 6890000,
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-2",
           "notes": null,
@@ -472,7 +465,7 @@
             {
               "pdfPage": 84,
               "text": "JTT04 RM 68,900 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -490,7 +483,7 @@
           {
             "pdfPage": 85,
             "text": "AL-SALAM TEMPOH HARI ±40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -500,7 +493,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -521,14 +514,15 @@
           {
             "pdfPage": 86,
             "text": "Perkhidmatan Naik Taraf Hotel Masyaeir (PTM), bermula dari RM7,500. \"Tertakluk kepada kekosongan. Availability\"",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 84,
             "text": "TERMASUK PENGINAPAN AZIZIYAH UNTUK PAKEJ AL-FURQAN",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "Hotel Masyaeir (PTM)"
       },
       "masyair": {
         "type": "pmn",
@@ -537,12 +531,12 @@
           {
             "pdfPage": 84,
             "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) ±450 meter dari khemah ke Jamarat — *Harga pakej ini telah termasuk wang penambahan sebanyak RM7,000 untuk Perkhidmatan Masyair Naik Taraf.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 85,
             "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) 3X SEHARI MAKAN SAJIAN ASIA BUFET ±450 meter dari khemah ke Jamarat",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -557,7 +551,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -567,12 +561,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 86,
             "text": "11. Termasuk high speed train (Sehala).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -582,7 +576,7 @@
           {
             "pdfPage": 85,
             "text": "3X SEHARI MAKAN SAJIAN ASIA / +KHEMAH PMN 3X SEHARI MAKAN SAJIAN ASIA BUFET",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -607,12 +601,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MAKKAH ELAF ALKHAIR *Atau Setaraf ±400 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MAKKAH EKONOMI ELAF ALKHAIR *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±400 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -630,12 +624,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MADINAH LEADER MUNA KAREEM *Atau Setaraf ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MADINAH ★★★★ LEADER MUNA KAREEM *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -648,12 +642,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK ZIARAH TAIF",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "12. Termasuk ziarah ke Kota Taif.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -664,7 +658,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -675,7 +669,7 @@
             {
               "pdfPage": 84,
               "text": "7x KALI UMRAH BERSAMA PEMBIMBING",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -686,12 +680,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK BUGGY BAGI TAWAF & SAEI HAJI",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "13. Termasuk 1x perkhidmatan BUGGY untuk Tawaf Saei Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -702,7 +696,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HOP ON HOP OFF (TOUR MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -713,7 +707,7 @@
             {
               "pdfPage": 86,
               "text": "10. Termasuk 3x ke Masjid Quba.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -724,7 +718,7 @@
             {
               "pdfPage": 85,
               "text": "TERMASUK ZIARAH MUZIUM WAHYU (MAKKAH). TERMASUK ZIARAH MUZIUM AS-SAFIYAH (MADINAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -735,7 +729,7 @@
             {
               "pdfPage": 85,
               "text": "PROGRAM JALAN SUBUR IMAN MAKKAH (8 TEMPAT SEJARAH) ... ZIARAH LUAR KOTA SUCI MADINAH (5 TEMPAT ZIARAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -746,7 +740,7 @@
             {
               "pdfPage": 85,
               "text": "JAMUAN ISTIMEWA KABSAH HASHI (NASI UNTA).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -757,7 +751,7 @@
             {
               "pdfPage": 86,
               "text": "8. Penyediaan Kursus Haji Perdana secara teori dan simulasi turut diadakan sebelum para jemaah HAJI Juara Travel & Tours berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -768,7 +762,7 @@
             {
               "pdfPage": 86,
               "text": "SET CENDERAHATI • Buku Doa, Umrah & Haji • Beg Bagasi ... • Ihram (bagi Lelaki) • Tikar Arafah ... • Adapter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -779,7 +773,7 @@
             {
               "pdfPage": 86,
               "text": "Semua pengangkutan pergerakan semasa dan di masyaeir (Arafah - Muzdalifah - Mina) akan disediakan oleh pihak berkuasa (Naqabah) untuk semua pakej. Pergerakan ziarah selain hari masyaeir disediakan oleh PJH JTT.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -790,7 +784,7 @@
             {
               "pdfPage": 84,
               "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) ±450 meter dari khemah ke Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -801,7 +795,7 @@
             {
               "pdfPage": 85,
               "text": "KELEBIHAN NAIK TARAF PMN: BAS KHAS SEPANJANG MASYAIR HAJI; NAIK TARAF FASILITI KHEMAH MINA & ARAFAH; JARAK KHEMAH DENGAN JAMARAT",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -821,7 +815,7 @@
             {
               "pdfPage": 84,
               "text": "JTT05 RM 56,900 BILIK BER-5 (MAKKAH) *TERHAD BILIK BER-4 (MADINAH) — *Harga pakej ini telah termasuk wang penambahan sebanyak RM7,000 untuk Perkhidmatan Masyair Naik Taraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -838,7 +832,7 @@
             {
               "pdfPage": 84,
               "text": "JTT06 RM 60,900 BILIK BER-4 (+KHEMAH PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -855,7 +849,7 @@
             {
               "pdfPage": 84,
               "text": "JTT07 RM 64,900 BILIK BER-3 (+KHEMAH PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -872,7 +866,7 @@
             {
               "pdfPage": 84,
               "text": "JTT08 RM 75,900 BILIK BER-2 (+KHEMAH PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -890,7 +884,7 @@
           {
             "pdfPage": 85,
             "text": "AL-FURQAN TEMPOH HARI ±40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -900,7 +894,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -912,12 +906,12 @@
           {
             "pdfPage": 85,
             "text": "PAKEJ TERMASUK TARWIYAH \"TERTAKLUK KEPADA KELULUSAN PIHAK MAKTAB PROVIDER\".",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 84,
             "text": "AL-FURQAN AZIZIYAH +TARWIYAH / AL-FURQAN PLUS +TARWIYAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -932,12 +926,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK PENGINAPAN AZIZIYAH UNTUK PAKEJ AL-FURQAN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 85,
             "text": "PAKEJ TERMASUK PENGINAPAN HOTEL SEMASA MASYAEIR (AZIZIYAH).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -948,7 +942,7 @@
           {
             "pdfPage": 87,
             "text": "9. Perkhidmatan masya'ir naik taraf (PMN) bagi khemah Arafah dan Mina disediakan secara pilihan dengan caj tambahan sebanyak rm7,000 mengikut kadar bayaran yang akan ditetapkan oleh pihak berautoriti / berkuasa di Arab Saudi (tertakluk pada perubahan oleh pihak TH).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -963,7 +957,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -973,12 +967,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 86,
             "text": "11. Termasuk high speed train (Sehala).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -988,7 +982,7 @@
           {
             "pdfPage": 85,
             "text": "3X SEHARI MAKAN SAJIAN ASIA; MAKAN SECARA BUFET MASAKAN ASLI TEMPATAN SEMASA MASYAEIR.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1012,12 +1006,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MAKKAH SAFWAH TOWER 3 *Atau Setaraf ±60 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MAKKAH ★★★★★ SAFWAH TOWER 3 *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±60 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1035,12 +1029,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL AZIZIYAH ORIENS HOTEL *Atau Setaraf ±540 meter ke dataran Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL AZIZIYAH ★★★ ORIENS HOTEL *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±540 meter ke dataran Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1058,12 +1052,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MADINAH LEADER MUNA KAREEM *Atau Setaraf ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MADINAH ★★★★ LEADER MUNA KAREEM *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1076,12 +1070,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK ZIARAH TAIF",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "12. Termasuk ziarah ke Kota Taif.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1092,7 +1086,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1103,7 +1097,7 @@
             {
               "pdfPage": 84,
               "text": "7x KALI UMRAH BERSAMA PEMBIMBING",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1114,12 +1108,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK BUGGY BAGI TAWAF & SAEI HAJI",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "13. Termasuk 1x perkhidmatan BUGGY untuk Tawaf Saei Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1130,7 +1124,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HOP ON HOP OFF (TOUR MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1141,7 +1135,7 @@
             {
               "pdfPage": 86,
               "text": "10. Termasuk 3x ke Masjid Quba.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1152,7 +1146,7 @@
             {
               "pdfPage": 85,
               "text": "TERMASUK ZIARAH MUZIUM WAHYU (MAKKAH). TERMASUK ZIARAH MUZIUM AS-SAFIYAH (MADINAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1163,7 +1157,7 @@
             {
               "pdfPage": 85,
               "text": "PROGRAM JALAN SUBUR IMAN MAKKAH (8 TEMPAT SEJARAH) ... ZIARAH LUAR KOTA SUCI MADINAH (5 TEMPAT ZIARAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1174,7 +1168,7 @@
             {
               "pdfPage": 85,
               "text": "JAMUAN ISTIMEWA KABSAH HASHI (NASI UNTA).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1185,7 +1179,7 @@
             {
               "pdfPage": 86,
               "text": "8. Penyediaan Kursus Haji Perdana secara teori dan simulasi turut diadakan sebelum para jemaah HAJI Juara Travel & Tours berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1196,7 +1190,7 @@
             {
               "pdfPage": 86,
               "text": "SET CENDERAHATI • Buku Doa, Umrah & Haji • Beg Bagasi ... • Ihram (bagi Lelaki) • Tikar Arafah ... • Adapter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1207,7 +1201,7 @@
             {
               "pdfPage": 86,
               "text": "Semua pengangkutan pergerakan semasa dan di masyaeir (Arafah - Muzdalifah - Mina) akan disediakan oleh pihak berkuasa (Naqabah) untuk semua pakej. Pergerakan ziarah selain hari masyaeir disediakan oleh PJH JTT.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1218,7 +1212,7 @@
             {
               "pdfPage": 85,
               "text": "PAKEJ TERMASUK PENGINAPAN HOTEL SEMASA MASYAEIR (AZIZIYAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1229,7 +1223,7 @@
             {
               "pdfPage": 85,
               "text": "PAKEJ TERMASUK TARWIYAH \"TERTAKLUK KEPADA KELULUSAN PIHAK MAKTAB PROVIDER\".",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1241,7 +1235,7 @@
           "priceSen": 6290000,
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-4",
           "notes": null,
@@ -1249,7 +1243,7 @@
             {
               "pdfPage": 84,
               "text": "JTT09 RM 62,900 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1258,7 +1252,7 @@
           "priceSen": 6690000,
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-3",
           "notes": null,
@@ -1266,7 +1260,7 @@
             {
               "pdfPage": 84,
               "text": "JTT10 RM 66,900 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1275,7 +1269,7 @@
           "priceSen": 7590000,
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-2",
           "notes": null,
@@ -1283,7 +1277,7 @@
             {
               "pdfPage": 84,
               "text": "JTT11 RM 75,900 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1301,7 +1295,7 @@
           {
             "pdfPage": 85,
             "text": "AL-FURQAN TEMPOH HARI ±40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1311,7 +1305,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1323,17 +1317,17 @@
           {
             "pdfPage": 85,
             "text": "PAKEJ TERMASUK TARWIYAH \"TERTAKLUK KEPADA KELULUSAN PIHAK MAKTAB PROVIDER\".",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 84,
             "text": "AL-FURQAN AZIZIYAH +TARWIYAH / AL-FURQAN PLUS +TARWIYAH",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 85,
             "text": "AL-FURQAN PLUS TERMASUK TARWIYAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1348,12 +1342,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK PENGINAPAN AZIZIYAH UNTUK PAKEJ AL-FURQAN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 85,
             "text": "PAKEJ TERMASUK PENGINAPAN HOTEL SEMASA MASYAEIR (AZIZIYAH).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1364,12 +1358,12 @@
           {
             "pdfPage": 84,
             "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) ±450 meter dari khemah ke Jamarat — *Harga pakej ini telah termasuk wang penambahan sebanyak RM7,000 untuk Perkhidmatan Masyair Naik Taraf.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 85,
             "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) 3X SEHARI MAKAN SAJIAN ASIA BUFET ±450 meter dari khemah ke Jamarat",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1384,7 +1378,7 @@
           {
             "pdfPage": 86,
             "text": "Penerbangan sewa khas (charter) dengan Tarikh penerbangan (awal/pertengahan) bergantung kepada ketentuan tabung haji.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1394,12 +1388,12 @@
           {
             "pdfPage": 84,
             "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 86,
             "text": "11. Termasuk high speed train (Sehala).",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1409,7 +1403,7 @@
           {
             "pdfPage": 85,
             "text": "3X SEHARI MAKAN SAJIAN ASIA / AL-FURQAN PLUS +KHEMAH PMN 3X Sehari makan Sajian Asia Bufet",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1433,12 +1427,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MAKKAH SAFWAH TOWER 3 *Atau Setaraf ±60 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MAKKAH ★★★★★ SAFWAH TOWER 3 *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±60 meter ke dataran Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1456,12 +1450,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL AZIZIYAH ORIENS HOTEL *Atau Setaraf ±540 meter ke dataran Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL AZIZIYAH ★★★ ORIENS HOTEL *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±540 meter ke dataran Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1479,12 +1473,12 @@
             {
               "pdfPage": 84,
               "text": "HOTEL MADINAH LEADER MUNA KAREEM *Atau Setaraf ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 85,
               "text": "HOTEL MADINAH ★★★★ LEADER MUNA KAREEM *Atau Setaraf 3X SEHARI MAKAN SAJIAN ASIA ±180 meter ke dataran Masjidin Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1497,12 +1491,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK ZIARAH TAIF",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "12. Termasuk ziarah ke Kota Taif.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1513,7 +1507,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HARAMAIN HIGH SPEED TRAIN (SEHALA)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1524,7 +1518,7 @@
             {
               "pdfPage": 84,
               "text": "7x KALI UMRAH BERSAMA PEMBIMBING",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1535,12 +1529,12 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK BUGGY BAGI TAWAF & SAEI HAJI",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 86,
               "text": "13. Termasuk 1x perkhidmatan BUGGY untuk Tawaf Saei Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1551,7 +1545,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK HOP ON HOP OFF (TOUR MADINAH)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1562,7 +1556,7 @@
             {
               "pdfPage": 86,
               "text": "10. Termasuk 3x ke Masjid Quba.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1573,7 +1567,7 @@
             {
               "pdfPage": 85,
               "text": "TERMASUK ZIARAH MUZIUM WAHYU (MAKKAH). TERMASUK ZIARAH MUZIUM AS-SAFIYAH (MADINAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1584,7 +1578,7 @@
             {
               "pdfPage": 85,
               "text": "PROGRAM JALAN SUBUR IMAN MAKKAH (8 TEMPAT SEJARAH) ... ZIARAH LUAR KOTA SUCI MADINAH (5 TEMPAT ZIARAH).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1595,7 +1589,7 @@
             {
               "pdfPage": 85,
               "text": "JAMUAN ISTIMEWA KABSAH HASHI (NASI UNTA).",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1606,7 +1600,7 @@
             {
               "pdfPage": 86,
               "text": "8. Penyediaan Kursus Haji Perdana secara teori dan simulasi turut diadakan sebelum para jemaah HAJI Juara Travel & Tours berangkat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1617,7 +1611,7 @@
             {
               "pdfPage": 86,
               "text": "SET CENDERAHATI • Buku Doa, Umrah & Haji • Beg Bagasi ... • Ihram (bagi Lelaki) • Tikar Arafah ... • Adapter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1628,7 +1622,7 @@
             {
               "pdfPage": 86,
               "text": "Semua pengangkutan pergerakan semasa dan di masyaeir (Arafah - Muzdalifah - Mina) akan disediakan oleh pihak berkuasa (Naqabah) untuk semua pakej. Pergerakan ziarah selain hari masyaeir disediakan oleh PJH JTT.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1639,7 +1633,7 @@
             {
               "pdfPage": 84,
               "text": "TERMASUK PENGINAPAN AZIZIYAH UNTUK PAKEJ AL-FURQAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1650,7 +1644,7 @@
             {
               "pdfPage": 85,
               "text": "AL-FURQAN PLUS TERMASUK TARWIYAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1661,7 +1655,7 @@
             {
               "pdfPage": 84,
               "text": "+KHEMAH PMN (Perkhidmatan Masyair Naik Taraf) ±450 meter dari khemah ke Jamarat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1672,7 +1666,7 @@
             {
               "pdfPage": 85,
               "text": "KELEBIHAN NAIK TARAF PMN: BAS KHAS SEPANJANG MASYAIR HAJI; NAIK TARAF FASILITI KHEMAH MINA & ARAFAH; JARAK KHEMAH DENGAN JAMARAT",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1692,7 +1686,7 @@
             {
               "pdfPage": 84,
               "text": "JTT12 RM 69,900 BILIK BER-4 — *Harga pakej ini telah termasuk wang penambahan sebanyak RM7,000 untuk Perkhidmatan Masyair Naik Taraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1709,7 +1703,7 @@
             {
               "pdfPage": 84,
               "text": "JTT13 RM 73,900 BILIK BER-3 (+KHEMAH PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1726,7 +1720,7 @@
             {
               "pdfPage": 84,
               "text": "JTT14 RM 82,900 BILIK BER-2 (+KHEMAH PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1736,10 +1730,7 @@
   "upgrades": [
     {
       "id": "juara-ptm-hotel-masyaeir",
-      "packageIds": [
-        "juara-al-salam",
-        "juara-al-salam-plus"
-      ],
+      "packageIds": ["juara-al-salam", "juara-al-salam-plus"],
       "kind": "other",
       "description": "Naik Taraf Hotel Masyaeir (PTM) — harga bermula dari RM7,500",
       "priceSen": null,
@@ -1750,7 +1741,7 @@
         {
           "pdfPage": 86,
           "text": "Perkhidmatan Naik Taraf Hotel Masyaeir (PTM), bermula dari RM7,500. \"Tertakluk kepada kekosongan. Availability\"",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1772,12 +1763,12 @@
         {
           "pdfPage": 86,
           "text": "Perkhidmatan Penerbangan Komersil (kelas Perniagaan). Angaran harga bermula dari RM16,000. \"Tertakluk kepada Kelulusan TH\".",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 87,
           "text": "2. Jemaah yang ingin menaiki penerbangan komersial mestilah memilih penerbangan (kelas perniagaan) dengan bayaran tambahan (tertakluk kelulusan tabung haji dan kekosongan tempat duduk).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1799,12 +1790,12 @@
         {
           "pdfPage": 86,
           "text": "Perkhidmatan Kerusi Roda dan Pendorong Kerusi Roda Semasa Tawaf Saei dan di Masyaeir.",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 87,
           "text": "3. Perkhidmatan kerusi roda untuk Tawaf, Saie & di Mina dengan bayaran tambahan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1826,7 +1817,7 @@
         {
           "pdfPage": 86,
           "text": "Kenderaan Khas Seperti GMC-Hice-H1 semasa berada di Tanah Suci. \"Tertakluk kepada Kelulusan Pihak Maktab Provider\".",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1848,7 +1839,7 @@
         {
           "pdfPage": 86,
           "text": "Perkhidmatan Penghantaran Bagasi ke Tanah Air (Pos Kargo).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1871,16 +1862,13 @@
         {
           "pdfPage": 84,
           "text": "Harga pakej haji adalah termasuk bayaran haji PJH 1448H/2027M berjumlah RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "juara-penambahan-pmn",
-      "packageIds": [
-        "juara-al-salam-plus",
-        "juara-al-furqan-plus"
-      ],
+      "packageIds": ["juara-al-salam-plus", "juara-al-furqan-plus"],
       "description": "Wang penambahan Perkhidmatan Masyair Naik Taraf (PMN)",
       "priceSen": 700000,
       "basis": "per_person",
@@ -1890,12 +1878,12 @@
         {
           "pdfPage": 84,
           "text": "*Harga pakej ini telah termasuk wang penambahan sebanyak RM7,000 untuk Perkhidmatan Masyair Naik Taraf.",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 86,
           "text": "Perkhidmatan Naik Taraf Khemah Masyaeir (PMN). penambahan sebanyak RM7,000. \"Tertakluk kepada Kelulusan Pihak Maktab Provider\"",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1916,7 +1904,7 @@
         {
           "pdfPage": 84,
           "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi. (Tertakluk pada perubahan oleh pihak TH)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1937,7 +1925,7 @@
         {
           "pdfPage": 87,
           "text": "1. Jemaah yang ingin pulang awal dari jadual asal tertakluk kepada tambahan kos. Sekiranya jemaah ingin menggunakan perkhidmatan pesawat komersil, bayaran tiket penerbangan asal tidak dikembalikan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1949,97 +1937,73 @@
       "packageId": "juara-al-furqan-plus",
       "field": "aziziyah",
       "note": "Al-Furqan Plus berada dalam blok Al-Furqan (hotel Makkah/Madinah/Aziziyah sama) tetapi labelnya hanya '+TARWIYAH' tanpa 'AZIZIYAH'; Aziziyah direkod included berdasarkan 'Termasuk penginapan Aziziyah untuk Pakej Al-Furqan'. Perlu pengesahan.",
-      "pages": [
-        84,
-        85
-      ]
+      "pages": [84, 85]
     },
     {
       "severity": "non_blocking",
       "packageId": "juara-al-salam",
       "field": "aziziyah",
       "note": "Al-Salam: Aziziyah tidak termasuk secara jelas; hanya PTM (Naik Taraf Hotel Masyaeir) secara pilihan bermula dari RM7,500. Direkod optional.",
-      "pages": [
-        84,
-        86
-      ]
+      "pages": [84, 86]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type",
-      "note": "Pakej asas (Al-Salam, Al-Furqan) tidak menamakan jenis khemah (Muaisim tidak disebut); direkod not_stated dengan pmnStatus not_included kerana PMN ialah pakej 'Plus' berasingan (+RM7,000).",
-      "pages": [
-        84,
-        85,
-        87
-      ]
+      "note": "Pakej asas (Al-Salam, Al-Furqan) tidak menamakan jenis khemah (Muaisim/Muassasah tidak disebut di hlm. 84-87); masyair not_stated dan pmnStatus varian asas not_stated (R4). PMN ialah pakej 'Plus' berasingan (+RM7,000) atau pilihan berbayar (Makluman Penting 9).",
+      "pages": [84, 85, 87]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.priceSen",
       "note": "PTM 'bermula dari RM7,500' dan penerbangan komersial kelas perniagaan 'bermula dari RM16,000' ialah harga minimum; priceSen dibiarkan null.",
-      "pages": [
-        86
-      ]
+      "pages": [86]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceM",
       "note": "Senarai '16 Kelebihan' menyebut 'Jarak 50m & 450m' untuk hotel Madinah & Makkah, bercanggah dengan jarak pakej (Makkah ±400m/±60m, Madinah ±180m ke dataran). Jarak pakej digunakan.",
-      "pages": [
-        84,
-        85,
-        86
-      ]
+      "pages": [84, 85, 86]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.sequence",
       "note": "Urutan Makkah/Madinah tidak dinyatakan; sequence ikut susunan brosur.",
-      "pages": [
-        84,
-        85
-      ]
+      "pages": [84, 85]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "terms",
       "note": "Rujukan borang pembatalan pada hlm. 87 dicetak '1447H/2026M' (kemungkinan sisa brosur musim lalu).",
-      "pages": [
-        87
-      ]
+      "pages": [87]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 84–87.",
-      "pages": [
-        84,
-        85,
-        86,
-        87
-      ]
+      "pages": [84, 85, 86, 87]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        84
-      ]
+      "pages": [84]
     }
   ],
   "transcription": {
     "reviewer": "agen-E",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula 220 dpi dan potongan zum bagi teks kecil (lesen, nota PMN, kelebihan, perkhidmatan pilihan, makluman penting). Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-5",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua halaman 84-87 dan 14 varian (JTT01-JTT14) disemak terhadap imej; harga, kod, bilik (JTT01/05 Makkah 5/Madinah 4), hotel, jarak dan PMN Plus (+RM7,000 termasuk) sepadan. Pembetulan: pmnStatus varian asas Al-Salam (JTT01-04) dan Al-Furqan (JTT09-11) not_included -> not_stated kerana khemah asas Muaisim tidak dinyatakan (R4); aziziyah.labelAsPublished 'Hotel Masyaeir (PTM)' bagi Al-Salam/Al-Salam Plus (R1, optional berbayar dari RM7,500). Tarwiyah Al-Furqan/Al-Furqan Plus kekal offered_subject_to_approval. Jarak bercanggah dalam '16 Kelebihan' kekal gap."
+    }
   }
 }

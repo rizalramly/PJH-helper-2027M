@@ -14,7 +14,7 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 11,
+    "pjhReviewed": 20,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
@@ -530,24 +530,25 @@
       "variantsImported": 13,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "12/1448H",
-      "factsVerified": 0,
-      "fieldsNotPublished": 7,
+      "factsVerified": 52,
+      "fieldsNotPublished": 8,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] felda: stays.distanceReference — Jadual hotel hanya memberi 'JARAK' tanpa titik ukuran (pintu/perkarangan/menara); dicatat not_stated.",
-        "[non_blocking] felda-brunzi: tarwiyah — Info wukuf Brunzi menyatakan 'bermalam di Arafah pada 8 Zulhijjah' — bukan Tarwiyah di Mina; status not_stated. Perlu pengesahan PJH.",
+        "[non_blocking] felda-brunzi: tarwiyah — Info wukuf Brunzi menyatakan 'Bergerak dan bermalam di Arafah pada 8 Zulhijjah' (bukan bermalam di Mina); Hari Tarwiyah hanya dipromosikan 'bagi Pakej Nuhasi' (hlm. 51). Tiada kenyataan eksplisit 'tiada Tarwiyah', jadi status not_stated. Perlu pengesahan PJH.",
         "[non_blocking] felda: flightClass — Pakej Nuhasi/Brunzi/Fiddi: penerbangan carter, kelas tidak dinyatakan.",
         "[non_blocking] felda: trainClass — Kelas Haramain Train tidak dinyatakan.",
         "[non_blocking] felda: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam hlm. 51–54.",
         "[non_blocking] felda: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-        "[non_blocking] felda: pjh.terms — Terma 1 mencetak 'PJH 14487H/2027H' (kemungkinan salah cetak 1448H); RM23,398 jelas."
+        "[non_blocking] felda: pjh.terms — Terma 1 mencetak 'PJH 14487H/2027H' (kemungkinan salah cetak 1448H); RM23,398 jelas.",
+        "[non_blocking] felda: tarwiyah — Pakej Fiddi dan Fiddi Plus: info wukuf hanya menyatakan 'Bergerak ke Arafah pada pagi 9 Zulhijjah'; lokasi 8 Zulhijjah tidak dinyatakan dan Hari Tarwiyah hanya dipromosikan bagi Pakej Nuhasi. Status not_stated."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-C (semakan bebas belum dibuat)"
+      "reviewer": "agen-C; semakan bebas: penyemak-3"
     },
     {
       "index": 13,
@@ -573,15 +574,15 @@
       "variantsImported": 11,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 13 / 1448H",
-      "factsVerified": 0,
+      "factsVerified": 43,
       "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] gemilang: masyair/pmnStatus — Brosur menyebut 'Khemah Muassasah' (diurus STAT) tanpa menyebut Muaisim atau PMN; masyair.type dan pmnStatus dicatat not_stated.",
+        "[non_blocking] gemilang: masyair/pmnStatus — Brosur menyebut khemah asas 'KHEMAH MUASSASAH' (diurus STAT/Muassasah Asia Tenggara) tanpa PMN; ikut R4 pmnStatus varian = not_included. masyair.type kekal not_stated kerana perkataan 'Muaisim' tidak dicetak.",
         "[non_blocking] gemilang-makkah-tower: aziziyah — Pakej Makkah Tower tidak menyenaraikan hotel Aziziyah dan tidak menyatakan ia dikecualikan.",
         "[non_blocking] gemilang-haji-elite-express: flightClass — Kelas perniagaan diiklankan tetapi tiada jaminan tempat duduk; tertakluk kelulusan TH.",
         "[non_blocking] gemilang: trainClass — Kelas kereta api HHR tidak dinyatakan.",
@@ -590,7 +591,7 @@
         "[non_blocking] gemilang: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-C (semakan bebas belum dibuat)"
+      "reviewer": "agen-C; semakan bebas: penyemak-3"
     },
     {
       "index": 14,
@@ -617,24 +618,24 @@
       "variantsImported": 12,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 14/1448H",
-      "factsVerified": 0,
+      "factsVerified": 54,
       "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] glocal-travel: packages.inclusions/flightClass/trainClass — Kapsyen ikon pada hlm. 59 sangat kecil (imej sumber 120 ppi); kelas penerbangan/kereta api, nilai kargo & medical checkup hanya dibaca secara kasar (status unclear).",
-        "[non_blocking] glocal-travel-pullman-clock-tower-premium: pmnStatus — PMN dianggap termasuk berdasarkan ikon khemah PMN dan kapsyen kabur; perlu pengesahan PJH (juga Pullman Private).",
-        "[non_blocking] glocal-travel-elaf-eksklusif: masyair — Pakej asas (Elaf & PECO) tanpa PMN; PMN ialah tambahan optional RM8,000 (direkod sebagai upgrade, bukan pakej PMN berasingan kerana harga gabungan tidak dicetak). Jenis khemah asas tidak dinyatakan.",
+        "[non_blocking] glocal-travel-pullman-clock-tower-premium: pmnStatus — Pullman Clock Tower Premium & Pullman Private: PMN direkod included kerana ikon khemah pakej ini sepadan dengan logo khemah 'Arafah PMN'/'Mina PMN' pada hlm. 60 (berbeza daripada logo 'Arafah 69'/'Mina 69' pakej Elaf/ECO), dan kapsyen ikon (kabur, imej 120 ppi) kelihatan menyatakan khemah PMN bergantung kelulusan TH dengan RM8,000 dipulangkan jika tidak lulus. Teks kapsyen tidak dapat dibaca dengan pasti; perlu pengesahan PJH.",
+        "[non_blocking] glocal-travel-elaf-eksklusif: masyair — Pakej Elaf Eksklusif & Pullman Clock Tower ECO: PMN ialah 'Bayaran Tambahan Optional' RM8,000 (direkod sebagai upgrade). Khemah asas hanya ditunjukkan melalui logo 'Arafah 69'/'Mina 69' tanpa perkataan Muaisim/Muassasah, jadi ikut R4 pmnStatus varian asas = not_stated (harga asas tidak termasuk kos PMN pilihan).",
         "[non_blocking] glocal-travel: upgrades.basis — Bayaran tambahan optional (PMN, Business Class, bilik Aziziyah) tidak menyatakan seorang/sebilik; direkod per_person.",
         "[non_blocking] glocal-travel: stays.dateLabel — Tarikh hotel tidak dicetak dalam jadual harga; carta hlm. 60 (kabur) menyebut kembali ke hotel Makkah 14/15 Zulhijjah.",
         "[non_blocking] glocal-travel: pjh.terms.deposit — Jumlah deposit tidak dinyatakan.",
         "[non_blocking] glocal-travel: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-C (semakan bebas belum dibuat)"
+      "reviewer": "agen-C; semakan bebas: penyemak-3"
     },
     {
       "index": 15,
@@ -659,10 +660,10 @@
       "variantsImported": 12,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 15 / 1448H",
-      "factsVerified": 0,
+      "factsVerified": 46,
       "fieldsNotPublished": 4,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -673,7 +674,7 @@
         "[non_blocking] harmony-excellence: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-C (semakan bebas belum dibuat)"
+      "reviewer": "agen-C; semakan bebas: penyemak-3"
     },
     {
       "index": 16,
@@ -838,10 +839,10 @@
       "variantsImported": 13,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 19/1448H",
-      "factsVerified": 0,
+      "factsVerified": 72,
       "fieldsNotPublished": 13,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -861,7 +862,7 @@
         "[non_blocking] jay-ibrahim: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-E (semakan bebas belum dibuat)"
+      "reviewer": "agen-E; semakan bebas: penyemak-5"
     },
     {
       "index": 20,
@@ -888,17 +889,17 @@
       "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 20/1448H",
-      "factsVerified": 0,
+      "factsVerified": 63,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] juara-al-furqan-plus: aziziyah — Al-Furqan Plus berada dalam blok Al-Furqan (hotel Makkah/Madinah/Aziziyah sama) tetapi labelnya hanya '+TARWIYAH' tanpa 'AZIZIYAH'; Aziziyah direkod included berdasarkan 'Termasuk penginapan Aziziyah untuk Pakej Al-Furqan'. Perlu pengesahan.",
         "[non_blocking] juara-al-salam: aziziyah — Al-Salam: Aziziyah tidak termasuk secara jelas; hanya PTM (Naik Taraf Hotel Masyaeir) secara pilihan bermula dari RM7,500. Direkod optional.",
-        "[non_blocking] juara: masyair.type — Pakej asas (Al-Salam, Al-Furqan) tidak menamakan jenis khemah (Muaisim tidak disebut); direkod not_stated dengan pmnStatus not_included kerana PMN ialah pakej 'Plus' berasingan (+RM7,000).",
+        "[non_blocking] juara: masyair.type — Pakej asas (Al-Salam, Al-Furqan) tidak menamakan jenis khemah (Muaisim/Muassasah tidak disebut di hlm. 84-87); masyair not_stated dan pmnStatus varian asas not_stated (R4). PMN ialah pakej 'Plus' berasingan (+RM7,000) atau pilihan berbayar (Makluman Penting 9).",
         "[non_blocking] juara: upgrades.priceSen — PTM 'bermula dari RM7,500' dan penerbangan komersial kelas perniagaan 'bermula dari RM16,000' ialah harga minimum; priceSen dibiarkan null.",
         "[non_blocking] juara: stays.distanceM — Senarai '16 Kelebihan' menyebut 'Jarak 50m & 450m' untuk hotel Madinah & Makkah, bercanggah dengan jarak pakej (Makkah ±400m/±60m, Madinah ±180m ke dataran). Jarak pakej digunakan.",
         "[non_blocking] juara: stays.sequence — Urutan Makkah/Madinah tidak dinyatakan; sequence ikut susunan brosur.",
@@ -907,7 +908,7 @@
         "[non_blocking] juara: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-E (semakan bebas belum dibuat)"
+      "reviewer": "agen-E; semakan bebas: penyemak-5"
     },
     {
       "index": 21,
@@ -933,16 +934,16 @@
       "variantsImported": 16,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH21/1448H",
-      "factsVerified": 0,
+      "factsVerified": 60,
       "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] kembara-umrah: variants.madinahOccupancy — Varian Bilik Ber-5 (KHM1, KHI1, KHMP1, KHSP1): T&S 8 menyatakan Madinah hanya berempat/bertiga/berdua; bilik Madinah untuk varian ini direkod 4 (inferens). Perlu pengesahan PJH.",
-        "[non_blocking] kembara-umrah: masyair.type — Pakej Mateen & Iman (asas) tidak menamakan jenis khemah; pmnStatus not_included kerana PMN hanya dalam pakej Premium (+RM11,000).",
+        "[non_blocking] kembara-umrah: masyair.type — Pakej Mateen & Iman (asas) tidak menamakan jenis khemah (Muaisim/Muassasah tidak disebut di hlm. 88-90); pmnStatus varian asas not_stated (R4). PMN hanya dalam pakej Premium (termasuk, bernilai RM11,000).",
         "[non_blocking] kembara-umrah: tarwiyah — Tarwiyah disenaraikan sebagai kelebihan tanpa syarat dicetak; tiada huraian tarikh/pelaksanaan.",
         "[non_blocking] kembara-umrah: stays.dateLabel/sequence — Tarikh dan urutan penginapan Makkah/Aziziyah/Madinah tidak dinyatakan.",
         "[non_blocking] kembara-umrah: terms — T&S no. 10 terpotong oleh bahagian 'Hubungi Pegawai Kami' (teks tidak lengkap).",
@@ -950,7 +951,7 @@
         "[non_blocking] kembara-umrah: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-E (semakan bebas belum dibuat)"
+      "reviewer": "agen-E; semakan bebas: penyemak-5"
     },
     {
       "index": 22,
@@ -976,10 +977,10 @@
       "variantsImported": 8,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 22/1448H",
-      "factsVerified": 0,
+      "factsVerified": 45,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -995,7 +996,7 @@
         "[non_blocking] krs: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-E (semakan bebas belum dibuat)"
+      "reviewer": "agen-E; semakan bebas: penyemak-5"
     },
     {
       "index": 23,
@@ -1020,15 +1021,15 @@
       "variantsImported": 8,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 23/1448H",
-      "factsVerified": 0,
+      "factsVerified": 33,
       "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] mahabbaten: aziziyah — Hotel Nuzul Al Rayyan (1–15 Zulhijjah, 5 sebilik, ±600m dari Dataran Kompleks Jamrat) dicetak di bawah tajuk 'MINA' sebagai alternatif kepada 'Khemah (Mina Muasim)'; perkataan 'Aziziyah' tidak dicetak. Direkod aziziyah included dan stay location 'mina'.",
+        "[non_blocking] mahabbaten: aziziyah — Hotel Nuzul Al Rayyan (1–15 Zulhijjah, 5 sebilik, ±600m dari Dataran Kompleks Jamrat) dicetak di bawah tajuk 'MINA' sebagai 'Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan'; perkataan 'Aziziyah' tidak dicetak. Mengikut R1 direkod stays.location 'aziziyah', aziziyah included, labelAsPublished 'MINA — Hotel Nuzul Al Rayyan'. Maksud 'atau' (pilihan khemah vs hotel) perlu disahkan PJH.",
         "[non_blocking] mahabbaten: stays — Jemaah yang tiba sebelum 1 Zulhijjah menginap di 'hotel ekonomi' yang tidak dinamakan (bukan Elaf/Safwah) sehingga 1 Zulhijjah.",
         "[non_blocking] mahabbaten: tarwiyah — Tarwiyah tidak disebut dalam halaman 94–95.",
         "[non_blocking] mahabbaten: stays.distanceReference — Jarak hotel Makkah/Madinah ('Jarak +-400/60/300 Meter') dicetak tanpa titik ukuran.",
@@ -1037,7 +1038,7 @@
         "[non_blocking] mahabbaten: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-E (semakan bebas belum dibuat)"
+      "reviewer": "agen-E; semakan bebas: penyemak-5"
     },
     {
       "index": 24,

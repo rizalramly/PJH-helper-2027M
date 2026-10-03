@@ -13,12 +13,12 @@
       {
         "pdfPage": 91,
         "text": "NO. LESEN PJH : PJH 22/1448H — NO. PENDAFTARAN: 477239-X — NO. LESEN MOTAC: IU00437",
-        "status": "transcribed"
+        "status": "verified"
       },
       {
         "pdfPage": 93,
         "text": "NO. PENDAFTARAN: 477239 - X | NO. LESEN. MOTAC: IU00437 | NO. LESEN PJH : PJH22 / 1448H",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -28,7 +28,7 @@
           {
             "pdfPage": 93,
             "text": "1. Bakal haji hendaklah mendaftar haji dengan Lembaga Tabung Haji (TH) serta telah menerima surat tawaran terpilih untuk menunaikan fardu haji 1448H.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -38,7 +38,7 @@
           {
             "pdfPage": 93,
             "text": "2. Bakal haji bertanggungjawab mencukupkan Bayaran Haji pada kadar Bayaran Haji Jemaah, Haji Muassasah atau kadar Bayaran Haji yang ditetapkan oleh TH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -48,22 +48,15 @@
           {
             "pdfPage": 93,
             "text": "KATEGORI 1 ... 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      91,
-      93
-    ],
-    "pagesReviewed": [
-      91,
-      92,
-      93
-    ],
+    "pageRange": [91, 93],
+    "pagesReviewed": [91, 92, 93],
     "pageNotes": [
       {
         "pdfPage": 91,
@@ -94,7 +87,7 @@
           {
             "pdfPage": 91,
             "text": "PAKEJ ROTAB 30 - 45 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -110,7 +103,7 @@
           {
             "pdfPage": 93,
             "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -125,17 +118,17 @@
           {
             "pdfPage": 91,
             "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 91,
             "text": "HOTEL DI AZIZIYAH BILIK BERKUMPULAN UNTUK SEMUA PAKEJ",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 93,
             "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -175,7 +168,7 @@
           {
             "pdfPage": 92,
             "text": "MAKAN 3 KALI SELERA ASIA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -198,12 +191,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MEKAH - MAKKAH TOWERS @ SETARAF 50 METER (4★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "MAKKAH TOWERS @ SETARAF 50 METER DARI MASJIDIL HARAM",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -221,12 +214,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MADINAH - GRAND MILLENIUM AL HARAM @ SETARAF 50 METER (5★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "GRAND MILLENIUM AL HARAM @ SETARAF 50 METER DARI MASJID NABAWI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -244,12 +237,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "DAR SALAH HOTEL @ SETARAF 420 METER DARI KOMPLEKS MELONTAR JAMRAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -262,7 +255,7 @@
             {
               "pdfPage": 92,
               "text": "PENERBANGAN SEWA KHAS TH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -273,7 +266,7 @@
             {
               "pdfPage": 93,
               "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -284,7 +277,7 @@
             {
               "pdfPage": 93,
               "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -295,7 +288,7 @@
             {
               "pdfPage": 93,
               "text": "MUTAWWIF BERPENGALAMAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -306,7 +299,7 @@
             {
               "pdfPage": 93,
               "text": "ZIARAH 14 TEMPAT — Lawatan ke tempat bersejarah di Mekah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -317,7 +310,7 @@
             {
               "pdfPage": 93,
               "text": "MAJLIS KESYUKURAN — Jamuan makan malam meraikan Jemaah Haji di tanah suci.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -328,7 +321,7 @@
             {
               "pdfPage": 93,
               "text": "KURSUS HAJI PERDANA — Kursus mengenai hukum-hakam haji dan taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -339,7 +332,7 @@
             {
               "pdfPage": 93,
               "text": "SET KELENGKAPAN HAJI — Dapatkan lebih 26 item kelengkapan set Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -350,7 +343,7 @@
             {
               "pdfPage": 93,
               "text": "KULIAH — Disediakan kuliah Dhuha & Isyak sepanjang mengerjakan ibadah haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -370,7 +363,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 6 (KRST R01) RM 54,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -387,7 +380,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 5 (KRST R02) RM 58,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -404,7 +397,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 4 (KRST R03) RM 60,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -424,7 +417,7 @@
           {
             "pdfPage": 91,
             "text": "PAKEJ AJWA 30 - 45 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -440,7 +433,7 @@
           {
             "pdfPage": 93,
             "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -455,17 +448,17 @@
           {
             "pdfPage": 91,
             "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 91,
             "text": "HOTEL DI AZIZIYAH BILIK BERKUMPULAN UNTUK SEMUA PAKEJ",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 93,
             "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -505,7 +498,7 @@
           {
             "pdfPage": 92,
             "text": "MAKAN 3 KALI SELERA ASIA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -528,12 +521,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MEKAH - MOVENPICK @ SETARAF 50 METER (5★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "MOVENPICK @ SETARAF 50 METER DARI MASJIDIL HARAM",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -551,12 +544,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MADINAH - GRAND MILLENIUM AL HARAM @ SETARAF 50 METER (5★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "GRAND MILLENIUM AL HARAM @ SETARAF 50 METER DARI MASJID NABAWI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -574,12 +567,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "DAR SALAH HOTEL @ SETARAF 420 METER DARI KOMPLEKS MELONTAR JAMRAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -592,7 +585,7 @@
             {
               "pdfPage": 92,
               "text": "PENERBANGAN SEWA KHAS TH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -603,7 +596,7 @@
             {
               "pdfPage": 93,
               "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -614,7 +607,7 @@
             {
               "pdfPage": 93,
               "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -625,7 +618,7 @@
             {
               "pdfPage": 93,
               "text": "MUTAWWIF BERPENGALAMAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -636,7 +629,7 @@
             {
               "pdfPage": 93,
               "text": "ZIARAH 14 TEMPAT — Lawatan ke tempat bersejarah di Mekah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -647,7 +640,7 @@
             {
               "pdfPage": 93,
               "text": "MAJLIS KESYUKURAN — Jamuan makan malam meraikan Jemaah Haji di tanah suci.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -658,7 +651,7 @@
             {
               "pdfPage": 93,
               "text": "KURSUS HAJI PERDANA — Kursus mengenai hukum-hakam haji dan taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -669,7 +662,7 @@
             {
               "pdfPage": 93,
               "text": "SET KELENGKAPAN HAJI — Dapatkan lebih 26 item kelengkapan set Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -680,7 +673,7 @@
             {
               "pdfPage": 93,
               "text": "KULIAH — Disediakan kuliah Dhuha & Isyak sepanjang mengerjakan ibadah haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -700,7 +693,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 4 (KRST A04) RM 65,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -717,7 +710,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 3 (KRST A05) RM 76,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -734,7 +727,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 2 (KRST A06) RM 81,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -754,7 +747,7 @@
           {
             "pdfPage": 91,
             "text": "PAKEJ AJWA GOLD 20 - 24 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -770,7 +763,7 @@
           {
             "pdfPage": 93,
             "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -785,17 +778,17 @@
           {
             "pdfPage": 91,
             "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 91,
             "text": "HOTEL DI AZIZIYAH BILIK BERKUMPULAN UNTUK SEMUA PAKEJ",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 93,
             "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -815,12 +808,12 @@
           {
             "pdfPage": 91,
             "text": "BUSINESS CLASS PENERBANGAN + BUSINESS CLASS HIGH SPEED TRAIN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 92,
             "text": "PAKEJ AJWA GOLD — KELAS PERNIAGAAN | PENERBANGAN KOMERSIAL",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -830,7 +823,7 @@
           {
             "pdfPage": 91,
             "text": "BUSINESS CLASS PENERBANGAN + BUSINESS CLASS HIGH SPEED TRAIN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -840,7 +833,7 @@
           {
             "pdfPage": 92,
             "text": "MAKAN 3 KALI ANTARABANGSA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -863,12 +856,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MEKAH - MAKKAH HOTEL @ SETARAF 50 METER (5★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "MAKKAH HOTEL @ SETARAF 50 METER DARI MASJIDIL HARAM",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -886,12 +879,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL MADINAH - GRAND MILLENIUM AL HARAM (SUITE) @ SETARAF 50 METER (5★)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "GRAND MILLENIUM AL HARAM @ SETARAF 50 METER DARI MASJID NABAWI",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -909,12 +902,12 @@
             {
               "pdfPage": 91,
               "text": "HOTEL AZIZIYAH - DAR SALAH HOTEL @ SETARAF 420 METER",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 92,
               "text": "DAR SALAH HOTEL @ SETARAF 420 METER DARI KOMPLEKS MELONTAR JAMRAH",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -927,7 +920,7 @@
             {
               "pdfPage": 91,
               "text": "BUSINESS CLASS PENERBANGAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -938,7 +931,7 @@
             {
               "pdfPage": 91,
               "text": "BUSINESS CLASS HIGH SPEED TRAIN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -949,7 +942,7 @@
             {
               "pdfPage": 93,
               "text": "PENGINAPAN DI AZIZIAH — Penginapan berhampiran Kompleks Jamrah di Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -960,7 +953,7 @@
             {
               "pdfPage": 93,
               "text": "HARI TARWIYAH — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -971,7 +964,7 @@
             {
               "pdfPage": 93,
               "text": "MUTAWWIF BERPENGALAMAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -982,7 +975,7 @@
             {
               "pdfPage": 93,
               "text": "ZIARAH 14 TEMPAT — Lawatan ke tempat bersejarah di Mekah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -993,7 +986,7 @@
             {
               "pdfPage": 93,
               "text": "MAJLIS KESYUKURAN — Jamuan makan malam meraikan Jemaah Haji di tanah suci.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1004,7 +997,7 @@
             {
               "pdfPage": 93,
               "text": "KURSUS HAJI PERDANA — Kursus mengenai hukum-hakam haji dan taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1015,7 +1008,7 @@
             {
               "pdfPage": 93,
               "text": "SET KELENGKAPAN HAJI — Dapatkan lebih 26 item kelengkapan set Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1026,7 +1019,7 @@
             {
               "pdfPage": 93,
               "text": "KULIAH — Disediakan kuliah Dhuha & Isyak sepanjang mengerjakan ibadah haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1046,7 +1039,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 4 (KRST AG07) RM 136,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1063,7 +1056,7 @@
             {
               "pdfPage": 91,
               "text": "BILIK BER - 2 (KRST AG08) RM 156,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1073,10 +1066,7 @@
   "upgrades": [
     {
       "id": "krs-tukar-penerbangan-komersial",
-      "packageIds": [
-        "krs-rotab",
-        "krs-ajwa"
-      ],
+      "packageIds": ["krs-rotab", "krs-ajwa"],
       "kind": "other",
       "description": "Pakej tambahan daripada penerbangan carter ke komersial",
       "priceSen": 2000000,
@@ -1087,7 +1077,7 @@
         {
           "pdfPage": 91,
           "text": "DAN JIKA ANDA MEMERLUKAN PAKEJ TAMBAHAN DARIPADA PENERBANGAN CARTER KE KOMERSIAL, ANDA HANYA PERLU MENAMBAH RM 20,000.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1095,11 +1085,7 @@
   "charges": [
     {
       "id": "krs-bayaran-haji-pjh",
-      "packageIds": [
-        "krs-rotab",
-        "krs-ajwa",
-        "krs-ajwa-gold"
-      ],
+      "packageIds": ["krs-rotab", "krs-ajwa", "krs-ajwa-gold"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -1109,17 +1095,13 @@
         {
           "pdfPage": 91,
           "text": "HARGA PAKEJ HAJI TERMASUK BAYARAN HAJI PJH 1448H/2027M SEBANYAK RM 23,398 YANG AKAN DIDEBITKAN DARI AKAUN TH JEMAAH HAJI PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "krs-caj-tambahan-th",
-      "packageIds": [
-        "krs-rotab",
-        "krs-ajwa",
-        "krs-ajwa-gold"
-      ],
+      "packageIds": ["krs-rotab", "krs-ajwa", "krs-ajwa-gold"],
       "description": "Caj tambahan TH jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti di Saudi Arabia",
       "priceSen": null,
       "basis": "per_person",
@@ -1129,17 +1111,13 @@
         {
           "pdfPage": 91,
           "text": "WALAUBAGAIMANAPUN, TH BERHAK UNTUK MENGENAKAN CAJ TAMBAHAN JIKA BERLAKU PANAMBAHAN KOS ATAU PENGENALAN KOS BAHARU OLEH PIHAK BERAUTORITI / BERKUASA DI SAUDI ARABIA",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "krs-caj-pulang-awal-lewat",
-      "packageIds": [
-        "krs-rotab",
-        "krs-ajwa",
-        "krs-ajwa-gold"
-      ],
+      "packageIds": ["krs-rotab", "krs-ajwa", "krs-ajwa-gold"],
       "description": "Caj tambahan jika ingin pulang ke tanah air lebih awal atau lewat dari jadual penerbangan asal TH",
       "priceSen": null,
       "basis": "per_person",
@@ -1149,7 +1127,7 @@
         {
           "pdfPage": 93,
           "text": "3. Caj tambahan jika ingin pulang ke tanah air (Malaysia) lebih awal atau lewat dari jadual penerbangan asal yang telah ditetapkan oleh pihak TH bergantung kepada nilai semasa.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1161,94 +1139,73 @@
       "packageId": null,
       "field": "variants.pmnStatus",
       "note": "PMN/Muaisim tidak disebut langsung dalam halaman 91–93; semua varian pmnStatus not_stated.",
-      "pages": [
-        91,
-        92,
-        93
-      ]
+      "pages": [91, 92, 93]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass/trainClass",
       "note": "Rotab & Ajwa: 'KELAS EKONOMI' dengan ikon tempat duduk, tidak jelas merujuk penerbangan carter atau kereta api Haramain; kedua-duanya direkod not_stated.",
-      "pages": [
-        92
-      ]
+      "pages": [92]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah (8 Zulhijjah) dinyatakan sebagai keistimewaan umum syarikat tanpa syarat; tidak dinyatakan per pakej. Tarikh 8 Zulhijjah seperti dicetak.",
-      "pages": [
-        93
-      ]
+      "pages": [93]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.defaultOccupancies",
       "note": "'Bilik berkumpulan' di Aziziyah untuk semua pakej; bilangan orang sebilik tidak dinyatakan.",
-      "pages": [
-        91
-      ]
+      "pages": [91]
     },
     {
       "severity": "non_blocking",
       "packageId": "krs-rotab",
       "field": "upgrades.tukar-penerbangan-komersial",
       "note": "Tambahan RM20,000 untuk tukar carter ke komersial: asas (seorang) dan kelas penerbangan tidak dinyatakan.",
-      "pages": [
-        91
-      ]
+      "pages": [91]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.dateLabel/sequence",
       "note": "Tarikh dan urutan penginapan tidak dinyatakan.",
-      "pages": [
-        91,
-        92
-      ]
+      "pages": [91, 92]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "travelDates",
       "note": "Tarikh perjalanan tidak dinyatakan.",
-      "pages": [
-        91,
-        92,
-        93
-      ]
+      "pages": [91, 92, 93]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 91–93.",
-      "pages": [
-        91,
-        92,
-        93
-      ]
+      "pages": [91, 92, 93]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        91
-      ]
+      "pages": [91]
     }
   ],
   "transcription": {
     "reviewer": "agen-E",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula 220 dpi dan potongan zum bagi teks kecil (nota harga, keistimewaan, syarat). Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-5",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua halaman 91-93 dan 8 varian (KRST R01-R03, A04-A06, AG07-AG08) disemak terhadap imej; harga, kod, bilik, tempoh (30-45 / 20-24 hari), hotel, jarak, kelas (Ajwa Gold business penerbangan + kereta api), Aziziyah Dar Salah (bilik berkumpulan) dan tambahan carter->komersial RM20,000 sepadan. Tiada pembetulan data. Tarwiyah kekal offered (keistimewaan umum syarikat untuk semua pakej, tiada syarat dicetak). PMN/Muaisim tidak disebut -> pmnStatus not_stated."
+    }
   }
 }

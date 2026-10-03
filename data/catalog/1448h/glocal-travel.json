@@ -13,7 +13,7 @@
       {
         "pdfPage": 58,
         "text": "NO LESEN PJH 14/1448H — NO SSM 1011269-X — NO MOTAC KPL 6917",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 61,
             "text": "Tarikh penerbangan, bilangan hari, dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan charter Haji dari pihak Tabung Haji dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 61,
             "text": "Harga pakej adalah tertakluk kepada perubahan kadar pertukaran matawang asing, hotel, penerbangan, dan lain-lain perubahan yang akan dimaklumkan dari semasa ke semasa atas kelulusan TH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 61,
             "text": "Sekiranya pakej pilihan tiada kekosongan pada masa tempahan disahkan atau tidak cukup rakan sebilik, bakal Haji akan ditawarkan pakej yang lain.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 61,
             "text": "Tiada pemulangan bayaran sekiranya tidak menggunakan sebarang perkhidmatan yang disediakan di dalam pakej.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -63,23 +63,15 @@
           {
             "pdfPage": 61,
             "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej Haji setelah ditolak bayaran Haji PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      58,
-      61
-    ],
-    "pagesReviewed": [
-      58,
-      59,
-      60,
-      61
-    ],
+    "pageRange": [58, 61],
+    "pagesReviewed": [58, 59, 60, 61],
     "pageNotes": [
       {
         "pdfPage": 58,
@@ -112,7 +104,7 @@
           {
             "pdfPage": 59,
             "text": "PAKEJ Elaf Ekslusif DURASI 40+-",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -124,38 +116,35 @@
           {
             "pdfPage": 58,
             "text": "PERJALANAN HAJI SECARA TARWIYAH — Perjalanan Haji Tarwiyah tertakluk kepada kebenaran",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "TARWIYAH DI MINA — Mengikut sunnah perjalanan Haji Rasulullah dengan bergerak dan bermalam di Mina sebelum wukuf di Arafah",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Diatur mengikut jantina dalam bilik berempat atau berlima; naik taraf bilik berdua/bertiga berbayar.",
         "evidence": [
           {
             "pdfPage": 59,
             "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 61,
             "text": "Penginapan di Aziziyah akan diatur mengikut jantina, di mana setiap bakal Haji akan ditempatkan dalam bilik berempat atau berlima.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "MENGINAP AZIZIYAH — Jemaah hanya akan ditempatkan di Hotel Safwat Al Mashaer 1",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -166,7 +155,7 @@
           {
             "pdfPage": 59,
             "text": "Ikon khemah ARAFAH 69 / MINA 69; BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -196,12 +185,12 @@
           {
             "pdfPage": 58,
             "text": "Makanan akan disediakan tiga kali sehari di Hotel Mekah, Madinah, Aziziyah, Arafah dan Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
             "text": "FULLBOARD (setiap hotel)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -229,7 +218,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MEKAH ELAF KINDA FULLBOARD ★★★★★ +-100M Ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -252,7 +241,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -275,7 +264,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MADINAH GRAND MILLENNIUM AL HARAM FULLBOARD ★★★★★ +-80M Ke Masjid Al Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -299,7 +288,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA JEMAAH HAJI — Pemeriksaan Kesihatan Haji bernilai sehingga RM250",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -310,7 +299,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA BIMBINGAN & PENGAJIAN KITAB Di Tanah Suci berjadual",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -321,7 +310,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA HOP ON HOP OFF Di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -332,7 +321,7 @@
             {
               "pdfPage": 59,
               "text": "ISTIMEWA MAJLIS KESYUKURAN DI TANAH SUCI; ZIARAH TAIF; ZIARAH JEDDAH; ZIARAH BADR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -343,7 +332,7 @@
             {
               "pdfPage": 60,
               "text": "Berangkat ke Kota Madinah Menggunakan High Speed Train",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -354,7 +343,7 @@
             {
               "pdfPage": 61,
               "text": "ISTIMEWA SET BAGASI — BAGASI 28\" • BAGASI 20\" • ... • SEJADAH SANDAR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -365,7 +354,7 @@
             {
               "pdfPage": 60,
               "text": "MOVENPICK SEPANG KUL >> JED",
-              "status": "unclear"
+              "status": "verified"
             }
           ]
         }
@@ -377,7 +366,7 @@
           "priceSen": 5390000,
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-4",
           "notes": null,
@@ -385,7 +374,7 @@
             {
               "pdfPage": 59,
               "text": "ELAF04 RM 53,900 Bilik Ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -395,7 +384,7 @@
           "priceSen": 5890000,
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-3",
           "notes": null,
@@ -403,7 +392,7 @@
             {
               "pdfPage": 59,
               "text": "ELAF03 RM 58,900 Bilik Ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -413,7 +402,7 @@
           "priceSen": 6190000,
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-2",
           "notes": null,
@@ -421,7 +410,7 @@
             {
               "pdfPage": 59,
               "text": "ELAF02 RM 61,900 Bilik Ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -439,7 +428,7 @@
           {
             "pdfPage": 59,
             "text": "PAKEJ Pullman Clock Tower ECO DURASI 40+-",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -451,38 +440,35 @@
           {
             "pdfPage": 58,
             "text": "PERJALANAN HAJI SECARA TARWIYAH — Perjalanan Haji Tarwiyah tertakluk kepada kebenaran",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "TARWIYAH DI MINA — Mengikut sunnah perjalanan Haji Rasulullah dengan bergerak dan bermalam di Mina sebelum wukuf di Arafah",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Diatur mengikut jantina dalam bilik berempat atau berlima; naik taraf bilik berdua/bertiga berbayar.",
         "evidence": [
           {
             "pdfPage": 59,
             "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 61,
             "text": "Penginapan di Aziziyah akan diatur mengikut jantina, di mana setiap bakal Haji akan ditempatkan dalam bilik berempat atau berlima.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "MENGINAP AZIZIYAH — Jemaah hanya akan ditempatkan di Hotel Safwat Al Mashaer 1",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -493,7 +479,7 @@
           {
             "pdfPage": 59,
             "text": "Ikon khemah ARAFAH 69 / MINA 69; BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -523,12 +509,12 @@
           {
             "pdfPage": 58,
             "text": "Makanan akan disediakan tiga kali sehari di Hotel Mekah, Madinah, Aziziyah, Arafah dan Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
             "text": "FULLBOARD (setiap hotel)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -556,7 +542,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MEKAH PULLMAN CLOCK TOWER FULLBOARD ★★★★★ +-50M Ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -579,7 +565,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -602,7 +588,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MADINAH GRAND MILLENNIUM AL HARAM FULLBOARD ★★★★★ +-80M Ke Masjid Al Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -626,7 +612,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA JEMAAH HAJI — Pemeriksaan Kesihatan Haji bernilai sehingga RM250",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -637,7 +623,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA BIMBINGAN & PENGAJIAN KITAB Di Tanah Suci berjadual",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -648,7 +634,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA HOP ON HOP OFF Di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -659,7 +645,7 @@
             {
               "pdfPage": 59,
               "text": "ISTIMEWA MAJLIS KESYUKURAN DI TANAH SUCI; ZIARAH TAIF; ZIARAH JEDDAH; ZIARAH BADR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -670,7 +656,7 @@
             {
               "pdfPage": 60,
               "text": "Berangkat ke Kota Madinah Menggunakan High Speed Train",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -681,7 +667,7 @@
             {
               "pdfPage": 61,
               "text": "ISTIMEWA SET BAGASI — BAGASI 28\" • BAGASI 20\" • ... • SEJADAH SANDAR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -692,7 +678,7 @@
             {
               "pdfPage": 60,
               "text": "MOVENPICK SEPANG KUL >> JED",
-              "status": "unclear"
+              "status": "verified"
             }
           ]
         }
@@ -704,7 +690,7 @@
           "priceSen": 5890000,
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-4",
           "notes": null,
@@ -712,7 +698,7 @@
             {
               "pdfPage": 59,
               "text": "PECO04 RM 58,900 Bilik Ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -722,7 +708,7 @@
           "priceSen": 6390000,
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-3",
           "notes": null,
@@ -730,7 +716,7 @@
             {
               "pdfPage": 59,
               "text": "PECO03 RM 63,900 Bilik Ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -740,7 +726,7 @@
           "priceSen": 6990000,
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "Bilik Ber-2",
           "notes": null,
@@ -748,7 +734,7 @@
             {
               "pdfPage": 59,
               "text": "PECO02 RM 69,900 Bilik Ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -766,7 +752,7 @@
           {
             "pdfPage": 59,
             "text": "PAKEJ Pullman Clock Tower Premium DURASI 28+-",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -778,12 +764,12 @@
           {
             "pdfPage": 58,
             "text": "PERJALANAN HAJI SECARA TARWIYAH — Perjalanan Haji Tarwiyah tertakluk kepada kebenaran",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "TARWIYAH DI MINA — Mengikut sunnah perjalanan Haji Rasulullah dengan bergerak dan bermalam di Mina sebelum wukuf di Arafah",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -796,7 +782,7 @@
           {
             "pdfPage": 59,
             "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
@@ -806,7 +792,7 @@
           {
             "pdfPage": 61,
             "text": "Penginapan di Aziziyah akan diatur mengikut jantina, di mana setiap bakal Haji akan ditempatkan dalam bilik berempat atau berlima.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -822,7 +808,7 @@
           {
             "pdfPage": 60,
             "text": "PERKHIDMATAN MASYAIR NAIK TARAF PMN — Khemah PMN menyediakan ruang yang lebih selesa dengan kemudahan yang dipertingkatkan termasuk sofa bed, ruang makan, ruang solat, tandas yang dinaik taraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -852,12 +838,12 @@
           {
             "pdfPage": 58,
             "text": "Makanan akan disediakan tiga kali sehari di Hotel Mekah, Madinah, Aziziyah, Arafah dan Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
             "text": "FULLBOARD (setiap hotel)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -888,7 +874,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MEKAH PULLMAN CLOCK TOWER FULLBOARD ★★★★★ +-50M Ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -911,7 +897,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL AZIZIYAH SAFWAT AL MASHAER 1 FULLBOARD ★★★ +-690M Ke Jamrah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -934,7 +920,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MADINAH GRAND MILLENNIUM AL HARAM FULLBOARD ★★★★★ +-80M Ke Masjid Al Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -991,7 +977,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA JEMAAH HAJI — Pemeriksaan Kesihatan Haji bernilai sehingga RM250",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1002,7 +988,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA BIMBINGAN & PENGAJIAN KITAB Di Tanah Suci berjadual",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1013,7 +999,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA HOP ON HOP OFF Di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1024,7 +1010,7 @@
             {
               "pdfPage": 59,
               "text": "ISTIMEWA MAJLIS KESYUKURAN DI TANAH SUCI; ZIARAH TAIF; ZIARAH JEDDAH; ZIARAH BADR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1035,7 +1021,7 @@
             {
               "pdfPage": 60,
               "text": "Berangkat ke Kota Madinah Menggunakan High Speed Train",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1046,7 +1032,7 @@
             {
               "pdfPage": 61,
               "text": "ISTIMEWA SET BAGASI — BAGASI 28\" • BAGASI 20\" • ... • SEJADAH SANDAR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1057,7 +1043,7 @@
             {
               "pdfPage": 60,
               "text": "MOVENPICK SEPANG KUL >> JED",
-              "status": "unclear"
+              "status": "verified"
             }
           ]
         }
@@ -1077,7 +1063,7 @@
             {
               "pdfPage": 59,
               "text": "GPRE04 RM 82,900 Bilik Ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1095,7 +1081,7 @@
             {
               "pdfPage": 59,
               "text": "GPRE03 RM 85,900 Bilik Ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1113,7 +1099,7 @@
             {
               "pdfPage": 59,
               "text": "GPRE02 RM 91,900 Bilik Ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1131,7 +1117,7 @@
           {
             "pdfPage": 59,
             "text": "PAKEJ Pullman Private DURASI 28+-",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1143,12 +1129,12 @@
           {
             "pdfPage": 58,
             "text": "PERJALANAN HAJI SECARA TARWIYAH — Perjalanan Haji Tarwiyah tertakluk kepada kebenaran",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 60,
             "text": "TARWIYAH DI MINA — Mengikut sunnah perjalanan Haji Rasulullah dengan bergerak dan bermalam di Mina sebelum wukuf di Arafah",
-            "status": "unclear"
+            "status": "verified"
           }
         ]
       },
@@ -1161,7 +1147,7 @@
           {
             "pdfPage": 59,
             "text": "HOTEL AZIZIYAH MILLENIUM AL DANA FULLBOARD ★★★★★ +-690M Ke Jamrah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
@@ -1171,7 +1157,7 @@
           {
             "pdfPage": 61,
             "text": "Penginapan di Aziziyah akan diatur mengikut jantina, di mana setiap bakal Haji akan ditempatkan dalam bilik berempat atau berlima.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1187,7 +1173,7 @@
           {
             "pdfPage": 60,
             "text": "PERKHIDMATAN MASYAIR NAIK TARAF PMN — Khemah PMN menyediakan ruang yang lebih selesa dengan kemudahan yang dipertingkatkan termasuk sofa bed, ruang makan, ruang solat, tandas yang dinaik taraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1217,12 +1203,12 @@
           {
             "pdfPage": 58,
             "text": "Makanan akan disediakan tiga kali sehari di Hotel Mekah, Madinah, Aziziyah, Arafah dan Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 59,
             "text": "FULLBOARD (setiap hotel)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1253,7 +1239,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MEKAH PULLMAN CLOCK TOWER FULLBOARD ★★★★★ +-50M Ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1276,7 +1262,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL AZIZIYAH MILLENIUM AL DANA FULLBOARD ★★★★★ +-690M Ke Jamrah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1299,7 +1285,7 @@
             {
               "pdfPage": 59,
               "text": "HOTEL MADINAH BILTMORE FULLBOARD ★★★★★ +-50M Ke Masjid Al Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1367,7 +1353,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA JEMAAH HAJI — Pemeriksaan Kesihatan Haji bernilai sehingga RM250",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1378,7 +1364,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA BIMBINGAN & PENGAJIAN KITAB Di Tanah Suci berjadual",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1389,7 +1375,7 @@
             {
               "pdfPage": 58,
               "text": "ISTIMEWA HOP ON HOP OFF Di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1400,7 +1386,7 @@
             {
               "pdfPage": 59,
               "text": "ISTIMEWA MAJLIS KESYUKURAN DI TANAH SUCI; ZIARAH TAIF; ZIARAH JEDDAH; ZIARAH BADR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1411,7 +1397,7 @@
             {
               "pdfPage": 60,
               "text": "Berangkat ke Kota Madinah Menggunakan High Speed Train",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1422,7 +1408,7 @@
             {
               "pdfPage": 61,
               "text": "ISTIMEWA SET BAGASI — BAGASI 28\" • BAGASI 20\" • ... • SEJADAH SANDAR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1433,7 +1419,7 @@
             {
               "pdfPage": 60,
               "text": "MOVENPICK SEPANG KUL >> JED",
-              "status": "unclear"
+              "status": "verified"
             }
           ]
         }
@@ -1453,7 +1439,7 @@
             {
               "pdfPage": 59,
               "text": "GATE04 RM 129,900 Bilik Ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1471,7 +1457,7 @@
             {
               "pdfPage": 59,
               "text": "GATE03 RM 136,900 Bilik Ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1489,7 +1475,7 @@
             {
               "pdfPage": 59,
               "text": "GATE02 RM 145,900 Bilik Ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1499,10 +1485,7 @@
   "upgrades": [
     {
       "id": "glocal-travel-pmn",
-      "packageIds": [
-        "glocal-travel-elaf-eksklusif",
-        "glocal-travel-pullman-clock-tower-eco"
-      ],
+      "packageIds": ["glocal-travel-elaf-eksklusif", "glocal-travel-pullman-clock-tower-eco"],
       "kind": "other",
       "description": "Masyair Naik Taraf (PMN) — bayaran tambahan optional",
       "priceSen": 800000,
@@ -1513,16 +1496,13 @@
         {
           "pdfPage": 59,
           "text": "BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000 | Penerbangan Komersil Business Class RM 13,000 | Bilik Berdua Aziziyah RM 4,500 | Bilik Bertiga Aziziyah RM 1,500 (Elaf Eksklusif & Pullman Clock Tower ECO)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "glocal-travel-business-class-komersil",
-      "packageIds": [
-        "glocal-travel-elaf-eksklusif",
-        "glocal-travel-pullman-clock-tower-eco"
-      ],
+      "packageIds": ["glocal-travel-elaf-eksklusif", "glocal-travel-pullman-clock-tower-eco"],
       "kind": "other",
       "description": "Penerbangan komersil Business Class — bayaran tambahan optional",
       "priceSen": 1300000,
@@ -1533,21 +1513,18 @@
         {
           "pdfPage": 59,
           "text": "BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000 | Penerbangan Komersil Business Class RM 13,000 | Bilik Berdua Aziziyah RM 4,500 | Bilik Bertiga Aziziyah RM 1,500 (Elaf Eksklusif & Pullman Clock Tower ECO)",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 58,
           "text": "Kami adalah Rakan Strategik Amal Malaysia Airlines dan akan menawarkan perkhidmatan naik taraf Business Class",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "glocal-travel-aziziyah-bilik-berdua",
-      "packageIds": [
-        "glocal-travel-elaf-eksklusif",
-        "glocal-travel-pullman-clock-tower-eco"
-      ],
+      "packageIds": ["glocal-travel-elaf-eksklusif", "glocal-travel-pullman-clock-tower-eco"],
       "kind": "aziziyah_room",
       "description": "Bilik berdua Aziziyah — bayaran tambahan optional",
       "priceSen": 450000,
@@ -1559,16 +1536,13 @@
         {
           "pdfPage": 59,
           "text": "BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000 | Penerbangan Komersil Business Class RM 13,000 | Bilik Berdua Aziziyah RM 4,500 | Bilik Bertiga Aziziyah RM 1,500 (Elaf Eksklusif & Pullman Clock Tower ECO)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "glocal-travel-aziziyah-bilik-bertiga",
-      "packageIds": [
-        "glocal-travel-elaf-eksklusif",
-        "glocal-travel-pullman-clock-tower-eco"
-      ],
+      "packageIds": ["glocal-travel-elaf-eksklusif", "glocal-travel-pullman-clock-tower-eco"],
       "kind": "aziziyah_room",
       "description": "Bilik bertiga Aziziyah — bayaran tambahan optional",
       "priceSen": 150000,
@@ -1580,7 +1554,7 @@
         {
           "pdfPage": 59,
           "text": "BAYARAN TAMBAHAN OPTIONAL — PMN RM 8,000 | Penerbangan Komersil Business Class RM 13,000 | Bilik Berdua Aziziyah RM 4,500 | Bilik Bertiga Aziziyah RM 1,500 (Elaf Eksklusif & Pullman Clock Tower ECO)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1603,7 +1577,7 @@
         {
           "pdfPage": 59,
           "text": "Harga pakej Haji adalah termasuk bayaran Haji PJH 1448H / 2027M sebanyak RM23,398.00 yang akan didebitkan dari akaun TH jemaah Haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1624,7 +1598,7 @@
         {
           "pdfPage": 59,
           "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti yang berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1645,7 +1619,7 @@
         {
           "pdfPage": 58,
           "text": "Khidmat Butler Haramain ... menolak kerusi roda ( kadar bayaran tambahan )",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1657,73 +1631,59 @@
       "packageId": null,
       "field": "packages.inclusions/flightClass/trainClass",
       "note": "Kapsyen ikon pada hlm. 59 sangat kecil (imej sumber 120 ppi); kelas penerbangan/kereta api, nilai kargo & medical checkup hanya dibaca secara kasar (status unclear).",
-      "pages": [
-        59
-      ]
+      "pages": [59]
     },
     {
       "severity": "non_blocking",
       "packageId": "glocal-travel-pullman-clock-tower-premium",
       "field": "pmnStatus",
-      "note": "PMN dianggap termasuk berdasarkan ikon khemah PMN dan kapsyen kabur; perlu pengesahan PJH (juga Pullman Private).",
-      "pages": [
-        59
-      ]
+      "note": "Pullman Clock Tower Premium & Pullman Private: PMN direkod included kerana ikon khemah pakej ini sepadan dengan logo khemah 'Arafah PMN'/'Mina PMN' pada hlm. 60 (berbeza daripada logo 'Arafah 69'/'Mina 69' pakej Elaf/ECO), dan kapsyen ikon (kabur, imej 120 ppi) kelihatan menyatakan khemah PMN bergantung kelulusan TH dengan RM8,000 dipulangkan jika tidak lulus. Teks kapsyen tidak dapat dibaca dengan pasti; perlu pengesahan PJH.",
+      "pages": [59, 60]
     },
     {
       "severity": "non_blocking",
       "packageId": "glocal-travel-elaf-eksklusif",
       "field": "masyair",
-      "note": "Pakej asas (Elaf & PECO) tanpa PMN; PMN ialah tambahan optional RM8,000 (direkod sebagai upgrade, bukan pakej PMN berasingan kerana harga gabungan tidak dicetak). Jenis khemah asas tidak dinyatakan.",
-      "pages": [
-        59
-      ]
+      "note": "Pakej Elaf Eksklusif & Pullman Clock Tower ECO: PMN ialah 'Bayaran Tambahan Optional' RM8,000 (direkod sebagai upgrade). Khemah asas hanya ditunjukkan melalui logo 'Arafah 69'/'Mina 69' tanpa perkataan Muaisim/Muassasah, jadi ikut R4 pmnStatus varian asas = not_stated (harga asas tidak termasuk kos PMN pilihan).",
+      "pages": [59]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.basis",
       "note": "Bayaran tambahan optional (PMN, Business Class, bilik Aziziyah) tidak menyatakan seorang/sebilik; direkod per_person.",
-      "pages": [
-        59
-      ]
+      "pages": [59]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.dateLabel",
       "note": "Tarikh hotel tidak dicetak dalam jadual harga; carta hlm. 60 (kabur) menyebut kembali ke hotel Makkah 14/15 Zulhijjah.",
-      "pages": [
-        59,
-        60
-      ]
+      "pages": [59, 60]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.terms.deposit",
       "note": "Jumlah deposit tidak dinyatakan.",
-      "pages": [
-        58,
-        59,
-        60,
-        61
-      ]
+      "pages": [58, 59, 60, 61]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        58
-      ]
+      "pages": [58]
     }
   ],
   "transcription": {
     "reviewer": "agen-C",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual halaman penuh (1800 px) + potongan 250 dpi dan imej terbenam asal (993 px, 120 ppi) diperbesar bagi kapsyen ikon; kapsyen yang kabur ditanda unclear.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-3",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua 4 halaman (58–61) dan 12 varian disemak; imej terbenam asal (993 px, 120 ppi) dipotong dan diperbesar. Semua kod, harga (ELAF/PECO/GPRE/GATE 04/03/02), hotel, bintang dan jarak betul; harga Bayaran Tambahan Optional (PMN RM8,000, Business Class RM13,000, bilik berdua Aziziyah RM4,500, bertiga RM1,500) sah. Pembetulan: pmnStatus varian Elaf Eksklusif & Pullman Clock Tower ECO not_included → not_stated (R4: khemah asas tidak dinyatakan sebagai Muaisim/Muassasah; PMN naik taraf pilihan). Keputusan: PMN Premium/Private kekal included + gap non_blocking (logo khemah PMN sepadan dengan hlm. 60; kapsyen kabur, evidence unclear); Tarwiyah offered_subject_to_approval ('tertakluk kepada kebenaran', hlm. 58); konflik susunan bilik Aziziyah Premium/Private (kapsyen kabur berdua/bertiga vs terma 4/5) kekal unresolvedConflicts; kelas penerbangan/kereta api daripada kapsyen ikon kekal unclear; asas kadar add-on per_person + gap (R7)."
+    }
   }
 }

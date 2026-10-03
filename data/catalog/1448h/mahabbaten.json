@@ -13,12 +13,12 @@
       {
         "pdfPage": 94,
         "text": "NO. LESEN PJH : 23/1448H — NO SSM : 201001028719 / 912638-D | KPK/LN : 6607 — NO. KELULUSAN IKLAN UMRAH : IU00442",
-        "status": "transcribed"
+        "status": "verified"
       },
       {
         "pdfPage": 95,
         "text": "NO. LESEN PJH : 23/1448H",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -28,7 +28,7 @@
           {
             "pdfPage": 94,
             "text": "Pemilihan kod pakej adalah tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik ketika terpilih.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -38,7 +38,7 @@
           {
             "pdfPage": 94,
             "text": "Tiada pembayaran balik jika pakej kurang dari 40 hari.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -48,7 +48,7 @@
           {
             "pdfPage": 94,
             "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -58,7 +58,7 @@
           {
             "pdfPage": 95,
             "text": "Harga yang ditawarkan adalah tertakluk kepada sebarang perubahan, hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan yang akan dimaklumkan dari semasa ke semasa atas kelulusan TH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -68,7 +68,7 @@
           {
             "pdfPage": 95,
             "text": "Sekiranya pakej pilihan utama tiada kekosongan ... bakal haji akan ditawarkan untuk menerima pakej-pakej pilihan alternatif yang setaraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -78,7 +78,7 @@
           {
             "pdfPage": 95,
             "text": "Jika bakal haji membuat pembatalan atau penundaan pemergian haji, kadar denda ... seperti yang dinyatakan dalam borang pengesahan terimaan tawaran perkhidmatan pakej haji 1448H/2027M.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -88,21 +88,15 @@
           {
             "pdfPage": 95,
             "text": "Deposit RM5,000 seorang bagi jemaah Haji yang terpilih",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      94,
-      95
-    ],
-    "pagesReviewed": [
-      94,
-      95
-    ],
+    "pageRange": [94, 95],
+    "pagesReviewed": [94, 95],
     "pageNotes": [
       {
         "pdfPage": 94,
@@ -127,12 +121,12 @@
           {
             "pdfPage": 94,
             "text": "+-40 HARI Tertakluk kepada penetapan Cater Haji",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 94,
             "text": "Tiada pembayaran balik jika pakej kurang dari 40 hari.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -142,7 +136,7 @@
           {
             "pdfPage": 95,
             "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak TH dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -155,24 +149,23 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5
-        ],
-        "defaultArrangementNote": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan (1-15 Zulhijjah), berasingan mengikut jantina; dicetak di bawah tajuk 'MINA' — perkataan 'Aziziyah' tidak dicetak.",
+        "defaultOccupancies": [5],
+        "defaultArrangementNote": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan (1-15 Zulhijjah), berasingan mengikut jantina; dicetak di bawah tajuk 'MINA' sebagai 'Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan' — direkod sebagai Aziziyah/hotel berhampiran Mina mengikut R1.",
         "dateLabel": "1 Zulhijjah - 15 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 94,
             "text": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan bermula dari 1 Zulhijjah - 15 Zulhijjah disediakan berasingan mengikut jantina. Jemaah akan kembali ke Hotel Elaf pada 15 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 94,
             "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "MINA — Hotel Nuzul Al Rayyan"
       },
       "masyair": {
         "type": "muaisim",
@@ -181,17 +174,17 @@
           {
             "pdfPage": 94,
             "text": "MINA Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan +- 600m dari Dataran Kompleks Jamrat",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 95,
             "text": "ARAFAH, MINA & PENGANGKUTAN — Khemah, makanan/minuman dan kenderaan yang akan disediakan oleh pihak berautoriti Arab Saudi",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 95,
             "text": "Perkhidmatan Masyair Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan sebanyak RM8,990 seorang",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -202,7 +195,7 @@
           {
             "pdfPage": 94,
             "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -212,7 +205,7 @@
           {
             "pdfPage": 95,
             "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak TH dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -222,7 +215,7 @@
           {
             "pdfPage": 94,
             "text": "PAKEJ TERMASUK SPEEDTRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -232,7 +225,7 @@
           {
             "pdfPage": 95,
             "text": "SAJIAN MAKANAN — Secara buffet Asia 3 kali sehari di Makkah & Madinah (termasuk minuman panas & sejuk). Sajian makanan sepanjang di Arafah dan Mina adalah di bawah kelolaan pihak berautoriti Arab Saudi.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -252,12 +245,12 @@
             {
               "pdfPage": 94,
               "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
         {
-          "location": "mina",
+          "location": "aziziyah",
           "sequence": 2,
           "hotelNameAsPublished": "Hotel Nuzul Al Rayyan",
           "orEquivalent": false,
@@ -271,12 +264,12 @@
             {
               "pdfPage": 94,
               "text": "MINA Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan +- 600m dari Dataran Kompleks Jamrat",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 94,
               "text": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan bermula dari 1 Zulhijjah - 15 Zulhijjah disediakan berasingan mengikut jantina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -295,12 +288,12 @@
             {
               "pdfPage": 94,
               "text": "HOTEL MAKKAH ELAF AL KHAIR Jarak +-400 Meter @ setaraf",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 94,
               "text": "Jemaah akan kembali ke Hotel Elaf pada 15 Zulhijjah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -319,7 +312,7 @@
             {
               "pdfPage": 94,
               "text": "HOTEL MADINAH KINGSGATE DURRAT Jarak +-300 Meter @ setaraf +- 5 Hari 4 Malam",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -332,7 +325,7 @@
             {
               "pdfPage": 94,
               "text": "PAKEJ TERMASUK SPEEDTRAIN SEHALA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -343,7 +336,7 @@
             {
               "pdfPage": 95,
               "text": "16 KELENGKAPAN EKSKLUSIF - Bagasi besar - Bagasi kecil ... - Telekung atau ihram.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -354,7 +347,7 @@
             {
               "pdfPage": 95,
               "text": "BIMBINGAN — Kursus Haji Bersiri & kursus intensif akan diadakan di tanah air sebelum jemaah berangkat ke tanah suci.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -365,7 +358,7 @@
             {
               "pdfPage": 95,
               "text": "PEMBIMBING — Guru agama yang mempunyai tauliah dari Lembaga Tabung Haji dan dibantu oleh mutawwif yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -376,7 +369,7 @@
             {
               "pdfPage": 95,
               "text": "ZIARAH — Lawatan sekitar Makkah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -387,7 +380,7 @@
             {
               "pdfPage": 95,
               "text": "MAJLIS LIQA' MAHABBAH — Jemaah akan mengikut pengisian ilmu dan tazkirah di Majlis Liqa' Mahabbah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -398,7 +391,7 @@
             {
               "pdfPage": 95,
               "text": "TAKAFUL — Pelan perlindungan Takaful berkelompok termasuk faedah kematian (tertakluk kepada terma dan syarat takaful). Pelan Takaful ini hanya bagi bakal haji berusia 18 - 65 tahun sebelum hari penerbangan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -409,7 +402,7 @@
             {
               "pdfPage": 95,
               "text": "kenderaan ... termasuk waktu ketibaan & waktu balik serta pergerakan Makkah / Madinah / Jeddah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -420,7 +413,7 @@
             {
               "pdfPage": 95,
               "text": "TOUR GUIDE SYSTEM ... PENGAJIAN KITAB & KEROHANIAN — Kuliah pengajian, Bacaan Yasin dan Khatam Kitab Hadis 40",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -432,7 +425,7 @@
             {
               "pdfPage": 95,
               "text": "PERKHIDMATAN TAMBAHAN YANG DISEDIAKAN TIDAK TERMASUK DI DALAM PAKEJ",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -451,7 +444,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH ELAF MAH 1 BER-5 RM49,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -468,7 +461,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH ELAF MAH 2 BER-4 RM53,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -485,7 +478,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH ELAF MAH 3 BER-3 RM57,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -502,7 +495,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH ELAF MAH 4 BER-2 RM62,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -520,12 +513,12 @@
           {
             "pdfPage": 94,
             "text": "+-40 HARI Tertakluk kepada penetapan Cater Haji",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 94,
             "text": "Tiada pembayaran balik jika pakej kurang dari 40 hari.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -535,7 +528,7 @@
           {
             "pdfPage": 95,
             "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak TH dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -548,24 +541,23 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5
-        ],
-        "defaultArrangementNote": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan (1-15 Zulhijjah), berasingan mengikut jantina; dicetak di bawah tajuk 'MINA' — perkataan 'Aziziyah' tidak dicetak.",
+        "defaultOccupancies": [5],
+        "defaultArrangementNote": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan (1-15 Zulhijjah), berasingan mengikut jantina; dicetak di bawah tajuk 'MINA' sebagai 'Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan' — direkod sebagai Aziziyah/hotel berhampiran Mina mengikut R1.",
         "dateLabel": "1 Zulhijjah - 15 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 94,
             "text": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan bermula dari 1 Zulhijjah - 15 Zulhijjah disediakan berasingan mengikut jantina. Jemaah akan kembali ke Hotel Safwah pada 15 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 94,
             "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "MINA — Hotel Nuzul Al Rayyan"
       },
       "masyair": {
         "type": "muaisim",
@@ -574,17 +566,17 @@
           {
             "pdfPage": 94,
             "text": "MINA Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan +- 600m dari Dataran Kompleks Jamrat",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 95,
             "text": "ARAFAH, MINA & PENGANGKUTAN — Khemah, makanan/minuman dan kenderaan yang akan disediakan oleh pihak berautoriti Arab Saudi",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 95,
             "text": "Perkhidmatan Masyair Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan sebanyak RM8,990 seorang",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -595,7 +587,7 @@
           {
             "pdfPage": 94,
             "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -605,7 +597,7 @@
           {
             "pdfPage": 95,
             "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak TH dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -615,7 +607,7 @@
           {
             "pdfPage": 94,
             "text": "PAKEJ TERMASUK SPEEDTRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -625,7 +617,7 @@
           {
             "pdfPage": 95,
             "text": "SAJIAN MAKANAN — Secara buffet Asia 3 kali sehari di Makkah & Madinah (termasuk minuman panas & sejuk). Sajian makanan sepanjang di Arafah dan Mina adalah di bawah kelolaan pihak berautoriti Arab Saudi.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -645,12 +637,12 @@
             {
               "pdfPage": 94,
               "text": "Jemaah yang tiba di Makkah sebelum 1 Zulhijjah akan menginap di hotel ekonomi terlebih dahulu sebelum berpindah ke Hotel Nuzul Al Rayyan pada 1 Zulhijjah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
         {
-          "location": "mina",
+          "location": "aziziyah",
           "sequence": 2,
           "hotelNameAsPublished": "Hotel Nuzul Al Rayyan",
           "orEquivalent": false,
@@ -664,12 +656,12 @@
             {
               "pdfPage": 94,
               "text": "MINA Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan +- 600m dari Dataran Kompleks Jamrat",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 94,
               "text": "Penginapan 5 orang sebilik di Hotel Nuzul Al Rayyan bermula dari 1 Zulhijjah - 15 Zulhijjah disediakan berasingan mengikut jantina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -688,12 +680,12 @@
             {
               "pdfPage": 94,
               "text": "HOTEL MAKKAH SAFWAH TOWERS 3 Jarak +-60 Meter @ setaraf",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 94,
               "text": "Jemaah akan kembali ke Hotel Safwah pada 15 Zulhijjah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -712,7 +704,7 @@
             {
               "pdfPage": 94,
               "text": "HOTEL MADINAH KINGSGATE DURRAT Jarak +-300 Meter @ setaraf +- 5 Hari 4 Malam",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -725,7 +717,7 @@
             {
               "pdfPage": 94,
               "text": "PAKEJ TERMASUK SPEEDTRAIN SEHALA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -736,7 +728,7 @@
             {
               "pdfPage": 95,
               "text": "16 KELENGKAPAN EKSKLUSIF - Bagasi besar - Bagasi kecil ... - Telekung atau ihram.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -747,7 +739,7 @@
             {
               "pdfPage": 95,
               "text": "BIMBINGAN — Kursus Haji Bersiri & kursus intensif akan diadakan di tanah air sebelum jemaah berangkat ke tanah suci.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -758,7 +750,7 @@
             {
               "pdfPage": 95,
               "text": "PEMBIMBING — Guru agama yang mempunyai tauliah dari Lembaga Tabung Haji dan dibantu oleh mutawwif yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -769,7 +761,7 @@
             {
               "pdfPage": 95,
               "text": "ZIARAH — Lawatan sekitar Makkah dan Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -780,7 +772,7 @@
             {
               "pdfPage": 95,
               "text": "MAJLIS LIQA' MAHABBAH — Jemaah akan mengikut pengisian ilmu dan tazkirah di Majlis Liqa' Mahabbah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -791,7 +783,7 @@
             {
               "pdfPage": 95,
               "text": "TAKAFUL — Pelan perlindungan Takaful berkelompok termasuk faedah kematian (tertakluk kepada terma dan syarat takaful). Pelan Takaful ini hanya bagi bakal haji berusia 18 - 65 tahun sebelum hari penerbangan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -802,7 +794,7 @@
             {
               "pdfPage": 95,
               "text": "kenderaan ... termasuk waktu ketibaan & waktu balik serta pergerakan Makkah / Madinah / Jeddah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -813,7 +805,7 @@
             {
               "pdfPage": 95,
               "text": "TOUR GUIDE SYSTEM ... PENGAJIAN KITAB & KEROHANIAN — Kuliah pengajian, Bacaan Yasin dan Khatam Kitab Hadis 40",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -825,7 +817,7 @@
             {
               "pdfPage": 95,
               "text": "PERKHIDMATAN TAMBAHAN YANG DISEDIAKAN TIDAK TERMASUK DI DALAM PAKEJ",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -844,7 +836,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH SAFWAH MAH 5 BER-5 RM59,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -861,7 +853,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH SAFWAH MAH 6 BER-4 RM63,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -878,7 +870,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH SAFWAH MAH 7 BER-3 RM67,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -895,7 +887,7 @@
             {
               "pdfPage": 94,
               "text": "MAHABBAH SAFWAH MAH 8 BER-2 RM72,990",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -905,10 +897,7 @@
   "upgrades": [
     {
       "id": "mahabbaten-pmn",
-      "packageIds": [
-        "mahabbaten-mahabbah-elaf",
-        "mahabbaten-mahabbah-safwah"
-      ],
+      "packageIds": ["mahabbaten-mahabbah-elaf", "mahabbaten-mahabbah-safwah"],
       "kind": "other",
       "description": "Perkhidmatan Masyair Naik Taraf (PMN) secara pilihan",
       "priceSen": 899000,
@@ -919,16 +908,13 @@
         {
           "pdfPage": 95,
           "text": "Perkhidmatan Masyair Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan sebanyak RM8,990 seorang (tertakluk kepada kadar bayaran sebenar yang bakal ditetapkan oleh pihak berautoriti Arab Saudi).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mahabbaten-business-class",
-      "packageIds": [
-        "mahabbaten-mahabbah-elaf",
-        "mahabbaten-mahabbah-safwah"
-      ],
+      "packageIds": ["mahabbaten-mahabbah-elaf", "mahabbaten-mahabbah-safwah"],
       "kind": "other",
       "description": "Tiket penerbangan kelas perniagaan (Business Class) — tambahan minima RM14,000 seorang",
       "priceSen": null,
@@ -939,16 +925,13 @@
         {
           "pdfPage": 95,
           "text": "Tiket penerbangan kelas perniagaan (Business Class) dengan tambahan bayaran minima sebanyak RM14,000 seorang (tertakluk kepada harga tiket sebenar dan kelulusan dari pihak TH serta kekosongan tempat duduk penerbangan semasa pendaftaran.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mahabbaten-kargo",
-      "packageIds": [
-        "mahabbaten-mahabbah-elaf",
-        "mahabbaten-mahabbah-safwah"
-      ],
+      "packageIds": ["mahabbaten-mahabbah-elaf", "mahabbaten-mahabbah-safwah"],
       "kind": "other",
       "description": "Kargo dari Makkah / Madinah ke Malaysia",
       "priceSen": null,
@@ -959,7 +942,7 @@
         {
           "pdfPage": 95,
           "text": "KARGO — Dari Makkah / Madinah ke Malaysia dengan harga yang berpatutan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -967,10 +950,7 @@
   "charges": [
     {
       "id": "mahabbaten-bayaran-haji-pjh",
-      "packageIds": [
-        "mahabbaten-mahabbah-elaf",
-        "mahabbaten-mahabbah-safwah"
-      ],
+      "packageIds": ["mahabbaten-mahabbah-elaf", "mahabbaten-mahabbah-safwah"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -980,16 +960,13 @@
         {
           "pdfPage": 94,
           "text": "Harga Pakej Haji Adalah Termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mahabbaten-caj-tambahan-th",
-      "packageIds": [
-        "mahabbaten-mahabbah-elaf",
-        "mahabbaten-mahabbah-safwah"
-      ],
+      "packageIds": ["mahabbaten-mahabbah-elaf", "mahabbaten-mahabbah-safwah"],
       "description": "Caj tambahan TH jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti di Arab Saudi",
       "priceSen": null,
       "basis": "per_person",
@@ -999,7 +976,7 @@
         {
           "pdfPage": 94,
           "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1010,72 +987,60 @@
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah",
-      "note": "Hotel Nuzul Al Rayyan (1–15 Zulhijjah, 5 sebilik, ±600m dari Dataran Kompleks Jamrat) dicetak di bawah tajuk 'MINA' sebagai alternatif kepada 'Khemah (Mina Muasim)'; perkataan 'Aziziyah' tidak dicetak. Direkod aziziyah included dan stay location 'mina'.",
-      "pages": [
-        94
-      ]
+      "note": "Hotel Nuzul Al Rayyan (1–15 Zulhijjah, 5 sebilik, ±600m dari Dataran Kompleks Jamrat) dicetak di bawah tajuk 'MINA' sebagai 'Khemah (Mina Muasim) atau Hotel Nuzul Al Rayyan'; perkataan 'Aziziyah' tidak dicetak. Mengikut R1 direkod stays.location 'aziziyah', aziziyah included, labelAsPublished 'MINA — Hotel Nuzul Al Rayyan'. Maksud 'atau' (pilihan khemah vs hotel) perlu disahkan PJH.",
+      "pages": [94]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays",
       "note": "Jemaah yang tiba sebelum 1 Zulhijjah menginap di 'hotel ekonomi' yang tidak dinamakan (bukan Elaf/Safwah) sehingga 1 Zulhijjah.",
-      "pages": [
-        94
-      ]
+      "pages": [94]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak disebut dalam halaman 94–95.",
-      "pages": [
-        94,
-        95
-      ]
+      "pages": [94, 95]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
       "note": "Jarak hotel Makkah/Madinah ('Jarak +-400/60/300 Meter') dicetak tanpa titik ukuran.",
-      "pages": [
-        94
-      ]
+      "pages": [94]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.business-class.priceSen",
       "note": "Business Class: 'tambahan bayaran minima RM14,000 seorang' — harga minimum, priceSen null.",
-      "pages": [
-        95
-      ]
+      "pages": [95]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 94–95.",
-      "pages": [
-        94,
-        95
-      ]
+      "pages": [94, 95]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        94
-      ]
+      "pages": [94]
     }
   ],
   "transcription": {
     "reviewer": "agen-E",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula 220 dpi dan potongan zum bagi teks kecil (kad hotel, nota kaki Nuzul Al Rayyan, lesen, perkhidmatan tambahan). Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-5",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua halaman 94-95 dan 8 varian (MAH 1-8) disemak terhadap imej; harga, kod, bilik, tempoh ±40 hari, hotel, jarak, PMN pilihan RM8,990 seorang dan Business Class minima RM14,000 sepadan. Pembetulan (R1): Hotel Nuzul Al Rayyan (1-15 Zulhijjah, 5 sebilik) yang dicetak di bawah tajuk 'MINA' dipindah daripada stays.location 'mina' kepada 'aziziyah'; aziziyah kekal included dengan labelAsPublished 'MINA — Hotel Nuzul Al Rayyan'. pmnStatus not_included kekal (khemah asas 'Mina Muasim' dinyatakan). Tarwiyah tidak disebut -> not_stated."
+    }
   }
 }
