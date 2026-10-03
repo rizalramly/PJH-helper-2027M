@@ -1,0 +1,2472 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "mimm",
+    "label": "MIMM",
+    "name": "MIMM Travel & Tours",
+    "legalName": "MIMM Travel & Tours Sdn Bhd",
+    "website": "www.mimmtravel.com/haji",
+    "publicContact": "WhatsApp hotline +6011 1029 7879; Ibu Pejabat KL +603 4162 7879",
+    "licenceNumberAsPublished": "PJH24 /1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 96,
+        "text": "NO LESEN HAJI PJH24 /1448H — NO SSM SYARIKAT 1027996-A — NO LESEN MOTAC KPKLN 7265",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Tarikh dan tempoh pakej tertakluk kepada jadual penerbangan yang ditetapkan oleh TH.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Tarikh dan tempoh pakej tertakluk kepada jadual penerbangan yang ditetapkan oleh TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pertukaran tarikh penerbangan selepas penetapan dikenakan caj; kelulusan tertakluk kepada TH.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Sebarang pertukaran tarikh penerbangan selepas penetapan tarikh penerbangan akan dikenakan caj. Kelulusan pertukaran tarikh penerbangan adalah tertakluk kepada TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Harga bermula dari Kuala Lumpur; tidak termasuk penerbangan domestik.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Hotel biasanya hanya menyediakan 2 katil single standard untuk bilik bertiga dan berempat; katil ketiga dan keempat ialah katil tambahan.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Pihak hotel kebiasaannya hanya menyediakan 2 katil single standard untuk bilik bertiga dan berempat. Selebihnya (katil ketiga dan keempat) adalah katil tambahan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: 5% (selepas Bayaran Pakej Haji), 20% (selepas Jadual Penerbangan Haji dikeluarkan), 40% (selepas jadual penerbangan dan Visa Haji diperuntukkan), daripada harga pakej selepas ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pendaftaran tertakluk kepada terma & syarat penuh dalam Borang Daftar Haji MIMM Travel Sdn Bhd 1448H/2027M.",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Semua pendaftaran adalah tertakluk kepada terma & syarat penuh seperti yang dinyatakan pada Borang Daftar Haji MIMM Travel Sdn Bhd 1448H /2027M.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [96, 101],
+    "pagesReviewed": [96, 97, 98, 99, 100, 101],
+    "pageNotes": [
+      {
+        "pdfPage": 96,
+        "content": "Muka depan: pembimbing, testimoni jemaah, lesen PJH24/1448H. Tiada harga."
+      },
+      {
+        "pdfPage": 97,
+        "content": "Pakej Marwah, Uhud, Safa, Nour (40-45 hari, sewa khas TH ekonomi): 12 varian bilik 4/3/2, hotel Makkah/Madinah/Aziziyah, nota Bayaran Haji PJH."
+      },
+      {
+        "pdfPage": 98,
+        "content": "Pakej Premium Keutamaan Thur (MTP01/02) & Najm (MTP03/04): business class komersil, PMN termasuk, jadual hotel, nota bilik bertiga atas permintaan."
+      },
+      {
+        "pdfPage": 99,
+        "content": "Guru bimbingan & mutawif; program bimbingan termasuk Tarwiyah sebagai pilihan. Tiada harga."
+      },
+      {
+        "pdfPage": 100,
+        "content": "Set kelengkapan haji dan kebajikan jemaah. Tiada harga."
+      },
+      {
+        "pdfPage": 101,
+        "content": "Maklumat PMN (termasuk Thur & Najm; tambahan RM12,000 untuk pakej lain), syarat asas, denda pembatalan, akaun bank, alamat."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "mimm-marwah",
+      "name": "Pakej Marwah",
+      "series": "Pakej Haji MIMM (Penerbangan Sewa Khas TH)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "PAKEJ MARWAH • 40 - 45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 97,
+            "text": "Hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "PMN tidak termasuk; PMN boleh ditambah RM12,000 seorang. Jenis khemah asas (Muaisim atau lain) tidak dinyatakan.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Harga seorang: Tambahan RM12,000 seorang untuk jemaah Pakej Marwah, Uhud, Safa & Nour",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Penerbangan Sewa Khas TH Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Keretapi Laju Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 kali sehari Buffet Asia (Makkah); Buffet Asia (Madinah & Aziziyah)",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Makan 3 kali sehari Buffet Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Le Meridien Makkah / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 260,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MEKAH LE MERIDIEN MAKKAH / SETARAF +260 Meter Ke Dataran MasjidilHaram — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millenium Alharam / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MADINAH GRAND MILLENIUM ALHARAM/ SETARAF +100 Meter Ke Pagar Masjid Nabawi — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Bimbingan Intensif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Bimbingan Intensif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian & Ziarah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Pengisian & Ziarah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi Laju Sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Keretapi Laju Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 100,
+              "text": "SET KELENGKAPAN HAJI — Bagasi 28 Inci + sarung, Bagasi 20 Inci, ... Terdapat perbezaan untuk Pakej Premium.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "PMN (tambahan RM12,000 seorang)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTM01",
+          "codeIsInternal": false,
+          "priceSen": 5299000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ MARWAH — Kod Pakej MTM01 RM52,990 Bilik Berempat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTM02",
+          "codeIsInternal": false,
+          "priceSen": 6299000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ MARWAH — Kod Pakej MTM02 RM62,990 Bilik Bertiga",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTM03",
+          "codeIsInternal": false,
+          "priceSen": 6999000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ MARWAH — Kod Pakej MTM03 RM69,990 Bilik Berdua",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mimm-uhud",
+      "name": "Pakej Uhud",
+      "series": "Pakej Haji MIMM (Penerbangan Sewa Khas TH)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "PAKEJ UHUD • 40 - 45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 97,
+            "text": "Hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "PMN tidak termasuk; PMN boleh ditambah RM12,000 seorang. Jenis khemah asas (Muaisim atau lain) tidak dinyatakan.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Harga seorang: Tambahan RM12,000 seorang untuk jemaah Pakej Marwah, Uhud, Safa & Nour",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Penerbangan Sewa Khas TH Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Keretapi Laju Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 kali sehari Buffet Antarabangsa (Makkah); Buffet Asia (Madinah & Aziziyah)",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Makan 3 kali sehari Buffet Antarabangsa",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Jumeirah Jabal Omar / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Antarabangsa",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MEKAH JUMEIRAH JABAL OMAR / SETARAF +45 Meter Ke Dataran MasjidilHaram — Makan 3 kali sehari Buffet Antarabangsa",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millenium Alharam / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MADINAH GRAND MILLENIUM ALHARAM/ SETARAF +100 Meter Ke Pagar Masjid Nabawi — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Bimbingan Intensif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Bimbingan Intensif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian & Ziarah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Pengisian & Ziarah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi Laju Sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Keretapi Laju Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 100,
+              "text": "SET KELENGKAPAN HAJI — Bagasi 28 Inci + sarung, Bagasi 20 Inci, ... Terdapat perbezaan untuk Pakej Premium.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "PMN (tambahan RM12,000 seorang)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTU01",
+          "codeIsInternal": false,
+          "priceSen": 6299000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ UHUD — Kod Pakej MTU01 RM62,990 Bilik Berempat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTU02",
+          "codeIsInternal": false,
+          "priceSen": 6999000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ UHUD — Kod Pakej MTU02 RM69,990 Bilik Bertiga",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTU03",
+          "codeIsInternal": false,
+          "priceSen": 7999000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ UHUD — Kod Pakej MTU03 RM79,990 Bilik Berdua",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mimm-safa",
+      "name": "Pakej Safa",
+      "series": "Pakej Haji MIMM (Penerbangan Sewa Khas TH)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "PAKEJ SAFA • 40 - 45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 97,
+            "text": "Hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "PMN tidak termasuk; PMN boleh ditambah RM12,000 seorang. Jenis khemah asas (Muaisim atau lain) tidak dinyatakan.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Harga seorang: Tambahan RM12,000 seorang untuk jemaah Pakej Marwah, Uhud, Safa & Nour",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Penerbangan Sewa Khas TH Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Keretapi Laju Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 kali sehari Buffet Asia (Makkah); Buffet Asia (Madinah & Aziziyah)",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Makan 3 kali sehari Buffet Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 3 / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MEKAH SAFWAH TOWER 3 / SETARAF +60 Meter Ke Dataran MasjidilHaram — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millenium Alharam / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MADINAH GRAND MILLENIUM ALHARAM/ SETARAF +100 Meter Ke Pagar Masjid Nabawi — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Bimbingan Intensif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Bimbingan Intensif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian & Ziarah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Pengisian & Ziarah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi Laju Sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Keretapi Laju Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 100,
+              "text": "SET KELENGKAPAN HAJI — Bagasi 28 Inci + sarung, Bagasi 20 Inci, ... Terdapat perbezaan untuk Pakej Premium.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "PMN (tambahan RM12,000 seorang)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTS01",
+          "codeIsInternal": false,
+          "priceSen": 6899000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ SAFA — Kod Pakej MTS01 RM68,990 Bilik Berempat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS02",
+          "codeIsInternal": false,
+          "priceSen": 7599000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ SAFA — Kod Pakej MTS02 RM75,990 Bilik Bertiga",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS03",
+          "codeIsInternal": false,
+          "priceSen": 8599000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ SAFA — Kod Pakej MTS03 RM85,990 Bilik Berdua",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mimm-nour",
+      "name": "Pakej Nour",
+      "series": "Pakej Haji MIMM (Penerbangan Sewa Khas TH)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "PAKEJ NOUR • +40 -45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 97,
+            "text": "Hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "PMN tidak termasuk; PMN boleh ditambah RM12,000 seorang. Jenis khemah asas (Muaisim atau lain) tidak dinyatakan.",
+        "evidence": [
+          {
+            "pdfPage": 101,
+            "text": "Harga seorang: Tambahan RM12,000 seorang untuk jemaah Pakej Marwah, Uhud, Safa & Nour",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Penerbangan Sewa Khas TH Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Keretapi Laju Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 kali sehari Buffet Asia (Makkah); Buffet Asia (Madinah & Aziziyah)",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Makan 3 kali sehari Buffet Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Fairmont Clock Tower / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MEKAH FAIRMONT CLOCK TOWER / SETARAF +80 Meter Ke Dataran MasjidilHaram — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millenium Alharam / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL MADINAH GRAND MILLENIUM ALHARAM/ SETARAF +100 Meter Ke Pagar Masjid Nabawi — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Makan 3 kali sehari Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Bimbingan Intensif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Bimbingan Intensif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengisian & Ziarah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Pengisian & Ziarah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi Laju Sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 97,
+              "text": "Keretapi Laju Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 100,
+              "text": "SET KELENGKAPAN HAJI — Bagasi 28 Inci + sarung, Bagasi 20 Inci, ... Terdapat perbezaan untuk Pakej Premium.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "PMN (tambahan RM12,000 seorang)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTN01",
+          "codeIsInternal": false,
+          "priceSen": 7199000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berempat",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ NOUR — Kod Pakej MTN01 RM71,990 Bilik Berempat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTN02",
+          "codeIsInternal": false,
+          "priceSen": 7899000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Bertiga",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ NOUR — Kod Pakej MTN02 RM78,990 Bilik Bertiga",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTN03",
+          "codeIsInternal": false,
+          "priceSen": 8899000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Berdua",
+          "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak kod siri.",
+          "priceEvidence": [
+            {
+              "pdfPage": 97,
+              "text": "PAKEJ NOUR — Kod Pakej MTN03 RM88,990 Bilik Berdua",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mimm-thur",
+      "name": "Pakej Thur",
+      "series": "Pakej Premium Keutamaan",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 22,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "PAKEJ THUR • 20 - 22 hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum, tidak khusus pakej premium).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "nightCount": null,
+        "status": "included",
+        "condition": null,
+        "dateLabel": "4 Zulhijjah - 15 Zulhijjah",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "4 Zulhijjah - 15 Zulhijjah — HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "PMN dinaik taraf dari PMN Biasa: tandas dalam khemah (tidak bercampur PJH lain), khemah Arafah lebih besar dengan bilik berasingan untuk berehat, ruang makan, surau peribadi; khemah Mina di Majr Kabsh bersaiz seperti biasa; bas khas 9 Zulhijjah ke Arafah. Tertakluk kepada perubahan dari pihak Muasasah dan Tabung Haji.",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Khemah Arafah Mina PMN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Semua pakej di atas (Thur & Najm) telah termasuk Perkhidmatan Masyair Naiktaraf (PMN) bernilai RM12,000",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Termasuk di dalam pakej: Pakej Premium - Thur & Najm",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Khemah Arafah: Pakej ini telah dinaiktaraf dari PMN Biasa — Tandas di dalam khemah (tidak bercampur PJH lain); Naiktaraf khemah lebih besar dan mempunyai bilik berasingan untuk berehat; Ruang makan disediakan; Surau peribadi",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Khemah Mina: Khemah di Majr Kabsh bersaiz seperti biasa. Bas Khas: Naik bas khas pada 9 Zulhijjah untuk ke Arafah. Nota: Semua kemudahan dan pergerakan di atas adalah tertakluk kepada perubahan dari pihak Muasasah dan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Penerbangan komersil kelas perniagaan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Semua pakej di atas (Thur & Najm) menggunakan penerbangan komersil kelas perniagaan bernilai RM20,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Keretapi laju HHR kelas perniagaan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Bufet Antarabangsa Mekah & Madinah; Buffet Asia di Aziziyah; ruang makan khas Hotel Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Bufet Antarabangsa Mekah & Madinah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Ruang makan khas Hotel Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Dar Iman Intercontinental / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "30 Zulkaedah - 4 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Antarabangsa",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "30 Zulkaedah - 4 Zulhijjah — HOTEL MADINAH DAR IMAN INTERCONTINENTAL/ SETARAF +15 Meter Ke Pagar Masjid Nabawi — Buffet Antarabangsa",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "4 Zulhijjah - 15 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "4 Zulhijjah - 15 Zulhijjah — HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Fairmont Gold / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Fairmont Gold",
+          "dateLabel": "15 Zulhijjah - 21 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Antarabangsa",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "15 Zulhijjah - 21 Zulhijjah — HOTEL MEKAH FAIRMONT GOLD / SETARAF +80 Meter Ke Dataran MasjidilHaram — Buffet Antarabangsa",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan komersil kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Penerbangan komersil kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kenderaan Airport Transfer (GMC / Setaraf)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Kenderaan Airport Transfer (GMC / Setaraf)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card untuk rawatan swasta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Medical Card untuk rawatan swasta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Masuk Madinah dahulu",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Masuk Madinah dahulu",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bilik bertaraf Fairmont Gold",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bilik bertaraf Fairmont Gold",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bufet Antarabangsa Mekah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bufet Antarabangsa Mekah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah Arafah Mina PMN",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Khemah Arafah Mina PMN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi laju HHR kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Keretapi laju HHR kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ruang makan khas Hotel Aziziyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Ruang makan khas Hotel Aziziyah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas Khas Masyair",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bas Khas Masyair",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tawaf Saie Haji awal",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Tawaf Saie Haji awal",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tidak bermalam di Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Tidak bermalam di Arafah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji Tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Set Kelengkapan Haji Tambahan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTP01",
+          "codeIsInternal": false,
+          "priceSen": 13999000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 98,
+              "text": "PAKEJ THUR — Berdua MTP 01 RM139,990 (Harga Seorang)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTP02",
+          "codeIsInternal": false,
+          "priceSen": 17999000,
+          "currency": "MYR",
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 98,
+              "text": "PAKEJ THUR — Seorang MTP 02 RM179,990 (Harga Seorang)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mimm-najm",
+      "name": "Pakej Najm",
+      "series": "Pakej Premium Keutamaan",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": null,
+        "min": 14,
+        "max": 18,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "PAKEJ NAJM • 14 - 18 hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah sebagai pilihan bagi jemaah yang berminat (halaman program bimbingan umum, tidak khusus pakej premium).",
+        "evidence": [
+          {
+            "pdfPage": 97,
+            "text": "Tarwiyah Pilihan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 99,
+            "text": "TARWIYAH HAJI — Melaksanakan sunnah Hari Tarwiyah sebagai pilihan bagi jemaah yang berminat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "nightCount": null,
+        "status": "optional",
+        "condition": "Pilihan",
+        "dateLabel": "11 Zulhijjah - 13 Zulhijjah",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "11 Zulhijjah - 13 Zulhijjah (Pilihan) — HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Bilik di Hotel Aziziyah dari 11-13 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "PMN dinaik taraf dari PMN Biasa: tandas dalam khemah (tidak bercampur PJH lain), khemah Arafah lebih besar dengan bilik berasingan untuk berehat, ruang makan, surau peribadi; khemah Mina di Majr Kabsh bersaiz seperti biasa; bas khas 9 Zulhijjah ke Arafah. Tertakluk kepada perubahan dari pihak Muasasah dan Tabung Haji.",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Khemah Arafah Mina PMN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Semua pakej di atas (Thur & Najm) telah termasuk Perkhidmatan Masyair Naiktaraf (PMN) bernilai RM12,000",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Termasuk di dalam pakej: Pakej Premium - Thur & Najm",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Khemah Arafah: Pakej ini telah dinaiktaraf dari PMN Biasa — Tandas di dalam khemah (tidak bercampur PJH lain); Naiktaraf khemah lebih besar dan mempunyai bilik berasingan untuk berehat; Ruang makan disediakan; Surau peribadi",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 101,
+            "text": "Khemah Mina: Khemah di Majr Kabsh bersaiz seperti biasa. Bas Khas: Naik bas khas pada 9 Zulhijjah untuk ke Arafah. Nota: Semua kemudahan dan pergerakan di atas adalah tertakluk kepada perubahan dari pihak Muasasah dan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Penerbangan komersil kelas perniagaan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Semua pakej di atas (Thur & Najm) menggunakan penerbangan komersil kelas perniagaan bernilai RM20,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Keretapi laju HHR kelas perniagaan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Bufet Antarabangsa Mekah & Madinah; Buffet Asia di Aziziyah; ruang makan khas Hotel Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 98,
+            "text": "Bufet Antarabangsa Mekah & Madinah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 98,
+            "text": "Ruang makan khas Hotel Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Dar Iman Intercontinental / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "2/3 Zulhijjah - 4/5 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Pagar Masjid Nabawi",
+          "meals": "Makan 3 kali sehari Buffet Antarabangsa",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "2/3 Zulhijjah - 4/5 Zulhijjah — HOTEL MADINAH DAR IMAN INTERCONTINENTAL/ SETARAF +15 Meter Ke Pagar Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Fairmont Gold / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Fairmont Gold",
+          "dateLabel": "4 Zulhijjah - 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
+          "meals": "Makan 3 kali sehari Buffet Antarabangsa",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "4 Zulhijjah - 14 Zulhijjah — HOTEL MEKAH FAIRMONT GOLD / SETARAF +80 Meter Ke Dataran MasjidilHaram — Buffet Antarabangsa",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Atlas Hotel / Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "11 Zulhijjah - 13 Zulhijjah (Pilihan)",
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "Makan 3 kali sehari Buffet Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "11 Zulhijjah - 13 Zulhijjah (Pilihan) — HOTEL AZIZIYAH ATLAS HOTEL / SETARAF +600 Meter Ke Dataran Jamrah — Buffet Asia",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan komersil kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Penerbangan komersil kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kenderaan peribadi Airport Transfer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Kenderaan peribadi Airport Transfer",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "GMC Persendirian",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "GMC Persendirian",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bilik di Fairmont Gold semasa musim puncak (5 - 14 Zulhijjah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bilik di Fairmont Gold semasa musim puncak (5 - 14 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card untuk rawatan swasta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Medical Card untuk rawatan swasta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Masuk Madinah dahulu",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Masuk Madinah dahulu",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bilik bertaraf Fairmont Gold",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bilik bertaraf Fairmont Gold",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bufet Antarabangsa Mekah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bufet Antarabangsa Mekah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah Arafah Mina PMN",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Khemah Arafah Mina PMN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi laju HHR kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Keretapi laju HHR kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ruang makan khas Hotel Aziziyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Ruang makan khas Hotel Aziziyah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas Khas Masyair",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Bas Khas Masyair",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tawaf Saie Haji awal",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Tawaf Saie Haji awal",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tidak bermalam di Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Tidak bermalam di Arafah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Kelengkapan Haji Tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 98,
+              "text": "Set Kelengkapan Haji Tambahan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Penerbangan domestik (harga bermula dari Kuala Lumpur)",
+          "evidence": [
+            {
+              "pdfPage": 101,
+              "text": "Harga pakej bermula dari Kuala Lumpur, dan tidak termasuk penerbangan domestik.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTP03",
+          "codeIsInternal": false,
+          "priceSen": 23999000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Berdua",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 98,
+              "text": "PAKEJ NAJM — Berdua MTP 03 RM239,990 (Harga Seorang)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTP04",
+          "codeIsInternal": false,
+          "priceSen": 27999000,
+          "currency": "MYR",
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 98,
+              "text": "PAKEJ NAJM — Seorang MTP 04 RM279,990 (Harga Seorang)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "mimm-pmn-tambahan",
+      "packageIds": ["mimm-marwah", "mimm-uhud", "mimm-safa", "mimm-nour"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Naik taraf ke Perkhidmatan Masyair Naiktaraf (PMN)",
+      "priceSen": 1200000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Semua kemudahan dan pergerakan PMN tertakluk kepada perubahan dari pihak Muasasah dan Tabung Haji.",
+      "evidence": [
+        {
+          "pdfPage": 101,
+          "text": "Harga seorang: Tambahan RM12,000 seorang untuk jemaah Pakej Marwah, Uhud, Safa & Nour",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 101,
+          "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "mimm-bayaran-haji-pjh",
+      "packageIds": [
+        "mimm-marwah",
+        "mimm-uhud",
+        "mimm-safa",
+        "mimm-nour",
+        "mimm-thur",
+        "mimm-najm"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 97,
+          "text": "Harga Pakej Haji Adalah Termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 98,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027H sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan ...",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "mimm-caj-tambahan-th",
+      "packageIds": [
+        "mimm-marwah",
+        "mimm-uhud",
+        "mimm-safa",
+        "mimm-nour",
+        "mimm-thur",
+        "mimm-najm"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 97,
+          "text": "Harga Pakej Haji Adalah Termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 98,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027H sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan ...",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "mimm-pmn-premium",
+      "packageIds": ["mimm-thur", "mimm-najm"],
+      "description": "Perkhidmatan Masyair Naiktaraf (PMN) bernilai RM12,000 (sudah termasuk dalam harga)",
+      "priceSen": 1200000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 98,
+          "text": "Semua pakej di atas (Thur & Najm) telah termasuk Perkhidmatan Masyair Naiktaraf (PMN) bernilai RM12,000",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "mimm-penerbangan-perniagaan-premium",
+      "packageIds": ["mimm-thur", "mimm-najm"],
+      "description": "Penerbangan komersil kelas perniagaan bernilai RM20,000 (sudah termasuk dalam harga)",
+      "priceSen": 2000000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 98,
+          "text": "Semua pakej di atas (Thur & Najm) menggunakan penerbangan komersil kelas perniagaan bernilai RM20,000",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "mimm-caj-tukar-tarikh",
+      "packageIds": [
+        "mimm-marwah",
+        "mimm-uhud",
+        "mimm-safa",
+        "mimm-nour",
+        "mimm-thur",
+        "mimm-najm"
+      ],
+      "description": "Caj pertukaran tarikh penerbangan selepas penetapan tarikh penerbangan (jumlah tidak dinyatakan)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 101,
+          "text": "Sebarang pertukaran tarikh penerbangan selepas penetapan tarikh penerbangan akan dikenakan caj.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Bilik bertiga bagi Pakej Thur & Najm",
+      "reason": "Harga tidak diterbitkan; hanya diberikan atas permintaan dan tertakluk ketersediaan. Bukan varian berharga dalam brosur.",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 98,
+          "text": "Harga bilik bertiga akan diberikan sekiranya terdapat permintaan bilik bertiga (tertakluk ketersediaan)",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.code",
+      "note": "Kod MTx02/MTx03 dicetak dalam fon sangat kecil (~100 ppi); dibaca MTM02/MTM03, MTU02/03, MTS02/03, MTN02/03 mengikut corak. Harga jelas.",
+      "pages": [97]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair.type",
+      "note": "Pakej Marwah/Uhud/Safa/Nour tidak menyatakan jenis khemah asas (Muaisim atau lain); hanya PMN sebagai tambahan RM12,000.",
+      "pages": [97, 101]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.sequence/dateLabel",
+      "note": "Susunan dan tarikh penginapan pakej Marwah/Uhud/Safa/Nour tidak dicetak; sequence mengikut susunan kad (Makkah, Madinah, Aziziyah).",
+      "pages": [97]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceIsApproximate",
+      "note": "Jarak dicetak dengan awalan '+' (cth. '+260 Meter'); mungkin bermaksud ± tetapi tidak dianggap anggaran.",
+      "pages": [97, 98]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah",
+      "note": "Tarikh dan susunan bilik Aziziyah bagi pakej Marwah/Uhud/Safa/Nour tidak dinyatakan; adakah bilangan sebilik varian terpakai di Aziziyah tidak dinyatakan.",
+      "pages": [97]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "mimm-najm",
+      "field": "aziziyah",
+      "note": "Aziziyah 11-13 Zulhijjah ditanda (Pilihan) tetapi caj tambahan (jika ada) tidak dinyatakan.",
+      "pages": [98]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah hanya disebut pada banner 'Tarwiyah Pilihan' dan halaman program bimbingan umum; tiada syarat kelulusan dicetak.",
+      "pages": [97, 99]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 96–101.",
+      "pages": [96, 97, 98, 99, 100, 101]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [96]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-F",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual halaman penuh (1800 px) + potongan 250 dpi (pdftoppm) bagi kod varian, hotel dan nota kecil. Imej sumber ~100 ppi.",
+    "independentCheck": null
+  }
+}
