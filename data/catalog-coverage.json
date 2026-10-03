@@ -14,7 +14,7 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 24,
+    "pjhReviewed": 28,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
@@ -362,21 +362,21 @@
       "variantsImported": 41,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 08/1448H",
-      "factsVerified": 0,
+      "factsVerified": 173,
       "fieldsNotPublished": 4,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] busyra-safwah-tower-ekonomi-muaisim: upgrades.busyra-buffet-standard-safwah-ekonomi.priceSen — Angka naik taraf buffet kabur: RM5,500 atau RM6,500. Perlu versi resolusi asal.",
-        "[non_blocking] busyra-vip: tarwiyah — Halaman VIP tidak menyatakan Tarwiyah; hlm. 38/41 umum untuk pakej carter.",
+        "[non_blocking] busyra-safwah-tower-ekonomi-muaisim: upgrades.busyra-buffet-standard-safwah-ekonomi.priceSen — Angka naik taraf buffet Safwah Ekonomi kabur walaupun dizum 400 dpi (imej terbenam 103 ppi): digit pertama kelihatan '6' (berbeza daripada 'RM 5,500' yang jelas pada hlm. 34) tetapi '6,500'/'6,800'/'5,500' tidak dapat dipastikan. Kekal null; perlu versi resolusi asal.",
+        "[non_blocking] busyra-vip: tarwiyah — Halaman VIP (hlm. 37) tidak menyenaraikan Tarwiyah. Status offered_subject_to_approval berdasarkan kenyataan umum PJH bersyarat (hlm. 38, 44) dan ilustrasi hlm. 41 yang menyebut VIP (R5, penyemak-8); ilustrasi itu untuk penerbangan carter manakala VIP penerbangan komersial — sahkan dengan PJH.",
         "[non_blocking] busyra: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam mana-mana halaman 33–44.",
         "[non_blocking] busyra: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "claude-code (agen utama) (semakan bebas belum dibuat)"
+      "reviewer": "claude-code (agen utama); semakan bebas: penyemak-8"
     },
     {
       "index": 9,
@@ -1428,11 +1428,11 @@
       "variantsImported": 12,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "32/1448H",
-      "factsVerified": 0,
-      "fieldsNotPublished": 9,
+      "factsVerified": 47,
+      "fieldsNotPublished": 10,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
@@ -1444,10 +1444,11 @@
         "[non_blocking] tri-d-romance-al-sadd-ekonomi: upgrades.penerbangan-komersil — Pilihan penerbangan komersil (+-RM19,000 / +-RM9,500) dicetak hanya pada hlm. 131 (Romance); tidak jelas sama ada terpakai untuk Jumeirah Klasik.",
         "[non_blocking] tri-d: relocations/travelDates — Tiada ilustrasi perjalanan atau tarikh berlepas dicetak; susunan Aziziyah/Makkah/Madinah tidak dinyatakan.",
         "[non_blocking] tri-d: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 130-133.",
-        "[non_blocking] tri-d: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+        "[non_blocking] tri-d: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+        "[non_blocking] tri-d-romance-al-sadd-ekonomi: aziziyah — Pakej Romance Al-Sadd Ekonomi hanya menyebut 'Penginapan di Mina (Khemah Muassim)'; tiada hotel Aziziyah/transit dicetak dan tiada kenyataan bahawa Aziziyah tidak disediakan. Status kekal not_stated."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-H (semakan bebas belum dibuat)"
+      "reviewer": "agen-H; semakan bebas: penyemak-8"
     },
     {
       "index": 33,
@@ -1474,10 +1475,10 @@
       "variantsImported": 4,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 33/1448H",
-      "factsVerified": 0,
+      "factsVerified": 20,
       "fieldsNotPublished": 8,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -1492,7 +1493,7 @@
         "[non_blocking] wira-saujana: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-H (semakan bebas belum dibuat)"
+      "reviewer": "agen-H; semakan bebas: penyemak-8"
     },
     {
       "index": 34,
@@ -1519,17 +1520,17 @@
       "variantsImported": 18,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": null,
-      "factsVerified": 0,
+      "factsVerified": 54,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] zahafiz: pjh.licenceNumberAsPublished — Nombor lesen dicetak 'PJH3?/1448H' tetapi digit kedua kabur walaupun pada 500 dpi; dibiarkan null.",
         "[non_blocking] zahafiz: tarwiyah — Tarwiyah tidak dinyatakan untuk mana-mana pakej dalam halaman 138-141.",
-        "[non_blocking] zahafiz: variants.roomLabelAsPublished — Varian ZTC23/ZTC24/ZTB23/ZTB24 berlabel 'Bilik Ber-2 (Katil 3)/(Katil 4)' dalam teks sangat kecil dan kabur; direkod sebagai 2 orang sebilik. Perlu pengesahan maksud dengan PJH.",
+        "[non_blocking] zahafiz: variants.roomLabelAsPublished — Varian ZTC23/ZTC24/ZTB23/ZTB24 berlabel 'Bilik Ber-2 (Katil 3)/(Katil 4)'. Teks kecil boleh dibaca selepas zum 250 dpi (penyemak-8), tetapi maksudnya (2 orang dalam bilik 3 atau 4 katil) tidak diterangkan; direkod sebagai 2 orang sebilik. Perlu pengesahan maksud dengan PJH.",
         "[non_blocking] zahafiz: aziziyah — Pakej B Mira, B Safwah dan A Movenpick dinyatakan 'terus masuk Makkah' tanpa hotel Aziziyah; status Aziziyah direkod not_stated kerana tidak dinyatakan secara jelas sebagai tidak termasuk.",
         "[non_blocking] zahafiz: flightClass — Pakej B Safwah dan A Movenpick: 'Carter Tabung Haji (KT) Kelas Ekonomi / Komersial' — kelas tidak muktamad.",
         "[non_blocking] zahafiz: upgrades.priceSen — PMN (±RM10,000), bilik berdua Madinah (±RM3,000), HHSR kelas perniagaan (±RM400) dan sajian Far East (±RM200/hari) ialah anggaran '±'; direkod pada nilai nominal.",
@@ -1538,7 +1539,7 @@
         "[non_blocking] zahafiz: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-H (semakan bebas belum dibuat)"
+      "reviewer": "agen-H; semakan bebas: penyemak-8"
     }
   ]
 }
