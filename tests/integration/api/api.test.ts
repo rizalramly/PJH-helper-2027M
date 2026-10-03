@@ -202,3 +202,28 @@ describe("GET katalog dan liputan", () => {
     expect(body.coverage.totals.pjhReviewed).toBeGreaterThan(0);
   });
 });
+
+describe("Pengerasan input API (semakan Fasa 9)", () => {
+  it("bajet sangat besar ditolak sebelum penilaian", async () => {
+    const res = await assessPOST(
+      post({ requirements: { ...scenarioA, budget: { perPersonRM: "9".repeat(31_000) } } }),
+    );
+    expect([413, 422]).toContain(res.status);
+    const big = await assessPOST(
+      post({ requirements: { ...scenarioA, budget: { perPersonRM: "RM20,000,000" } } }),
+    );
+    expect(big.status).toBe(422);
+  });
+
+  it("ID varian rosak memberi 404, bukan 500", async () => {
+    const res = await variantGET(get("/api/catalog/variants/%25?season=1448H"), {
+      params: Promise.resolve({ id: "%" }),
+    } as never);
+    expect(res.status).toBe(404);
+  });
+
+  it("perbandingan dengan ID pendua ditolak sebagai 422", async () => {
+    const res = await comparePOST(post({ requirements: scenarioA, candidateIds: ["x", "x"] }));
+    expect(res.status).toBe(422);
+  });
+});

@@ -67,12 +67,14 @@ describe("Senario F: data tidak lengkap", () => {
     upgrades: [synthUpgrade("u-az2", [p.id], { priceSen: null })],
   });
 
-  it("harga naik taraf Aziziyah tidak diketahui → jumlah tidak lengkap dan calon bersyarat", () => {
+  it("harga naik taraf Aziziyah tidak diketahui → jumlah tidak lengkap dan perlu pengesahan", () => {
     const r = assess(catalog, req({ aziziyah: { mode: "required" } }));
     const c = r.candidates[0];
     expect(c.cost.complete).toBe(false);
     expect(c.requirements.find((x) => x.key === "budget")!.status).toBe("BERSYARAT");
-    expect(c.requirements.find((x) => x.key === "aziziyah_room")!.status).toBe("BERSYARAT");
+    // Spesifikasi §7: naik taraf memenuhi syarat hanya jika harganya diketahui.
+    expect(c.requirements.find((x) => x.key === "aziziyah_room")!.status).toBe("PERLU_PENGESAHAN");
+    expect(c.group).toBe("needs_verification");
     expect(c.blockedFromPrimary).toBe(true);
     expect(r.recommendations.map((x) => x.label)).toEqual(["CALON_BERSYARAT"]);
   });

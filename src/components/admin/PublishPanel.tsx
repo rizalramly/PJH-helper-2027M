@@ -42,7 +42,10 @@ export function PublishPanel({
 }) {
   const router = useRouter();
   const approved = drafts.filter((d) => d.status === "approved" && d.validationOk);
-  const [selected, setSelected] = React.useState<string[]>(approved.map((d) => d.pjhId));
+  const [picked, setSelected] = React.useState<string[]>(approved.map((d) => d.pjhId));
+  // Pilihan sentiasa dihadkan kepada draf yang masih sedia (cth. selepas muat semula).
+  const readyIds = new Set(approved.map((d) => d.pjhId));
+  const selected = picked.filter((id) => readyIds.has(id));
   const [busy, setBusy] = React.useState(false);
   const [state, setState] = React.useState<FeedbackState>({ kind: "idle" });
   const [confirm, setConfirm] = React.useState<string | null>(null);

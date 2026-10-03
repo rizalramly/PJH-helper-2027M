@@ -14,8 +14,18 @@ const toEvidence = (e: FileEvidence): Evidence => ({
 const evs = (list: FileEvidence[]) => list.map(toEvidence);
 const toSen = (n: number | null) => (n === null ? null : BigInt(n));
 
-export const variantId = (packageId: string, code: string, makkah: number, category: string) =>
-  `${packageId}--${code.toLowerCase()}${category === "adult" ? "" : `--${category}`}-q${makkah}`;
+/**
+ * ID varian stabil. Madinah ditambah hanya jika berbeza daripada Makkah supaya ID sedia ada
+ * kekal, tetapi varian 5/4 dan 5/5 dengan kod yang sama tidak lagi bertembung.
+ */
+export const variantId = (
+  packageId: string,
+  code: string,
+  makkah: number,
+  category: string,
+  madinah: number = makkah,
+) =>
+  `${packageId}--${code.toLowerCase()}${category === "adult" ? "" : `--${category}`}-q${makkah}${madinah !== makkah ? `m${madinah}` : ""}`;
 
 export function toEngineCatalog(files: PjhCatalogFile[], datasetVersion: string): Catalog {
   const seasonIds = new Set(files.map((f) => f.seasonId));
@@ -77,7 +87,13 @@ export function toEngineCatalog(files: PjhCatalogFile[], datasetVersion: string)
         inclusions: p.inclusions.map((i) => ({ ...i, evidence: evs(i.evidence) })),
       });
       for (const v of p.variants) {
-        const id = variantId(p.id, v.code, v.makkahOccupancy, v.travellerCategory);
+        const id = variantId(
+          p.id,
+          v.code,
+          v.makkahOccupancy,
+          v.travellerCategory,
+          v.madinahOccupancy,
+        );
         variants.push({
           id,
           packageId: p.id,

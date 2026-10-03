@@ -10,7 +10,8 @@ export async function GET(req: Request, ctx: RouteContext<"/api/catalog/variants
     if (error) return error;
     const { id } = await ctx.params;
     const { catalog, datasetVersion } = await getActiveCatalog(season.id);
-    const variant = catalog.variants.find((v) => v.id === decodeURIComponent(id));
+    // Parameter sudah dinyahkod oleh Next; bandingkan terus (elak URIError → 500).
+    const variant = catalog.variants.find((v) => v.id === id);
     if (!variant) return apiError(404, "not_found", "Varian tidak ditemui.");
     const pkg = catalog.packages.find((p) => p.id === variant.packageId)!;
     const pjh = catalog.pjhs.find((p) => p.id === pkg.pjhId)!;

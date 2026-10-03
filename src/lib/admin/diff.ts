@@ -44,6 +44,12 @@ export function diffFiles(before: File | null, after: File): DiffItem[] {
   const aa = after.pjh.approval?.status ?? "unverified";
   if (ba !== aa)
     out.push({ kind: "changed", area: "pjh", text: `Status kelulusan: ${ba} → ${aa}` });
+  else if (!sameContent(before.pjh.approval ?? null, after.pjh.approval ?? null))
+    out.push({
+      kind: "changed",
+      area: "pjh",
+      text: "Maklumat kelulusan (sumber rasmi/rujukan) berubah",
+    });
 
   const bp = new Map(before.packages.map((p) => [p.id, p]));
   const ap = new Map(after.packages.map((p) => [p.id, p]));

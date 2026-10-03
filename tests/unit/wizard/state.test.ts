@@ -63,10 +63,11 @@ describe("validateStep", () => {
   });
 
   it("menyemak jarak meter", () => {
-    expect(validateStep(couple({ proximityMakkahM: "dekat" }), 4)[0].field).toBe(
+    const near = { importance: { ...initialState().importance, proximity: "important" as const } };
+    expect(validateStep(couple({ ...near, proximityMakkahM: "dekat" }), 4)[0].field).toBe(
       "proximityMakkahM",
     );
-    expect(validateStep(couple({ proximityMakkahM: "300" }), 4)).toEqual([]);
+    expect(validateStep(couple({ ...near, proximityMakkahM: "300" }), 4)).toEqual([]);
   });
 
   it("tiada ralat bagi keadaan pasangan RM100,000", () => {

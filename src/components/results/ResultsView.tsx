@@ -46,11 +46,13 @@ export function ErrorState({
   message,
   details,
   onRetry,
+  extra,
 }: {
   title: string;
   message: string;
   details: string[];
   onRetry: () => void;
+  extra?: React.ReactNode;
 }) {
   return (
     <div
@@ -77,6 +79,7 @@ export function ErrorState({
             Ubah keperluan
           </Link>
         </Button>
+        {extra}
       </div>
     </div>
   );
@@ -120,9 +123,11 @@ export function CoverageStatement({ d }: { d: AssessResponse }) {
 type SortKey = "score" | "cost";
 const PAGE = 10;
 
-function sortCandidates(list: CandidateDTO[], key: SortKey) {
+export function sortCandidates(list: CandidateDTO[], key: SortKey) {
   return [...list].sort((a, b) => {
     if (key === "cost") {
+      // Kos belum lengkap (caj tanpa harga) tidak boleh dianggap termurah: letak selepas kos lengkap.
+      if (a.cost.complete !== b.cost.complete) return a.cost.complete ? -1 : 1;
       const d = BigInt(a.cost.knownGroup.sen) - BigInt(b.cost.knownGroup.sen);
       if (d !== 0n) return d < 0n ? -1 : 1;
     }
@@ -287,6 +292,8 @@ export function ResultsView() {
   const verify = pick(d.groups.needs_verification);
   const notMatching = pick(d.groups.not_matching);
   const primaryCount = d.recommendations.filter((r) => r.label !== "CALON_BERSYARAT").length;
+  // Pilihan banding yang tidak lagi wujud (cth. selepas katalog dikemas kini) diabaikan.
+  const selectedIds = selection.ids.filter((id) => byId.has(id));
 
   const card = (c: CandidateDTO, extra?: { recLabel?: (typeof d.recommendations)[number] }) => (
     <CandidateCard
@@ -296,7 +303,7 @@ export function ResultsView() {
       narrative={extra?.recLabel?.narrative}
       compare={{
         selected: selection.has(c.id),
-        disabled: !selection.has(c.id) && selection.ids.length >= MAX_COMPARE,
+        disabled: !selection.has(c.id) && selectedIds.length >= MAX_COMPARE,
         onToggle: () => selection.toggle(c.id),
       }}
     />
@@ -306,6 +313,11 @@ export function ResultsView() {
     <div className="flex flex-col gap-8">
       <header className="flex flex-col gap-3">
         <h1 className="text-2xl font-semibold sm:text-3xl">Hasil penilaian</h1>
+        {state.refreshing ? (
+          <p role="status" className="text-sm text-muted-foreground">
+            Mengemas kini cadangan…
+          </p>
+        ) : null}
         <p aria-live="polite">
           {d.counts.full_match} pakej memenuhi syarat wajib, {d.counts.needs_verification} perlu
           pengesahan, {d.counts.not_matching} tidak memenuhi.
@@ -426,7 +438,7 @@ export function ResultsView() {
       />
 
       <CompareTray
-        ids={selection.ids}
+        ids={selectedIds}
         names={names}
         onRemove={selection.remove}
         onClear={selection.clear}

@@ -68,15 +68,36 @@ function roomQuantity(basis: PricingBasis, room: RoomSpec, nights: number | null
   }
 }
 
-function pickVariant(candidates: Variant[]): Variant {
-  // Tentu: harga diketahui dahulu, kemudian termurah, kemudian kod.
-  return [...candidates].sort((a, b) => {
-    if ((a.priceSen === null) !== (b.priceSen === null)) return a.priceSen === null ? 1 : -1;
-    if (a.priceSen !== null && b.priceSen !== null && a.priceSen !== b.priceSen) {
-      return a.priceSen < b.priceSen ? -1 : 1;
-    }
-    return a.code.localeCompare(b.code);
-  })[0];
+const RESOLUTION_RANK: Record<AziziyahRoomResolution, number> = {
+  not_requested: 0,
+  no_aziziyah: 0,
+  default: 0,
+  included: 0,
+  upgrade: 1,
+  upgrade_unpriced: 2,
+  unknown_default: 2,
+  not_offered: 3,
+};
+
+/**
+ * Pilih varian bagi satu bilik secara tentu. Jika pengguna meminta susunan Aziziyah, varian
+ * yang memenuhinya (asal/termasuk, kemudian naik taraf berharga) diutamakan sebelum harga,
+ * supaya varian ber-2 Aziziyah tidak diketepikan oleh varian ber-4 yang lebih murah.
+ */
+function pickVariant(catalog: Catalog, pkg: Package, room: RoomSpec, candidates: Variant[]) {
+  const scored = candidates.map((v) => {
+    const az = resolveAziziyah(catalog, pkg, room, v);
+    const extra =
+      az.resolution === "upgrade" && az.upgrade?.basis === "per_person" ? az.upgrade.priceSen : 0n;
+    const per = v.priceSen === null ? null : v.priceSen + (extra ?? 0n);
+    return { v, rank: RESOLUTION_RANK[az.resolution], per };
+  });
+  return scored.sort((a, b) => {
+    if (a.rank !== b.rank) return a.rank - b.rank;
+    if ((a.per === null) !== (b.per === null)) return a.per === null ? 1 : -1;
+    if (a.per !== null && b.per !== null && a.per !== b.per) return a.per < b.per ? -1 : 1;
+    return a.v.code.localeCompare(b.v.code);
+  })[0].v;
 }
 
 function resolveAziziyah(
@@ -89,17 +110,23 @@ function resolveAziziyah(
   if (pkg.aziziyah.status !== "included" && pkg.aziziyah.status !== "optional") {
     return { resolution: "no_aziziyah", upgrade: null };
   }
-  if (aziziyahDefaults(pkg, variant)?.includes(room.aziziyah)) {
+  const defaults = aziziyahDefaults(pkg, variant);
+  if (defaults?.includes(room.aziziyah)) {
     return { resolution: "default", upgrade: null };
   }
   const options = catalog.upgrades
     .filter((u) => u.kind === "aziziyah_room" && u.resultingOccupancy === room.aziziyah)
+    // Naik taraf yang habis atau ditarik balik tidak boleh memenuhi keperluan.
+    .filter((u) => u.availability !== "sold_out" && u.availability !== "withdrawn")
     .filter((u) => appliesTo(u, pkg, variant))
     .sort((a, b) => a.id.localeCompare(b.id));
   const included = options.find((u) => u.includedInVariantIds.includes(variant.id));
   if (included) return { resolution: "included", upgrade: included };
   const upgrade = options[0];
-  if (!upgrade) return { resolution: "not_offered", upgrade: null };
+  if (!upgrade) {
+    // Tiada susunan asal dicetak: tidak diketahui, bukan "tidak ditawarkan".
+    return { resolution: defaults === null ? "unknown_default" : "not_offered", upgrade: null };
+  }
   return { resolution: upgrade.priceSen === null ? "upgrade_unpriced" : "upgrade", upgrade };
 }
 
@@ -130,7 +157,9 @@ export function costPackage(catalog: Catalog, pkg: Package, req: Requirements): 
   const assignments: RoomAssignment[] = [];
   const pilgrims = totalPilgrims(req.rooms);
 
-  for (const [i, room] of req.rooms.entries()) {
+  for (const [i, specRoom] of req.rooms.entries()) {
+    // "Mahu pakej tanpa Aziziyah": susunan bilik Aziziyah tidak relevan dan tiada naik taraf dikenakan.
+    const room = req.aziziyah.mode === "not_wanted" ? { ...specRoom, aziziyah: null } : specRoom;
     const matching = variants.filter(
       (v) => v.makkahOccupancy === room.makkah && v.madinahOccupancy === room.madinah,
     );
@@ -140,7 +169,7 @@ export function costPackage(catalog: Catalog, pkg: Package, req: Requirements): 
         reason: `Tiada harga diterbitkan untuk bilik Makkah ber-${room.makkah} / Madinah ber-${room.madinah} dalam pakej ini.`,
       };
     }
-    const variant = pickVariant(matching);
+    const variant = pickVariant(catalog, pkg, room, matching);
     const roomTag = req.rooms.length > 1 ? ` (bilik ${i + 1})` : "";
     let perPerson: bigint | null = variant.priceSen;
 

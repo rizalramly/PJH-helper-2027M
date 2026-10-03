@@ -43,7 +43,10 @@ export async function POST(req: Request) {
         422,
         "validation_failed",
         "Keperluan tidak sah.",
-        result.inputErrors.map((message) => ({ field: "rooms", message })),
+        result.inputErrors.map((message) => ({
+          field: /bajet/i.test(message) ? "requirements.budget.perPersonRM" : "requirements.rooms",
+          message,
+        })),
       );
     }
     return ok(

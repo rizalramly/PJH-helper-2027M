@@ -48,3 +48,16 @@ describe("format", () => {
     expect(w.reduce((s, x) => s + x.share, 0)).toBeCloseTo(w.length ? 1 : 0);
   });
 });
+
+describe("susunan kos terendah", () => {
+  it("kos belum lengkap diletakkan selepas kos lengkap", async () => {
+    const { sortCandidates } = await import("@/components/results/ResultsView");
+    const mk = (id: string, sen: string, complete: boolean) =>
+      ({ id, score: 50, coverage: 1, cost: { knownGroup: { sen, text: "" }, complete } }) as never;
+    const out = sortCandidates(
+      [mk("a", "100", false), mk("b", "500", true), mk("c", "300", true)],
+      "cost",
+    );
+    expect(out.map((c: { id: string }) => c.id)).toEqual(["c", "b", "a"]);
+  });
+});

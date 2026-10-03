@@ -200,17 +200,30 @@ export function evaluateRequirements(
                   false,
                 ];
           }
-          case "upgrade":
-            return [
-              "MEMENUHI",
-              `Naik taraf Aziziyah ber-${occ} berharga ${formatRM(a.aziziyahUpgrade!.priceSen!)} (${a.aziziyahUpgrade!.basis === "per_person" ? "seorang" : a.aziziyahUpgrade!.basis}); kekosongan perlu pertanyaan.`,
-              false,
-            ];
+          case "upgrade": {
+            const u = a.aziziyahUpgrade!;
+            const price = `Naik taraf Aziziyah ber-${occ} berharga ${formatRM(u.priceSen!)} (${u.basis === "per_person" ? "seorang" : u.basis})`;
+            if (u.condition && !req.aziziyah.acceptConditional)
+              return [
+                "TIDAK_MEMENUHI",
+                `${price} tetapi tertakluk syarat (${u.condition}); anda tidak menerima tawaran bersyarat.`,
+                false,
+              ];
+            if (u.condition) return ["BERSYARAT", `${price}; tertakluk: ${u.condition}.`, false];
+            return ["MEMENUHI", `${price}; kekosongan perlu pertanyaan.`, false];
+          }
           case "upgrade_unpriced":
+            // Naik taraf hanya memenuhi syarat jika harganya diketahui (spesifikasi §7).
             return [
-              "BERSYARAT",
+              "PERLU_PENGESAHAN",
               `Naik taraf Aziziyah ber-${occ} ditawarkan tetapi harganya tidak diketahui.`,
               true,
+            ];
+          case "unknown_default":
+            return [
+              "PERLU_PENGESAHAN",
+              `Susunan bilik Aziziyah bagi varian ${a.variant.code} tidak dinyatakan; ber-${occ} perlu disahkan.`,
+              false,
             ];
           default:
             return [
@@ -246,8 +259,19 @@ export function evaluateRequirements(
     let status: ReqStatus;
     let detail: string;
     if (pd.min !== null && pd.max !== null) {
+      const range = `${pd.approximate ? "±" : ""}${pd.min}–${pd.max} hari`;
       if (within(pd.min) && within(pd.max))
-        [status, detail] = ["MEMENUHI", `Tempoh ${pd.min}–${pd.max} hari dalam julat ${want}.`];
+        [status, detail] = !pd.approximate
+          ? ["MEMENUHI", `Tempoh ${range} dalam julat ${want}.`]
+          : d.acceptApproximate
+            ? [
+                "BERSYARAT",
+                `Tempoh anggaran ${range} dalam julat ${want}; anda menerima tempoh anggaran.`,
+              ]
+            : [
+                "PERLU_PENGESAHAN",
+                `Tempoh hanya anggaran ${range}; tarikh sebenar perlu disahkan.`,
+              ];
       else if ((hi !== null && pd.min > hi) || (lo !== null && pd.max < lo))
         [status, detail] = [
           "TIDAK_MEMENUHI",

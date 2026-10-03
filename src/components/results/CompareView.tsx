@@ -151,6 +151,11 @@ export function CompareView() {
         message={state.message}
         details={state.details}
         onRetry={retry}
+        extra={
+          <Button type="button" variant="ghost" onClick={selection.clear}>
+            Kosongkan pilihan banding
+          </Button>
+        }
       />
     );
 

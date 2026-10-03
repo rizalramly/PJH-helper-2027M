@@ -174,24 +174,38 @@ function measure(
       const s = pkg.tarwiyah.status;
       if (s === "not_stated")
         return { utility: 0, knownFraction: 0, note: "Tarwiyah tidak dinyatakan." };
-      const u = s === "explicitly_not_offered" ? 0 : 1;
+      // Tawaran bersyarat hanya bernilai jika pengguna menerima tawaran bersyarat.
+      const conditional = s === "offered_subject_to_approval";
+      const u =
+        s === "explicitly_not_offered" || (conditional && !req.tarwiyah.acceptConditional) ? 0 : 1;
       return {
         utility: u,
         knownFraction: 1,
-        note:
-          s === "offered_subject_to_approval"
-            ? "Tarwiyah ditawarkan tertakluk kelulusan."
-            : u
-              ? "Tarwiyah ditawarkan."
-              : "Tarwiyah tidak dilaksanakan.",
+        note: conditional
+          ? `Tarwiyah ditawarkan tertakluk kelulusan${u ? "" : "; anda tidak menerima tawaran bersyarat"}.`
+          : u
+            ? "Tarwiyah ditawarkan."
+            : "Tarwiyah tidak dilaksanakan.",
       };
     }
     case "aziziyah": {
       const s = pkg.aziziyah.status;
       if (s === "not_stated")
         return { utility: 0, knownFraction: 0, note: "Aziziyah tidak dinyatakan." };
-      const u = s === "explicitly_not_included" ? 0 : 1;
-      return { utility: u, knownFraction: 1, note: u ? "Aziziyah tersedia." : "Tiada Aziziyah." };
+      const conditional = !!pkg.aziziyah.condition && s !== "explicitly_not_included";
+      const u =
+        s === "explicitly_not_included" || (conditional && !req.aziziyah.acceptConditional) ? 0 : 1;
+      return {
+        utility: u,
+        knownFraction: 1,
+        note: !u
+          ? conditional
+            ? "Aziziyah tertakluk syarat; anda tidak menerima tawaran bersyarat."
+            : "Tiada Aziziyah."
+          : conditional
+            ? "Aziziyah tersedia tertakluk syarat."
+            : "Aziziyah tersedia.",
+      };
     }
   }
 }

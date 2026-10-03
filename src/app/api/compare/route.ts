@@ -11,9 +11,10 @@ import { formatIssues, requirementsSchema, toRequirements } from "@/lib/validati
 const bodySchema = z.object({
   requirements: requirementsSchema,
   candidateIds: z
-    .array(z.string().min(1))
-    .min(2, "Pilih sekurang-kurangnya 2 calon")
-    .max(3, "Maksimum 3 calon"),
+    .array(z.string().min(1).max(300))
+    .max(3, "Maksimum 3 calon")
+    .transform((ids) => [...new Set(ids)])
+    .refine((ids) => ids.length >= 2, "Pilih sekurang-kurangnya 2 calon berbeza"),
 });
 
 /** POST /api/compare — perbandingan sebelah-menyebelah (≤3) dengan sebab beza harga. */
@@ -40,7 +41,10 @@ export async function POST(req: Request) {
         422,
         "validation_failed",
         "Keperluan tidak sah.",
-        result.inputErrors.map((message) => ({ field: "rooms", message })),
+        result.inputErrors.map((message) => ({
+          field: /bajet/i.test(message) ? "requirements.budget.perPersonRM" : "requirements.rooms",
+          message,
+        })),
       );
     }
     const ids = [...new Set(parsed.data.candidateIds)];

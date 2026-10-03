@@ -37,7 +37,15 @@ const TABS = [
 
 export function DraftEditor({ view, role }: { view: DraftView; role: "admin" | "reviewer" }) {
   const router = useRouter();
-  const { draft, etag, validation, diff } = view;
+  const { draft, validation, diff } = view;
+  // ETag terkini daripada respons simpan (sebelum router.refresh selesai) supaya simpanan
+  // berturut-turut tidak dianggap konflik.
+  const [etag, setEtag] = React.useState(view.etag);
+  const [seenEtag, setSeenEtag] = React.useState(view.etag);
+  if (view.etag !== seenEtag) {
+    setSeenEtag(view.etag);
+    setEtag(view.etag);
+  }
   const [busy, setBusy] = React.useState(false);
   const [feedback, setFeedback] = React.useState<FeedbackState>({ kind: "idle" });
   const [page, setPage] = React.useState(view.pageRange[0]);
@@ -52,6 +60,8 @@ export function DraftEditor({ view, role }: { view: DraftView; role: "admin" | "
     const r = await fn();
     setBusy(false);
     if (r.ok) {
+      const next = (r.data as { etag?: unknown } | null)?.etag;
+      if (typeof next === "string") setEtag(next);
       setFeedback({ kind: "ok", message: okMessage });
       router.refresh();
       return true;
@@ -251,15 +261,12 @@ export function DraftEditor({ view, role }: { view: DraftView; role: "admin" | "
           notes={draft.file.source.pageNotes}
         />
         <div className="flex min-w-0 flex-col gap-3">
-          <div role="tablist" aria-label="Bahagian draf" className="flex flex-wrap gap-1">
+          <div role="group" aria-label="Bahagian draf" className="flex flex-wrap gap-1">
             {TABS.map((t) => (
               <button
                 key={t.id}
                 type="button"
-                role="tab"
-                id={`tab-${t.id}`}
-                aria-selected={tab === t.id}
-                aria-controls={`panel-${t.id}`}
+                aria-pressed={tab === t.id}
                 onClick={() => setTab(t.id)}
                 className={cn(
                   "min-h-11 cursor-pointer rounded-md px-3 text-sm",
@@ -270,16 +277,11 @@ export function DraftEditor({ view, role }: { view: DraftView; role: "admin" | "
               </button>
             ))}
           </div>
-          <div
-            role="tabpanel"
-            id={`panel-${tab}`}
-            aria-labelledby={`tab-${tab}`}
-            className="min-w-0"
-          >
+          <div className="min-w-0">
             {tab === "pakej" ? <PackagesPanel file={draft.file} api={api} /> : null}
             {tab === "item" ? <ItemsPanel file={draft.file} api={api} /> : null}
             {tab === "kelulusan" ? <ApprovalPanel file={draft.file} api={api} /> : null}
-            {tab === "json" ? <JsonPanel key={etag} file={draft.file} api={api} /> : null}
+            {tab === "json" ? <JsonPanel key={view.etag} file={draft.file} api={api} /> : null}
           </div>
         </div>
       </div>

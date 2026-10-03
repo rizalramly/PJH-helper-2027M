@@ -46,7 +46,7 @@ Blocker khusus: **Jad Gold**, caj penerbangan kelas perniagaan dicetak "RM1?,000
 
 ## 4. Semakan yang lulus (commit serahan)
 
-`pnpm lint`, `pnpm typecheck`, `pnpm format:check`, `pnpm test` (unit + integrasi), `pnpm build` (tanpa amaran; PDF sumber tidak dijejak ke dalam fungsi), `pnpm e2e` (375 px dan 1440 px, axe WCAG 2.1 AA). Semakan keselamatan bebas panel pentadbir (Fasa 7) dijalankan dan penemuannya dibaiki dengan ujian regresi. Semakan kod bebas Fasa 9 sedang dijalankan; hasilnya akan direkodkan di sini. Semakan UI pra-penghantaran: kontras token ≥ 4.5:1 bagi semua gandingan yang digunakan, cincin fokus kelihatan, sasaran sentuh ≥ 44 px, `prefers-reduced-motion`, tiada skrol mendatar 375–1440 px.
+`pnpm lint`, `pnpm typecheck`, `pnpm format:check`, `pnpm test` (unit + integrasi), `pnpm build` (tanpa amaran; PDF sumber tidak dijejak ke dalam fungsi), `pnpm e2e` (375 px dan 1440 px, axe WCAG 2.1 AA). Semakan keselamatan bebas panel pentadbir (Fasa 7) dijalankan dan penemuannya dibaiki dengan ujian regresi. Semakan kod bebas Fasa 9 (engine/API dan UI/pentadbir) dijalankan; penemuan yang disahkan dibaiki dengan ujian regresi (`tests/unit/engine/review-fixes.test.ts`, `tests/unit/admin/review-fixes.test.ts`, `tests/integration/api/api.test.ts`): pemilihan varian ikut bilik Aziziyah, ID varian unik (517), naik taraf bersyarat/habis dijual, had bajet input, import CSV tidak memadam medan, ETag editor draf, dan lain-lain. Semakan UI pra-penghantaran: kontras token ≥ 4.5:1 bagi semua gandingan yang digunakan, cincin fokus kelihatan, sasaran sentuh ≥ 44 px, `prefers-reduced-motion`, tiada skrol mendatar 375–1440 px.
 
 ## 5. Keputusan yang dibuat dalam pelaksanaan
 

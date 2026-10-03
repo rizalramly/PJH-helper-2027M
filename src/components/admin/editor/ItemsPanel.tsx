@@ -9,7 +9,7 @@ import type { PjhCatalogFileInput } from "@/lib/catalog/schema";
 import { rmToSen, senToRm } from "../api";
 import type { EditorApi } from "../DraftEditor";
 import { CheckField, SelectField, TextField } from "../Fields";
-import { EvidenceFields, firstEvidence, toEvidence, type EvidenceDraft } from "./EvidenceFields";
+import { EvidenceFields, emptyEvidence, toEvidence, type EvidenceDraft } from "./EvidenceFields";
 
 type Upgrade = NonNullable<PjhCatalogFileInput["upgrades"]>[number];
 type Charge = NonNullable<PjhCatalogFileInput["charges"]>[number];
@@ -68,7 +68,7 @@ function ItemForm({
     chargeKind: ch?.kind ?? "mandatory",
   });
   const [ev, setEv] = React.useState<EvidenceDraft>(
-    firstEvidence(item?.evidence, api.pageRange[0]),
+    emptyEvidence(item?.evidence, api.pageRange[0]),
   );
   const [confirmDelete, setConfirmDelete] = React.useState(false);
   const [error, setError] = React.useState<string | null>(null);
@@ -85,6 +85,14 @@ function ItemForm({
         if (Number.isNaN(priceSen))
           return setError("Harga mesti nombor RM (kosongkan jika belum diketahui).");
         if (!f.packageIds.length) return setError("Pilih sekurang-kurangnya satu pakej.");
+        const intOrNull = (v: string) =>
+          v.trim() === "" ? null : /^\d+$/.test(v.trim()) ? Number(v) : Number.NaN;
+        const nights = f.basis === "per_night" ? intOrNull(f.nightCount) : null;
+        const occ = intOrNull(f.resultingOccupancy);
+        if (Number.isNaN(nights) || (nights !== null && nights < 1))
+          return setError("Bilangan malam mesti nombor bulat positif.");
+        if (Number.isNaN(occ) || (occ !== null && (occ < 1 || occ > 12)))
+          return setError("Susunan bilik selepas naik taraf mesti 1–12.");
         setError(null);
         const id =
           f.id ||
@@ -95,7 +103,7 @@ function ItemForm({
           description: f.description,
           priceSen,
           basis: f.basis as Upgrade["basis"],
-          nightCount: f.nightCount ? Number(f.nightCount) : null,
+          nightCount: nights,
         };
         const ok =
           kind === "upgrade"
@@ -112,9 +120,7 @@ function ItemForm({
                         .filter(Boolean),
                       includedInVariantCodes: up?.includedInVariantCodes ?? [],
                       kind: f.upgradeKind as Upgrade["kind"],
-                      resultingOccupancy: f.resultingOccupancy
-                        ? Number(f.resultingOccupancy)
-                        : null,
+                      resultingOccupancy: occ,
                       availability: f.availability as NonNullable<Upgrade["availability"]>,
                       condition: f.condition || null,
                     },
@@ -243,7 +249,13 @@ function ItemForm({
           ))}
         </div>
       </fieldset>
-      <EvidenceFields value={ev} onChange={setEv} range={api.pageRange} required />
+      <EvidenceFields
+        value={ev}
+        onChange={setEv}
+        range={api.pageRange}
+        required
+        current={item?.evidence}
+      />
       {error ? (
         <p role="alert" className="text-sm text-status-fail">
           {error}

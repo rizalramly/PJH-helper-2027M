@@ -108,7 +108,7 @@ export type LoadState<T> =
   | { kind: "loading" }
   | { kind: "no-request" }
   | { kind: "error"; message: string; details: string[] }
-  | { kind: "done"; data: T; receivedAt: string };
+  | { kind: "done"; data: T; receivedAt: string; refreshing?: boolean };
 
 function useApi<T>(url: string, body: unknown | null, ready: boolean) {
   const [state, setState] = React.useState<LoadState<T>>({ kind: "loading" });
@@ -123,7 +123,11 @@ function useApi<T>(url: string, body: unknown | null, ready: boolean) {
       return;
     }
     let live = true;
-    setState({ kind: "loading" });
+    // Kekalkan hasil sedia ada semasa memuat semula (cth. togol kepelbagaian) supaya fokus,
+    // kedudukan skrol dan keadaan senarai tidak hilang.
+    setState((prev) =>
+      prev.kind === "done" ? { ...prev, refreshing: true } : { kind: "loading" },
+    );
     void cachedPost<T>(url, JSON.parse(bodyKey), attempt > 0).then((r) => {
       if (!live) return;
       setState(

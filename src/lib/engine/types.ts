@@ -310,6 +310,8 @@ export type AziziyahRoomResolution =
   | "included"
   | "upgrade"
   | "upgrade_unpriced"
+  /** Susunan asal tidak dinyatakan dan tiada naik taraf yang dicetak: perlu pengesahan. */
+  | "unknown_default"
   | "not_offered";
 
 export interface RoomAssignment {

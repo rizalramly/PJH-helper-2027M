@@ -128,7 +128,8 @@ export function csvToVariantOps(
     const priceSen = priceRaw ? parseRMToSen(priceRaw) : null;
     if (priceRaw && (priceSen === null || priceSen < 0n))
       return fail(`harga "${priceRaw}" tidak sah.`);
-    const pmn = PMN[col(r, "pmn").toLowerCase()];
+    const pmnRaw = col(r, "pmn").toLowerCase();
+    const pmn = PMN[pmnRaw];
     if (!pmn) return fail(`pmn "${col(r, "pmn")}" tidak sah (included/not_included/not_stated).`);
     const catRaw = (header.includes("category") ? col(r, "category") : "") || "adult";
     if (!(CATEGORY as readonly string[]).includes(catRaw))
@@ -155,16 +156,19 @@ export function csvToVariantOps(
       original: original
         ? { code, makkahOccupancy: makkah, madinahOccupancy: madinah, travellerCategory: category }
         : null,
+      // Lajur yang tiada (atau pmn kosong) tidak menimpa nilai varian sedia ada.
       variant: {
         code,
         makkahOccupancy: makkah,
         madinahOccupancy: madinah,
-        aziziyahOccupancy: aziziyah,
         priceSen: priceSen === null ? null : Number(priceSen),
-        pmnStatus: pmn,
         travellerCategory: category,
-        roomLabelAsPublished: (header.includes("room_label") ? col(r, "room_label") : "") || null,
-        notes: (header.includes("notes") ? col(r, "notes") : "") || null,
+        ...(header.includes("aziziyah") ? { aziziyahOccupancy: aziziyah } : {}),
+        ...(pmnRaw !== "" || !original ? { pmnStatus: pmn } : {}),
+        ...(header.includes("room_label")
+          ? { roomLabelAsPublished: col(r, "room_label") || null }
+          : {}),
+        ...(header.includes("notes") ? { notes: col(r, "notes") || null } : {}),
       },
       ...(page && evText.length >= 3 ? { evidence: { pdfPage: page, text: evText } } : {}),
     });

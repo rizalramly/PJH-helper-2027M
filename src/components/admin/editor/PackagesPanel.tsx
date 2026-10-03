@@ -9,7 +9,7 @@ import type { PjhCatalogFileInput } from "@/lib/catalog/schema";
 import { rmToSen, senToRm } from "../api";
 import type { EditorApi } from "../DraftEditor";
 import { CheckField, SelectField, TextField } from "../Fields";
-import { EvidenceFields, firstEvidence, toEvidence, type EvidenceDraft } from "./EvidenceFields";
+import { EvidenceFields, emptyEvidence, toEvidence, type EvidenceDraft } from "./EvidenceFields";
 
 type Pkg = PjhCatalogFileInput["packages"][number];
 type Variant = Pkg["variants"][number];
@@ -45,7 +45,12 @@ const AZIZIYAH = [
   { value: "not_stated", label: "Tidak dinyatakan" },
 ];
 
-const numOrNull = (v: string) => (v.trim() === "" ? null : Number(v));
+const numOrNull = (v: string) => (v.trim() === "" ? null : Number(v.trim()));
+/** Nombor hari sah (1–120) atau kosong; selain itu ralat (bukan null secara senyap). */
+const badDays = (v: string) => {
+  const n = numOrNull(v);
+  return n !== null && !(Number.isFinite(n) && n > 0 && n <= 120);
+};
 
 function PackageForm({ pkg, api }: { pkg: Pkg; api: EditorApi }) {
   const [f, setF] = React.useState({
@@ -64,6 +69,7 @@ function PackageForm({ pkg, api }: { pkg: Pkg; api: EditorApi }) {
     durationApproximate: pkg.duration.approximate,
   });
   const [ev, setEv] = React.useState<EvidenceDraft>({ page: String(api.pageRange[0]), text: "" });
+  const [error, setError] = React.useState<string | null>(null);
   const set = <K extends keyof typeof f>(k: K, v: (typeof f)[K]) => setF((s) => ({ ...s, [k]: v }));
 
   return (
@@ -71,6 +77,13 @@ function PackageForm({ pkg, api }: { pkg: Pkg; api: EditorApi }) {
       className="flex flex-col gap-3"
       onSubmit={(e) => {
         e.preventDefault();
+        if ([f.durationValue, f.durationMin, f.durationMax].some(badDays)) {
+          setError(
+            "Tempoh mesti nombor hari 1–120 (contohnya 40), atau kosong jika tidak dinyatakan.",
+          );
+          return;
+        }
+        setError(null);
         const fields = {
           name: f.name,
           series: f.series,
@@ -168,6 +181,11 @@ function PackageForm({ pkg, api }: { pkg: Pkg; api: EditorApi }) {
         onChange={(e) => set("availabilityNote", e.target.value)}
       />
       <EvidenceFields value={ev} onChange={setEv} range={api.pageRange} required />
+      {error ? (
+        <p role="alert" className="text-sm text-status-fail">
+          {error}
+        </p>
+      ) : null}
       <Button type="submit" disabled={api.busy} className="self-start">
         <Save aria-hidden="true" />
         Simpan pakej
@@ -199,7 +217,7 @@ function VariantForm({
     notes: variant?.notes ?? "",
   });
   const [ev, setEv] = React.useState<EvidenceDraft>(
-    firstEvidence(variant?.priceEvidence, api.pageRange[0]),
+    emptyEvidence(variant?.priceEvidence, api.pageRange[0]),
   );
   const [confirmDelete, setConfirmDelete] = React.useState(false);
   const [error, setError] = React.useState<string | null>(null);
@@ -301,7 +319,13 @@ function VariantForm({
           onChange={(e) => set("roomLabel", e.target.value)}
         />
       </div>
-      <EvidenceFields value={ev} onChange={setEv} range={api.pageRange} required />
+      <EvidenceFields
+        value={ev}
+        onChange={setEv}
+        range={api.pageRange}
+        required
+        current={variant?.priceEvidence}
+      />
       {error ? (
         <p role="alert" className="text-sm text-status-fail">
           {error}
@@ -375,16 +399,11 @@ export function PackagesPanel({ file, api }: { file: PjhCatalogFileInput; api: E
               </span>
             </summary>
             <div className="flex flex-col gap-4 border-t p-3">
-              <PackageForm key={JSON.stringify(pkg)} pkg={pkg} api={api} />
+              <PackageForm key={JSON.stringify({ ...pkg, variants: [] })} pkg={pkg} api={api} />
               <section aria-label={`Varian ${pkg.name}`} className="flex flex-col gap-2">
                 <h3 className="font-semibold">Varian</h3>
                 {pkg.variants.map((v) => (
-                  <VariantForm
-                    key={`${v.code}-${v.makkahOccupancy}-${v.madinahOccupancy}-${v.travellerCategory}-${v.priceSen}`}
-                    pkg={pkg}
-                    variant={v}
-                    api={api}
-                  />
+                  <VariantForm key={JSON.stringify(v)} pkg={pkg} variant={v} api={api} />
                 ))}
                 {adding === pkg.id ? (
                   <VariantForm pkg={pkg} variant={null} api={api} onDone={() => setAdding(null)} />

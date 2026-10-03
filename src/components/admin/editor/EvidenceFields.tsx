@@ -13,17 +13,25 @@ export function EvidenceFields({
   onChange,
   range,
   required,
+  current,
 }: {
   value: EvidenceDraft;
   onChange: (v: EvidenceDraft) => void;
   range: [number, number];
   required?: boolean;
+  /** Bukti sedia ada (paparan sahaja). Bukti baharu mesti ditaip semula untuk harga baharu. */
+  current?: { pdfPage: number; text: string }[];
 }) {
   return (
     <fieldset className="grid gap-2 rounded-md border border-dashed p-2 sm:grid-cols-[8rem_1fr]">
       <legend className="px-1 text-xs font-medium text-muted-foreground">
-        Bukti sumber{required ? " (wajib jika harga/status berubah)" : ""}
+        Bukti baharu{required ? " (wajib jika harga/status berubah)" : ""}
       </legend>
+      {current?.length ? (
+        <p className="text-xs text-muted-foreground sm:col-span-2">
+          Bukti semasa: {current.map((e) => `hlm. ${e.pdfPage} “${e.text}”`).join("; ")}
+        </p>
+      ) : null}
       <TextField
         label="Halaman PDF"
         inputMode="numeric"
@@ -47,10 +55,8 @@ export const toEvidence = (e: EvidenceDraft) => {
     : undefined;
 };
 
-export const firstEvidence = (
-  list: { pdfPage: number; text: string }[] | undefined,
+/** Medan bukti baharu bermula kosong (halaman lalai sahaja) supaya bukti lama tidak digunakan semula. */
+export const emptyEvidence = (
+  list: { pdfPage: number }[] | undefined,
   fallbackPage: number,
-): EvidenceDraft => ({
-  page: String(list?.[0]?.pdfPage ?? fallbackPage),
-  text: list?.[0]?.text ?? "",
-});
+): EvidenceDraft => ({ page: String(list?.[0]?.pdfPage ?? fallbackPage), text: "" });

@@ -514,13 +514,13 @@ Senarai penuh jurang setiap PJH (seperti direkodkan semasa transkripsi dan semak
 
 ### A. Pasangan RM100,000 seorang; Aziziyah ber-2 wajib; PMN wajib; Tarwiyah wajib (terima bersyarat); 40 hari
 
-Memenuhi syarat wajib: **6**; perlu pengesahan: 26; tidak memenuhi: 119; daripada 13 PJH.
+Memenuhi syarat wajib: **7**; perlu pengesahan: 39; tidak memenuhi: 105; daripada 18 PJH.
 
 | Label | PJH | Pakej | Kod | Seorang | Kumpulan |
 |---|---|---|---|---:|---:|
 | CADANGAN_UTAMA | Busyra Holidays | Makkah Tower Ekonomi + PMN | MTEP02 | RM 79,490.00 | RM 158,980.00 |
 | ALTERNATIF_JIMAT | Alam Shah Travel & Tours | Safwah Aziziah PMN | SAP02 | RM 77,990.00 | RM 155,980.00 |
-| CALON_BERSYARAT | TITIM Travel | Makkah Tower PMN | TTIM6-02 | RM 82,990.00 | RM 165,980.00 |
+| CALON_BERSYARAT | Juara Travel | Al-Salam Plus (+Khemah PMN) | JTT08 | RM 75,900.00 | RM 151,800.00 |
 
 ### B. Pasangan RM60,000 seorang, tiada syarat lain
 

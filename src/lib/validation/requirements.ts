@@ -4,8 +4,15 @@ import { z } from "zod";
 import { parseRMToSen } from "../engine/money";
 import type { Requirements } from "../engine/types";
 
-const rm = z.union([z.string(), z.number()]).transform((v, ctx) => {
+/** Had atas bajet seorang: RM10 juta (melindungi daripada nilai sangat besar / DoS). */
+export const MAX_RM_SEN = 1_000_000_000n;
+
+const rm = z.union([z.string().max(32), z.number().finite()]).transform((v, ctx) => {
   const sen = parseRMToSen(String(v));
+  if (sen !== null && sen > MAX_RM_SEN) {
+    ctx.addIssue({ code: "custom", message: "Nilai RM melebihi had RM10,000,000." });
+    return z.NEVER;
+  }
   if (sen === null) {
     ctx.addIssue({
       code: "custom",

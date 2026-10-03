@@ -1,6 +1,6 @@
 // Keadaan wizard (JSON, disimpan pada peranti) dan penukaran kepada permintaan /api/assess.
 // Fungsi tulen; tiada akses DOM.
-import { parseRMToSen } from "../engine/money";
+import { formatRM, parseRMToSen } from "../engine/money";
 import type { RequirementsInput } from "../validation/requirements";
 
 export const WIZARD_STORAGE_KEY = "pjh.wizard.v1";
@@ -220,7 +220,8 @@ export function validateStep(s: WizardState, step: StepId): FieldError[] {
         });
     }
   }
-  if (step === 4) {
+  // Jarak hanya disahkan apabila medan dipaparkan (kedekatan bukan "Tidak kisah").
+  if (step === 4 && s.importance.proximity !== "dont_care") {
     for (const [field, v] of [
       ["proximityMakkahM", s.proximityMakkahM],
       ["proximityMadinahM", s.proximityMadinahM],
@@ -314,10 +315,7 @@ export function summarize(s: WizardState): SummaryItem[] {
   const items: SummaryItem[] = [];
   const pilgrims = totalPilgrims(s);
   const sen = parseRMToSen(s.budgetPerPersonRM);
-  const rm = (v: bigint | null) =>
-    v === null
-      ? "—"
-      : `RM ${(Number(v) / 100).toLocaleString("en-MY", { minimumFractionDigits: 2 })}`;
+  const rm = (v: bigint | null) => (v === null ? "—" : formatRM(v));
   items.push({ label: "Jemaah", value: `${pilgrims} orang`, kind: "maklumat", step: 1 });
   items.push({
     label: "Bajet seorang",

@@ -133,7 +133,7 @@ export function explainCandidate(
       "Apakah tarikh berlepas dan pulang yang dijangka, dan adakah caj hari tambahan?",
     );
   if (approval !== "verified_approved")
-    questions.push("Bolehkah anda kongsikan bukti kelulusan PJH bagi musim 1448H/2027M?");
+    questions.push(`Bolehkah anda kongsikan bukti kelulusan PJH bagi musim ${pkg.seasonId}?`);
   if (req.budget.scope === "all_in")
     questions.push("Adakah terdapat caj lain yang tidak termasuk dalam harga pakej?");
 

@@ -26,12 +26,13 @@ const variantFields = z.object({
   code: z.string().trim().min(1).max(60),
   makkahOccupancy: occupancy,
   madinahOccupancy: occupancy,
-  aziziyahOccupancy: occupancy.nullable(),
+  // Medan pilihan: `undefined` = kekalkan nilai sedia ada (cth. lajur CSV yang tiada).
+  aziziyahOccupancy: occupancy.nullable().optional(),
   priceSen: senInput.nullable(),
-  pmnStatus: z.enum(["included", "not_included", "not_stated"]),
+  pmnStatus: z.enum(["included", "not_included", "not_stated"]).optional(),
   travellerCategory: z.enum(["adult", "child_with_bed", "child_no_bed", "infant"]),
-  roomLabelAsPublished: nullableText(200),
-  notes: nullableText(500),
+  roomLabelAsPublished: nullableText(200).optional(),
+  notes: nullableText(500).optional(),
 });
 
 const variantKey = z.object({
@@ -291,11 +292,17 @@ export function applyOp(input: File, op: DraftOp, ctx: OpContext): File {
         currency: "MYR",
         makkahOccupancy: v.makkahOccupancy,
         madinahOccupancy: v.madinahOccupancy,
-        aziziyahOccupancy: v.aziziyahOccupancy,
-        pmnStatus: v.pmnStatus,
+        aziziyahOccupancy:
+          v.aziziyahOccupancy !== undefined
+            ? v.aziziyahOccupancy
+            : (existing?.aziziyahOccupancy ?? null),
+        pmnStatus: v.pmnStatus ?? existing?.pmnStatus ?? "not_stated",
         travellerCategory: v.travellerCategory,
-        roomLabelAsPublished: v.roomLabelAsPublished,
-        notes: v.notes,
+        roomLabelAsPublished:
+          v.roomLabelAsPublished !== undefined
+            ? v.roomLabelAsPublished
+            : (existing?.roomLabelAsPublished ?? null),
+        notes: v.notes !== undefined ? v.notes : (existing?.notes ?? null),
         priceEvidence:
           op.evidence && (priceChanged || !existing?.priceEvidence?.length)
             ? [toEvidence(op.evidence)]
