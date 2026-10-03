@@ -39,3 +39,6 @@ next-env.d.ts
 # data penilaian pengguna / dump
 *.dump
 *.sql.gz
+
+# stor setempat (pembangunan/E2E)
+/.data/

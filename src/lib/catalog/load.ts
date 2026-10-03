@@ -38,9 +38,9 @@ export function toEngineCatalog(files: PjhCatalogFile[], datasetVersion: string)
       approvals: [
         {
           seasonId: f.seasonId,
-          status: "unverified",
+          status: f.pjh.approval.status,
           licenceNumberAsPublished: f.pjh.licenceNumberAsPublished,
-          verifiedAt: null,
+          verifiedAt: f.pjh.approval.verifiedAt,
           evidence: evs(f.pjh.licenceEvidence),
         },
       ],
@@ -71,7 +71,7 @@ export function toEngineCatalog(files: PjhCatalogFile[], datasetVersion: string)
           verifiedAt: null,
           note: p.availability.note,
         },
-        publishedStatus: "published",
+        publishedStatus: p.publishedStatus,
         unresolvedConflicts: p.unresolvedConflicts,
         stays: p.stays.map((s) => ({ ...s, evidence: evs(s.evidence) })),
         inclusions: p.inclusions.map((i) => ({ ...i, evidence: evs(i.evidence) })),

@@ -125,6 +125,8 @@ export const packageSchema = z.object({
     note: z.string().nullable().default(null),
   }),
   unresolvedConflicts: z.array(z.string()).default([]),
+  /** "archived" = ditarik daripada cadangan oleh pentadbir (kekal dalam sejarah). */
+  publishedStatus: z.enum(["published", "archived"]).default("published"),
   stays: z.array(staySchema),
   inclusions: z
     .array(
@@ -168,6 +170,29 @@ export const chargeSchema = z.object({
   evidence: z.array(evidenceSchema).min(1),
 });
 
+export const approvalSchema = z
+  .object({
+    status: z.enum(["unverified", "verified_approved", "not_approved"]),
+    /** Nama dokumen rasmi, cth. "Senarai PJH diluluskan Musim Haji 1448H (Tabung Haji)". */
+    officialSource: z.string().trim().min(1).nullable().default(null),
+    /** URL atau nombor rujukan dokumen rasmi. */
+    officialReference: z.string().trim().min(1).nullable().default(null),
+    verifiedAt: z.string().nullable().default(null),
+    verifiedBy: z.string().nullable().default(null),
+  })
+  .refine(
+    (a) => a.status === "unverified" || (!!a.officialSource && !!a.verifiedAt && !!a.verifiedBy),
+    { message: "Status kelulusan yang disahkan mesti ada sumber rasmi, tarikh dan penyemak" },
+  );
+
+/** Semakan pentadbir (manusia) ke atas fail ini sebelum diterbitkan. */
+export const reviewSchema = z.object({
+  status: z.enum(["unreviewed", "approved"]),
+  approvedBy: z.string().nullable().default(null),
+  approvedAt: z.string().nullable().default(null),
+  notes: z.string().nullable().default(null),
+});
+
 export const pjhCatalogFileSchema = z.object({
   schemaVersion: z.literal(1),
   seasonId: z.string(),
@@ -181,6 +206,17 @@ export const pjhCatalogFileSchema = z.object({
     licenceNumberAsPublished: z.string().nullable().default(null),
     licenceEvidence: evidenceList,
     terms: z.array(z.object({ text: z.string(), evidence: evidenceList })).default([]),
+    /**
+     * Status kelulusan PJH bagi musim fail ini. Hanya pentadbir boleh menukarnya, dan hanya
+     * berdasarkan sumber rasmi (cth. senarai PJH diluluskan TH). Brosur bukan bukti kelulusan.
+     */
+    approval: approvalSchema.default({
+      status: "unverified",
+      officialSource: null,
+      officialReference: null,
+      verifiedAt: null,
+      verifiedBy: null,
+    }),
   }),
   source: z.object({
     sourceId: z.string().default(DEFAULT_SOURCE_ID),
@@ -215,6 +251,12 @@ export const pjhCatalogFileSchema = z.object({
       }),
     )
     .default([]),
+  review: reviewSchema.default({
+    status: "unreviewed",
+    approvedBy: null,
+    approvedAt: null,
+    notes: null,
+  }),
   transcription: z.object({
     reviewer: z.string(),
     reviewedAt: z.string(),

@@ -66,3 +66,22 @@ Semua calon `full_match` dan `needs_verification` dipulangkan; `not_matching` di
 | `GET /api/coverage?season=`              | Manifest liputan dalam snapshot aktif                                                                                   |
 
 GET katalog dicache di CDN selama 60 saat; `POST` tidak dicache. Katalog dibaca melalui `getActiveCatalog()` (Vercel Blob dalam production; fail repo dalam pembangunan tanpa token).
+
+## Pentadbir (`/api/admin/*`)
+
+Semua laluan memerlukan kuki sesi (401 tanpa sesi) dan, bagi permintaan yang mengubah data, `Origin` yang sama (403 jika berbeza). Ralat domain: 422 `validation_failed`, 409 `conflict` (ETag lama atau pendua), 415 `unsupported_media_type` (bukan PDF), 429 `rate_limited`.
+
+| Endpoint                                                             | Peranan  | Kandungan                                                          |
+| -------------------------------------------------------------------- | -------- | ------------------------------------------------------------------ |
+| `POST/GET/DELETE /api/admin/session`                                 | —        | Log masuk / pengguna semasa / log keluar                           |
+| `GET/POST /api/admin/drafts`                                         | penyemak | Senarai draf / buka draf `{ seasonId, pjhId }`                     |
+| `GET/PATCH/DELETE /api/admin/drafts/:musim/:pjh`                     | penyemak | Draf + validasi + perbezaan / operasi `{ etag, ops[] }` / buang    |
+| `POST /api/admin/drafts/:musim/:pjh/review`                          | penyemak | `{ etag, action: submit \| approve \| reopen, notes }`             |
+| `POST /api/admin/import`                                             | penyemak | `{ kind: "json", file }` atau `{ kind: "csv", pjhId, csv }` → draf |
+| `POST /api/admin/publish`                                            | admin    | `{ seasonId, pjhIds[] }` → versi dataset baharu                    |
+| `GET/POST /api/admin/versions`                                       | admin\*  | Sejarah / aktifkan semula versi (rollback)                         |
+| `GET /api/admin/audit?month=YYYY-MM`                                 | penyemak | Log audit                                                          |
+| `GET/POST /api/admin/seasons`                                        | admin\*  | Senarai / cipta atau kemas kini musim                              |
+| `GET/POST /api/admin/sources`, `…/upload`, `…/register`, `…/:sha256` | penyemak | Senarai, muat naik PDF, PDF untuk skrin semakan                    |
+
+\* `GET` dibenarkan untuk penyemak. Operasi draf (`ops`): `update_package`, `upsert_variant`, `delete_variant`, `upsert_upgrade`, `delete_upgrade`, `upsert_charge`, `delete_charge`, `delete_package`, `set_approval` (admin), `replace_file`.

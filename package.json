@@ -17,7 +17,9 @@
     "catalog:coverage": "tsx scripts/build-coverage.ts",
     "db:seed": "tsx scripts/catalog-store.ts publish",
     "catalog:status": "tsx scripts/catalog-store.ts status",
-    "catalog:history": "tsx scripts/catalog-store.ts history"
+    "catalog:history": "tsx scripts/catalog-store.ts history",
+    "admin:create": "tsx scripts/admin-user.ts create",
+    "admin:users": "tsx scripts/admin-user.ts list"
   },
   "dependencies": {
     "@vercel/blob": "^2.8.0",

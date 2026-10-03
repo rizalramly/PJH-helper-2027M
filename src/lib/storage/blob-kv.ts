@@ -1,4 +1,4 @@
-import { BlobPreconditionFailedError, get, list, put } from "@vercel/blob";
+import { BlobPreconditionFailedError, del, get, list, put } from "@vercel/blob";
 
 import { ConflictError, type JsonKV, type PutOptions, type StoredJSON } from "./kv";
 
@@ -50,5 +50,9 @@ export class BlobKV implements JsonKV {
       cursor = page.hasMore ? page.cursor : undefined;
     } while (cursor);
     return out.sort();
+  }
+
+  async delete(path: string) {
+    await del(path, { token: this.token });
   }
 }

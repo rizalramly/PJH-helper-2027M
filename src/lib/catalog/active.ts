@@ -3,12 +3,12 @@ import "server-only";
 import { join } from "node:path";
 
 import type { Catalog } from "../engine/types";
-import { BlobKV } from "../storage/blob-kv";
 import {
   computeDatasetVersion,
   getActivePointer,
   getActiveSnapshot,
 } from "../storage/catalog-repo";
+import { getStore } from "../storage/env";
 import type { JsonKV } from "../storage/kv";
 import { toEngineCatalog } from "./load";
 import { readRepoCatalog } from "./repo-files";
@@ -18,7 +18,7 @@ export interface ActiveCatalog {
   catalog: Catalog;
   coverage: unknown;
   datasetVersion: string;
-  source: "blob" | "repo";
+  source: "blob" | "store" | "repo";
 }
 
 const POINTER_TTL_MS = 30_000;
@@ -26,19 +26,20 @@ const POINTER_TTL_MS = 30_000;
 const byVersion = new Map<string, ActiveCatalog>();
 let pointerCache: { seasonId: string; version: string; at: number } | null = null;
 
-function storeFromEnv(): JsonKV | null {
-  const token = process.env.BLOB_READ_WRITE_TOKEN;
-  return token ? new BlobKV(token) : null;
+/** Kosongkan cache penunjuk selepas penerbitan supaya versi baharu dibaca serta-merta. */
+export function invalidateActiveCatalog() {
+  pointerCache = null;
 }
 
 /**
  * Katalog aktif bagi satu musim.
  * - Dengan BLOB_READ_WRITE_TOKEN: baca penunjuk aktif + snapshot daripada Vercel Blob (cache ikut versi).
- * - Tanpa token (pembangunan/CI): baca fail repo. Production tanpa token ialah ralat konfigurasi.
+ * - PJH_LOCAL_STORE (pembangunan/E2E): stor fail; jika belum ada penunjuk aktif, baca fail repo.
+ * - Tanpa stor (pembangunan/CI): baca fail repo. Production tanpa token ialah ralat konfigurasi.
  */
 export async function getActiveCatalog(
   seasonId: string,
-  kv: JsonKV | null = storeFromEnv(),
+  kv: JsonKV | null = getStore()?.kv ?? null,
 ): Promise<ActiveCatalog> {
   if (!kv) {
     if (process.env.VERCEL_ENV === "production") {
@@ -55,14 +56,16 @@ export async function getActiveCatalog(
     pointerCache.seasonId === seasonId &&
     now - pointerCache.at < POINTER_TTL_MS
   ) {
-    const cached = byVersion.get(`blob:${pointerCache.version}`);
+    const cached = byVersion.get(`${kv.kind}:${pointerCache.version}`);
     if (cached) return cached;
   }
   const pointer = await getActivePointer(kv, seasonId);
-  if (!pointer)
+  if (!pointer) {
+    if (kv.kind === "file") return repoCatalog(seasonId);
     throw new Error(`Tiada katalog aktif untuk musim ${seasonId}. Jalankan pnpm db:seed.`);
+  }
   pointerCache = { seasonId, version: pointer.datasetVersion, at: now };
-  const cached = byVersion.get(`blob:${pointer.datasetVersion}`);
+  const cached = byVersion.get(`${kv.kind}:${pointer.datasetVersion}`);
   if (cached) return cached;
 
   const snapshot = await getActiveSnapshot(kv, seasonId);
@@ -72,9 +75,9 @@ export async function getActiveCatalog(
     catalog: toEngineCatalog(files, snapshot.datasetVersion),
     coverage: snapshot.coverage,
     datasetVersion: snapshot.datasetVersion,
-    source: "blob",
+    source: kv.kind === "file" ? "store" : "blob",
   };
-  byVersion.set(`blob:${snapshot.datasetVersion}`, active);
+  byVersion.set(`${kv.kind}:${snapshot.datasetVersion}`, active);
   return active;
 }
 

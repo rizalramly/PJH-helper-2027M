@@ -34,14 +34,33 @@ export interface ActivePointer {
   previousVersion: string | null;
 }
 
+export type AuditAction =
+  | "publish"
+  | "activate"
+  | "draft_create"
+  | "draft_update"
+  | "draft_import"
+  | "draft_submit"
+  | "draft_approve"
+  | "draft_discard"
+  | "source_upload"
+  | "season_update"
+  | "user_create"
+  | "user_update"
+  | "login"
+  | "login_failed"
+  | "logout";
+
 export interface AuditEvent {
   id: string;
   at: string;
   actor: string;
-  action: "publish" | "activate";
-  seasonId: string;
-  datasetVersion: string;
-  previousVersion: string | null;
+  action: AuditAction;
+  seasonId?: string;
+  datasetVersion?: string;
+  previousVersion?: string | null;
+  /** Sasaran peristiwa (cth. "busyra" untuk draf, sha256 untuk sumber). */
+  target?: string;
   note?: string;
 }
 
@@ -51,7 +70,7 @@ export const datasetPath = (seasonId: string, version: string) =>
 export const activePath = (seasonId: string) => `catalog/${seasonKey(seasonId)}/active.json`;
 
 /** JSON berkanun: kunci objek disusun supaya hash tidak bergantung pada susunan kunci. */
-function canonical(value: unknown): string {
+export function canonical(value: unknown): string {
   if (Array.isArray(value)) return `[${value.map(canonical).join(",")}]`;
   if (value && typeof value === "object") {
     const entries = Object.entries(value as Record<string, unknown>)
@@ -80,7 +99,8 @@ export function computeDatasetVersion(
   };
 }
 
-async function appendAudit(kv: JsonKV, event: Omit<AuditEvent, "id">) {
+/** Tulis satu peristiwa audit (append-only, satu objek setiap peristiwa). */
+export async function appendAudit(kv: JsonKV, event: Omit<AuditEvent, "id">) {
   const id = randomUUID();
   const month = event.at.slice(0, 7);
   await kv.putJSON(
@@ -112,6 +132,7 @@ export async function publishCatalog(
     coverage: unknown;
     actor: string;
     now: Date;
+    note?: string;
   },
 ): Promise<PublishResult> {
   if (input.files.some((f) => f.seasonId !== input.seasonId)) {
@@ -158,6 +179,7 @@ export async function publishCatalog(
       seasonId: input.seasonId,
       datasetVersion,
       previousVersion: pointer?.value.datasetVersion ?? null,
+      ...(input.note ? { note: input.note } : {}),
     });
   }
 
@@ -237,8 +259,8 @@ export async function listDatasetVersions(kv: JsonKV, seasonId: string): Promise
 export async function listAuditEvents(kv: JsonKV, month?: string): Promise<AuditEvent[]> {
   const paths = await kv.list(month ? `audit/${month}/` : "audit/");
   const events = await Promise.all(paths.map((p) => kv.getJSON<AuditEvent>(p)));
-  const order: Record<AuditEvent["action"], number> = { publish: 0, activate: 1 };
+  const rank = (a: AuditAction) => (a === "publish" ? 0 : a === "activate" ? 1 : 2);
   return events
     .flatMap((e) => (e ? [e.value] : []))
-    .sort((a, b) => a.at.localeCompare(b.at) || order[a.action] - order[b.action]);
+    .sort((a, b) => a.at.localeCompare(b.at) || rank(a.action) - rank(b.action));
 }

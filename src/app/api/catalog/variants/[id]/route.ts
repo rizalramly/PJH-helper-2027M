@@ -6,7 +6,7 @@ import { getActiveCatalog } from "@/lib/catalog/active";
 /** GET /api/catalog/variants/:id?season= — butiran varian dengan pakej, naik taraf, caj dan bukti. */
 export async function GET(req: Request, ctx: RouteContext<"/api/catalog/variants/[id]">) {
   return withErrors(async () => {
-    const { season, error } = seasonFrom(req);
+    const { season, error } = await seasonFrom(req);
     if (error) return error;
     const { id } = await ctx.params;
     const { catalog, datasetVersion } = await getActiveCatalog(season.id);

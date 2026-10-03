@@ -4,11 +4,15 @@ Keputusan pengguna (pelan §0.1): **Vercel Blob** ialah stor persisten. Tiada pa
 
 ## Susun atur Blob (akses `private`)
 
-| Laluan                                  | Kandungan                                               | Penulisan                               |
-| --------------------------------------- | ------------------------------------------------------- | --------------------------------------- |
-| `catalog/<musim>/datasets/<versi>.json` | Snapshot katalog penuh (34 fail PJH + manifest liputan) | Sekali sahaja (`allowOverwrite: false`) |
-| `catalog/<musim>/active.json`           | Penunjuk versi aktif                                    | Bersyarat (`ifMatch` ETag)              |
-| `audit/<yyyy-mm>/<masa>-<uuid>.json`    | Satu peristiwa `publish`/`activate`                     | Sekali sahaja                           |
+| Laluan                                       | Kandungan                                               | Penulisan                               |
+| -------------------------------------------- | ------------------------------------------------------- | --------------------------------------- |
+| `catalog/<musim>/datasets/<versi>.json`      | Snapshot katalog penuh (34 fail PJH + manifest liputan) | Sekali sahaja (`allowOverwrite: false`) |
+| `catalog/<musim>/active.json`                | Penunjuk versi aktif                                    | Bersyarat (`ifMatch` ETag)              |
+| `audit/<yyyy-mm>/<masa>-<uuid>.json`         | Satu peristiwa (terbit, aktif, draf, sumber, log masuk) | Sekali sahaja                           |
+| `catalog/seasons.json`                       | Musim tambahan yang dicipta pentadbir                   | Bersyarat (`ifMatch`)                   |
+| `drafts/<musim>/<pjh>.json`                  | Draf suntingan satu PJH                                 | Bersyarat (`ifMatch`)                   |
+| `admin/users.json`                           | Pengguna pentadbir (hash scrypt)                        | Bersyarat (`ifMatch`)                   |
+| `sources/<sha256>.pdf`, `sources/index.json` | PDF sumber dan indeksnya                                | PDF sekali sahaja; indeks bersyarat     |
 
 - Versi dataset berasaskan kandungan: `ds-<musim>-<sha256[0..12]>` daripada JSON berkanun fail katalog dan manifest liputan. Menerbitkan kandungan yang sama → `unchanged` (seed idempotent, tiada pendua).
 - Penerbitan: tulis snapshot dahulu, kemudian kemas kini penunjuk dengan ETag yang dibaca. Jika penerbit lain mendahului → `ConflictError`; ulang operasi selepas membaca keadaan terkini.
@@ -41,3 +45,13 @@ pnpm exec tsx scripts/catalog-store.ts activate <versi> --yes   # rollback ke ve
 - **Data**: `activate <versi-lama> --yes`. Snapshot lama tidak pernah dipadam, jadi rollback hanya menukar penunjuk dan direkod dalam audit.
 - **Kod**: promote deployment Vercel sebelumnya atau `git revert`. Rollback kod tidak mengubah versi data aktif; semak `pnpm catalog:status` selepas rollback.
 - **Skema**: snapshot menyimpan `schemaVersion`. Perubahan skema yang tidak serasi mesti menambah versi dan transformasi semasa memuat, supaya snapshot lama kekal boleh dibaca untuk rollback.
+
+## Panel pentadbir
+
+Selepas seed pertama bagi setiap persekitaran:
+
+1. Tetapkan `AUTH_SECRET` (berbeza bagi Preview dan Production).
+2. `pnpm admin:create --email <emel> --role admin` dengan token Blob persekitaran itu.
+3. Log masuk di `/admin`, muat naik PDF kompilasi melalui _Dokumen sumber_ (untuk skrin semakan).
+
+Perincian aliran kerja dan keselamatan: `docs/admin.md`.

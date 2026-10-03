@@ -6,7 +6,7 @@ import { getActiveCatalog } from "@/lib/catalog/active";
 /** GET /api/catalog/packages?season=&pjh= — pakej dan varian (harga diketahui atau "perlu pengesahan"). */
 export async function GET(req: Request) {
   return withErrors(async () => {
-    const { season, error } = seasonFrom(req);
+    const { season, error } = await seasonFrom(req);
     if (error) return error;
     const pjhId = new URL(req.url).searchParams.get("pjh");
     const { catalog, datasetVersion } = await getActiveCatalog(season.id);

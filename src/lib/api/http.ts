@@ -3,7 +3,18 @@ import "server-only";
 import { NextResponse } from "next/server";
 
 export type ApiErrorCode =
-  "bad_request" | "validation_failed" | "not_found" | "catalog_unavailable" | "internal_error";
+  | "bad_request"
+  | "validation_failed"
+  | "not_found"
+  | "catalog_unavailable"
+  | "internal_error"
+  | "unauthorized"
+  | "forbidden"
+  | "conflict"
+  | "unsupported_media_type"
+  | "payload_too_large"
+  | "rate_limited"
+  | "service_unavailable";
 
 /** Respons ralat berstruktur dalam BM. Butiran dalaman tidak didedahkan kepada klien. */
 export function apiError(status: number, code: ApiErrorCode, message: string, details?: unknown) {
@@ -51,6 +62,16 @@ export async function withErrors(fn: () => Promise<NextResponse>): Promise<NextR
     return await fn();
   } catch (e) {
     const message = e instanceof Error ? e.message : String(e);
+    if (e instanceof Error && e.name === "StoreUnavailableError") {
+      return apiError(503, "service_unavailable", message);
+    }
+    if (e instanceof Error && e.name === "ConflictError") {
+      return apiError(
+        409,
+        "conflict",
+        "Data telah diubah oleh pengguna lain. Muat semula dan cuba lagi.",
+      );
+    }
     if (/katalog|Snapshot|BLOB_READ_WRITE_TOKEN/i.test(message)) {
       console.error("[api] katalog tidak tersedia:", message);
       return apiError(

@@ -3,7 +3,7 @@ import { z } from "zod";
 import { candidateDTO } from "@/lib/api/dto";
 import { apiError, ok, readJson, withErrors } from "@/lib/api/http";
 import { getActiveCatalog } from "@/lib/catalog/active";
-import { findSeason } from "@/lib/catalog/seasons";
+import { getSeason } from "@/lib/catalog/season-store";
 import { assess } from "@/lib/engine";
 import { buildComparison } from "@/lib/engine/compare";
 import { formatIssues, requirementsSchema, toRequirements } from "@/lib/validation/requirements";
@@ -31,7 +31,7 @@ export async function POST(req: Request) {
       );
     }
     const requirements = toRequirements(parsed.data.requirements);
-    if (!findSeason(requirements.seasonId))
+    if (!(await getSeason(requirements.seasonId)))
       return apiError(404, "not_found", `Musim ${requirements.seasonId} tidak disokong.`);
     const active = await getActiveCatalog(requirements.seasonId);
     const result = assess(active.catalog, requirements);

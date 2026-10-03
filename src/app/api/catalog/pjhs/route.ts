@@ -8,7 +8,7 @@ type CoverageEntry = { id: string; processingStatus: string; pageRange: [number,
 /** GET /api/catalog/pjhs?season= — semua PJH dalam katalog aktif, termasuk yang belum disahkan. */
 export async function GET(req: Request) {
   return withErrors(async () => {
-    const { season, error } = seasonFrom(req);
+    const { season, error } = await seasonFrom(req);
     if (error) return error;
     const { catalog, coverage, datasetVersion } = await getActiveCatalog(season.id);
     const cov = ((coverage as { pjhs?: CoverageEntry[] }).pjhs ?? []) as CoverageEntry[];

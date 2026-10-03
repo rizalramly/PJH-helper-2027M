@@ -22,11 +22,12 @@ export class ConflictError extends Error {
 }
 
 export interface JsonKV {
-  readonly kind: "memory" | "vercel-blob";
+  readonly kind: "memory" | "vercel-blob" | "file";
   getJSON<T>(path: string): Promise<StoredJSON<T> | null>;
   /** Tulis JSON; lontar ConflictError jika syarat ifMatch/createOnly gagal. */
   putJSON(path: string, value: unknown, options?: PutOptions): Promise<{ etag: string }>;
   list(prefix: string): Promise<string[]>;
+  delete(path: string): Promise<void>;
 }
 
 /** Stor dalam memori untuk ujian dan pembangunan tanpa token Blob. */
@@ -53,5 +54,9 @@ export class MemoryKV implements JsonKV {
 
   async list(prefix: string) {
     return [...this.objects.keys()].filter((k) => k.startsWith(prefix)).sort();
+  }
+
+  async delete(path: string) {
+    this.objects.delete(path);
   }
 }
