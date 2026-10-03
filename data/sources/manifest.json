@@ -16,11 +16,221 @@
       "version": 1,
       "supersedes_source_id": null,
       "page_index": {
-        "busyra": {
-          "pdf_pages": [33, 44],
-          "note": "Rujukan spesifikasi v1.2; sahkan semasa transkripsi"
+        "non_pjh_pages": [1, 2],
+        "pjhs": [
+          {
+            "index": 1,
+            "id": "thts",
+            "label": "THTS",
+            "pdf_pages": [3, 4]
+          },
+          {
+            "index": 2,
+            "id": "al-balad",
+            "label": "Al-Balad",
+            "pdf_pages": [5, 8]
+          },
+          {
+            "index": 3,
+            "id": "alam-shah",
+            "label": "Alam Shah",
+            "pdf_pages": [9, 11]
+          },
+          {
+            "index": 4,
+            "id": "amani",
+            "label": "Amani",
+            "pdf_pages": [12, 15]
+          },
+          {
+            "index": 5,
+            "id": "andalusia",
+            "label": "Andalusia",
+            "pdf_pages": [16, 23]
+          },
+          {
+            "index": 6,
+            "id": "az-safir",
+            "label": "Az-Safir",
+            "pdf_pages": [24, 25]
+          },
+          {
+            "index": 7,
+            "id": "az-zuha",
+            "label": "Az-Zuha",
+            "pdf_pages": [26, 32]
+          },
+          {
+            "index": 8,
+            "id": "busyra",
+            "label": "Busyra",
+            "pdf_pages": [33, 44]
+          },
+          {
+            "index": 9,
+            "id": "citra",
+            "label": "Citra",
+            "pdf_pages": [45, 45]
+          },
+          {
+            "index": 10,
+            "id": "cs-holidays",
+            "label": "CS Holidays",
+            "pdf_pages": [46, 47]
+          },
+          {
+            "index": 11,
+            "id": "eiman",
+            "label": "Eiman",
+            "pdf_pages": [48, 50]
+          },
+          {
+            "index": 12,
+            "id": "felda",
+            "label": "Felda",
+            "pdf_pages": [51, 54]
+          },
+          {
+            "index": 13,
+            "id": "gemilang",
+            "label": "Gemilang",
+            "pdf_pages": [55, 57]
+          },
+          {
+            "index": 14,
+            "id": "glocal-travel",
+            "label": "Glocal Travel",
+            "pdf_pages": [58, 61]
+          },
+          {
+            "index": 15,
+            "id": "harmony-excellence",
+            "label": "Harmony Excellence",
+            "pdf_pages": [62, 63]
+          },
+          {
+            "index": 16,
+            "id": "in-saff",
+            "label": "In-Saff",
+            "pdf_pages": [64, 72]
+          },
+          {
+            "index": 17,
+            "id": "irkaz",
+            "label": "Irkaz",
+            "pdf_pages": [73, 76]
+          },
+          {
+            "index": 18,
+            "id": "jad",
+            "label": "Jad",
+            "pdf_pages": [77, 80]
+          },
+          {
+            "index": 19,
+            "id": "jay-ibrahim",
+            "label": "Jay Ibrahim",
+            "pdf_pages": [81, 83]
+          },
+          {
+            "index": 20,
+            "id": "juara",
+            "label": "Juara",
+            "pdf_pages": [84, 87]
+          },
+          {
+            "index": 21,
+            "id": "kembara-umrah",
+            "label": "Kembara Umrah",
+            "pdf_pages": [88, 90]
+          },
+          {
+            "index": 22,
+            "id": "krs",
+            "label": "KRS",
+            "pdf_pages": [91, 93]
+          },
+          {
+            "index": 23,
+            "id": "mahabbaten",
+            "label": "Mahabbaten",
+            "pdf_pages": [94, 95]
+          },
+          {
+            "index": 24,
+            "id": "mimm",
+            "label": "MIMM",
+            "pdf_pages": [96, 101]
+          },
+          {
+            "index": 25,
+            "id": "mkm",
+            "label": "MKM",
+            "pdf_pages": [102, 106]
+          },
+          {
+            "index": 26,
+            "id": "qashwa-travel",
+            "label": "Qashwa Travel",
+            "pdf_pages": [107, 107]
+          },
+          {
+            "index": 27,
+            "id": "rayhar",
+            "label": "Rayhar",
+            "pdf_pages": [108, 115]
+          },
+          {
+            "index": 28,
+            "id": "rehlah",
+            "label": "Rehlah",
+            "pdf_pages": [116, 119]
+          },
+          {
+            "index": 29,
+            "id": "kujdt",
+            "label": "KUJDT",
+            "pdf_pages": [120, 123]
+          },
+          {
+            "index": 30,
+            "id": "yaskin",
+            "label": "Yaskin",
+            "pdf_pages": [124, 127]
+          },
+          {
+            "index": 31,
+            "id": "titim",
+            "label": "TITIM",
+            "pdf_pages": [128, 129]
+          },
+          {
+            "index": 32,
+            "id": "tri-d",
+            "label": "Tri-D",
+            "pdf_pages": [130, 133]
+          },
+          {
+            "index": 33,
+            "id": "wira-saujana",
+            "label": "Wira Saujana",
+            "pdf_pages": [134, 137]
+          },
+          {
+            "index": 34,
+            "id": "zahafiz",
+            "label": "Zahafiz",
+            "pdf_pages": [138, 141]
+          }
+        ],
+        "note": "Indeks daripada spesifikasi v1.3 §23.1; sahkan semasa ekstraksi setiap PJH."
+      },
+      "equivalent_versions": [
+        {
+          "filename": "Pakej_Haji_2027_Semua_34_PJH.pdf",
+          "note": "Versi resolusi asal, susunan 141 halaman sama (spesifikasi §23.1). Belum diterima; diperlukan untuk teks kecil yang kabur."
         }
-      }
+      ]
     },
     {
       "id": "busyra-brochure-1448h",
@@ -30,7 +240,7 @@
       "document_hash": null,
       "page_count": 12,
       "received_at": null,
-      "note": "Belum diterima. Ikut arahan pengguna: gunakan halaman Busyra dalam kompilasi (hlm. PDF 33–44) sebagai sumber."
+      "note": "Belum diterima. Halaman Busyra dalam kompilasi (hlm. PDF 33–44) digunakan sebagai sumber (keputusan pengguna)."
     }
   ]
 }

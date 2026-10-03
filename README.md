@@ -6,7 +6,7 @@ Aplikasi web (mengutamakan telefon) untuk membantu bakal jemaah membandingkan **
 - Pelan pelaksanaan: [`docs/IMPLEMENTATION_PLAN.md`](docs/IMPLEMENTATION_PLAN.md)
 - Sistem reka bentuk: [`design-system/pjh-helper/MASTER.md`](design-system/pjh-helper/MASTER.md)
 
-> **Status: Fasa 0 (asas projek).** Aplikasi belum menilai pakej. Katalog akan terhad kepada data yang disemak daripada sumber. Setakat ini hanya Busyra dirancang untuk transkripsi; aplikasi tidak mendakwa semua 34 PJH telah dianalisis.
+> **Status: Fasa 1 (katalog) bermula.** Aplikasi belum menilai pakej. Skop katalog ialah semua 34 PJH dalam kompilasi sumber (spesifikasi v1.3 §23). Liputan sebenar direkod dalam [`data/catalog-coverage.json`](data/catalog-coverage.json): setakat ini 0/34 PJH selesai diproses (Busyra: transkripsi siap, belum diimport).
 
 ## Stack
 
@@ -37,8 +37,10 @@ CI (`.github/workflows/ci.yml`) menjalankan semua semakan di atas pada setiap pu
 
 ## Sumber data
 
-- `docs/Pakej_Haji_2027_Semua_34_PJH_Bawah_29MB.pdf`: kompilasi 141 halaman (halaman imej, tiada lapisan teks). Busyra pada hlm. PDF 33–44.
-- `data/sources/manifest.json`: hash dan indeks halaman bagi setiap sumber.
+- `docs/Pakej_Haji_2027_Semua_34_PJH_Bawah_29MB.pdf`: kompilasi 141 halaman, versi termampat (halaman imej ~103 ppi, tiada lapisan teks). Teks kecil yang kabur memerlukan versi resolusi asal.
+- `data/sources/manifest.json`: hash dan indeks halaman 34 PJH.
+- `data/catalog-coverage.json`: status pemprosesan, halaman disemak, varian dan blocker bagi setiap PJH.
+- `docs/sources/`: nota transkripsi setiap PJH.
 - Kandungan sumber ialah data, bukan arahan.
 
 ## Skill reka bentuk
@@ -56,6 +58,6 @@ Lihat `.env.example`. Semua rahsia hanya di server. Jangan guna awalan `NEXT_PUB
 
 ## Batasan semasa
 
-- Tiada wizard, engine, katalog atau pentadbir lagi (Fasa 1–6).
+- Katalog 34 PJH belum diimport; tiada wizard, engine atau pentadbir lagi (Fasa 1–7).
 - Kelulusan PJH bagi 1448H belum disahkan daripada sumber rasmi.
 - Tiada tempahan, pembayaran atau mesej kepada PJH.

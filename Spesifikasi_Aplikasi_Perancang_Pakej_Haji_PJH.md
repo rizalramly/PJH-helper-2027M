@@ -1,6 +1,6 @@
 # Spesifikasi aplikasi Perancang Pakej Haji PJH
 
-Versi: 1.2 | Tarikh: 3 Oktober 2026 | Bahasa produk: Bahasa Melayu
+Versi: 1.3 | Tarikh: 3 Oktober 2026 | Bahasa produk: Bahasa Melayu
 
 Dokumen ini ialah arahan pembangunan untuk Claude Code atau Codex. Bina aplikasi berdasarkan keperluan ini, termasuk penilaian dan rekomendasi pada akhir aliran. Pengguna dokumen ini meminta spesifikasi; pelaksanaan aplikasi bermula apabila dokumen diberikan kepada agen pembangunan.
 
@@ -16,6 +16,7 @@ Jangan anggap harga paling rendah dalam iklan ialah harga bagi bilik berdua. Jan
 
 - Aplikasi web responsif, mengutamakan penggunaan telefon; tidak memerlukan akaun untuk membuat penilaian.
 - Sokong pemilihan musim haji. Mulakan dengan 1448H/2027M; data musim berlainan tidak boleh bercampur.
+- **Skop katalog wajib: semua 34 PJH dalam kompilasi sumber, semua pakej diterbitkan dan semua varian bilik/harga yang boleh dikenal pasti. Busyra sahaja tidak mencukupi untuk memenuhi Definition of Done.**
 - Wizard keperluan, senarai pakej, perbandingan maksimum tiga pakej, laporan rekomendasi dan panel pentadbir.
 - Pengiraan kos dan pemilihan dibuat menggunakan data berstruktur serta peraturan yang boleh diuji.
 - Cadangan boleh berfungsi tanpa LLM, API berbayar atau akses internet semasa penilaian.
@@ -231,7 +232,7 @@ Pipeline:
 6. Validasi konflik dan medan penting sebelum publish.
 7. Brosur baharu supersede versi lama bagi pakej sama; kekalkan sejarah dan jangan menambah rekod pendua ke cadangan.
 
-MVP boleh bermula dengan ekstraksi manual dan import berstruktur; OCR automatik penuh ialah fasa susulan. Jangan mereka data pakej lain hanya untuk mengisi semua 34 PJH. Paparkan liputan seperti "3 varian disemak daripada sumber tersedia" dan penjelasan bahawa keputusan terhad kepada katalog yang telah disahkan.
+Ekstraksi semua 34 PJH ialah kerja wajib dalam MVP. Gunakan OCR/analisis visual untuk halaman imej dan semakan manusia/agen terhadap halaman sumber; import manual berstruktur dibenarkan, tetapi bukan alasan untuk berhenti pada Busyra. Automasi OCR dalam panel pengguna boleh ditangguhkan, sementara pemprosesan katalog awal tetap mesti disiapkan. Jangan mereka data. Paparkan jumlah PJH diproses, pakej/varian disemak, item belum selesai dan liputan medan penting. Jika dokumen hanya memberi maklumat separa, tandakan setiap medan tidak dinyatakan dengan bukti halaman yang telah diperiksa.
 
 Panel pentadbir: autentikasi, pengurusan musim/PJH/varian/naik taraf, preview, publish/unpublish, history dan audit log. Sahkan kelulusan PJH daripada sumber rasmi musim berkenaan sebelum menggunakan label diluluskan.
 
@@ -255,7 +256,7 @@ Data di bawah ditranskripsi daripada brosur pengguna. Kekosongan dan kelulusan P
 - Safwah Standard dan Menara Jam menawarkan Business Class Haramain. Kelas kereta api Makkah Standard tidak dinyatakan. Kelas penerbangan varian ini tidak boleh diinfer daripada kelas kereta api.
 - Harga dan penginapan tertakluk perubahan. Kekosongan semua varian: perlu pertanyaan.
 
-Seed empat varian ini sebagai data yang telah ditranskripsi/disemak sumber, dengan kelulusan musim `unverified`. Sediakan fixture sintetik berasingan untuk tests dan development; jangan paparkan fixture sebagai pakej sebenar.
+Empat varian ini ialah **fixture rujukan pengiraan sebenar**, bukan keseluruhan katalog Busyra dan bukan katalog akhir aplikasi. Ekstrak juga semua varian Busyra lain, termasuk Ekonomi, Standard, Menara Jam Premium, VIP, Muaisim/PMN serta pilihan bilik yang diterbitkan. Status kelulusan musim kekal `unverified` sehingga bukti rasmi disemak. Sediakan fixture sintetik berasingan untuk tests; jangan paparkannya sebagai pakej sebenar.
 
 ## 13. Senario penerimaan utama
 
@@ -314,7 +315,7 @@ Repository sasaran yang telah dicipta pengguna: **https://github.com/rizalramly/
 - PostgreSQL terurus untuk data pentadbir, katalog aktif dan history. Gunakan integrasi/pangkalan data sedia ada jika tersedia; tidak perlu membeli pelan baharu secara automatik.
 - Object storage persisten untuk PDF sumber; gunakan storage sedia ada atau integrasi Vercel yang sesuai. Metadata dan halaman bukti disimpan dalam database.
 - Jangan menggunakan fail SQLite atau upload di filesystem fungsi Vercel sebagai stor persisten production. Fail sementara hanya untuk pemprosesan sementara.
-- Seed JSON Busyra dalam repository, tanpa data peribadi; seed database secara idempotent. Jangan menyemai semula database pada setiap request atau build.
+- Seed katalog berstruktur **semua 34 PJH** dalam repository, tanpa data peribadi, bersama manifest liputan dan evidence. Gunakan Busyra sebagai ujian rujukan kos, bukan satu-satunya seed. Seed database secara idempotent; jangan menyemai semula pada setiap request atau build.
 - JSON/CSV import melalui panel pentadbir. Upload PDF besar mesti menggunakan aliran upload terus yang dibenarkan storage, bukan memaksa fail kompilasi melalui body fungsi API.
 - OCR/import berat tidak dijalankan secara segerak dalam request penilaian. MVP menggunakan semakan manual/import berstruktur; pemprosesan latar boleh ditambah kemudian.
 - Laporan HTML print-friendly dan print-to-PDF browser.
@@ -378,13 +379,17 @@ Wajib lulus sebelum dianggap siap:
 11. Approval unverified tidak menghasilkan badge diluluskan; kekosongan belum disahkan tidak menghasilkan badge tersedia.
 12. Wizard, hasil, comparison dan print report berfungsi pada lebar telefon dan desktop.
 13. README mempunyai arahan pemasangan, menjalankan app/tests, import sumber dan batasan katalog.
-14. Jangan mendakwa semua PJH telah dianalisis jika hanya seed Busyra tersedia.
+14. Semua 34 PJH mempunyai rekod sumber, pemetaan halaman dan rekod pemprosesan. Semua pakej/varian yang diterbitkan dikenal pasti dan direkonsiliasi dengan inventori sumber; tiada pakej tertinggal tanpa sebab yang direkodkan.
+15. Katalog penuh, manifest liputan dan bukti medan diimport ke database production; cadangan merentas semua PJH yang layak, bukan Busyra sahaja.
+16. Status kelulusan setiap PJH disemak mengikut musim. PJH belum disahkan masih boleh dilihat dalam katalog, tetapi dikecualikan daripada rekomendasi berlabel PJH diluluskan.
+17. Halaman tidak boleh dibaca atau varian harga belum selesai ialah blocking data gaps: laporkan dan selesaikan; jangan mendakwa liputan lengkap. Medan benar-benar tidak diterbitkan selepas semakan sumber boleh ditandakan unknown dan tidak perlu direka.
+18. Tests sekurang-kurangnya meliputi varian daripada beberapa PJH berbeza, struktur harga berlainan, konfigurasi hotel/masyair berlainan dan kes tiada padanan. Fixture tambahan mesti berpandukan sumber atau dilabel sintetik untuk tests sahaja.
 
 ## 18. Urutan pelaksanaan untuk Claude Code/Codex
 
 1. Periksa repository, `AGENTS.md`, connector GitHub/Vercel dan project/account yang boleh diakses.
 2. Tentukan repository dan Vercel project tanpa mengubah project yang tidak berkaitan.
-3. Sediakan model data, migration dan seed berasaskan sumber.
+3. Sediakan model data dan migration; bina inventori sumber/pakej dan ekstrak katalog semua 34 PJH mengikut seksyen 23. Jangan berhenti selepas empat varian rujukan Busyra.
 4. Bina engine TypeScript kos, eligibility dan ranking; jalankan ujian.
 5. Bina API, wizard, rekomendasi, perbandingan dan laporan cetak.
 6. Bina pentadbir/import/review/publish dengan autentikasi serta persistence production.
@@ -394,7 +399,7 @@ Wajib lulus sebelum dianggap siap:
 10. Terbitkan production deployment di Vercel apabila checks lulus. Arahan pengguna dalam spesifikasi ini meliputi penyimpanan GitHub dan penerbitan aplikasi; jangan berhenti pada preview atau meminta pengesahan rutin sekali lagi.
 11. Uji URL production dan serahkan pautan repository, aplikasi, commit dan ringkasan validation.
 
-Jangan berhenti pada mockup atau aplikasi setempat apabila pelaksanaan diarahkan. Jika sumber PDF belum tersedia, teruskan dengan seed yang sah dan nyatakan liputan sebenar. Jangan mereka data PJH lain. Jangan menghantar mesej kepada PJH atau menjalankan pembayaran/tempahan.
+Jangan berhenti pada mockup atau aplikasi setempat apabila pelaksanaan diarahkan. Jika sumber PDF belum tersedia, teruskan kod/UI/tests yang boleh dibuat dan minta fail sumber kompilasi yang diperlukan. Seed Busyra boleh digunakan sementara untuk development, tetapi tugasan katalog penuh kekal belum selesai; jangan publish aplikasi seolah-olah semua PJH telah diproses. Jangan mereka data PJH lain. Jangan menghantar mesej kepada PJH atau menjalankan pembayaran/tempahan.
 
 ## 19. GitHub: penyimpanan kod dan automasi
 
@@ -426,7 +431,7 @@ Jangan berhenti pada mockup atau aplikasi setempat apabila pelaksanaan diarahkan
 
 ### Pemeriksaan deployment
 
-Sebelum production: production build lulus; unit/integration tests lulus; secrets tidak terdedah; seed/caj Busyra tepat; admin dilindungi; database/storage persisten tersedia.
+Sebelum production: production build lulus; unit/integration tests lulus; secrets tidak terdedah; katalog semua 34 PJH telah diproses dan direkonsiliasi; fixture/caj Busyra tepat; admin dilindungi; database/storage persisten tersedia.
 
 Selepas deployment:
 
@@ -452,7 +457,7 @@ Jika deployment gagal, baca error/log, perbaiki dan deploy semula. Jangan berhen
 
 Salin prompt ini selepas meletakkan dokumen dalam repository/workspace Claude Code atau Codex:
 
-> Baca `Spesifikasi_Aplikasi_Perancang_Pakej_Haji_PJH.md` dan bina MVP lengkap mengikut spesifikasi. Periksa repository serta AGENTS.md dahulu. Gunakan connector GitHub dan Vercel yang tersedia dalam environment ini untuk menyimpan spesifikasi/kod ke repository sedia ada `rizalramly/PJH-helper-2027M` (https://github.com/rizalramly/PJH-helper-2027M) dan menerbitkan aplikasi ke production Vercel. Jangan cipta repository baharu. Hubungkan project Vercel kepada repository ini; nama project cadangan `pjh-helper-2027m`, tertakluk availability dan project sedia ada. Untuk projek baharu gunakan Next.js + TypeScript, database PostgreSQL persisten dan object storage; jangan gunakan SQLite setempat sebagai database production Vercel. Implementasikan wizard, kos, penapisan wajib, ranking, rekomendasi akhir, comparison, print report dan pentadbir data. Gunakan seed Busyra dengan evidence dan status unknown yang tepat; jangan mereka data PJH lain. Jalankan tests dan production build, deploy preview, sahkan, kemudian publish production. Arahan ini membenarkan push ke GitHub dan publish aplikasi; teruskan sehingga URL production berfungsi. Jika resource sasaran atau credential benar-benar tiada/ambigu, laporkan maklumat khusus yang diperlukan selepas menyiapkan kerja yang boleh dibuat. Akhir sekali berikan URL repository, URL production, commit, hasil validation dan batasan sebenar.
+> Baca `Spesifikasi_Aplikasi_Perancang_Pakej_Haji_PJH.md` dan bina MVP lengkap mengikut spesifikasi. Periksa repository serta AGENTS.md dahulu. Gunakan connector GitHub dan Vercel yang tersedia dalam environment ini untuk menyimpan spesifikasi/kod ke repository sedia ada `rizalramly/PJH-helper-2027M` (https://github.com/rizalramly/PJH-helper-2027M) dan menerbitkan aplikasi ke production Vercel. Jangan cipta repository baharu. Hubungkan project Vercel kepada repository ini; nama project cadangan `pjh-helper-2027m`, tertakluk availability dan project sedia ada. Untuk projek baharu gunakan Next.js + TypeScript, database PostgreSQL persisten dan object storage; jangan gunakan SQLite setempat sebagai database production Vercel. Implementasikan wizard, kos, penapisan wajib, ranking, rekomendasi akhir, comparison, print report dan pentadbir data. WAJIB ekstrak dan semak semua 34 PJH serta semua pakej/varian bilik/harga daripada PDF kompilasi. Gunakan indeks sumber seksyen 23, simpan evidence setiap medan dan rekonsiliasi jumlah pakej/varian dengan inventori halaman. Busyra ialah fixture rujukan sahaja; aplikasi dengan Busyra sahaja tidak memenuhi tugasan. Rekod unknown secara jujur, semak kelulusan musim daripada sumber rasmi dan jangan mereka data. Terbitkan manifest liputan serta katalog penuh yang telah disemak. Jalankan tests dan production build, deploy preview, sahkan, kemudian publish production. Arahan ini membenarkan push ke GitHub dan publish aplikasi; teruskan sehingga URL production berfungsi. Jika resource sasaran atau credential benar-benar tiada/ambigu, laporkan maklumat khusus yang diperlukan selepas menyiapkan kerja yang boleh dibuat. Akhir sekali berikan URL repository, URL production, commit, hasil validation dan batasan sebenar.
 
 ## 22. Rujukan teknikal untuk deployment
 
@@ -463,3 +468,122 @@ Semak dokumentasi rasmi semasa pelaksanaan kerana runtime, had upload dan integr
 - Storage persisten dan integrasi: https://vercel.com/docs/storage
 
 Dokumen dikemas kini untuk sasaran GitHub/Vercel pada 3 Oktober 2026. Fail spesifikasi ini bukan bukti bahawa repository atau deployment telah dicipta; agen pelaksana mesti melaporkan hasil operasi sebenar.
+
+
+## 23. Pelaksanaan katalog wajib semua 34 PJH
+
+Seksyen ini memperincikan skop lengkap dan mengatasi mana-mana cadangan penggunaan seed sementara dalam dokumen. Sasaran ialah **semua PJH yang mempunyai brosur dalam kompilasi**, bukan jaminan bahawa kompilasi mengandungi setiap penerbitan baharu di pasaran selepas tarikh semakan.
+
+### 23.1 Sumber dan indeks pemprosesan
+
+Gunakan salah satu kompilasi berikut, dengan susunan 141 halaman yang sama:
+
+- `Pakej_Haji_2027_Semua_34_PJH.pdf` — versi resolusi asal terkini.
+- `Pakej_Haji_2027_Semua_34_PJH_Bawah_29MB.pdf` — versi termampat 25.97 MB. Ia masih mengandungi Busyra terkini dan semua 141 halaman.
+
+Jika teks kecil kabur dalam versi termampat, rujuk versi asal atau brosur PJH berasingan. Jangan menganggap OCR yang berjaya membaca sebahagian harga telah membaca keseluruhan brosur dengan tepat.
+
+Nombor di bawah ialah **halaman PDF kompilasi, 1-indexed**, bukan nombor halaman brosur asal:
+
+| Bil. | PJH / label dalam kompilasi | Halaman PDF |
+|---|---|---|
+| 01 | THTS | 3–4 |
+| 02 | Al-Balad | 5–8 |
+| 03 | Alam Shah | 9–11 |
+| 04 | Amani | 12–15 |
+| 05 | Andalusia | 16–23 |
+| 06 | Az-Safir | 24–25 |
+| 07 | Az-Zuha | 26–32 |
+| 08 | Busyra | 33–44 |
+| 09 | Citra | 45–45 |
+| 10 | CS Holidays | 46–47 |
+| 11 | Eiman | 48–50 |
+| 12 | Felda | 51–54 |
+| 13 | Gemilang | 55–57 |
+| 14 | Glocal Travel | 58–61 |
+| 15 | Harmony Excellence | 62–63 |
+| 16 | In-Saff | 64–72 |
+| 17 | Irkaz | 73–76 |
+| 18 | Jad | 77–80 |
+| 19 | Jay Ibrahim | 81–83 |
+| 20 | Juara | 84–87 |
+| 21 | Kembara Umrah | 88–90 |
+| 22 | KRS | 91–93 |
+| 23 | Mahabbaten | 94–95 |
+| 24 | MIMM | 96–101 |
+| 25 | MKM | 102–106 |
+| 26 | Qashwa Travel | 107–107 |
+| 27 | Rayhar | 108–115 |
+| 28 | Rehlah | 116–119 |
+| 29 | KUJDT | 120–123 |
+| 30 | Yaskin | 124–127 |
+| 31 | TITIM | 128–129 |
+| 32 | Tri-D | 130–133 |
+| 33 | Wira Saujana | 134–137 |
+| 34 | Zahafiz | 138–141 |
+
+Label dalam indeks perlu dipadankan dengan nama syarikat dan lesen daripada sumber rasmi; singkatan/nama pemasaran tidak semestinya nama entiti undang-undang. Kehadiran dalam indeks tidak menggantikan pengesahan kelulusan PJH bagi musim 1448H/2027M.
+
+### 23.2 Inventori dan ekstraksi menyeluruh
+
+Bagi setiap PJH:
+
+1. Periksa **semua halaman** dalam julat sumber, termasuk terma, jadual harga, footnote dan itinerary.
+2. Senaraikan semua keluarga pakej: Ekonomi/Standard/Premium/VIP atau nama sebenar yang diterbitkan.
+3. Rekod setiap varian harga mengikut bilik 2/3/4/5/6 orang atau pilihan lain yang ditawarkan. UI utama memfokus 2/3/4; pilihan lain kekal dalam katalog dengan label yang tepat.
+4. Pisahkan Muaisim, PMN dan naik taraf lain. Jangan menganggap setiap pakej mempunyai kedua-dua pilihan.
+5. Simpan harga, included/excluded costs dan susunan hotel/masyair bagi setiap varian.
+6. Rekod lima medan utama: harga konfigurasi, bilik, Aziziyah, tempoh dan Tarwiyah. Rekod keadaan bersyarat dan unknown dengan tepat.
+7. Rekod semua hotel, jarak/titik ukuran, tarikh menginap, kelas pengangkutan, makanan dan terma yang relevan.
+8. Hubungkan setiap fakta penting kepada halaman brosur asal dan halaman kompilasi.
+9. Rekonsiliasi rekod database dengan semua jadual/kad pakej dalam halaman sumber. Harga promosi pada muka depan yang berulang bukan pakej tambahan; elak pendua.
+10. Publish rekod disemak sahaja; draft tidak memasuki cadangan pengguna.
+
+Harga setiap pilihan bilik ialah varian berasingan; naik taraf pilihan ialah komponen kos, bukan pendua pakej. Simpan satu entiti pakej dengan relasi varian apabila manfaat asas sama. Jangan menetapkan jumlah pakej atau varian lebih awal: jumlah sebenar ditentukan oleh sumber.
+
+### 23.3 Manifest liputan dan rekonsiliasi
+
+Hasilkan `data/catalog-coverage.json` dan ringkasan yang boleh dilihat dalam panel pentadbir serta halaman awam "Liputan data".
+
+Setiap entri PJH mesti mempunyai:
+
+- ID, nama, musim, source IDs, hash dan julat halaman.
+- `pages_reviewed` dan `pages_expected`.
+- `package_families_identified`, `variants_identified`, `variants_imported` dan `variants_published`.
+- `processing_status`: `not_started`, `in_progress`, `reviewed`, `blocked`.
+- `approval_status` berasingan daripada status ekstraksi.
+- Bilangan fakta disahkan, medan tidak diterbitkan dan konflik/gaps yang belum selesai.
+- `unreadable_pages`, `unresolved_variants`, pengecualian dengan sebab dan tarikh semakan.
+- Nama/ID penyemak dan versi dataset.
+
+"34/34 PJH diproses" hanya boleh dipaparkan apabila semua julat halaman telah diperiksa dan semua pakej/varian direkonsiliasi. Ia **tidak** bermaksud semua medan diketahui, semua PJH diluluskan atau semua pakej masih tersedia. Paparkan metrik ini secara berasingan.
+
+Rekonsiliasi automatik minimum:
+
+- Semua 34 label sumber mempunyai padanan entiti PJH atau isu identiti yang ditandakan.
+- Setiap halaman sumber yang dijangka mempunyai rekod semakan.
+- Varian dikenal pasti = varian diimport + pengecualian bersebab; tiada kehilangan senyap.
+- Semua rekod dipublish mempunyai evidence bagi harga dan konfigurasi yang digunakan untuk pengiraan.
+- Semua varian yang tiada harga dipaparkan sebagai "Harga perlu pengesahan", tidak sebagai RM0.
+- Identiti `season + pjh + package + variant code + room configuration` mengesan pendua; jika kod tidak diterbitkan, jana ID dalaman stabil dan labelkan sebagai ID dalaman.
+
+### 23.4 Rekomendasi merentas katalog penuh
+
+- Engine menerima semua varian aktif dalam musim dipilih, bukan whitelist Busyra atau tiga PJH tertentu.
+- Tapis status kelulusan, konfigurasi bilik dan kriteria wajib sebelum pemarkahan.
+- Jangan hardcode PJH tertentu sebagai pemenang. Pakej terbaik berubah mengikut bajet dan keutamaan pengguna.
+- Top tiga boleh berasal daripada PJH sama jika itu padanan terbaik; sediakan pilihan "Utamakan kepelbagaian PJH" untuk memilih satu calon terbaik setiap PJH tanpa menyembunyikan calon lain.
+- Cadangan akhir menyatakan liputan dataset: jumlah PJH diproses, jumlah layak selepas pengesahan, jumlah varian ditapis dan tarikh semakan.
+- Jika hanya sebahagian memenuhi kriteria, cadangan menggunakan subset tersebut dan menjelaskan sebab calon lain ditapis; jangan menganggap semua PJH mempunyai Tarwiyah/Aziziyah/PMN.
+
+### 23.5 Serahan wajib
+
+Selain kod dan URL production, serahkan:
+
+1. Katalog berstruktur semua 34 PJH yang diproses, dalam seed JSON/CSV yang boleh diaudit.
+2. Manifest liputan dan rekonsiliasi lengkap.
+3. Senarai medan unknown, kelulusan belum disahkan, konflik sumber dan kekosongan belum disahkan.
+4. Bukti ujian penilaian merentas beberapa PJH dan contoh cadangan yang berbeza mengikut input.
+5. Ringkasan jumlah pakej/varian sebenar daripada ekstraksi; jangan menyamakan 34 PJH dengan 34 pakej.
+
+Jika terdapat halaman/varian yang tidak dapat diselesaikan, berikan hasil yang telah siap serta senarai blocker yang khusus. Jangan menamakan keadaan itu sebagai katalog lengkap atau menutup tugasan selepas demo Busyra.

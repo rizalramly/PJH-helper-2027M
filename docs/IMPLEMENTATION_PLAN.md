@@ -1,6 +1,6 @@
 # Pelan Pelaksanaan — Perancang Pakej Haji PJH (MVP 1448H/2027M)
 
-Versi pelan: 1.1 | Tarikh: 3 Oktober 2026 | Rujukan: `Spesifikasi_Aplikasi_Perancang_Pakej_Haji_PJH.md` v1.2
+Versi pelan: 1.2 | Tarikh: 3 Oktober 2026 | Rujukan: `Spesifikasi_Aplikasi_Perancang_Pakej_Haji_PJH.md` v1.3
 
 Pelan ini menterjemah spesifikasi kepada kerja pembangunan berperingkat yang boleh disemak. Setiap fasa ada senarai fail, kriteria penerimaan dan ujian yang dipetakan ke Definition of Done (DoD, seksyen 17 spesifikasi). Jika pelan ini bercanggah dengan spesifikasi, spesifikasi menang.
 
@@ -8,14 +8,14 @@ Pelan ini menterjemah spesifikasi kepada kerja pembangunan berperingkat yang bol
 
 ## 0. Keadaan semasa dan andaian
 
-| Perkara                                                        | Status pada 3 Okt 2026                              | Kesan kepada pelan                                                                                                                                                                                 |
-| -------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Repository `rizalramly/PJH-helper-2027M`                       | Kosong, tiada commit, tiada `AGENTS.md`             | Projek baharu: guna stack lalai seksyen 15 (Next.js + TS + PostgreSQL + object storage)                                                                                                            |
-| PDF sumber (`Pakej_Haji_2027_Semua_34_PJH.pdf`, brosur Busyra) | **Belum dimuat naik** ke sesi ini                   | Seed Busyra dibina daripada transkripsi seksyen 12. `document_hash` dan `stored_path` diisi selepas PDF diterima. Evidence `verification_status = transcribed_from_spec` hingga disemak dengan PDF |
-| Kelulusan PJH Busyra untuk 1448H                               | Belum disahkan                                      | `approval_status = unverified`; tiada badge "diluluskan"                                                                                                                                           |
-| Harga bilik bertiga/berempat Busyra                            | Tidak ada dalam seksyen 12 (hanya kod berdua `*02`) | Senario E mesti memberi "tiada konfigurasi harga sah". Jangan jana harga                                                                                                                           |
-| Pakej VIP ±25 hari                                             | Belum ditranskripsi                                 | Tidak di-seed (senario D)                                                                                                                                                                          |
-| Projek/akaun Vercel, DB dan storage                            | Belum ditentukan                                    | Fasa 8 menyemak melalui connector Vercel. Jangan beli pelan                                                                                                                                        |
+| Perkara                                  | Status pada 3 Okt 2026                                                                                          | Kesan kepada pelan                                                                  |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Repository `rizalramly/PJH-helper-2027M` | Fasa 0 siap (Next.js 16, CI, sistem reka bentuk)                                                                | Teruskan dengan Fasa 1 (katalog 34 PJH)                                             |
+| PDF sumber                               | Versi termampat diterima (`docs/…_Bawah_29MB.pdf`, 141 hlm., imej ~103 ppi). Versi resolusi asal belum diterima | Ekstraksi visual daripada versi termampat. Teks kabur → `unclear` + blocker (§14.5) |
+| Kelulusan PJH Busyra untuk 1448H         | Belum disahkan                                                                                                  | `approval_status = unverified`; tiada badge "diluluskan"                            |
+| Harga bilik bertiga/berempat Busyra      | **Ditemui** dalam PDF hlm. 34–36 (bilik 2–6)                                                                    | Senario E menggunakan varian bertiga sebenar (cth. MTSP03, SFSP03, MJPP03)          |
+| Pakej VIP ±25 hari                       | Ditranskripsi daripada hlm. 37 (VIP02 RM159,990)                                                                | Di-seed. Senario D: VIP ±25 hari lulus had 30 hari tetapi melebihi bajet RM100,000  |
+| Projek/akaun Vercel, DB dan storage      | Belum ditentukan                                                                                                | Fasa 8 menyemak melalui connector Vercel. Jangan beli pelan                         |
 
 ### 0.1 Keputusan pengguna (3 Okt 2026), mengatasi bahagian lain pelan ini
 
@@ -28,6 +28,18 @@ Pelan ini menterjemah spesifikasi kepada kerja pembangunan berperingkat yang bol
    - Had yang diterima: tiada transaksi berbilang objek dan tiada pertanyaan SQL. Katalog kecil (puluhan varian) dimuatkan penuh dan dicache ikut `dataset_version`. Preview dan Production menggunakan Blob store berasingan.
    - Bahagian §2–§4, §9–§10 yang menyebut Drizzle/PostgreSQL/PGlite/migration SQL dibaca sebagai: skema Zod + fail JSON berversi dalam Blob, ujian dengan stor dalam memori, "migration" = skrip transformasi JSON berversi (`schema_version`).
 3. **Nota repo:** PDF kompilasi 26 MB telah di-commit oleh pengguna ke `docs/`. Spesifikasi §19 mencadangkan PDF besar disimpan di object storage, jadi pertimbangkan untuk memindahkannya ke Blob (`sources/`) selepas Fasa 6.
+
+### 0.2 Perubahan spesifikasi v1.3 dan kesannya
+
+| Perubahan v1.3                                                                                                                                         | Kesan kepada pelan                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| §2, §23: **katalog wajib semua 34 PJH** dalam kompilasi, semua pakej dan semua varian bilik/harga                                                      | Fasa 1 kini ialah inventori + ekstraksi 34 PJH (§14 pelan ini). Busyra bukan lagi satu-satunya seed                               |
+| §12: empat varian Busyra ialah **fixture rujukan pengiraan**, bukan katalog                                                                            | Ujian DoD 1–2 kekal pada empat varian ini. Semua 41 varian Busyra lain turut diekstrak                                            |
+| §17 DoD 14–18 baharu: rekod sumber/halaman setiap PJH, katalog penuh di production, kelulusan per PJH, blocking data gaps, ujian merentas beberapa PJH | §9 dikemas kini. Fasa 8 tidak boleh publish "liputan lengkap" selagi ada blocker                                                  |
+| §23.3: `data/catalog-coverage.json` + halaman awam "Liputan data"                                                                                      | Ditambah kepada Fasa 1 (data) dan Fasa 6 (UI)                                                                                     |
+| §23.4: pilihan "Utamakan kepelbagaian PJH"; cadangan menyatakan liputan dataset                                                                        | Ditambah kepada engine (§5.5) dan kad hasil                                                                                       |
+| §23.1: jika teks kecil kabur dalam versi termampat, rujuk versi resolusi asal                                                                          | Medan kabur ditanda `unclear` dan disenaraikan sebagai blocker. Perlu fail `Pakej_Haji_2027_Semua_34_PJH.pdf` (resolusi asal)     |
+| §15 masih menyebut PostgreSQL                                                                                                                          | Keputusan pengguna §0.1 (Vercel Blob) dikekalkan. Antara muka `CatalogStore` membolehkan pertukaran ke PostgreSQL jika diperlukan |
 
 ---
 
@@ -105,6 +117,8 @@ Prinsip:
 ├─ .claude/skills/ui-ux-pro-max/        # dipasang Fasa 0
 ├─ .github/workflows/ci.yml
 ├─ data/
+│  ├─ catalog-coverage.json             # manifest liputan 34 PJH (spesifikasi §23.3)
+│  ├─ catalog/1448h/<pjh-id>.json       # katalog berstruktur setiap PJH + evidence
 │  ├─ seed/
 │  │  ├─ seasons.json
 │  │  ├─ busyra-1448h.json              # 4 varian sebenar + evidence
@@ -273,6 +287,8 @@ Pengumpulan (§9 spesifikasi): sebarang `TIDAK_MEMENUHI` pada keperluan wajib �
 
 - Label hanya jika sah: **Cadangan utama** (kumpulan `full_match` teratas, tiada konflik), **Alternatif lebih jimat** (calon sah lebih murah wujud), **Alternatif keselesaan** (kelebihan keselesaan berbukti), **Calon bersyarat**. Hasil boleh kurang daripada 3 dan tiada pengisian palsu.
 - Sifar padanan: mesej tetap, sebab mengikut keperluan, calon terdekat diasingkan, **perubahan minimum** (tambahan bajet dalam RM atau satu syarat yang perlu dilonggarkan, dikira dengan menjalankan semula eligibility dengan satu syarat dilonggarkan dalam simulasi). Perubahan tidak sekali-kali digunakan tanpa tindakan pengguna (DoD 8).
+- **Kepelbagaian PJH** (spesifikasi §23.4): pilihan `diversifyPjh` memilih calon terbaik setiap PJH untuk slot cadangan tanpa menyembunyikan calon lain. Tiada PJH di-hardcode sebagai pemenang.
+- Setiap hasil menyatakan liputan dataset: PJH diproses, PJH layak selepas penapisan, varian ditapis dan tarikh semakan. PJH `unverified` kekal dalam katalog tetapi tidak dilabel "PJH diluluskan".
 - `explain.ts` menjana: 3 sebab utama, kompromi, perkara belum pasti, soalan kepada PJH (cth. "Adakah bilik Aziziyah berdua khusus untuk pasangan?"). Senarai perkataan larangan (`terjamin`, `dijamin`) disemak dalam ujian.
 
 ### 5.6 Kontrak API
@@ -301,9 +317,17 @@ Katalog: `GET /api/catalog/seasons|pjhs|packages?season=|variants/:id`. Admin: `
 
 ---
 
-## 6. Seed Busyra dan fixture
+## 6. Katalog, fixture rujukan Busyra dan fixture sintetik
 
-`data/seed/busyra-1448h.json`. Semua nilai mengikut seksyen 12 spesifikasi:
+Katalog sebenar ialah semua 34 PJH (§14). Busyra telah ditranskripsi dahulu (hlm. PDF 33–44, nota: `docs/sources/busyra-1448h-transcription.md`):
+
+- **11 keluarga pakej, 41 varian**: Makkah Tower Ekonomi (Muaisim 5 + PMN 4), Makkah Tower Standard (5 + 4), Safwah Tower Ekonomi (4 + 4), Safwah Tower Standard (4 + 4), Menara Jam Premium (3 + 3), VIP (1).
+- Hotel Makkah: "Makkah Tower @ Setaraf", "Safwah Tower @ Setaraf", "Movenpick Menara Jam @ Setaraf", "Makkah Hotel / @ Setaraf" (VIP). Madinah: Worth Peninsular (Ekonomi) atau Grand Millennium Al Haram (Standard/Premium/VIP). Aziziyah: Hotel Dar Salah @ Setaraf. Semua "@ Setaraf" → `or_equivalent=true`.
+- **Aziziyah juga bersyarat**: "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)". Enjin menyokong `aziziyah.acceptConditional` seperti Tarwiyah.
+- Takaful tambahan kecuali Makkah Tower Ekonomi dan Safwah Ekonomi (hlm. 44). Business Class Haramain hanya Safwah Standard, Menara Jam dan VIP (hlm. 44).
+- Naik taraf buffet Standard bagi pakej Ekonomi: RM5,500 (hlm. 34) dan **kabur** (RM5,500 atau RM6,500) pada hlm. 35 → `unclear`, harga `null`.
+
+**Fixture rujukan pengiraan** (spesifikasi §12) kekal empat varian ini:
 
 | Varian | Pakej                       | `price_sen` | PMN          | Aziziyah berdua (`per_person`) | Jumlah seorang |
 | ------ | --------------------------- | ----------: | ------------ | -----------------------------: | -------------: |
@@ -312,16 +336,7 @@ Katalog: `GET /api/catalog/seasons|pjhs|packages?season=|variants/:id`. Admin: `
 | MJPP02 | Menara Jam Premium + PMN    |   9 399 000 | included     |                        850 000 |     10 249 000 |
 | MJP02  | Menara Jam Premium, Muaisim |   8 599 000 | not_included |                        850 000 |      9 449 000 |
 
-Butiran lain:
-
-- `tarwiyah_status = offered_subject_to_approval` (evidence: halaman pakej + hlm. 6). `aziziyah_status = included` (susunan asal 4/5/6 ikut jantina). Naik taraf berdua RM8,500 / bertiga RM7,500 seorang (hlm. 10).
-- `duration_value = 40, duration_is_approximate = true, duration_min/max = NULL` (tiada toleransi dicipta).
-- Stays: Madinah "Grand Millennium Al Haram" `or_equivalent=true`. Aziziyah "Dar Salah" `or_equivalent=true`, `date_label` "1–15 Zulhijjah" (Makkah/Safwah, hlm. 2/3) atau "4–14 Zulhijjah" (Menara Jam, hlm. 4). Makkah untuk Menara Jam: "Mövenpick Menara Jam" `or_equivalent=true`. **Nama hotel Makkah Tower/Safwah diambil daripada hlm. 2/3 apabila PDF ada; jangan infer daripada nama pakej**, jadi `not_stated` hingga disemak.
-- `room_size_sqm`, `private_for_booking_group`, `private_bathroom` = NULL (unknown).
-- `train_class`: Business Class Haramain untuk Safwah dan Menara Jam. `not_stated` untuk Makkah Standard. `flight_class = not_stated` untuk semua.
-- `charges`: Bayaran haji PJH RM23,398 `included=true`. Tambahan PMN RM8,000 `included=true` bagi 3 varian PMN.
-- `availability_status = inquiry_required`. `pjh_approvals.approval_status = unverified`.
-- Evidence: `source_id = busyra-brochure-1448h`, `verification_status = transcribed_from_spec` hingga PDF disemak. Kompilasi: Busyra pada halaman PDF 33–44.
+Evidence menggunakan `sourceId = compilation-34pjh-1448h`, `pdfPage` (kompilasi) dan `brochurePage` (= pdfPage − 32 bagi Busyra), `status = transcribed` hingga disemak manusia.
 
 `tests/fixtures/synthetic-catalog.ts`: PJH rekaan berlabel "SINTETIK" dalam `season_id: "TEST"` untuk liputan kes (per_room, per_group, per_night, varian bertiga/berempat, Tarwiyah `offered`/`not_stated`, konflik harga, pakej `sold_out`, versi supersede). Tidak dimuatkan oleh `scripts/seed.ts` production. Lint rule/ujian memastikan ID fixture tidak muncul dalam seed.
 
@@ -399,7 +414,8 @@ Butiran lain:
 7. **Hasil**: tiga kumpulan berlabel. Kad: PJH, pakej, kod varian, musim, susunan bilik. **Jumlah seorang & kumpulan**, baki bajet, pecahan (expand). Senarai status keperluan. Tempoh/Aziziyah/hotel/PMN/Tarwiyah. Skor + liputan. 3 sebab, kompromi, belum pasti. Sumber + kekosongan. Checkbox "Banding" (maks 3).
 8. **Banding**: desktop: `Table` semantik, lajur pertama melekat. Telefon: skrol mendatar dengan lajur label melekat atau tab per pakej. Baris "Sebab beza harga".
 9. **Laporan**: tarikh penilaian, versi data/peraturan/engine, input, kos, rekomendasi, alternatif, batasan data, soalan kepada PJH, sumber. `@media print` (A4, tiada nav, page-break per kad). Butang "Cetak / Simpan PDF".
-10. **Pentadbir**: log masuk; papan pemuka (draf menunggu, versi data); senarai musim/PJH/pakej/varian/naik taraf; **skrin semakan dua panel** (penonton PDF halaman sumber di kiri, borang medan + petikan di kanan, `dynamic()` import); preview hasil; publish/unpublish; sejarah dan audit log.
+10. **Liputan data** (awam, spesifikasi §23.3): PJH diproses / dijangka, pakej dan varian disemak, item belum selesai, liputan medan penting, kelulusan disahkan. Metrik dipaparkan berasingan; "34/34 diproses" tidak bermaksud semua diluluskan atau tersedia.
+11. **Pentadbir**: log masuk; papan pemuka (draf menunggu, versi data); senarai musim/PJH/pakej/varian/naik taraf; **skrin semakan dua panel** (penonton PDF halaman sumber di kiri, borang medan + petikan di kanan, `dynamic()` import); preview hasil; publish/unpublish; sejarah dan audit log.
 
 ### 7.5 Aksesibiliti (semak dengan axe + manual)
 
@@ -423,22 +439,26 @@ Keselamatan admin: middleware melindungi `/admin` dan `/api/admin`. Peranan `rev
 
 ## 9. Pemetaan ujian kepada Definition of Done
 
-| DoD | Ujian                                                                                      | Fail                                                                |
-| --- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 1   | 4 jumlah Busyra tepat, tiada PMN/TH berganda                                               | `tests/unit/engine/costing.busyra.test.ts`                          |
-| 2   | Senario A: 172,980 / 182,980 / 204,980; baki 27,020 / 17,020 / −4,980; MJP02 gagal PMN     | `tests/unit/engine/scenario-a.test.ts`                              |
-| 3   | Aziziyah tidak ikut bilik Makkah                                                           | `eligibility.rooms.test.ts` + E2E wizard                            |
-| 4   | Ketidakpadanan PMN/Tarwiyah/Aziziyah/tempoh keluar daripada `full_match` (senario B, C, D) | `scenario-bcd.test.ts`                                              |
-| 5   | Status unknown/bersyarat konsisten di kad, banding, laporan                                | Snapshot `StatusBadge` + E2E `consistency.spec.ts`                  |
-| 6   | `per_room`/`per_group`/`per_night` tidak didarab salah                                     | `costing.basis.test.ts` (fixture sintetik)                          |
-| 7   | Komposisi 3/5 orang divalidasi; tiada harga tanpa konfigurasi sah (senario E)              | `costing.composition.test.ts`                                       |
-| 8   | Sifar padanan: mesej, sebab, perubahan minimum, tiada pelonggaran senyap                   | `recommend.nomatch.test.ts`                                         |
-| 9   | Ranking deterministik, normalisasi, data hilang ≠ skor penuh                               | `ranking.test.ts` (property test: shuffle input → susunan sama)     |
-| 10  | Publish brosur baharu: sejarah kekal, versi aktif tunggal                                  | `tests/integration/db/publish.test.ts` (PGlite)                     |
-| 11  | `unverified` → tiada badge diluluskan; kekosongan belum sah → tiada badge tersedia         | `badges.test.tsx` + `explain.wording.test.ts` (larangan "terjamin") |
-| 12  | Wizard → hasil → banding → cetak pada 375 px & 1440 px                                     | `tests/e2e/flow.spec.ts` + axe                                      |
-| 13  | README lengkap                                                                             | Semakan checklist dalam PR                                          |
-| 14  | Tiada dakwaan semua PJH dianalisis                                                         | E2E memeriksa teks liputan + `explain`                              |
+| DoD | Ujian                                                                                            | Fail                                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| 1   | 4 jumlah Busyra tepat, tiada PMN/TH berganda                                                     | `tests/unit/engine/costing.busyra.test.ts`                                                                         |
+| 2   | Senario A: 172,980 / 182,980 / 204,980; baki 27,020 / 17,020 / −4,980; MJP02 gagal PMN           | `tests/unit/engine/scenario-a.test.ts`                                                                             |
+| 3   | Aziziyah tidak ikut bilik Makkah                                                                 | `eligibility.rooms.test.ts` + E2E wizard                                                                           |
+| 4   | Ketidakpadanan PMN/Tarwiyah/Aziziyah/tempoh keluar daripada `full_match` (senario B, C, D)       | `scenario-bcd.test.ts`                                                                                             |
+| 5   | Status unknown/bersyarat konsisten di kad, banding, laporan                                      | Snapshot `StatusBadge` + E2E `consistency.spec.ts`                                                                 |
+| 6   | `per_room`/`per_group`/`per_night` tidak didarab salah                                           | `costing.basis.test.ts` (fixture sintetik)                                                                         |
+| 7   | Komposisi 3/5 orang divalidasi; tiada harga tanpa konfigurasi sah (senario E)                    | `costing.composition.test.ts`                                                                                      |
+| 8   | Sifar padanan: mesej, sebab, perubahan minimum, tiada pelonggaran senyap                         | `recommend.nomatch.test.ts`                                                                                        |
+| 9   | Ranking deterministik, normalisasi, data hilang ≠ skor penuh                                     | `ranking.test.ts` (property test: shuffle input → susunan sama)                                                    |
+| 10  | Publish brosur baharu: sejarah kekal, versi aktif tunggal                                        | `tests/integration/db/publish.test.ts` (PGlite)                                                                    |
+| 11  | `unverified` → tiada badge diluluskan; kekosongan belum sah → tiada badge tersedia               | `badges.test.tsx` + `explain.wording.test.ts` (larangan "terjamin")                                                |
+| 12  | Wizard → hasil → banding → cetak pada 375 px & 1440 px                                           | `tests/e2e/flow.spec.ts` + axe                                                                                     |
+| 13  | README lengkap                                                                                   | Semakan checklist dalam PR                                                                                         |
+| 14  | Semua 34 PJH ada rekod sumber, pemetaan halaman dan rekod pemprosesan; varian direkonsiliasi     | `tests/unit/catalog/coverage.test.ts` (34 entri, setiap halaman 1–141 dipetakan, identified = imported + excluded) |
+| 15  | Katalog penuh + manifest + evidence di production; cadangan merentas semua PJH layak             | Pemeriksaan selepas deploy (Fasa 8) + `tests/integration/catalog/load.test.ts`                                     |
+| 16  | Kelulusan disemak per PJH per musim; `unverified` dikecualikan daripada label diluluskan         | `recommend.approval.test.ts`                                                                                       |
+| 17  | Halaman tidak boleh dibaca / varian harga belum selesai = blocker; tiada dakwaan liputan lengkap | `coverage.test.ts` (status `blocked` jika ada `unclear`/`unresolved`) + E2E halaman Liputan                        |
+| 18  | Ujian meliputi beberapa PJH, struktur harga, konfigurasi hotel/masyair berlainan, tiada padanan  | `tests/unit/engine/cross-pjh.test.ts` (data sebenar ≥ 3 PJH)                                                       |
 
 Senario F (data tidak lengkap): `scenario-f.test.ts`. Naik taraf Unpriced menghasilkan `complete:false` dan `BERSYARAT`. Tarwiyah `not_stated` tidak lulus wajib.
 
@@ -483,43 +503,44 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 - `.env.example`, `.gitignore`, `README.md` rangka, `ci.yml`, SessionStart hook.
 - **Terima:** `pnpm lint typecheck test build` lulus dan CI hijau.
 
-### Fasa 1 — Engine + ujian (2–3 hari) ← kerja paling kritikal
+### Fasa 1 — Model katalog + ekstraksi semua 34 PJH (5–8 hari) ← kerja paling kritikal
 
-- `types.ts`, `money.ts`, `costing.ts`, `eligibility.ts`, `ranking.ts`, `recommend.ts`, `explain.ts`.
-- Fixture sintetik + seed Busyra JSON (dimuat terus oleh ujian, tanpa DB).
-- **Terima:** DoD 1–4, 6–9, 11 (bahagian engine), senario A–F lulus. Liputan engine ≥ 90%.
+- Skema Zod katalog (`src/lib/catalog/schema.ts`) dan jenis engine (`src/lib/engine/types.ts`).
+- Ekstraksi visual setiap julat halaman (§14) ke `data/catalog/1448h/<pjh-id>.json` dengan evidence setiap medan.
+- `data/catalog-coverage.json` + skrip rekonsiliasi (`scripts/reconcile-catalog.ts`).
+- **Terima:** 34 entri liputan; setiap halaman 1–141 mempunyai rekod semakan; varian dikenal pasti = diimport + dikecualikan bersebab; blocker disenaraikan (DoD 14, 17).
 
-### Fasa 2 — Model data, migration, seed (1–2 hari)
+### Fasa 2 — Engine + ujian (2–3 hari)
 
-- `schema.ts` (§4), migration awal, `seed.ts` idempotent (upsert, run dua kali = tiada perubahan), `catalog-snapshot.ts` (DB → objek engine).
-- `data/sources/manifest.json` (hash `pending` hingga PDF diterima).
-- **Terima:** ujian integrasi PGlite: seed dua kali sama, snapshot = JSON seed, penapisan musim.
+- `money.ts`, `costing.ts`, `eligibility.ts`, `ranking.ts`, `recommend.ts`, `explain.ts`.
+- Ujian pada fixture rujukan Busyra, katalog sebenar beberapa PJH dan fixture sintetik `season_id: "TEST"`.
+- **Terima:** DoD 1–4, 6–9, 11, 16, 18 (bahagian engine), senario A–F lulus.
 
-### Fasa 3 — API awam (1 hari)
+### Fasa 3 — Stor Blob + seed idempotent (1–2 hari)
 
-- `/api/assess`, `/api/compare`, `/api/catalog/*`, Zod, ralat BM berstruktur, cache ikut `dataset_version`.
-- **Terima:** ujian integrasi API. Respons mengandungi versi data/peraturan/engine.
+- `CatalogStore` (Blob + memori), snapshot berversi, penunjuk aktif dengan `ifMatch`, `scripts/seed.ts` idempotent.
+- **Terima:** seed dua kali = tiada perubahan; snapshot = JSON katalog; penapisan musim.
 
-### Fasa 4 — Wizard (2 hari)
+### Fasa 4 — API awam (1 hari)
+
+- `/api/assess`, `/api/compare`, `/api/catalog/*`, `/api/coverage`, Zod, ralat BM berstruktur, cache ikut `dataset_version`.
+- **Terima:** ujian integrasi API. Respons mengandungi versi data/peraturan/engine dan liputan dataset.
+
+### Fasa 5 — Wizard (2 hari)
 
 - `WizardShell`, 5 langkah, `MoneyInput`, `HardSoftToggle`, glosari, autosave/reset localStorage, validasi on-blur.
 - **Terima:** E2E pasangan RM100,000 sampai skrin semakan. Aziziyah berasingan (DoD 3). Axe tiada pelanggaran serius.
 
-### Fasa 5 — Hasil, banding, laporan (2–3 hari)
+### Fasa 6 — Hasil, banding, laporan, Liputan data (2–3 hari)
 
-- Kad hasil, `StatusBadge`, `ScoreExplainer`, `EvidenceLink`, keadaan sifar padanan, banding ≤ 3, laporan cetak.
+- Kad hasil, `StatusBadge`, `ScoreExplainer`, `EvidenceLink`, keadaan sifar padanan, banding ≤ 3, laporan cetak, togol "Utamakan kepelbagaian PJH", halaman Liputan data.
 - Semakan UI UX Pro Max: `"comparison table mobile" --domain ux`, `"print layout" --domain ux`, checklist pra-penghantaran.
-- **Terima:** DoD 5, 8 (UI), 11 (badge), 12, 14. Snapshot cetak A4.
+- **Terima:** DoD 5, 8 (UI), 11 (badge), 12. Snapshot cetak A4.
 
-### Fasa 6 — Pentadbir (3 hari)
+### Fasa 7 — Pentadbir (3 hari)
 
-- Auth.js + `create-admin.ts`, middleware, RBAC, CRUD musim/PJH/pakej/varian/naik taraf/caj, import JSON/CSV → draf, upload Blob + hash, skrin semakan dua panel, validasi pra-publish, publish/unpublish transaksi, sejarah, audit log.
+- Auth.js + `create-admin.ts`, `proxy.ts` (Next 16), RBAC, CRUD musim/PJH/pakej/varian/naik taraf/caj, import JSON/CSV → draf, upload Blob + hash, skrin semakan dua panel, validasi pra-publish, publish/unpublish, sejarah, audit log, ringkasan liputan.
 - **Terima:** DoD 10. Admin 401 tanpa sesi. Upload bukan PDF ditolak. `security-review` lulus.
-
-### Fasa 7 — Sumber sebenar (½–1 hari, bergantung PDF)
-
-- Apabila PDF diterima: letak di `data/sources/` (tidak di-commit) atau Blob, kira hash, kemas kini manifest, ekstrak hlm. 2, 3, 4, 6, 10 (brosur) dan 33–44 (kompilasi), semak nilai seed. Medan yang sepadan menjadi `verification_status = verified`. Jika ada percanggahan, rekod `conflict` dan laporkan.
-- Isi nama hotel Makkah Tower/Safwah daripada hlm. 2/3.
 
 ### Fasa 8 — Deployment Vercel (1 hari)
 
@@ -532,36 +553,133 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 ### Fasa 9 — Pengerasan dan serahan (½–1 hari)
 
 - `code-review`, `security-review`, `simplify`. Semakan pra-penghantaran UI UX Pro Max (kontras, fokus, 44 px, reduced-motion, 375–1440 px).
-- README penuh (setup, tests, env, migration, seed, import, deploy, rollback, **batasan katalog: hanya Busyra**).
-- Serahan: URL repo, URL production, commit SHA, ID deployment, checks yang lulus, batasan sebenar.
+- README penuh (setup, tests, env, seed, import, deploy, rollback, **liputan katalog sebenar daripada `data/catalog-coverage.json`**).
+- Serahan (spesifikasi §23.5): URL repo, URL production, commit SHA, ID deployment, checks yang lulus, katalog 34 PJH, manifest liputan, senarai unknown/kelulusan/konflik/kekosongan, bukti ujian merentas PJH, jumlah pakej/varian sebenar dan batasan sebenar.
 
-**Anggaran jumlah:** ~14–18 hari kerja pembangun (Fasa 7 bergantung pada ketersediaan PDF).
+**Anggaran jumlah:** ~19–26 hari kerja pembangun. Fasa 1 bergantung pada kebolehbacaan PDF; medan kabur memerlukan versi resolusi asal.
 
 ---
 
 ## 12. Risiko dan keputusan yang perlu pengguna buat
 
-| #   | Risiko / soalan                                                    | Cadangan                                                                                                           |
-| --- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| 1   | ~~PDF sumber tidak dilampirkan~~ **Selesai:** kompilasi di `docs/` | Transkripsi hlm. 33–44 secara visual (halaman imej). Brosur 12 halaman tidak diperlukan (§0.1)                     |
-| 2   | Harga varian bertiga/berempat Busyra                               | Ambil daripada hlm. Busyra dalam kompilasi. Jika tiada, `not_stated` dan senario E memberi "tiada konfigurasi sah" |
-| 3   | Pasukan/projek Vercel                                              | Stor = Vercel Blob (§0.1). Pasukan Vercel disahkan dalam Fasa 8                                                    |
-| 4   | Status kelulusan PJH 1448H                                         | Perlu sumber rasmi (senarai PJH diluluskan TH) sebelum label "diluluskan"                                          |
-| 5   | Teks glosari (Aziziyah, PMN, Tarwiyah)                             | Gunakan penerangan brosur hlm. 6 + sumber rasmi TH. Minta semakan pengguna                                         |
-| 6   | Pemberat skor v1                                                   | Boleh diubah oleh admin dengan versi baharu. Laporan menyimpan versi                                               |
-| 7   | Had masa fungsi/upload Vercel                                      | Semak dokumentasi semasa (seksyen 22) sebelum Fasa 6/8                                                             |
+| #   | Risiko / soalan                                                    | Cadangan                                                                                                                |
+| --- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| 1   | ~~PDF sumber tidak dilampirkan~~ **Selesai:** kompilasi di `docs/` | Transkripsi hlm. 33–44 secara visual (halaman imej). Brosur 12 halaman tidak diperlukan (§0.1)                          |
+| 2   | Harga varian bertiga/berempat Busyra                               | Ambil daripada hlm. Busyra dalam kompilasi. Jika tiada, `not_stated` dan senario E memberi "tiada konfigurasi sah"      |
+| 3   | Pasukan/projek Vercel                                              | Stor = Vercel Blob (§0.1). Pasukan Vercel disahkan dalam Fasa 8                                                         |
+| 4   | Status kelulusan PJH 1448H                                         | Perlu sumber rasmi (senarai PJH diluluskan TH) sebelum label "diluluskan"                                               |
+| 5   | Teks glosari (Aziziyah, PMN, Tarwiyah)                             | Gunakan penerangan brosur hlm. 6 + sumber rasmi TH. Minta semakan pengguna                                              |
+| 6   | Pemberat skor v1                                                   | Boleh diubah oleh admin dengan versi baharu. Laporan menyimpan versi                                                    |
+| 7   | Had masa fungsi/upload Vercel                                      | Semak dokumentasi semasa (seksyen 22) sebelum Fasa 7/8                                                                  |
+| 8   | PDF termampat (~103 ppi) mengaburkan teks kecil                    | Muat naik `Pakej_Haji_2027_Semua_34_PJH.pdf` (resolusi asal) atau brosur berasingan untuk menyelesaikan medan `unclear` |
+| 9   | Ekstraksi 141 halaman imej memakan masa dan berisiko salah baca    | Ekstraksi berganda: satu pas transkripsi + satu pas semakan bebas terhadap halaman; percanggahan → `conflict`           |
+| 10  | Spesifikasi §15 menyebut PostgreSQL; pengguna memilih Vercel Blob  | Kekalkan Blob (§0.1). Boleh bertukar melalui `CatalogStore` tanpa mengubah engine                                       |
 
 ---
 
 ## 13. Checklist ringkas pelaksana
 
 - [x] Fasa 0 asas + UI UX Pro Max + CI
-- [ ] Fasa 1 engine + senario A–F
-- [ ] Fasa 2 skema/migration/seed idempotent
-- [ ] Fasa 3 API assess/compare/katalog
-- [ ] Fasa 4 wizard
-- [ ] Fasa 5 hasil/banding/laporan cetak
-- [ ] Fasa 6 pentadbir + auth + publish/history
-- [ ] Fasa 7 sahkan seed dengan PDF
+- [ ] Fasa 1 katalog 34 PJH + manifest liputan + rekonsiliasi (Busyra: transkripsi siap, belum diimport)
+- [ ] Fasa 2 engine + senario A–F + ujian merentas PJH
+- [ ] Fasa 3 stor Blob + seed idempotent
+- [ ] Fasa 4 API assess/compare/katalog/liputan
+- [ ] Fasa 5 wizard
+- [ ] Fasa 6 hasil/banding/laporan cetak/Liputan data
+- [ ] Fasa 7 pentadbir + auth + publish/history
 - [ ] Fasa 8 Vercel preview → production + pemeriksaan
 - [ ] Fasa 9 semakan, README, serahan
+
+---
+
+## 14. Katalog 34 PJH: inventori, ekstraksi dan liputan (spesifikasi §23)
+
+### 14.1 Indeks sumber
+
+Halaman PDF kompilasi (1-indexed), daripada spesifikasi §23.1. Disimpan dalam `data/sources/manifest.json` dan `data/catalog-coverage.json`.
+
+| Bil. | PJH         | Hlm.  | Bil. | PJH                | Hlm.   | Bil. | PJH           | Hlm.    |
+| ---- | ----------- | ----- | ---- | ------------------ | ------ | ---- | ------------- | ------- |
+| 01   | THTS        | 3–4   | 13   | Gemilang           | 55–57  | 25   | MKM           | 102–106 |
+| 02   | Al-Balad    | 5–8   | 14   | Glocal Travel      | 58–61  | 26   | Qashwa Travel | 107     |
+| 03   | Alam Shah   | 9–11  | 15   | Harmony Excellence | 62–63  | 27   | Rayhar        | 108–115 |
+| 04   | Amani       | 12–15 | 16   | In-Saff            | 64–72  | 28   | Rehlah        | 116–119 |
+| 05   | Andalusia   | 16–23 | 17   | Irkaz              | 73–76  | 29   | KUJDT         | 120–123 |
+| 06   | Az-Safir    | 24–25 | 18   | Jad                | 77–80  | 30   | Yaskin        | 124–127 |
+| 07   | Az-Zuha     | 26–32 | 19   | Jay Ibrahim        | 81–83  | 31   | TITIM         | 128–129 |
+| 08   | Busyra      | 33–44 | 20   | Juara              | 84–87  | 32   | Tri-D         | 130–133 |
+| 09   | Citra       | 45    | 21   | Kembara Umrah      | 88–90  | 33   | Wira Saujana  | 134–137 |
+| 10   | CS Holidays | 46–47 | 22   | KRS                | 91–93  | 34   | Zahafiz       | 138–141 |
+| 11   | Eiman       | 48–50 | 23   | Mahabbaten         | 94–95  |      |               |         |
+| 12   | Felda       | 51–54 | 24   | MIMM               | 96–101 |      |               |         |
+
+Halaman 1–2 ialah halaman pengenalan kompilasi dan direkodkan sebagai `non_pjh`.
+
+### 14.2 Aliran ekstraksi setiap PJH
+
+1. Render setiap halaman (`pdftoppm`, 110–150 dpi untuk halaman penuh; potongan 300 dpi untuk teks kecil).
+2. **Pas transkripsi**: baca semua halaman dalam julat (jadual harga, footnote, terma, itinerary). Senaraikan keluarga pakej, varian (bilik 2–6 dan lain-lain), Muaisim/PMN, naik taraf, caj termasuk/tidak, hotel + jarak + titik ukuran, tarikh menginap, Aziziyah, tempoh, Tarwiyah, kelas pengangkutan, makanan, terma.
+3. Tulis `data/catalog/1448h/<pjh-id>.json` mengikut skema Zod. Setiap medan penting ada evidence `{ sourceId, pdfPage, brochurePage?, text, status }`. Medan yang tidak diterbitkan selepas semakan = `not_stated` dengan senarai halaman yang telah diperiksa.
+4. **Pas semakan bebas**: agen/penyemak kedua membandingkan JSON dengan halaman. Percanggahan → `conflict`. Teks kabur → `unclear` (harga = `null`).
+5. Harga promosi berulang (muka depan/belakang) dipadankan dengan varian sedia ada, bukan pakej baharu.
+6. Kod varian tidak diterbitkan → ID dalaman stabil `<pjh>-<pakej>-<bilik>` dengan `codeIsInternal: true`.
+7. Kelulusan: `approval_status = unverified` untuk semua sehingga sumber rasmi TH bagi 1448H disemak. Nombor lesen pada brosur direkod sebagai `licenceNumberAsPublished` sahaja.
+
+Pelaksanaan: kelompok PJH diproses secara selari oleh subagen (transkripsi), diikuti subagen semakan. Hasil disatukan dan disahkan dengan skema + skrip rekonsiliasi sebelum commit.
+
+### 14.3 Skema `data/catalog-coverage.json`
+
+```jsonc
+{
+  "seasonId": "1448H",
+  "datasetVersion": "ds-1448h-0001",
+  "generatedAt": "2026-10-03",
+  "sources": ["compilation-34pjh-1448h"],
+  "pagesTotal": 141,
+  "nonPjhPages": [1, 2],
+  "pjhs": [
+    {
+      "index": 8,
+      "id": "busyra",
+      "label": "Busyra",
+      "legalName": "Busyra Holidays Sdn Bhd",
+      "seasonId": "1448H",
+      "sourceIds": ["compilation-34pjh-1448h"],
+      "pageRange": [33, 44],
+      "pagesExpected": 12,
+      "pagesReviewed": [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+      "packageFamiliesIdentified": 11,
+      "variantsIdentified": 41,
+      "variantsImported": 0,
+      "variantsPublished": 0,
+      "excludedVariants": [],
+      "processingStatus": "in_progress", // not_started | in_progress | reviewed | blocked
+      "approvalStatus": "unverified", // berasingan daripada status ekstraksi
+      "factsVerified": 0,
+      "fieldsNotPublished": 0,
+      "unreadablePages": [],
+      "unresolvedVariants": [],
+      "gaps": ["…"],
+      "reviewedAt": null,
+      "reviewer": null,
+    },
+  ],
+}
+```
+
+### 14.4 Rekonsiliasi automatik (`scripts/reconcile-catalog.ts`, dijalankan dalam CI)
+
+- 34 entri PJH; setiap label ada fail katalog atau isu identiti yang ditanda.
+- Setiap halaman 1–141 dipetakan kepada tepat satu PJH atau `nonPjhPages`; semua halaman dalam julat ada dalam `pagesReviewed` sebelum status `reviewed`.
+- `variantsIdentified = variantsImported + excludedVariants.length`.
+- Setiap varian dipublish ada evidence harga dan konfigurasi bilik.
+- Varian tanpa harga dipaparkan "Harga perlu pengesahan", bukan RM0.
+- Kunci unik `season + pjh + package + code + room configuration`; pendua → gagal.
+- Status `blocked` jika ada `unreadablePages`, `unresolvedVariants` atau evidence `unclear` pada harga.
+
+### 14.5 Blocker semasa
+
+| PJH    | Isu                                                                                    | Tindakan                                     |
+| ------ | -------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Busyra | Harga naik taraf buffet Standard (Safwah Ekonomi, hlm. 35) kabur: RM5,500 atau RM6,500 | Perlu versi resolusi asal atau brosur Busyra |
+| Semua  | Kelulusan 1448H belum disemak daripada sumber rasmi                                    | Perlu senarai PJH diluluskan TH 1448H        |
