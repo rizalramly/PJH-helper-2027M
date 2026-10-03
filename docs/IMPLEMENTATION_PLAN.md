@@ -580,7 +580,7 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 ## 13. Checklist ringkas pelaksana
 
 - [x] Fasa 0 asas + UI UX Pro Max + CI
-- [ ] Fasa 1 katalog 34 PJH + manifest liputan + rekonsiliasi (pas pertama siap: 34/34 fail, 502 varian; semakan bebas belum)
+- [x] Fasa 1 katalog 34 PJH + manifest liputan + rekonsiliasi (33/34 reviewed, 1 blocked: Jad Gold; 517 varian)
 - [x] Fasa 2 engine + senario A–F + ujian merentas PJH (dibina lebih awal bersama Fasa 1)
 - [ ] Fasa 3 stor Blob + seed idempotent
 - [ ] Fasa 4 API assess/compare/katalog/liputan
@@ -677,9 +677,10 @@ Pelaksanaan: kelompok PJH diproses secara selari oleh subagen (transkripsi), dii
 - Kunci unik `season + pjh + package + code + room configuration`; pendua → gagal.
 - Status `blocked` jika ada `unreadablePages`, `unresolvedVariants` atau evidence `unclear` pada harga.
 
-### 14.5 Blocker semasa
+### 14.5 Blocker semasa (selepas semakan bebas; butiran: `docs/sources/catalog-independent-check.md`)
 
-| PJH    | Isu                                                                                    | Tindakan                                     |
-| ------ | -------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Busyra | Harga naik taraf buffet Standard (Safwah Ekonomi, hlm. 35) kabur: RM5,500 atau RM6,500 | Perlu versi resolusi asal atau brosur Busyra |
-| Semua  | Kelulusan 1448H belum disemak daripada sumber rasmi                                    | Perlu senarai PJH diluluskan TH 1448H        |
+| PJH    | Isu                                                                                                   | Tindakan                                     |
+| ------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Jad    | Caj penerbangan Business Class Gold "RM1?,000–RM17,000" kabur (blocking)                              | Pengesahan PJH atau PDF resolusi asal        |
+| Busyra | Harga naik taraf buffet Standard (Safwah Ekonomi, hlm. 35) kabur: RM5,500 atau RM6,500 (non-blocking) | Perlu versi resolusi asal atau brosur Busyra |
+| Semua  | Kelulusan 1448H belum disemak daripada sumber rasmi                                                   | Perlu senarai PJH diluluskan TH 1448H        |

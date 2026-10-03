@@ -6,7 +6,7 @@ Aplikasi web (mengutamakan telefon) untuk membantu bakal jemaah membandingkan **
 - Pelan pelaksanaan: [`docs/IMPLEMENTATION_PLAN.md`](docs/IMPLEMENTATION_PLAN.md)
 - Sistem reka bentuk: [`design-system/pjh-helper/MASTER.md`](design-system/pjh-helper/MASTER.md)
 
-> **Status: Fasa 1 (katalog + engine), pas pertama siap.** 34/34 PJH mempunyai fail katalog transkripsi (161 keluarga pakej, 502 varian) dan engine penilaian berfungsi merentas katalog. **Semakan bebas belum dibuat**: 0/34 PJH berstatus `reviewed`, 1 PJH `blocked`, 0 kelulusan disahkan. Butiran: [`data/catalog-coverage.json`](data/catalog-coverage.json) dan [`docs/sources/catalog-first-pass-notes.md`](docs/sources/catalog-first-pass-notes.md).
+> **Status: Fasa 1 dan 2 siap.** Katalog 34 PJH telah ditranskripsi dan disemak secara bebas: **33/34 PJH `reviewed`, 1 `blocked`** (Jad), 161 keluarga pakej, 517 varian. **0 kelulusan PJH disahkan.** Engine penilaian berfungsi merentas katalog. Butiran: [`data/catalog-coverage.json`](data/catalog-coverage.json), [`docs/sources/catalog-independent-check.md`](docs/sources/catalog-independent-check.md).
 
 ## Stack
 
@@ -58,6 +58,7 @@ Lihat `.env.example`. Semua rahsia hanya di server. Jangan guna awalan `NEXT_PUB
 
 ## Batasan semasa
 
-- Katalog belum melalui semakan bebas; tiada wizard, API atau pentadbir lagi (Fasa 3–7).
+- Jad Gold: caj penerbangan Business Class kabur (blocker). Tiada wizard, API atau pentadbir lagi (Fasa 3–7).
+- Kelulusan PJH 1448H belum disahkan daripada sumber rasmi; kekosongan semua pakej perlu pertanyaan.
 - Kelulusan PJH bagi 1448H belum disahkan daripada sumber rasmi.
 - Tiada tempahan, pembayaran atau mesej kepada PJH.
