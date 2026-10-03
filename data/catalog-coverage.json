@@ -13,13 +13,13 @@
   ],
   "totals": {
     "pjhExpected": 34,
-    "pjhWithCatalogFile": 19,
+    "pjhWithCatalogFile": 24,
     "pjhReviewed": 0,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
-    "packageFamilies": 99,
-    "variantsIdentified": 311,
-    "variantsImported": 311,
+    "packageFamilies": 124,
+    "variantsIdentified": 390,
+    "variantsImported": 390,
     "variantsPublished": 0,
     "unresolvedVariants": 0
   },
@@ -33,27 +33,38 @@
         4
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "TH Travel & Services Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 2,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        3,
+        4
+      ],
+      "packageFamiliesIdentified": 8,
+      "variantsIdentified": 18,
+      "variantsImported": 18,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": null,
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] thts: pjh.licenceNumberAsPublished — Nombor lesen PJH tidak dicetak pada hlm. 3–4.",
+        "[non_blocking] thts: tarwiyah — Tarwiyah tidak dinyatakan dalam mana-mana halaman 3–4.",
+        "[non_blocking] thts: aziziyah — Tiada Aziziyah disebut; status explicitly_not_included berdasarkan kenyataan 'Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja)'. Perlu disahkan dengan PJH.",
+        "[non_blocking] thts: stays.distanceReference — Jarak hotel dicetak tanpa titik ukuran (hanya '± N M').",
+        "[non_blocking] thts-zamrud: stays.makkah.distanceM — Jarak Raffles kabur pada imej: dibaca ±80 m (mungkin ±60 m).",
+        "[non_blocking] thts: trainClass — Kelas kereta api Haramain tidak dinyatakan.",
+        "[non_blocking] thts: approval — Tiada nombor lesen/kelulusan 1448H dicetak; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-A (semakan bebas belum dibuat)"
     },
     {
       "index": 2,
@@ -64,27 +75,39 @@
         8
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Al Balad Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 4,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "packageFamiliesIdentified": 3,
+      "variantsIdentified": 11,
+      "variantsImported": 11,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 02 / 1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] al-balad: variants.occupancy — Bilangan sebilik ditunjukkan dengan ikon (5/4/3/2 orang) sahaja; diandaikan sama untuk Makkah dan Madinah kerana tiada pembezaan dicetak.",
+        "[non_blocking] al-balad: masyair/pmnStatus — Tiada PMN disebut; hanya 'khemah asal di Mina Muassim'. pmnStatus = not_included berdasarkan kenyataan Muassim.",
+        "[non_blocking] al-balad: flightClass/trainClass — Kelas penerbangan (Cater TH / Komersial) dan kelas tren HHSR tidak dinyatakan.",
+        "[non_blocking] al-balad: aziziyah.dateLabel — Tarikh Aziziyah (1–7 & 10–14 Zulhijjah) daripada lakaran perjalanan umum, bukan per pakej; Al Siddiq (25–30 hari) mungkin berbeza.",
+        "[non_blocking] al-balad: terms.cancellation — Kadar denda pembatalan tidak dicetak; dirujuk kepada borang pengesahan. Teks nota sangat kecil di bawah syarat pembatalan tidak dapat dibaca.",
+        "[non_blocking] al-balad: stays.orEquivalent — Tiada '@ setaraf' dicetak; orEquivalent = false."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-A (semakan bebas belum dibuat)"
     },
     {
       "index": 3,
@@ -95,27 +118,39 @@
         11
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Alam Shah Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 3,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        9,
+        10,
+        11
+      ],
+      "packageFamiliesIdentified": 4,
+      "variantsIdentified": 14,
+      "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 03/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] alam-shah-mekah-aziziah: variants.MEA04.occupancy — MEA04 dicetak 'Bilik Berempat / Berlima'; direkod sebagai 4 (ikut kod) tetapi mungkin ber-5.",
+        "[non_blocking] alam-shah-mekah-klasik: variants.MK04.occupancy — MK04 dicetak 'Bilik Berempat / Berlima'; direkod sebagai 4 (ikut kod) tetapi mungkin ber-5.",
+        "[non_blocking] alam-shah-mekah-klasik: aziziyah — Aziziyah tidak dinyatakan secara jelas; tiada hotel Aziziyah disenaraikan (Mekah ±35 hari + Madinah ±6 hari) dan bas Mina–hotel berbayar RM2,500.",
+        "[non_blocking] alam-shah: relocations — Urutan hotel (Aziziah/Mekah/Madinah) tidak dinyatakan; sequence stays ikut susunan kad.",
+        "[non_blocking] alam-shah: flightClass — Kelas penerbangan carter TH tidak dinyatakan (Business Class hanya sebagai add-on).",
+        "[non_blocking] alam-shah: pjh.terms — Tiada terma pembayaran/pembatalan dicetak dalam hlm. 9–11.",
+        "[non_blocking] alam-shah: pjh.aziziyahDistance — Hlm. 9 menyatakan 'Jarak Hotel Aziziah Dekat 350 meter dari kompleks jamrah' sedangkan hotel Aziziah Mekah Aziziah (Oriens Manabir) dicetak ±540 m; 350 m sepadan dengan Rahaf Al Mashaer (Safwah)."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-A (semakan bebas belum dibuat)"
     },
     {
       "index": 4,
@@ -126,27 +161,38 @@
         15
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Amani Travel Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 4,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "packageFamiliesIdentified": 6,
+      "variantsIdentified": 22,
+      "variantsImported": 22,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH04/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 5,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] amani: stays.distanceReference — Label titik ukuran di bawah angka jarak (hlm. 12) terlalu kecil/kabur untuk dibaca walaupun pada 400 dpi; distanceReference = not_stated.",
+        "[non_blocking] amani: variants.aziziyahOccupancy — Bilik Aziziyah berbeza daripada bilik Mekah/Madinah bagi Safwah Ekonomi (semua ber-5) dan ASDA42/ASDA4N2 (ber-4); skema tiada medan occupancy Aziziyah per varian — direkod dalam notes/roomLabelAsPublished.",
+        "[non_blocking] amani: trainClass — Kelas kereta api laju (HHR) tidak dinyatakan.",
+        "[non_blocking] amani: aziziyah.endDate — Aziziyah bermula 1 Zulhijjah; tarikh keluar dan bilangan malam tidak dinyatakan.",
+        "[non_blocking] amani: masyair.pmn.description — Teks kecil penerangan PMN (bas khas, jarak khemah) kabur; dibaca secara anggaran."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-A (semakan bebas belum dibuat)"
     },
     {
       "index": 5,
@@ -157,27 +203,43 @@
         23
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Andalusia Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 8,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "packageFamiliesIdentified": 4,
+      "variantsIdentified": 14,
+      "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "05 / 1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] andalusia: tarwiyah — Tarwiyah tidak dinyatakan dalam mana-mana halaman 16–23.",
+        "[non_blocking] andalusia: variants.madinahOccupancy — AND4 dan AND8: bilik Madinah dicetak 'Ber-4/5'; direkod 5 (sama dengan Makkah).",
+        "[non_blocking] andalusia-elaf-safwah: stays.madinah — Dua hotel Madinah disenaraikan (Nozol Royal Inn 220 m, Al Ritz Al Madinah 300 m, @ setaraf) tanpa menyatakan hotel mana bagi varian mana; direkod sebagai satu stay gabungan, distanceM = null.",
+        "[non_blocking] andalusia-safwah-full: stays.madinah — Dua hotel Madinah disenaraikan (Nozol Royal Inn 220 m, Al Ritz Al Madinah 300 m, @ setaraf); direkod sebagai satu stay gabungan, distanceM = null.",
+        "[non_blocking] andalusia: flightClass — Kelas penerbangan cater haji tidak dinyatakan (Business Class komersil hanya sebagai tambahan).",
+        "[non_blocking] andalusia-amjad: aziziyah.status — Muka depan menyatakan pakej tidak menginap di Aziziyah/Syisya, tetapi Amjad & Elaf termasuk transit Apartment Al Riyadh Aziziyah 10–13 Zulhijjah (4H3M); status = included dengan nota transit."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-A (semakan bebas belum dibuat)"
     },
     {
       "index": 6,

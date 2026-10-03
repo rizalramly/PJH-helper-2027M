@@ -1,0 +1,2736 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "thts",
+    "label": "THTS",
+    "name": "Tabung Haji Travel",
+    "legalName": "TH Travel & Services Sdn Bhd",
+    "website": "https://www.thts.com.my",
+    "publicContact": "Talian Hotline 019 289 7624; Talian Umum 03 2688 0060; Aras 25, Menara TH Selborn, 153 Jalan Tun Razak, 50400 Kuala Lumpur",
+    "licenceNumberAsPublished": null,
+    "licenceEvidence": [],
+    "terms": [
+      {
+        "text": "Pembatalan/penundaan: Kategori 1 denda 5% (selepas Bayaran Pakej Haji); Kategori 2 denda 20% (selepas Jadual Penerbangan Haji dikeluarkan); Kategori 3 denda 40% (selepas jadual penerbangan dan Visa Haji diperuntukkan); dikira daripada harga pakej setelah ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Syarat Pembatalan Pakej Haji — Kategori 1 -Denda pembatalan sebanyak 5% ... Kategori 2 -Denda pembatalan sebanyak 20% ... Kategori 3 -Denda pembatalan sebanyak 40% daripada harga pakej haji setelah ditolak bayaran haji PJH ...",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit RM10,000 dijelaskan apabila proses rayuan berjaya; bayaran penuh sebelum atau pada 01 Syaaban 1448H. Deposit dan bayaran tertakluk kepada Syarat Pembatalan.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "i. Pembayaran deposit RM10,000 perlu di jelaskan oleh jemaah apabila proses rayuan telah berjaya. ii. Bayaran penuh hendaklah dijelaskan sebelum atau pada 01 Syaaban 1448H.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Penginapan/hotel tertakluk kepada perubahan atau setaraf harganya.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pakej Topaz, Zamrud & Almaas: bilik bertiga dibuat atas permintaan.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "i. Pakej Topaz, Zamrud & Almaas, bilik bertiga akan dibuat atas permintaan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tempahan Kelas Perniagaan (Topaz/Zamrud/Almaas) tertakluk kepada kekosongan; THTS tidak memberi jaminan tempat duduk Kelas Perniagaan.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "i. Tempat duduk Kelas Perniagaan tertakluk kepada kekosongan dalam penerbangan pada waktu tersebut. ii. THTS tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya memperolehi tempat duduk Kelas Perniagaan dalam penerbangan tersebut.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [3, 4],
+    "pagesReviewed": [3, 4],
+    "pageNotes": [
+      {
+        "pdfPage": 3,
+        "content": "Carta 8 pakej (Delima, Aqiq, Mutiara, Fairuz, Nilam, Topaz, Zamrud, Almaas): tempoh, kod bilik, harga, hotel Makkah/Madinah + jarak, jenis bufet."
+      },
+      {
+        "pdfPage": 4,
+        "content": "Kelebihan (lokasi hotel, Mina Jamrah/PMN kecuali Delima, penerbangan kelas ekonomi, tren), nota tambahan, syarat pembatalan, pembayaran, nota Kelas Perniagaan, hubungan."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "thts-delima",
+      "name": "Pakej Delima",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ DELIMA 30 - 35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Mina Muassim (Pakej Delima dikecualikan daripada PMN Mina Jamrah).",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Makkah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ DELIMA — 30 - 35 HARI — MASUK MAKKAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Far East - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "Far East - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Mira Ajyad",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 400,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL MIRA AJYAD — ± 400M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Con Code Al Nazeel",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 300,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL CON CODE AL NAZEEL — ± 300M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "DELIMA 4",
+          "priceSen": 5499000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "4 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "DELIMA 4 4 Sebilik Harga RM54,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "DELIMA 3",
+          "priceSen": 6999000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "3 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "DELIMA 3 3 Sebilik Harga RM69,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "DELIMA 2",
+          "priceSen": 7999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "DELIMA 2 2 Sebilik Harga RM79,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-aqiq",
+      "name": "Pakej Aqiq",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ AQIQ 30 - 35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Makkah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ AQIQ — 30 - 35 HARI — MASUK MAKKAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Far East - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "Far East - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Al Shohada",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 630,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL AL SHOHADA — ± 630M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Anwar Madinah Movenpick",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL ANWAR MADINAH MOVENPICK — ± 20M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "AQIQ 4",
+          "priceSen": 8299000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "4 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "AQIQ 4 4 Sebilik Harga RM82,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AQIQ 3",
+          "priceSen": 9299000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "3 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "AQIQ 3 3 Sebilik Harga RM92,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AQIQ 2",
+          "priceSen": 10299000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "AQIQ 2 2 Sebilik Harga RM102,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-mutiara",
+      "name": "Pakej Mutiara",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ MUTIARA 30 - 35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Madinah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ MUTIARA — 30 - 35 HARI — MASUK MADINAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Far East - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "Far East - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Anwar Madinah Movenpick",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL ANWAR MADINAH MOVENPICK — ± 20M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Rotana Jabal Omar",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 150,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL ROTANA JABAL OMAR — ± 150M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MUTIARA 4",
+          "priceSen": 9699000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "4 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "MUTIARA 4 4 Sebilik Harga RM96,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MUTIARA3",
+          "priceSen": 10499000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "3 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "MUTIARA3 3 Sebilik Harga RM104,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MUTIARA 2",
+          "priceSen": 12499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "MUTIARA 2 2 Sebilik Harga RM124,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-fairuz",
+      "name": "Pakej Fairuz",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ FAIRUZ 30 - 35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Makkah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ FAIRUZ — 30 - 35 HARI — MASUK MAKKAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Far East - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "Far East - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 3",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL SAFWAH TOWER 3 — ± 60M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Maden Al Rawda",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 95,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL MADEN AL RAWDA — ± 95M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "FAIRUZ 4",
+          "priceSen": 9999000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "4 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "FAIRUZ 4 4 Sebilik Harga RM99,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FAIRUZ 3",
+          "priceSen": 10999000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "3 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "FAIRUZ 3 3 Sebilik Harga RM109,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FAIRUZ 2",
+          "priceSen": 12999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "FAIRUZ 2 2 Sebilik Harga RM129,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-nilam",
+      "name": "Pakej Nilam",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 28,
+        "max": 30,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ NILAM 28 - 30 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Madinah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ NILAM — 28 - 30 HARI — MASUK MADINAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Far East - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "Far East - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Anwar Madinah Movenpick",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL ANWAR MADINAH MOVENPICK — ± 20M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hajar Movenpick",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Far East - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL HAJAR MOVENPICK — ± 80M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "NILAM 4",
+          "priceSen": 12099000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "4 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "NILAM 4 4 Sebilik Harga RM120,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "NILAM 3",
+          "priceSen": 13299000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "3 Sebilik",
+          "notes": "Bilik bertiga/berempat: kemungkinan diberi extra bed dan bukan katil asal (tertakluk terma dan syarat). Lelaki/wanita bilik berasingan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "NILAM 3 3 Sebilik Harga RM132,990",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "NILAM 2",
+          "priceSen": 14999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "NILAM 2 2 Sebilik Harga RM149,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-topaz",
+      "name": "Pakej Topaz",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 23,
+        "max": 25,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ TOPAZ 23 - 25 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Madinah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ TOPAZ — 23 - 25 HARI — MASUK MADINAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "International - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "International - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Grand Millenniumal Haram",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL GRAND MILLENNIUMAL HARAM — ± 50M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Fairmont",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL FAIRMONT — ± 80M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "TOPAZ 2",
+          "priceSen": 17999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "TOPAZ 2 2 Sebilik Harga RM179,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-zamrud",
+      "name": "Pakej Zamrud",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 18,
+        "max": 23,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ ZAMRUD 18 - 23 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Madinah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ ZAMRUD — 18 - 23 HARI — MASUK MADINAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "International - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "International - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "madinah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Biltmore Al Madinah",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL BILTMORE AL MADINAH — ± 15M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Raffles",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL RAFFLES — ± 80M — MAKKAH",
+              "status": "unclear"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "ZAMRUD 2",
+          "priceSen": 25499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "ZAMRUD 2 2 Sebilik Harga RM254,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thts-almaas",
+      "name": "Pakej Almaas",
+      "series": "Pakej Haji THTS 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 16,
+        "max": 18,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ ALMAAS 16 - 18 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di kawasan Masjidil Haram; check in dan check out sekali sahaja (tiada perpindahan ke hotel lain di Makkah dinyatakan).",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyaer Naik Taraf di Mina Jamrah (berhampiran tempat melontar); harga asas PMN RM10,000 termasuk dalam harga pakej. Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI KHEMAH DI MINA — Mina Jamrah berhampiran dengan tempat melontar, kecuali Pakej Delima (Mina Muassim), Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 1,
+        "note": "Masuk Makkah dahulu. Hotel Makkah: check in dan check out sekali sahaja.",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "PAKEJ ALMAAS — 16 - 18 HARI — MASUK MAKKAH DAHULU",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "LOKASI HOTEL — Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 4,
+            "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "International - Buffet; bufet 3 kali sehari di Makkah dan Madinah di restoran hotel",
+        "evidence": [
+          {
+            "pdfPage": 3,
+            "text": "International - Buffet",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 4,
+            "text": "SAJIAN MAKANAN — Secara bufet 3 kali sehari di Makkah dan Madinah di restoran hotel.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Dar Tawhid",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 10,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL DAR TAWHID — ± 10M — MAKKAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Biltmore Al Madinah",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "International - Buffet",
+          "evidence": [
+            {
+              "pdfPage": 3,
+              "text": "HOTEL BILTMORE AL MADINAH — ± 15M — MADINAH",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 4,
+              "text": "iii. Penginapan / Hotel Pakej Haji adalah tertakluk kepada perubahan atau setaraf harganya.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pembimbing haji bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PEMBIMBING HAJI — Yang bertauliah dan berpengalaman (Ustaz dan Ustazah untuk setiap pakej).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas berpengalaman di setiap sektor",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PETUGAS BERPENGALAMAN DI SETIAP SEKTOR — Untuk menguruskan kebajikan jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan tren Haramain",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "HARAMAIN TREN — Semua pakej menggunakan perkhidmatan tren.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan khas Takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERLINDUNGAN KHAS TAKAFUL berkelompok",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kit Haji (beg pakaian, beg kabin, bag pack, beg selendang, buku panduan doa, kain ihram/telekung, uncang kasut, beg tenun, T-shirt/tudung pakej)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "KIT HAJI — Merangkumi Beg Pakaian, Beg Kabin, Bag Pack, Beg Selendang, Buku Panduan Doa, Kain Ihram / Telekung, Uncang Kasut, BegTenun (Non Woven Bag) dan T-Shirt / Tudung Pakej.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Taklimat khas sebelum berangkat; bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "b. Taklimat khas sebelum berangkat. c. Bimbingan semasa urusan Tawaf dan Saie (semasa ketibaan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pejabat pakej di hotel penginapan masing-masing",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "Selain Ibu Pejabat Pakej Haji THTS, setiap pakej mempunyai pengurusan di hotel penginapan masing - masing.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan khas di Arafah dan Mina",
+          "condition": "Tertakluk kepada kelulusan pihak berkuasa Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PERKHIDMATAN KHAS DI ARAFAH DAN MINA — Tertakluk kepada kelulusan pihak berkuasa Arab Saudi, kecuali Pakej Delima",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Tambang penerbangan dalam negeri (berlepas dari KLIA sahaja)",
+          "evidence": [
+            {
+              "pdfPage": 4,
+              "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "ALMAAS 2",
+          "priceSen": 28499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "2 Sebilik",
+          "notes": "Bilik 2: suami/isteri/mahram (pengecualian bilik berasingan lelaki/wanita).",
+          "priceEvidence": [
+            {
+              "pdfPage": 3,
+              "text": "ALMAAS 2 2 Sebilik Harga RM284,990",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "thts-kelas-perniagaan",
+      "packageIds": ["thts-topaz", "thts-zamrud", "thts-almaas"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Tambahan tambang penerbangan Kelas Perniagaan (pergi dan balik) — anggaran",
+      "priceSen": 1450000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Anggaran; tertakluk kepada pindaan dan kekosongan tempat duduk Kelas Perniagaan.",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "Nota : Tempahan Kelas Perniagaan - Pakej Haji Topaz / Zamrud / Almaas ... iii. Anggaran harga tambahan tambang Kelas Perniagaan adalah sebanyak RM14,500 seorang bagi penerbangan pergi dan balik serta tertakluk kepada pindaan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "thts-bayaran-haji-pjh",
+      "packageIds": [
+        "thts-delima",
+        "thts-aqiq",
+        "thts-mutiara",
+        "thts-fairuz",
+        "thts-nilam",
+        "thts-topaz",
+        "thts-zamrud",
+        "thts-almaas"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "IV. Harga Pakej Haji adalah termasuk bayaran Haji PJH 1448H / 2027M sebanyak RM23,398.00 yang akan didebitkan dari akaun TH jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "thts-caj-pmn",
+      "packageIds": [
+        "thts-aqiq",
+        "thts-mutiara",
+        "thts-fairuz",
+        "thts-nilam",
+        "thts-topaz",
+        "thts-zamrud",
+        "thts-almaas"
+      ],
+      "description": "Harga asas Perkhidmatan Masyaer Naik Taraf (PMN)",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "Harga Pakej Haji Termasuk Perkhidmatan Masyaer Naik Taraf (Harga Asas PMN RM10,000.00) di Mina Jamrah Kecuali Pakej Delima (Mina Muassim)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "thts-caj-tambahan-th",
+      "packageIds": [
+        "thts-delima",
+        "thts-aqiq",
+        "thts-mutiara",
+        "thts-fairuz",
+        "thts-nilam",
+        "thts-topaz",
+        "thts-zamrud",
+        "thts-almaas"
+      ],
+      "description": "Caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "thts-tambang-dalam-negeri",
+      "packageIds": [
+        "thts-delima",
+        "thts-aqiq",
+        "thts-mutiara",
+        "thts-fairuz",
+        "thts-nilam",
+        "thts-topaz",
+        "thts-zamrud",
+        "thts-almaas"
+      ],
+      "description": "Tambang penerbangan dalam negeri ke KLIA (ditanggung jemaah, tidak termasuk dalam harga pakej)",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "PENERBANGAN SEWA KHAS CATAR HAJI / KOMERSIL — Kelas Ekonomi, berlepas dari KLIA sahaja (Tambang penerbangan dalam negeri adalah ditanggung oleh jemaah dan tidak termasuk dalam harga Pakej Haji).",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Bilik bertiga atas permintaan bagi Pakej Topaz, Zamrud & Almaas",
+      "reason": "Tiada kod atau harga dicetak; hanya pilihan atas permintaan.",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "text": "i. Pakej Topaz, Zamrud & Almaas, bilik bertiga akan dibuat atas permintaan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.licenceNumberAsPublished",
+      "note": "Nombor lesen PJH tidak dicetak pada hlm. 3–4.",
+      "pages": [3, 4]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan dalam mana-mana halaman 3–4.",
+      "pages": [3, 4]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah",
+      "note": "Tiada Aziziyah disebut; status explicitly_not_included berdasarkan kenyataan 'Pakej Haji THTS berada di kawasan Masjidil Haram (check in dan check out sekali sahaja)'. Perlu disahkan dengan PJH.",
+      "pages": [4]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jarak hotel dicetak tanpa titik ukuran (hanya '± N M').",
+      "pages": [3]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "thts-zamrud",
+      "field": "stays.makkah.distanceM",
+      "note": "Jarak Raffles kabur pada imej: dibaca ±80 m (mungkin ±60 m).",
+      "pages": [3]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "trainClass",
+      "note": "Kelas kereta api Haramain tidak dinyatakan.",
+      "pages": [4]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Tiada nombor lesen/kelulusan 1448H dicetak; perlu sumber rasmi TH.",
+      "pages": [3, 4]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-A",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula pdftoppm 220/400 dpi dan potongan bagi teks kecil (nota tambahan, nota Kelas Perniagaan, jarak hotel).",
+    "independentCheck": null
+  }
+}

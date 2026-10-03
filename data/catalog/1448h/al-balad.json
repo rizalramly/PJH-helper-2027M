@@ -1,0 +1,1408 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "al-balad",
+    "label": "Al-Balad",
+    "name": "Al Balad Travel & Tours",
+    "legalName": "Al Balad Travel & Tours Sdn Bhd",
+    "website": "www.albaladtravel.com.my",
+    "publicContact": "03-6177 2525 (3 Talian); 011-64886602; info@albalad.com.my; No.17-1, Jalan PPS 1, Pusat Perdagangan Selaseh, 68100 Batu Caves, Selangor",
+    "licenceNumberAsPublished": "PJH 02 / 1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 5,
+        "text": "AL BALAD TRAVEL & TOURS — NO. LESEN : PJH 02 / 1448H (1058138-X)(KPK/LN 7596)",
+        "status": "transcribed"
+      },
+      {
+        "pdfPage": 7,
+        "text": "AL BALAD TRAVEL & TOURS NO. LESEN : PJH 02 / 1448H",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Pendaftaran mengikut terma & syarat dalam Borang Pendaftaran Pakej Haji Al Balad 2027; kadar denda pembatalan/penundaan seperti dalam borang Pengesahan Terimaan Tawaran Perkhidmatan Pakej Haji 1448H/2027M.",
+        "evidence": [
+          {
+            "pdfPage": 8,
+            "text": "Pendaftaran mengikut terma & syarat seperti yang dinyatakan dalam Borang Pendaftaran Pakej Haji Al Balad 2027 ... SYARAT PEMBATALAN PAKEJ HAJI — ... seperti yang dinyatakan di dalam borang PENGESAHAN TERIMAAN TAWARAN PERKHIDMATAN PAKEJ HAJI 1448H / 2027M.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [5, 8],
+    "pagesReviewed": [5, 6, 7, 8],
+    "pageNotes": [
+      {
+        "pdfPage": 5,
+        "content": "Muka depan: 3 pakej (Al Walid, Al Faroq, Al Siddiq) dengan kod AW/AF/AS, harga, tempoh, hotel Mekah/Madinah/Aziziyah, penerbangan, tren, makanan; lesen PJH 02/1448H; nota Bayaran Haji PJH."
+      },
+      {
+        "pdfPage": 6,
+        "content": "Ulangan harga 'mula' tiga pakej, foto & jarak hotel, peta, kelengkapan asas haji, akaun bank."
+      },
+      {
+        "pdfPage": 7,
+        "content": "Lakaran perjalanan manasik (Aziziyah 1–7 & 10–14 Zulhijjah, Tarwiyah 7 Zulhijjah); keistimewaan: Aziziyah 5-6 sebilik + khemah Mina Muassim, Tarwiyah bersyarat, ziarah Taif, pos 5kg."
+      },
+      {
+        "pdfPage": 8,
+        "content": "Program bimbingan 1–13 Zulhijjah; laman web, syarat pembatalan (rujuk borang), alamat. Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "al-balad-al-walid",
+      "name": "Pakej Al Walid",
+      "series": "Pakej Haji Al Balad 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 35,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PAKEJ AL WALID 35 - 45 HARI",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 6,
+            "text": "PAKEJ AL WALID 35 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+        "description": "Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "05 Mina (Sunat Tarwiyah) 7 - 9 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [5, 6],
+        "defaultArrangementNote": "Susunan 5-6 orang sebilik.",
+        "dateLabel": "1 - 7 Zulhijjah dan 10 - 14 Zulhijjah (lakaran perjalanan)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah asal di Mina Muassim (disediakan bersama penginapan Aziziyah).",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah (1–7 Zulhijjah) → Masyair → Aziziyah (10–14 Zulhijjah) → Makkah → Madinah, mengikut lakaran perjalanan umum.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PENERBANGAN - CATER TH 30kg + 7kg Kabin",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet 3x sehari; 3 kali sehari di Mekah, Madinah, Aziziyah, Arafah dan Mina",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "SAJIAN MAKANAN Buffet 3x Sehari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "SAJIAN MAKANAN 3 KALI SEHARI — Hidangan disediakan 3 kali sehari sepanjang keberadaan jemaah di Mekah, Madinah, Aziziyah, Arafah dan Mina.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Maysan Al Mashaer",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 430,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MEKAH MAYSAN AL MASHAER ±430m ( Zon B ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "MAYSAN AL MASHAER ±430m ( Zon B ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Oriens Manaber",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "1 - 7 Zulhijjah; 10 - 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 540,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Dataran kompleks melontar",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "ORIENS MANABER ±540m dari dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Maysan Al Mashaer",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Kembali ke Hotel Mekah selepas 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 430,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid (hlm. 5); dari pagar Masjid (hlm. 6)",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MADINAH GRAND MILLENIUM AL HARAM ±100m ( Zon B ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "GRAND MILLENIUM AL HARAM ±100m dari pagar Masjid",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah Taif tanpa bayaran tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "ZIARAH TAIF — Program ziarah ke Taif disediakan tanpa bayaran tambahan bagi semua jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah di Mina pada 7 Zulhijjah",
+          "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan haji & program agama; Program Bimbingan Kemuncak Haji 1–14 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "PROGRAM BIMBINGAN KEMUNCAK HAJI — Program bimbingan intensif bermula 1 hingga 14 Zulhijjah ...",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 8,
+              "text": "Program Bimbingan Di Tanah Suci — Pengisian Penuh Menuju Kemuncak Haji (1–13 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pos 5kg barangan dari Tanah Suci ke Malaysia",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "POS 5KG — Kemudahan penghantaran barangan sehingga 5kg bagi setiap jemaah dari Tanah Suci ke Malaysia.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Mutawwif berpengalaman",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MUTAWWIF BERPENGALAMAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "20 program ziarah sirah (Taif, Mekah, Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "20 PROGRAM ZIARAH SIRAH — ... program ziarah pilihan di Taif, Mekah dan Madinah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Majlis kesyukuran (makan malam khas di Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MAJLIS KESYUKURAN — Majlis makan malam khas di Tanah Suci ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kereta api HHSR 'Speed Train' sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bagasi penerbangan 30kg + 7kg kabin",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "PENERBANGAN - CATER TH 30kg + 7kg Kabin",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kelengkapan asas haji (bagasi 28\", beg kabin, beg sandang, set kain ihram, T-shirt lelaki, telekung, kain tudung, uncang kasut, botol spray wuduk, mini sejadah, payung, bantal leher, buku panduan dan doa, topi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 6,
+              "text": "Kelengkapan Asas Haji — Bagasi 28\", Beg Kabin, Beg Sandang, Set Kain Ihram, T-Shirt Lelaki, Telekung, Kain Tudung, Uncang Kasut, Botol Spray Wuduk, Mini Sejadah, Payung, Bantal Leher, Buku Panduan dan Doa, Topi Lelaki & Wanita",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "AW5",
+          "priceSen": 4990000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "5 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL WALID — AW5 5 RM49,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AW4",
+          "priceSen": 5190000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "4 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL WALID — AW4 4 RM51,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AW3",
+          "priceSen": 5490000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "3 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL WALID — AW3 3 RM54,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AW2",
+          "priceSen": 6490000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "2 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL WALID — AW2 2 RM64,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "al-balad-al-faroq",
+      "name": "Pakej Al Faroq",
+      "series": "Pakej Haji Al Balad 1448H",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 35,
+        "max": 45,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PAKEJ AL FAROQ 35 - 45 HARI",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 6,
+            "text": "PAKEJ AL FAROQ 35 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+        "description": "Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "05 Mina (Sunat Tarwiyah) 7 - 9 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [5, 6],
+        "defaultArrangementNote": "Susunan 5-6 orang sebilik.",
+        "dateLabel": "1 - 7 Zulhijjah dan 10 - 14 Zulhijjah (lakaran perjalanan)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah asal di Mina Muassim (disediakan bersama penginapan Aziziyah).",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah (1–7 Zulhijjah) → Masyair → Aziziyah (10–14 Zulhijjah) → Makkah → Madinah, mengikut lakaran perjalanan umum.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PENERBANGAN - CATER TH 30kg + 7kg Kabin",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet 3x sehari; 3 kali sehari di Mekah, Madinah, Aziziyah, Arafah dan Mina",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "SAJIAN MAKANAN Buffet 3x Sehari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "SAJIAN MAKANAN 3 KALI SEHARI — Hidangan disediakan 3 kali sehari sepanjang keberadaan jemaah di Mekah, Madinah, Aziziyah, Arafah dan Mina.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwa 3",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MEKAH SAFWA 3 ±60m ( Zon C ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "SAFWA 3 ±60m ( Zon C ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Oriens Manaber",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "1 - 7 Zulhijjah; 10 - 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 540,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Dataran kompleks melontar",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "ORIENS MANABER ±540m dari dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwa 3",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Kembali ke Hotel Mekah selepas 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid (hlm. 5); dari pagar Masjid (hlm. 6)",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MADINAH GRAND MILLENIUM AL HARAM ±100m ( Zon B ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "GRAND MILLENIUM AL HARAM ±100m dari pagar Masjid",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah Taif tanpa bayaran tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "ZIARAH TAIF — Program ziarah ke Taif disediakan tanpa bayaran tambahan bagi semua jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah di Mina pada 7 Zulhijjah",
+          "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan haji & program agama; Program Bimbingan Kemuncak Haji 1–14 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "PROGRAM BIMBINGAN KEMUNCAK HAJI — Program bimbingan intensif bermula 1 hingga 14 Zulhijjah ...",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 8,
+              "text": "Program Bimbingan Di Tanah Suci — Pengisian Penuh Menuju Kemuncak Haji (1–13 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pos 5kg barangan dari Tanah Suci ke Malaysia",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "POS 5KG — Kemudahan penghantaran barangan sehingga 5kg bagi setiap jemaah dari Tanah Suci ke Malaysia.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Mutawwif berpengalaman",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MUTAWWIF BERPENGALAMAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "20 program ziarah sirah (Taif, Mekah, Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "20 PROGRAM ZIARAH SIRAH — ... program ziarah pilihan di Taif, Mekah dan Madinah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Majlis kesyukuran (makan malam khas di Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MAJLIS KESYUKURAN — Majlis makan malam khas di Tanah Suci ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kereta api HHSR 'Speed Train' sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bagasi penerbangan 30kg + 7kg kabin",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "PENERBANGAN - CATER TH 30kg + 7kg Kabin",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kelengkapan asas haji (bagasi 28\", beg kabin, beg sandang, set kain ihram, T-shirt lelaki, telekung, kain tudung, uncang kasut, botol spray wuduk, mini sejadah, payung, bantal leher, buku panduan dan doa, topi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 6,
+              "text": "Kelengkapan Asas Haji — Bagasi 28\", Beg Kabin, Beg Sandang, Set Kain Ihram, T-Shirt Lelaki, Telekung, Kain Tudung, Uncang Kasut, Botol Spray Wuduk, Mini Sejadah, Payung, Bantal Leher, Buku Panduan dan Doa, Topi Lelaki & Wanita",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "AF5",
+          "priceSen": 5490000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "5 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL FAROQ — AF5 5 RM54,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AF4",
+          "priceSen": 5690000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "4 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL FAROQ — AF4 4 RM56,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AF3",
+          "priceSen": 5990000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "3 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL FAROQ — AF3 3 RM59,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AF2",
+          "priceSen": 6990000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "2 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL FAROQ — AF2 2 RM69,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "al-balad-al-siddiq",
+      "name": "Pakej Al Siddiq",
+      "series": "Pakej Haji Al Balad 1448H",
+      "tierLabel": "Pilihan Premium",
+      "duration": {
+        "value": null,
+        "min": 25,
+        "max": 30,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PAKEJ AL SIDDIQ 25 - 30 HARI",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 6,
+            "text": "PAKEJ AL SIDDIQ 25 - 30 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+        "description": "Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "05 Mina (Sunat Tarwiyah) 7 - 9 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [5, 6],
+        "defaultArrangementNote": "Susunan 5-6 orang sebilik.",
+        "dateLabel": "1 - 7 Zulhijjah dan 10 - 14 Zulhijjah (lakaran perjalanan)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah asal di Mina Muassim (disediakan bersama penginapan Aziziyah).",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "PENGINAPAN AZIZIYAH — Penginapan bertaraf hotel berhampiran Kompleks Jamrah di Mina, dengan susunan 5-6 orang sebilik. Jemaah turut disediakan khemah asal di Mina Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah (1–7 Zulhijjah) → Masyair → Aziziyah (10–14 Zulhijjah) → Makkah → Madinah, mengikut lakaran perjalanan umum.",
+        "evidence": [
+          {
+            "pdfPage": 7,
+            "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "PENERBANGAN - Cater TH / Komersial 30kg + 7kg Kabin",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet 3x sehari; 3 kali sehari di Mekah, Madinah, Aziziyah, Arafah dan Mina",
+        "evidence": [
+          {
+            "pdfPage": 5,
+            "text": "SAJIAN MAKANAN Buffet 3x Sehari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 7,
+            "text": "SAJIAN MAKANAN 3 KALI SEHARI — Hidangan disediakan 3 kali sehari sepanjang keberadaan jemaah di Mekah, Madinah, Aziziyah, Arafah dan Mina.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Movenpick Hajar",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MEKAH MOVENPICK HAJAR ±80m ( Zon C ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "MOVENPICK HAJAR ±80m dari dataran Masjidil Haram",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Oriens Manaber",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "1 - 7 Zulhijjah; 10 - 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 540,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Dataran kompleks melontar",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "AZIZIYAH ORIENS MANABER ±540m dari Dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "ORIENS MANABER ±540m dari dataran kompleks melontar",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 7,
+              "text": "04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah ... 09 Hotel Aziziyah 10 - 14 Zulhijjah Melontar 3 Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Movenpick Hajar",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Kembali ke Hotel Mekah selepas 14 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "03 Daftar masuk Hotel Mekah → 04 Daftar masuk Hotel Aziziyah 1 - 7 Zulhijjah → ... 09 Hotel Aziziyah 10 - 14 Zulhijjah → 10 Kembali ke Hotel Mekah → 11 Daftar Masuk Hotel Madinah (Lakaran Perjalanan Manasik Haji)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari Dataran Masjid (hlm. 5); dari pagar Masjid (hlm. 6)",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "MADINAH GRAND MILLENIUM AL HARAM ±100m ( Zon B ) dari Dataran Masjid",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 6,
+              "text": "GRAND MILLENIUM AL HARAM ±100m dari pagar Masjid",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah Taif tanpa bayaran tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "ZIARAH TAIF — Program ziarah ke Taif disediakan tanpa bayaran tambahan bagi semua jemaah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah di Mina pada 7 Zulhijjah",
+          "condition": "Tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi",
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "TARWIYAH — Semua jemaah dibawa ke Mina pada 7 Zulhijjah sebelum bergerak ke Arafah, tertakluk kepada kelulusan Kementerian Haji dan Umrah Arab Saudi.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan haji & program agama; Program Bimbingan Kemuncak Haji 1–14 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "PROGRAM BIMBINGAN KEMUNCAK HAJI — Program bimbingan intensif bermula 1 hingga 14 Zulhijjah ...",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 8,
+              "text": "Program Bimbingan Di Tanah Suci — Pengisian Penuh Menuju Kemuncak Haji (1–13 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pos 5kg barangan dari Tanah Suci ke Malaysia",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "POS 5KG — Kemudahan penghantaran barangan sehingga 5kg bagi setiap jemaah dari Tanah Suci ke Malaysia.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Mutawwif berpengalaman",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MUTAWWIF BERPENGALAMAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "20 program ziarah sirah (Taif, Mekah, Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "20 PROGRAM ZIARAH SIRAH — ... program ziarah pilihan di Taif, Mekah dan Madinah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Majlis kesyukuran (makan malam khas di Tanah Suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 7,
+              "text": "MAJLIS KESYUKURAN — Majlis makan malam khas di Tanah Suci ...",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kereta api HHSR 'Speed Train' sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "HHSR 'SPEED TRAIN' Perjalanan Sehala",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bagasi penerbangan 30kg + 7kg kabin",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 5,
+              "text": "PENERBANGAN - CATER TH 30kg + 7kg Kabin",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kelengkapan asas haji (bagasi 28\", beg kabin, beg sandang, set kain ihram, T-shirt lelaki, telekung, kain tudung, uncang kasut, botol spray wuduk, mini sejadah, payung, bantal leher, buku panduan dan doa, topi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 6,
+              "text": "Kelengkapan Asas Haji — Bagasi 28\", Beg Kabin, Beg Sandang, Set Kain Ihram, T-Shirt Lelaki, Telekung, Kain Tudung, Uncang Kasut, Botol Spray Wuduk, Mini Sejadah, Payung, Bantal Leher, Buku Panduan dan Doa, Topi Lelaki & Wanita",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "AS4",
+          "priceSen": 6290000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "4 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL SIDDIQ — AS4 4 RM62,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AS3",
+          "priceSen": 6590000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "3 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL SIDDIQ — AS3 3 RM65,900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AS2",
+          "priceSen": 7590000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "2 orang (ikon)",
+          "priceEvidence": [
+            {
+              "pdfPage": 5,
+              "text": "PAKEJ AL SIDDIQ — AS2 2 RM75,900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [],
+  "charges": [
+    {
+      "id": "al-balad-bayaran-haji-pjh",
+      "packageIds": ["al-balad-al-walid", "al-balad-al-faroq", "al-balad-al-siddiq"],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 5,
+          "text": "Harga Pakej Haji adalah termasuk Bayaran Haji PJH 1448H/2027 sebanyak RM23,398 yang akan didebitkan daripada Akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "al-balad-caj-tambahan-th",
+      "packageIds": ["al-balad-al-walid", "al-balad-al-faroq", "al-balad-al-siddiq"],
+      "description": "Caj tambahan jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 5,
+          "text": "Walau bagaimanapun, TH berhak mengenakan caj tambahan sekiranya berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti atau pihak berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga besar pada kepala kad pakej (RM49,900 / RM54,900 / RM62,900) pada hlm. 5 dan 6",
+      "reason": "Ulangan harga varian terendah (AW5, AF5, AS4), bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 6,
+          "text": "PAKEJ AL WALID RM 49,900; PAKEJ AL FAROQ RM 54,900; PAKEJ AL SIDDIQ RM 62,900",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.occupancy",
+      "note": "Bilangan sebilik ditunjukkan dengan ikon (5/4/3/2 orang) sahaja; diandaikan sama untuk Makkah dan Madinah kerana tiada pembezaan dicetak.",
+      "pages": [5]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair/pmnStatus",
+      "note": "Tiada PMN disebut; hanya 'khemah asal di Mina Muassim'. pmnStatus = not_included berdasarkan kenyataan Muassim.",
+      "pages": [7]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass/trainClass",
+      "note": "Kelas penerbangan (Cater TH / Komersial) dan kelas tren HHSR tidak dinyatakan.",
+      "pages": [5]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah.dateLabel",
+      "note": "Tarikh Aziziyah (1–7 & 10–14 Zulhijjah) daripada lakaran perjalanan umum, bukan per pakej; Al Siddiq (25–30 hari) mungkin berbeza.",
+      "pages": [7]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "terms.cancellation",
+      "note": "Kadar denda pembatalan tidak dicetak; dirujuk kepada borang pengesahan. Teks nota sangat kecil di bawah syarat pembatalan tidak dapat dibaca.",
+      "pages": [8]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.orEquivalent",
+      "note": "Tiada '@ setaraf' dicetak; orEquivalent = false.",
+      "pages": [5, 6]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-A",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula pdftoppm 220 dpi dan potongan bagi maklumat hotel dan nota kaki.",
+    "independentCheck": null
+  }
+}
