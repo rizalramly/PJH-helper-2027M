@@ -14,7 +14,7 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 6,
+    "pjhReviewed": 11,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
@@ -264,10 +264,10 @@
       "variantsImported": 7,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "06/1448H",
-      "factsVerified": 0,
+      "factsVerified": 18,
       "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -281,7 +281,7 @@
         "[non_blocking] az-safir: flightClass/trainClass — Kelas penerbangan dan kereta api tidak dinyatakan."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-B (semakan bebas belum dibuat)"
+      "reviewer": "agen-B; semakan bebas: penyemak-2"
     },
     {
       "index": 7,
@@ -311,23 +311,23 @@
       "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH07/1448H",
-      "factsVerified": 0,
+      "factsVerified": 50,
       "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] az-zuha: variants.priceSen — Kotak harga utama setiap pakej berlabel 'HARGA BERMULA'; harga direkod seperti dicetak bagi setiap susunan bilik.",
         "[non_blocking] az-zuha: tarwiyah — Tarwiyah tidak dinyatakan dalam hlm. 26–32.",
-        "[non_blocking] az-zuha: masyair.type — Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai tambahan berbayar, maka pmnStatus = not_included.",
-        "[non_blocking] az-zuha: aziziyah.defaultOccupancies — Bilangan sebilik di Aziziah 'mengikut pilihan pakej' — tidak dinyatakan sebagai nombor; hotel Dar AlHamd/Dar AlSalah (dua pilihan).",
+        "[non_blocking] az-zuha: masyair.type — Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai tambahan berbayar RM8,900. Ikut R4, pmnStatus varian = not_stated (khemah asas tidak dinyatakan).",
+        "[non_blocking] az-zuha: aziziyah.defaultOccupancies — Bilangan sebilik di Aziziah dicetak sebagai 'mengikut pilihan pakej' (bukan nombor); direkod aziziyahOccupancy = susunan bilik varian. Hotel Dar AlHamd/Dar AlSalah (dua pilihan).",
         "[non_blocking] az-zuha: upgrades.basis — Harga PMN RM8,900 dan naik taraf penerbangan RM11,900 tidak menyatakan 'seorang'; dianggap per jemaah.",
         "[non_blocking] az-zuha: stays.orEquivalent — Tiada 'setaraf' dicetak bagi hotel Makkah/Madinah; nama hotel direkod tepat."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-B (semakan bebas belum dibuat)"
+      "reviewer": "agen-B; semakan bebas: penyemak-2"
     },
     {
       "index": 8,
@@ -400,11 +400,11 @@
       "variantsImported": 12,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 09/1448",
-      "factsVerified": 0,
-      "fieldsNotPublished": 7,
+      "factsVerified": 34,
+      "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
@@ -412,12 +412,11 @@
         "[non_blocking] citra: masyair/pmnStatus — Jenis khemah Mina/Arafah (PMN atau Muaisim) tidak dinyatakan.",
         "[non_blocking] citra: tarwiyah — Tarwiyah tidak dinyatakan.",
         "[non_blocking] citra: flightClass/trainClass — Kelas penerbangan dan kereta api tidak dinyatakan.",
-        "[non_blocking] citra-standard-eko: aziziyah — Status explicitly_not_included berdasarkan label 'TANPA TRANSIT' berbanding 'PAKEJ TRANSIT' (yang termasuk hotel Shisha/Aziziyyah); tiada ayat 'tanpa Aziziyah' secara harfiah. Perlu disahkan penyemak.",
         "[non_blocking] citra: stays.distanceReference — Jarak hotel Makkah/Madinah dicetak sebagai 'NN METER' tanpa titik ukuran.",
-        "[non_blocking] citra: stays.location — Hotel Safwat Al Masyaeir berada di 'Shisha'; brosur menyamakan 'Shisha/Aziziyyah', maka direkod sebagai location aziziyah."
+        "[non_blocking] citra: stays.location — Hotel Safwat Al Masyaeir berada di 'Shisha' (brosur: 'Shisha/Aziziyyah'); ikut R1 direkod location aziziyah dengan aziziyah.labelAsPublished = 'Shisha'."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-B (semakan bebas belum dibuat)"
+      "reviewer": "agen-B; semakan bebas: penyemak-2"
     },
     {
       "index": 10,
@@ -442,23 +441,23 @@
       "variantsImported": 5,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH10/1448H",
-      "factsVerified": 0,
+      "factsVerified": 27,
       "fieldsNotPublished": 6,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] cs-holidays: aziziyah — Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel transit 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram') dan direkod sebagai stays.location = mina; aziziyah.status = not_stated. Penyemak perlu putuskan sama ada ia setara Aziziyah.",
+        "[non_blocking] cs-holidays: aziziyah — Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram'). Ikut R1, direkod stays.location = aziziyah, aziziyah.status = included, labelAsPublished = 'hotel Mina (Syisyah)'. Khemah Mina (mabit 11-13 Zulhijjah) bukan hotel.",
         "[non_blocking] cs-holidays-standard: variants.CSS03 — CSS03 dicetak '4 - 5 Orang Sebilik' dengan satu harga; direkod sebagai dua varian (4 dan 5) dengan kod dan harga sama.",
         "[non_blocking] cs-holidays-standard: upgrades.cs-holidays-bilik-berdua-durrat-mina.includedInVariantCodes — Tidak dinyatakan sama ada CSS01 (2 orang sebilik) sudah termasuk bilik berdua di hotel Mina; nota '**Penginapan di Mina secara berkelompok' mencadangkan tidak, maka includedInVariantCodes = [] (tambahan terpakai kepada semua varian Standard). Perlu disahkan.",
         "[non_blocking] cs-holidays: tarwiyah — Tarwiyah tidak dinyatakan. Penerangan PMN menyebut pergerakan ke Arafah pagi 9 Zulhijjah (bukan 8 Zulhijjah), iaitu bukan Tarwiyah.",
-        "[non_blocking] cs-holidays-standard: masyair.type — Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak); PMN tambahan RM10,000, maka pmnStatus = not_included.",
+        "[non_blocking] cs-holidays-standard: masyair.type — Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak dalam nota PMN); PMN tambahan RM10,000. Ikut R4, pmnStatus varian Standard = not_stated.",
         "[non_blocking] cs-holidays-premier: inclusions.Tawaf Saei Haji awal — Item bertanda '*' tanpa nota kaki yang dapat dikenal pasti."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-B (semakan bebas belum dibuat)"
+      "reviewer": "agen-B; semakan bebas: penyemak-2"
     },
     {
       "index": 11,
@@ -484,10 +483,10 @@
       "variantsImported": 15,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 11/1448H",
-      "factsVerified": 0,
+      "factsVerified": 59,
       "fieldsNotPublished": 10,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -504,7 +503,7 @@
         "[non_blocking] eiman: pjh.terms — Hlm. 50 merujuk borang 'PENGESAHAN TERIMA TAWARAN PERKHIDMATAN PAKEJ HAJI 1447H/2026' untuk kadar denda; kadar sebenar tidak dicetak."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-B (semakan bebas belum dibuat)"
+      "reviewer": "agen-B; semakan bebas: penyemak-2"
     },
     {
       "index": 12,

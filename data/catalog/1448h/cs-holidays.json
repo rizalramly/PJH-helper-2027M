@@ -13,7 +13,7 @@
       {
         "pdfPage": 46,
         "text": "PJH10/1448H — 208598D — KPL/LN3131",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 47,
             "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah. 2. Sebarang ketibaan awal adalah tertakluk kepada kos tambahan lain yang tidak dapat dielakkan. 3. Sebarang ketibaan awal adalah berdasarkan kepada kekosongan Bilik Penginapan serta tertakluk kepada Penginapan secara berkelompok mengikut jantina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 47,
             "text": "TERMA & SYARAT PEMULANGAN WANG (REFUND) 1. Tiada pemulangan wang akan diberikan bagi perkhidmatan yang tidak digunakan ... 3. Proses pemulangan wang mungkin mengambil masa sehingga 30-60 hari bekerja selepas kelulusan diberikan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 47,
             "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 47,
             "text": "MAKLUMAT PEMBAYARAN: Maybank Islamic — CS HOLIDAYS SDN BHD 5640 9810 1116",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
@@ -94,7 +94,7 @@
           {
             "pdfPage": 46,
             "text": "Anggaran +- 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -104,7 +104,7 @@
           {
             "pdfPage": 47,
             "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -115,24 +115,25 @@
         "evidence": []
       },
       "aziziyah": {
-        "status": "not_stated",
+        "status": "included",
         "condition": null,
         "defaultOccupancies": null,
-        "defaultArrangementNote": "Brosur tidak menyebut 'Aziziyah'. Hotel transit 01-15 Zulhijjah ialah 'hotel Mina' Durrat Mina / Durrat Rose di kawasan Syisyah; penginapan berkelompok mengikut jantina; bilik berdua dengan bayaran tambahan RM1,500.",
+        "defaultArrangementNote": "Dicetak sebagai 'hotel Mina' Durrat Mina / Durrat Rose di kawasan Syisyah (masih dalam Tanah Haram), 01-15 Zulhijjah; penginapan berkelompok mengikut jantina; bilik berdua dengan bayaran tambahan RM1,500.",
         "dateLabel": "01 - 15 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 46,
             "text": "DURRAT MINA / DURRAT ROSE SYISYAH** 01 - 15 Zulhijjah — **Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 46,
             "text": "6. Lokasi hotel Mina terletak di kawasan Syisyah (masih dalam Tanah Haram).",
-            "status": "transcribed"
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "hotel Mina (Syisyah)"
       },
       "masyair": {
         "type": "not_stated",
@@ -141,12 +142,12 @@
           {
             "pdfPage": 46,
             "text": "3. Khemah Mina disediakan bagi bermabit pada malam ke 11, 12 & 13 Zulhijjah. 4. Selepas melontar terus balik berehat di hotel di sepanjang waktu siang.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 46,
             "text": "Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN) Tambahan RM10,000",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -157,7 +158,7 @@
           {
             "pdfPage": 46,
             "text": "DURRAT MINA / DURRAT ROSE SYISYAH 01 - 15 Zulhijjah > LE MERIDIEN HOTEL MAKKAH 15 Zulhijjah - 01 Muharram > MYSK TOUCH MADINAH 01 - 10 Muharram",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -167,7 +168,7 @@
           {
             "pdfPage": 46,
             "text": "Penerbangan Cater Tabung Haji",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -177,7 +178,7 @@
           {
             "pdfPage": 46,
             "text": "2. TERMASUK tiket keretapi laju Makkah - Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -187,12 +188,12 @@
           {
             "pdfPage": 46,
             "text": "Makan disediakan 3 kali sehari.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 47,
             "text": "SAJIAN MAKANAN — 3x sehari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -203,7 +204,7 @@
       "unresolvedConflicts": [],
       "stays": [
         {
-          "location": "mina",
+          "location": "aziziyah",
           "sequence": 1,
           "hotelNameAsPublished": "Durrat Mina / Durrat Rose Syisyah",
           "orEquivalent": false,
@@ -223,12 +224,12 @@
             {
               "pdfPage": 46,
               "text": "DURRAT MINA / DURRAT ROSE SYISYAH** ★★★ 01 - 15 Zulhijjah +-960m dari Dataran Kompleks Melontar",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 46,
               "text": "**Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -253,7 +254,7 @@
             {
               "pdfPage": 46,
               "text": "LE MERIDIEN HOTEL MAKKAH ★★★★★ 15 Zulhijjah - 01 Muharram +-260m dari Dataran Masjid",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -278,7 +279,7 @@
             {
               "pdfPage": 46,
               "text": "MYSK TOUCH MADINAH ★★★ 01 - 10 Muharram +-80m dari Pintu Pagar Masjid",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -291,7 +292,7 @@
             {
               "pdfPage": 46,
               "text": "2. TERMASUK tiket keretapi laju Makkah - Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -302,7 +303,7 @@
             {
               "pdfPage": 46,
               "text": "5. TERMASUK 1 ekor Kambing Korban bagi setiap jamaah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -313,7 +314,7 @@
             {
               "pdfPage": 46,
               "text": "3. Khemah Mina disediakan bagi bermabit pada malam ke 11, 12 & 13 Zulhijjah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -324,7 +325,7 @@
             {
               "pdfPage": 47,
               "text": "SAJIAN MAKANAN — 3x sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -335,7 +336,7 @@
             {
               "pdfPage": 47,
               "text": "ZIARAH MAKKAH & MADINAH — Ziarah 2x di Makkah & 1x di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -346,7 +347,7 @@
             {
               "pdfPage": 47,
               "text": "PETUGAS — Nisbah 1 petugas bagi tiap 50 jemaah haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -357,7 +358,7 @@
             {
               "pdfPage": 47,
               "text": "CENDERAHATI — Set bagasi haji, kain ihram, telekung, sarung tangan wanita, uncang kasut, tag nama, buku panduan haji umrah, beg sandang & uncang belakang serbaguna.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -368,7 +369,7 @@
             {
               "pdfPage": 47,
               "text": "BIMBINGAN — Taklimat di Tanah Air dan Tanah Suci akan dibimbing oleh pembimbing yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -379,7 +380,7 @@
             {
               "pdfPage": 47,
               "text": "KURSUS HAJI — Secara intensif di Kuala Lumpur dan taklimat akhir sebelum berlepas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -391,7 +392,7 @@
             {
               "pdfPage": 47,
               "text": "INSURAN PERJALANAN — Atas permintaan jemaah dengan bayaran tambahan kecuali Premier telah termasuk.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -404,15 +405,15 @@
           "currency": "MYR",
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "4 - 5 Orang Sebilik",
-          "notes": "Harga sama bagi 4 atau 5 orang sebilik (dicetak '4 - 5 Orang Sebilik').",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 46,
               "text": "CSS03 RM 54,980 — 4 - 5 Orang Sebilik",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -423,15 +424,15 @@
           "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "4 - 5 Orang Sebilik",
-          "notes": "Harga sama bagi 4 atau 5 orang sebilik (dicetak '4 - 5 Orang Sebilik').",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 46,
               "text": "CSS03 RM 54,980 — 4 - 5 Orang Sebilik",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -442,7 +443,7 @@
           "currency": "MYR",
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "3 Orang Sebilik",
           "notes": null,
@@ -450,7 +451,7 @@
             {
               "pdfPage": 46,
               "text": "CSS02 RM 57,980 — 3 Orang Sebilik",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -461,7 +462,7 @@
           "currency": "MYR",
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "2 Orang Sebilik",
           "notes": null,
@@ -469,7 +470,7 @@
             {
               "pdfPage": 46,
               "text": "CSS01 RM 59,980 — 2 Orang Sebilik",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -489,7 +490,7 @@
           {
             "pdfPage": 47,
             "text": "Anggaran +- 20-25 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -499,7 +500,7 @@
           {
             "pdfPage": 47,
             "text": "1. Pakej adalah berdasarkan ketibaan jamaah haji bermula 1 Zulhijjah 1448H dan mendarat di Lapangan Terbang Jeddah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -510,19 +511,26 @@
         "evidence": []
       },
       "aziziyah": {
-        "status": "not_stated",
+        "status": "included",
         "condition": null,
         "defaultOccupancies": null,
-        "defaultArrangementNote": "Brosur tidak menyebut 'Aziziyah'. Hotel 01-15 Zulhijjah ialah Durrat Mina Syisyah ('hotel berdekatan Mina Jamarat').",
+        "defaultArrangementNote": "Dicetak sebagai hotel Durrat Mina Syisyah 01-15 Zulhijjah ('Ada hotel berdekatan Mina Jamarat'; selepas mabit di Muzdalifah terus ke 'Hotel Mina').",
         "dateLabel": "01 - 15 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 47,
             "text": "DURRAT MINA SYISYAH ★★★ 01 - 15 Zulhijjah +-890m dari Dataran Kompleks Melontar",
-            "status": "transcribed"
+            "status": "verified"
+          },
+          {
+            "sourceId": "compilation-34pjh-1448h",
+            "pdfPage": 47,
+            "text": "Ada hotel berdekatan Mina Jamarat & Mall ... Bas Sewa Khas bagi pergerakan 9 Zulhijjah ke Arafah dan selepas Mabit di Muzdalifah terus ke Hotel Mina.",
+            "status": "verified"
           }
-        ]
+        ],
+        "labelAsPublished": "hotel Mina (Syisyah)"
       },
       "masyair": {
         "type": "pmn",
@@ -531,17 +539,17 @@
           {
             "pdfPage": 47,
             "text": "TERMASUK Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 47,
             "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 46,
             "text": "Khemah PMN bagi urusan Mabit di Mina terletak 200m ke Kompleks Melontar (Haji 1448H) berbanding jarak 4km jika di Muaissem. Khemah di Mina digunakan hanya bagi tujuan berMabit sahaja. Selesai Mabit, semua akan berehat di hotel Mina di sepanjang siang hari.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -552,7 +560,7 @@
           {
             "pdfPage": 47,
             "text": "DURRAT MINA SYISYAH 01 - 15 Zulhijjah > ROTANA CLOCK TOWER MAKKAH 15 - 21 Zulhijjah > THE BILTMORE MADINAH 21 - 25 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -562,7 +570,7 @@
           {
             "pdfPage": 47,
             "text": "Tiket Penerbangan BUSINESS CLASS (komersil bernilai RM18k - RM26k)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -572,7 +580,7 @@
           {
             "pdfPage": 47,
             "text": "Keretapi Laju BUSINESS CLASS ke Madinah",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -582,7 +590,7 @@
           {
             "pdfPage": 47,
             "text": "Selepas melontar balik berehat di hotel. Makanan disediakan 3 kali sehari.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -593,7 +601,7 @@
       "unresolvedConflicts": [],
       "stays": [
         {
-          "location": "mina",
+          "location": "aziziyah",
           "sequence": 1,
           "hotelNameAsPublished": "Durrat Mina Syisyah",
           "orEquivalent": false,
@@ -613,7 +621,7 @@
             {
               "pdfPage": 47,
               "text": "DURRAT MINA SYISYAH ★★★ 01 - 15 Zulhijjah +-890m dari Dataran Kompleks Melontar",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -638,7 +646,7 @@
             {
               "pdfPage": 47,
               "text": "ROTANA CLOCK TOWER MAKKAH ★★★★★ 15 - 21 Zulhijjah +-80m dari Dataran Masjid",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -663,7 +671,7 @@
             {
               "pdfPage": 47,
               "text": "THE BILTMORE MADINAH ★★★★★ 21 - 25 Zulhijjah +-15m dari Pintu Pagar Masjid",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -676,7 +684,7 @@
             {
               "pdfPage": 47,
               "text": "Tiket Penerbangan BUSINESS CLASS (komersil bernilai RM18k - RM26k)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -687,7 +695,7 @@
             {
               "pdfPage": 47,
               "text": "Keretapi Laju BUSINESS CLASS ke Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -698,7 +706,7 @@
             {
               "pdfPage": 47,
               "text": "1 ekor kambing korban bagi setiap jemaah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -709,7 +717,7 @@
             {
               "pdfPage": 47,
               "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -720,7 +728,7 @@
             {
               "pdfPage": 47,
               "text": "Insurans perjalanan yang komprehensif",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -731,7 +739,7 @@
             {
               "pdfPage": 47,
               "text": "Tawaf Saei Haji awal*",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -742,7 +750,7 @@
             {
               "pdfPage": 47,
               "text": "Bas Sewa Khas bagi pergerakan 9 Zulhijjah ke Arafah dan selepas Mabit di Muzdalifah terus ke Hotel Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -753,7 +761,7 @@
             {
               "pdfPage": 47,
               "text": "SAJIAN MAKANAN — 3x sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -764,7 +772,7 @@
             {
               "pdfPage": 47,
               "text": "ZIARAH MAKKAH & MADINAH — Ziarah 2x di Makkah & 1x di Madinah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -775,7 +783,7 @@
             {
               "pdfPage": 47,
               "text": "PETUGAS — Nisbah 1 petugas bagi tiap 50 jemaah haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -786,7 +794,7 @@
             {
               "pdfPage": 47,
               "text": "CENDERAHATI — Set bagasi haji, kain ihram, telekung, sarung tangan wanita, uncang kasut, tag nama, buku panduan haji umrah, beg sandang & uncang belakang serbaguna.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -797,7 +805,7 @@
             {
               "pdfPage": 47,
               "text": "BIMBINGAN — Taklimat di Tanah Air dan Tanah Suci akan dibimbing oleh pembimbing yang berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -808,7 +816,7 @@
             {
               "pdfPage": 47,
               "text": "KURSUS HAJI — Secara intensif di Kuala Lumpur dan taklimat akhir sebelum berlepas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -830,7 +838,7 @@
             {
               "pdfPage": 47,
               "text": "RM CSP01 120,000 — 2 Orang Sebilik — TERMASUK Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -857,7 +865,7 @@
         {
           "pdfPage": 46,
           "text": "Perkhidmatan Masyair (Arafah & Mina) Naik Taraf (PMN) Tambahan RM10,000",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -868,8 +876,8 @@
       ],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
-      "kind": "other",
-      "description": "Tambahan bilik berdua di hotel Mina Durrat Mina Syisyah (01-15 Zulhijjah)",
+      "kind": "aziziyah_room",
+      "description": "Tambahan bilik berdua di hotel Mina Durrat Mina Syisyah (01-15 Zulhijjah; direkod sebagai penginapan Aziziyah ikut R1)",
       "priceSen": 150000,
       "basis": "per_person",
       "nightCount": null,
@@ -880,12 +888,12 @@
         {
           "pdfPage": 46,
           "text": "Tambahan Bilik Berdua DURRAT MINA SYISYAH ★★★ RM 1,500 — Harga Pakej berdasarkan harga seorang peserta.",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 46,
           "text": "**Penginapan di Mina secara berkelompok mengikut Jantina. Tempahan bilik berdua dengan bayaran tambahan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -907,12 +915,12 @@
         {
           "pdfPage": 47,
           "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 47,
           "text": "5. Harga Pakej Haji adalah TERMASUK Bayaran Haji PJH 1448H / 2027M. Bayaran Haji ini akan didebitkan dari AKAUN TH Jemaah Haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -931,7 +939,7 @@
         {
           "pdfPage": 47,
           "text": "Khemah PMN disediakan di Arafah & Mina (RM10,000)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -951,7 +959,7 @@
         {
           "pdfPage": 47,
           "text": "*Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi. Semua kelebihan & keistimewaan ini adalah TERTAKLUK kepada KELULUSAN & PENGESAHAN dari pihak berkuasa. TEMPOH PENGINAPAN tertakluk kepada Jadual Penerbangan Haji yang akan ditetapkan oleh TH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -971,7 +979,7 @@
         {
           "pdfPage": 47,
           "text": "2. Sebarang ketibaan awal adalah tertakluk kepada kos tambahan lain yang tidak dapat dielakkan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -990,7 +998,7 @@
         {
           "pdfPage": 47,
           "text": "INSURAN PERJALANAN — Atas permintaan jemaah dengan bayaran tambahan kecuali Premier telah termasuk.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1001,7 +1009,7 @@
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah",
-      "note": "Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel transit 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram') dan direkod sebagai stays.location = mina; aziziyah.status = not_stated. Penyemak perlu putuskan sama ada ia setara Aziziyah.",
+      "note": "Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram'). Ikut R1, direkod stays.location = aziziyah, aziziyah.status = included, labelAsPublished = 'hotel Mina (Syisyah)'. Khemah Mina (mabit 11-13 Zulhijjah) bukan hotel.",
       "pages": [
         46,
         47
@@ -1039,7 +1047,7 @@
       "severity": "non_blocking",
       "packageId": "cs-holidays-standard",
       "field": "masyair.type",
-      "note": "Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak); PMN tambahan RM10,000, maka pmnStatus = not_included.",
+      "note": "Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak dalam nota PMN); PMN tambahan RM10,000. Ikut R4, pmnStatus varian Standard = not_stated.",
       "pages": [
         46
       ]
@@ -1058,6 +1066,10 @@
     "reviewer": "agen-B",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman penuh + render semula 250 dpi (pdftoppm) dan potongan diperbesar bagi hotel/tarikh/jarak, nota Mina, PMN dan terma.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-2",
+      "checkedAt": "2026-10-03",
+      "notes": "Halaman 46-47 dan 5 varian disemak dengan imej (render 250 dpi): kod, harga dan bilik betul. Keputusan R1: hotel Mina Durrat Mina/Durrat Rose Syisyah 01-15 Zulhijjah -> stays.location aziziyah, aziziyah.status included, labelAsPublished 'hotel Mina (Syisyah)' bagi Standard dan Premier; naik taraf bilik berdua RM1,500 -> kind aziziyah_room. R2: CSS03 '4 - 5 Orang Sebilik' kekal dua varian, notes diseragamkan. R4: pmnStatus Standard not_included -> not_stated (khemah asas tidak dinamakan). Premier PMN included (harga dinyatakan TERMASUK PMN). Tarwiyah not_stated (Arafah 9 Zulhijjah bagi PMN; bukan pernyataan Tarwiyah)."
+    }
   }
 }
