@@ -1,0 +1,1916 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "kembara-umrah",
+    "label": "Kembara Umrah",
+    "name": "Kembara Umrah",
+    "legalName": "Kembara Umrah Sdn Bhd",
+    "website": "kembaraumrah.my",
+    "publicContact": "Hj Shafiq 019 985 1638; Hj Shafie 012 952 8577 / 019 446 5777; Pn Rosmawati Ismail 012 949 2577",
+    "licenceNumberAsPublished": "PJH21/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 88,
+        "text": "LESEN PJH : PJH21/1448H — LESEN SSM : 201201041575 (1026053-V) — LESEN MOTAC : KPL : 7267",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Bakal haji mesti berdaftar dengan Lembaga Tabung Haji dan bertanggungjawab mencukupkan Bayaran Haji.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "2. Bakal haji mesti berdaftar haji dengan Lembaga Tabung Haji (TH) dan bertanggungjawab mencukupkan Bayaran Haji pada kadar yang ditetapkan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bilangan hari 40 sehingga 45 hari, tertakluk kepada jadual penerbangan TH; hari tambahan ditanggung jemaah.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "4. Bilangan hari adalah 40 sehingga 45 hari ... Jika terlebih bilangan hari tambahan kos tertakluk kepada jemaah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan atau tidak cukup rakan sebilik, pakej alternatif ditawarkan; keutamaan kepada bakal haji terpilih awal.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "7. Sekiranya pakej pilihan utama tiada kekosongan atau tidak cukup rakan sebilik di akhir penyusunan bilik penginapan, bakal haji akan ditawarkan untuk menerima pakej pilihan alternatif",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bilik Aziziyah: berlima/berempat/bertiga; Makkah: berlima/berempat/bertiga/berdua; Madinah: berempat/bertiga/berdua.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "8. Pakej bilik di Aziziyah ialah Berlima, Berempat dan Bertiga, manakala pakej bilik di Makkah ialah Berlima, Berempat, Bertiga dan Berdua. Bagi Madinah ialah Berempat, Bertiga dan Berdua.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Manfaat pemeriksaan kesihatan, duit poket, dobi dan kargo terbatal jika jemaah membatalkan penyertaan.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "15. Sekiranya jemaah membatalkan penyertaan atau tidak berangkat menunaikan Haji, kelayakan manfaat No. 11, 12, 13, 14 tersebut adalah terbatal.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan 5% / 20% / 40% daripada harga pakej setelah ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "16. KATEGORI 1 ... 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Semua bayaran pakej dibuat terus ke akaun syarikat Kembara Umrah Sdn Bhd dengan resit rasmi.",
+        "evidence": [
+          {
+            "pdfPage": 90,
+            "text": "17. Semua bayaran pakej mestilah dibuat terus ke akaun syarikat Kembara Umrah Sdn Bhd dan pastikan mendapat resit rasmi syarikat.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      88,
+      90
+    ],
+    "pagesReviewed": [
+      88,
+      89,
+      90
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 88,
+        "content": "Muka depan + lesen; Pakej Mateen KHM1–4 dan Iman KHI1–4 (tempoh ±40 hari), hotel, makan, keistimewaan & kelebihan (Tarwiyah, Aziziyah 4-5 sebilik, naik taraf bilik berdua Aziziyah RM8,000)."
+      },
+      {
+        "pdfPage": 89,
+        "content": "Mateen Premium KHMP1–4 dan Iman Premium KHSP1–4 (termasuk PMN bernilai RM11,000), hotel, keistimewaan & kelebihan."
+      },
+      {
+        "pdfPage": 90,
+        "content": "23 cenderahati; Terma & Syarat 1–18 (tempoh 40–45 hari, susunan bilik, naik taraf Aziziyah, manfaat, pembatalan 5/20/40%); hubungan & alamat. T&S 10 terpotong."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "kembara-umrah-mateen",
+      "name": "Pakej Haji Mateen",
+      "series": "Mateen",
+      "tierLabel": "Mateen",
+      "duration": {
+        "value": 40,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "TEMPOH +-40 HARI (lencana pakej)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "4. Bilangan hari adalah 40 sehingga 45 hari. Namun begitu ianya tertakluk kepada kelulusan jadual penerbangan yang ditetapkan Tabung Haji (TH) sama ada lebih atau kurang bilangan hari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter oleh Tabung Haji; tarikh tertakluk kepada jadual TH",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "3. Tarikh dan tempoh pakej adalah tertakluk kepada jadual penerbangan yang ditetapkan Tabung Haji (TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai kelebihan pakej: 'Pergerakan Tarwiyah dan kemudahan bermabit jarak dekat'. Tiada syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Kelebihan PAKEJ — Pergerakan Tarwiyah Dan Kemudahan Bermabit Jarak Dekat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          3,
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah 4-5 orang sebilik, berasingan jemaah lelaki & wanita; pakej bilik Aziziyah berlima, berempat dan bertiga; jemaah bilik berdua (Makkah & Madinah) diberi bilik bertiga atau berempat di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penginapan Di Aziziyah 4-5 Orang Sebilik, Berasingan Jemaah Lelaki & Jemaah Wanita",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 88,
+            "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "8. Pakej bilik di Aziziyah ialah Berlima, Berempat dan Bertiga ... 9. Jemaah yang memilih bilik BERDUA (Makkah & Madinah) akan diberi bilik BERTIGA atau BEREMPAT di Hotel Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Halaman pakej asas tidak menyebut jenis khemah; PMN hanya dalam pakej Premium (bernilai RM11,000).",
+        "evidence": []
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Pakej makan fullboard 3x sehari (1x pagi, 1x tengahari, 1x malam); makanan tambahan 10 kali sepanjang musim haji (food pack, Katering AdeqSue).",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "PAKEJ MAKAN FULLBOARD 3X SEHARI 1 X MAKAN PAGI | 1 X MAKAN TENGAHARI | 1 X MAKAN MALAM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 88,
+            "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI Disediakan khas oleh Kembara Umrah melalui Katering AdeqSue. (Food Pack)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 7)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Prestige Ajyad @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 430,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HOTEL MAKKAH — Prestige Ajyad @ Setaraf +-430 Meter Dari Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nusuk Al massrah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 600,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Jamrah",
+          "meals": "Fullboard 3x sehari",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Elaf Taiba @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HOTEL MADINAH — Elaf Taiba @ Setaraf +-80 Meter Dari Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala (tempat duduk ekonomi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pemeriksaan kesihatan sehingga RM150 seorang",
+          "condition": "Jemaah yang menerima Surat Tawaran Haji dan layak berlepas; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "PEMERIKSAAN KESIHATAN SEHINGGA RM 150 SEORANG (Jemaah layak terbang musim haji)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "11. Pemeriksaan kesihatan asas bernilai RM150 seorang diberikan kepada jemaah yang menerima Surat Tawaran Haji dan memenuhi syarat kelayakan untuk berlepas pada musim Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Duit poket RM1,000 seorang",
+          "condition": "Mengikut kaedah dan ketetapan Kembara; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "DUIT POKET RM 1000 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "12. Setiap jemaah yang layak akan menerima duit poket bernilai RM1000 seorang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perbelanjaan dobi RM250 seorang",
+          "condition": "Tertakluk kepada kaedah penggunaan yang ditetapkan oleh pihak Kembara",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "PERBELANJAAN DOBI RM 250 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "13. Jemaah layak menerima manfaat dobi bernilai RM250 seorang sepanjang tempoh menunaikan Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bayaran kargo RM350 seorang",
+          "condition": "Tertakluk kepada berat, jenis barangan dan syarat penghantaran",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "BAYARAN KARGO RM 350 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "14. Setiap jemaah layak menerima manfaat kargo/pos bernilai RM350 seorang untuk penghantaran barangan pulang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Berpeluang menunaikan 5 kali umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "BERPELUANG MENUNAIKAN 5 KALI UMRAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ekspedisi Gua Hira' + makanan tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "EKSPEDISI GUA HIRA' + MAKANAN TAMBAHAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Jalan-jalan ke Pasar Kakiyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "JALAN-JALAN KE PASAR KAKIYAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makanan tambahan 10 kali sepanjang musim haji (food pack)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI ... (Food Pack)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 cenderahati Kembara Umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 90,
+              "text": "23 Cenderahati KEMBARA UMRAH: 28 INCH PP FRONT OPEN ... 23. KURTA",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "KHM1",
+          "priceSen": 5057000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": "Madinah tiada bilik berlima (T&S 8: Madinah berempat, bertiga, berdua); bilik Madinah untuk Bilik Ber-5 tidak dinyatakan secara jelas — direkod 4.",
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-5 KHM1 RM50,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHM2",
+          "priceSen": 5257000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-4 KHM2 RM52,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHM3",
+          "priceSen": 5857000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-3 KHM3 RM58,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHM4",
+          "priceSen": 6157000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-2 KHM4 RM61,570",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-iman",
+      "name": "Pakej Haji Iman",
+      "series": "Iman",
+      "tierLabel": "Iman",
+      "duration": {
+        "value": 40,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "TEMPOH +-40 HARI (lencana pakej)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "4. Bilangan hari adalah 40 sehingga 45 hari. Namun begitu ianya tertakluk kepada kelulusan jadual penerbangan yang ditetapkan Tabung Haji (TH) sama ada lebih atau kurang bilangan hari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter oleh Tabung Haji; tarikh tertakluk kepada jadual TH",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "3. Tarikh dan tempoh pakej adalah tertakluk kepada jadual penerbangan yang ditetapkan Tabung Haji (TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai kelebihan pakej: 'Pergerakan Tarwiyah dan kemudahan bermabit jarak dekat'. Tiada syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Kelebihan PAKEJ — Pergerakan Tarwiyah Dan Kemudahan Bermabit Jarak Dekat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          3,
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah 4-5 orang sebilik, berasingan jemaah lelaki & wanita; pakej bilik Aziziyah berlima, berempat dan bertiga; jemaah bilik berdua (Makkah & Madinah) diberi bilik bertiga atau berempat di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penginapan Di Aziziyah 4-5 Orang Sebilik, Berasingan Jemaah Lelaki & Jemaah Wanita",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 88,
+            "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "8. Pakej bilik di Aziziyah ialah Berlima, Berempat dan Bertiga ... 9. Jemaah yang memilih bilik BERDUA (Makkah & Madinah) akan diberi bilik BERTIGA atau BEREMPAT di Hotel Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Halaman pakej asas tidak menyebut jenis khemah; PMN hanya dalam pakej Premium (bernilai RM11,000).",
+        "evidence": []
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Pakej makan fullboard 3x sehari (1x pagi, 1x tengahari, 1x malam); makanan tambahan 10 kali sepanjang musim haji (food pack, Katering AdeqSue).",
+        "evidence": [
+          {
+            "pdfPage": 88,
+            "text": "PAKEJ MAKAN FULLBOARD 3X SEHARI 1 X MAKAN PAGI | 1 X MAKAN TENGAHARI | 1 X MAKAN MALAM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 88,
+            "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI Disediakan khas oleh Kembara Umrah melalui Katering AdeqSue. (Food Pack)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 7)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 3 @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HOTEL MAKKAH — Safwah Tower 3 @ Setaraf +-80 Meter Dari Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nusuk Al massrah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 600,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Jamrah",
+          "meals": "Fullboard 3x sehari",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Elaf Taiba @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HOTEL MADINAH — Elaf Taiba @ Setaraf +-80 Meter Dari Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala (tempat duduk ekonomi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pemeriksaan kesihatan sehingga RM150 seorang",
+          "condition": "Jemaah yang menerima Surat Tawaran Haji dan layak berlepas; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "PEMERIKSAAN KESIHATAN SEHINGGA RM 150 SEORANG (Jemaah layak terbang musim haji)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "11. Pemeriksaan kesihatan asas bernilai RM150 seorang diberikan kepada jemaah yang menerima Surat Tawaran Haji dan memenuhi syarat kelayakan untuk berlepas pada musim Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Duit poket RM1,000 seorang",
+          "condition": "Mengikut kaedah dan ketetapan Kembara; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "DUIT POKET RM 1000 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "12. Setiap jemaah yang layak akan menerima duit poket bernilai RM1000 seorang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perbelanjaan dobi RM250 seorang",
+          "condition": "Tertakluk kepada kaedah penggunaan yang ditetapkan oleh pihak Kembara",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "PERBELANJAAN DOBI RM 250 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "13. Jemaah layak menerima manfaat dobi bernilai RM250 seorang sepanjang tempoh menunaikan Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bayaran kargo RM350 seorang",
+          "condition": "Tertakluk kepada berat, jenis barangan dan syarat penghantaran",
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "BAYARAN KARGO RM 350 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "14. Setiap jemaah layak menerima manfaat kargo/pos bernilai RM350 seorang untuk penghantaran barangan pulang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Berpeluang menunaikan 5 kali umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "BERPELUANG MENUNAIKAN 5 KALI UMRAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ekspedisi Gua Hira' + makanan tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "EKSPEDISI GUA HIRA' + MAKANAN TAMBAHAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Jalan-jalan ke Pasar Kakiyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "JALAN-JALAN KE PASAR KAKIYAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makanan tambahan 10 kali sepanjang musim haji (food pack)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 88,
+              "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI ... (Food Pack)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 cenderahati Kembara Umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 90,
+              "text": "23 Cenderahati KEMBARA UMRAH: 28 INCH PP FRONT OPEN ... 23. KURTA",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "KHI1",
+          "priceSen": 5457000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": "Madinah tiada bilik berlima (T&S 8: Madinah berempat, bertiga, berdua); bilik Madinah untuk Bilik Ber-5 tidak dinyatakan secara jelas — direkod 4.",
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-5 KHI1 RM54,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHI2",
+          "priceSen": 5757000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-4 KHI2 RM57,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHI3",
+          "priceSen": 6157000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-3 KHI3 RM61,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHI4",
+          "priceSen": 6557000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 88,
+              "text": "Bilik Ber-2 KHI4 RM65,570",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-mateen-premium",
+      "name": "Pakej Haji Mateen Premium (PMN)",
+      "series": "Mateen",
+      "tierLabel": "Mateen Premium",
+      "duration": {
+        "value": 40,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "TEMPOH +-40 HARI (lencana pakej)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "4. Bilangan hari adalah 40 sehingga 45 hari. Namun begitu ianya tertakluk kepada kelulusan jadual penerbangan yang ditetapkan Tabung Haji (TH) sama ada lebih atau kurang bilangan hari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter oleh Tabung Haji; tarikh tertakluk kepada jadual TH",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "3. Tarikh dan tempoh pakej adalah tertakluk kepada jadual penerbangan yang ditetapkan Tabung Haji (TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai kelebihan pakej: 'Pergerakan Tarwiyah dan kemudahan bermabit jarak dekat'. Tiada syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Kelebihan PAKEJ — Pergerakan Tarwiyah Dan Kemudahan Bermabit Jarak Dekat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          3,
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah 4-5 orang sebilik, berasingan jemaah lelaki & wanita; pakej bilik Aziziyah berlima, berempat dan bertiga; jemaah bilik berdua (Makkah & Madinah) diberi bilik bertiga atau berempat di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penginapan Di Aziziyah 4-5 Orang Sebilik, Berasingan Jemaah Lelaki & Jemaah Wanita",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 89,
+            "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "8. Pakej bilik di Aziziyah ialah Berlima, Berempat dan Bertiga ... 9. Jemaah yang memilih bilik BERDUA (Makkah & Madinah) akan diberi bilik BERTIGA atau BEREMPAT di Hotel Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masya'ir Naik Taraf (PMN) termasuk dalam harga, bernilai RM11,000; tertakluk kepada kekosongan dan kelulusan Tabung Haji.",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) Tertakluk kepada kekosongan dan kelulusan Tabung Haji. Harga pakej di atas termasuk pakej PMN bernilai RM11,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Pakej makan fullboard 3x sehari (1x pagi, 1x tengahari, 1x malam); makanan tambahan 10 kali sepanjang musim haji (food pack, Katering AdeqSue).",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "PAKEJ MAKAN FULLBOARD 3X SEHARI 1 X MAKAN PAGI | 1 X MAKAN TENGAHARI | 1 X MAKAN MALAM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 89,
+            "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI Disediakan khas oleh Kembara Umrah melalui Katering AdeqSue. (Food Pack)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 7)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Prestige Ajyad @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 430,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HOTEL MAKKAH — Prestige Ajyad @ Setaraf +-430 Meter Dari Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nusuk Al massrah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 600,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Jamrah",
+          "meals": "Fullboard 3x sehari",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Elaf Taiba @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HOTEL MADINAH — Elaf Taiba @ Setaraf +-80 Meter Dari Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala (tempat duduk ekonomi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pemeriksaan kesihatan sehingga RM150 seorang",
+          "condition": "Jemaah yang menerima Surat Tawaran Haji dan layak berlepas; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "PEMERIKSAAN KESIHATAN SEHINGGA RM 150 SEORANG (Jemaah layak terbang musim haji)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "11. Pemeriksaan kesihatan asas bernilai RM150 seorang diberikan kepada jemaah yang menerima Surat Tawaran Haji dan memenuhi syarat kelayakan untuk berlepas pada musim Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Duit poket RM1,000 seorang",
+          "condition": "Mengikut kaedah dan ketetapan Kembara; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "DUIT POKET RM 1000 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "12. Setiap jemaah yang layak akan menerima duit poket bernilai RM1000 seorang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perbelanjaan dobi RM250 seorang",
+          "condition": "Tertakluk kepada kaedah penggunaan yang ditetapkan oleh pihak Kembara",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "PERBELANJAAN DOBI RM 250 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "13. Jemaah layak menerima manfaat dobi bernilai RM250 seorang sepanjang tempoh menunaikan Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bayaran kargo RM350 seorang",
+          "condition": "Tertakluk kepada berat, jenis barangan dan syarat penghantaran",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "BAYARAN KARGO RM 350 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "14. Setiap jemaah layak menerima manfaat kargo/pos bernilai RM350 seorang untuk penghantaran barangan pulang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Berpeluang menunaikan 5 kali umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "BERPELUANG MENUNAIKAN 5 KALI UMRAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ekspedisi Gua Hira' + makanan tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "EKSPEDISI GUA HIRA' + MAKANAN TAMBAHAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Jalan-jalan ke Pasar Kakiyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "JALAN-JALAN KE PASAR KAKIYAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makanan tambahan 10 kali sepanjang musim haji (food pack)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI ... (Food Pack)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 cenderahati Kembara Umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 90,
+              "text": "23 Cenderahati KEMBARA UMRAH: 28 INCH PP FRONT OPEN ... 23. KURTA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) bernilai RM11,000",
+          "condition": "Tertakluk kepada kekosongan dan kelulusan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "Harga pakej di atas termasuk pakej PMN bernilai RM11,000",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "KHMP1",
+          "priceSen": 6157000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": "Madinah tiada bilik berlima (T&S 8: Madinah berempat, bertiga, berdua); bilik Madinah untuk Bilik Ber-5 tidak dinyatakan secara jelas — direkod 4.",
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-5 KHMP1 RM61,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHMP2",
+          "priceSen": 6357000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-4 KHMP2 RM63,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHMP3",
+          "priceSen": 6957000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-3 KHMP3 RM69,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHMP4",
+          "priceSen": 7257000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-2 KHMP4 RM72,570",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-iman-premium",
+      "name": "Pakej Haji Iman Premium (PMN)",
+      "series": "Iman",
+      "tierLabel": "Iman Premium",
+      "duration": {
+        "value": 40,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "TEMPOH +-40 HARI (lencana pakej)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "4. Bilangan hari adalah 40 sehingga 45 hari. Namun begitu ianya tertakluk kepada kelulusan jadual penerbangan yang ditetapkan Tabung Haji (TH) sama ada lebih atau kurang bilangan hari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter oleh Tabung Haji; tarikh tertakluk kepada jadual TH",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "3. Tarikh dan tempoh pakej adalah tertakluk kepada jadual penerbangan yang ditetapkan Tabung Haji (TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai kelebihan pakej: 'Pergerakan Tarwiyah dan kemudahan bermabit jarak dekat'. Tiada syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Kelebihan PAKEJ — Pergerakan Tarwiyah Dan Kemudahan Bermabit Jarak Dekat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [
+          3,
+          4,
+          5
+        ],
+        "defaultArrangementNote": "Penginapan di Aziziyah 4-5 orang sebilik, berasingan jemaah lelaki & wanita; pakej bilik Aziziyah berlima, berempat dan bertiga; jemaah bilik berdua (Makkah & Madinah) diberi bilik bertiga atau berempat di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penginapan Di Aziziyah 4-5 Orang Sebilik, Berasingan Jemaah Lelaki & Jemaah Wanita",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 89,
+            "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 90,
+            "text": "8. Pakej bilik di Aziziyah ialah Berlima, Berempat dan Bertiga ... 9. Jemaah yang memilih bilik BERDUA (Makkah & Madinah) akan diberi bilik BERTIGA atau BEREMPAT di Hotel Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masya'ir Naik Taraf (PMN) termasuk dalam harga, bernilai RM11,000; tertakluk kepada kekosongan dan kelulusan Tabung Haji.",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) Tertakluk kepada kekosongan dan kelulusan Tabung Haji. Harga pakej di atas termasuk pakej PMN bernilai RM11,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "Penerbangan Charter Oleh Tabung Haji MAS Airlines / Saudi Airlines",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Pakej makan fullboard 3x sehari (1x pagi, 1x tengahari, 1x malam); makanan tambahan 10 kali sepanjang musim haji (food pack, Katering AdeqSue).",
+        "evidence": [
+          {
+            "pdfPage": 89,
+            "text": "PAKEJ MAKAN FULLBOARD 3X SEHARI 1 X MAKAN PAGI | 1 X MAKAN TENGAHARI | 1 X MAKAN MALAM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 89,
+            "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI Disediakan khas oleh Kembara Umrah melalui Katering AdeqSue. (Food Pack)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 7)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 3 @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HOTEL MAKKAH — Safwah Tower 3 @ Setaraf +-80 Meter Dari Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nusuk Al massrah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 600,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Jamrah",
+          "meals": "Fullboard 3x sehari",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "AZIZIYAH — Nusuk Al massrah @ Setaraf +-600 Meter Dari Dataran Kompleks Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Elaf Taiba @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": "Fullboard 3x sehari",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HOTEL MADINAH — Elaf Taiba @ Setaraf +-80 Meter Dari Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala (tempat duduk ekonomi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "HARAMAIN SPEED TRAIN ONE WAY SEAT EKONOMI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pemeriksaan kesihatan sehingga RM150 seorang",
+          "condition": "Jemaah yang menerima Surat Tawaran Haji dan layak berlepas; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "PEMERIKSAAN KESIHATAN SEHINGGA RM 150 SEORANG (Jemaah layak terbang musim haji)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "11. Pemeriksaan kesihatan asas bernilai RM150 seorang diberikan kepada jemaah yang menerima Surat Tawaran Haji dan memenuhi syarat kelayakan untuk berlepas pada musim Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Duit poket RM1,000 seorang",
+          "condition": "Mengikut kaedah dan ketetapan Kembara; terbatal jika membatalkan penyertaan (T&S 15)",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "DUIT POKET RM 1000 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "12. Setiap jemaah yang layak akan menerima duit poket bernilai RM1000 seorang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perbelanjaan dobi RM250 seorang",
+          "condition": "Tertakluk kepada kaedah penggunaan yang ditetapkan oleh pihak Kembara",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "PERBELANJAAN DOBI RM 250 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "13. Jemaah layak menerima manfaat dobi bernilai RM250 seorang sepanjang tempoh menunaikan Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bayaran kargo RM350 seorang",
+          "condition": "Tertakluk kepada berat, jenis barangan dan syarat penghantaran",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "BAYARAN KARGO RM 350 SEORANG",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 90,
+              "text": "14. Setiap jemaah layak menerima manfaat kargo/pos bernilai RM350 seorang untuk penghantaran barangan pulang.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Berpeluang menunaikan 5 kali umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "BERPELUANG MENUNAIKAN 5 KALI UMRAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ekspedisi Gua Hira' + makanan tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "EKSPEDISI GUA HIRA' + MAKANAN TAMBAHAN",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Jalan-jalan ke Pasar Kakiyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "JALAN-JALAN KE PASAR KAKIYAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makanan tambahan 10 kali sepanjang musim haji (food pack)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "MAKANAN TAMBAHAN 10 KALI SEPANJANG MUSIM HAJI ... (Food Pack)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 cenderahati Kembara Umrah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 90,
+              "text": "23 Cenderahati KEMBARA UMRAH: 28 INCH PP FRONT OPEN ... 23. KURTA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masya'ir Naik Taraf (PMN) bernilai RM11,000",
+          "condition": "Tertakluk kepada kekosongan dan kelulusan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 89,
+              "text": "Harga pakej di atas termasuk pakej PMN bernilai RM11,000",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "KHSP1",
+          "priceSen": 6557000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": "Madinah tiada bilik berlima (T&S 8: Madinah berempat, bertiga, berdua); bilik Madinah untuk Bilik Ber-5 tidak dinyatakan secara jelas — direkod 4.",
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-5 KHSP1 RM65,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHSP2",
+          "priceSen": 6857000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-4 KHSP2 RM68,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHSP3",
+          "priceSen": 7257000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-3 KHSP3 RM72,570",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "KHSP4",
+          "priceSen": 7657000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 89,
+              "text": "Bilik Ber-2 KHSP4 RM76,570",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "kembara-umrah-aziziyah-bilik-berdua",
+      "packageIds": [
+        "kembara-umrah-mateen",
+        "kembara-umrah-iman",
+        "kembara-umrah-mateen-premium",
+        "kembara-umrah-iman-premium"
+      ],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf / tambahan bilik berdua (Ber-2) di Aziziyah",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan bilik",
+      "evidence": [
+        {
+          "pdfPage": 88,
+          "text": "Tambahan Bilik Ber-2 Di Aziziyah RM8000/Seorang",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 89,
+          "text": "Tambahan Bilik Ber-2 Di Aziziyah RM8000/Seorang",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 90,
+          "text": "Naik taraf bilik berdua di Aziziyah dengan bayaran tambahan RM8,000 seorang tertakluk kepada kekosongan bilik.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "kembara-umrah-bayaran-haji-pjh",
+      "packageIds": [
+        "kembara-umrah-mateen",
+        "kembara-umrah-iman",
+        "kembara-umrah-mateen-premium",
+        "kembara-umrah-iman-premium"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 88,
+          "text": "Harga Pakej Haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398.00 yang akan didebitkan daripada Akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 90,
+          "text": "1. Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-pmn",
+      "packageIds": [
+        "kembara-umrah-mateen-premium",
+        "kembara-umrah-iman-premium"
+      ],
+      "description": "Pakej PMN (Perkhidmatan Masya'ir Naik Taraf)",
+      "priceSen": 1100000,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 89,
+          "text": "Harga pakej di atas termasuk pakej PMN bernilai RM11,000",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-caj-tambahan-th",
+      "packageIds": [
+        "kembara-umrah-mateen",
+        "kembara-umrah-iman",
+        "kembara-umrah-mateen-premium",
+        "kembara-umrah-iman-premium"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 88,
+          "text": "Walau bagaimanapun, TH berhak mengenakan caj tambahan sekiranya berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti atau pihak berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "kembara-umrah-caj-hari-tambahan",
+      "packageIds": [
+        "kembara-umrah-mateen",
+        "kembara-umrah-iman",
+        "kembara-umrah-mateen-premium",
+        "kembara-umrah-iman-premium"
+      ],
+      "description": "Tambahan kos jika bilangan hari melebihi (mengikut jadual penerbangan TH)",
+      "priceSen": null,
+      "basis": "per_night",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 90,
+          "text": "Jika terlebih bilangan hari tambahan kos tertakluk kepada jemaah.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.madinahOccupancy",
+      "note": "Varian Bilik Ber-5 (KHM1, KHI1, KHMP1, KHSP1): T&S 8 menyatakan Madinah hanya berempat/bertiga/berdua; bilik Madinah untuk varian ini direkod 4 (inferens). Perlu pengesahan PJH.",
+      "pages": [
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair.type",
+      "note": "Pakej Mateen & Iman (asas) tidak menamakan jenis khemah; pmnStatus not_included kerana PMN hanya dalam pakej Premium (+RM11,000).",
+      "pages": [
+        88,
+        89
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah disenaraikan sebagai kelebihan tanpa syarat dicetak; tiada huraian tarikh/pelaksanaan.",
+      "pages": [
+        88,
+        89
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.dateLabel/sequence",
+      "note": "Tarikh dan urutan penginapan Makkah/Aziziyah/Madinah tidak dinyatakan.",
+      "pages": [
+        88,
+        89
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "terms",
+      "note": "T&S no. 10 terpotong oleh bahagian 'Hubungi Pegawai Kami' (teks tidak lengkap).",
+      "pages": [
+        90
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 88–90.",
+      "pages": [
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [
+        88
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-E",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 220 dpi dan potongan zum bagi teks kecil (kad hotel, nota PMN, lencana tempoh, T&S). Imej sumber ~100 ppi.",
+    "independentCheck": null
+  }
+}

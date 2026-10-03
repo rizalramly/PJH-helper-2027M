@@ -1,0 +1,2142 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "jay-ibrahim",
+    "label": "Jay Ibrahim",
+    "name": "Jay Ibrahim Al Islam",
+    "legalName": "Jay Ibrahim Travel & Tours Sdn Bhd",
+    "website": null,
+    "publicContact": "Hotline 019-696 3997 / 019-267 3997 / 019-595 3997; haji@jayibrahimtravel.com",
+    "licenceNumberAsPublished": "PJH 19/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 81,
+        "text": "NO.LESEN PJH : 19/1448H — SYARIKAT : 201801027739 (1289765-T) — MOTAC : KPK/LN9321",
+        "status": "unclear"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Segala maklumat dan butiran tertakluk kepada perubahan dan kelulusan Tabung Haji dan pihak berkuasa Arab Saudi, serta Jadual Keempat Akta Industri Pelancongan 1992.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "1. Segala maklumat dan butiran adalah tertakluk kepada perubahan dan kelulusan pihak Tabung Haji dan pihak berkuasa Arab Saudi.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh, jenis penerbangan dan bilangan hari tertakluk kepada jadual penerbangan carter oleh TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "2. Tarikh, jenis penerbangan dan bilangan hari adalah tertakluk kepada jadual penerbangan carter oleh TH dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Penginapan di Aziziyah bilik berempat berasingan mengikut jantina untuk setiap pakej.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "4. Penginapan di Aziziyah (bilik berempat berasingan, mengikut jantina untuk setiap pakej).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Harga tertakluk kepada terma dan syarat, surcaj bahan api, cukai, tempat duduk, kekosongan bilik dll.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "5. Harga dan maklumat pakej tertakluk kepada terma dan syarat, surcaj bahan api, cukai, tempat duduk, kekosongan bilik dll.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan atau tidak cukup regu, pakej alternatif setaraf ditawarkan.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "6. Sekiranya pakej pilihan utama tiada kekosongan pada masa tempahan disahkan atau tidak cukup regu di akhir penyusunan, bakal haji akan ditawarkan pakej pilihan alternatif yang setaraf",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pertukaran atau pembatalan tertakluk kepada terma TH; sesetengah harga tidak membenarkan pertukaran/pembatalan; caj dikenakan selepas tempahan.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "7. Sebarang pertukaran atau pembatalan pakej adalah tertakluk kepada terma dan syarat yang ditetapkan oleh TH. Terdapat harga pakej yang tidak membenarkan penukaran atau pembatalan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Kadar denda pembatalan/penundaan seperti dalam borang Pengesahan Terimaan Tawaran Perkhidmatan Haji 1448H/2027M.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "8. Jika bakal haji membuat pembatalan atau penundaan pemergian haji, kadar denda ... seperti yang dinyatakan di dalam borang PENGESAHAN TERIMAAN TAWARAN PERKHIDMATAN HAJI 1448H/2027M.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [81, 83],
+    "pagesReviewed": [81, 82, 83],
+    "pageNotes": [
+      {
+        "pdfPage": 81,
+        "content": "Kepala syarikat + lesen; pakej carter Nirmala JITT 1–4 (5/4/3/2 sebilik), hotel Swissotel/Biltmore Oberoi/Nasamat Al Yaqin, Info Wukuf & Info Pakej."
+      },
+      {
+        "pdfPage": 82,
+        "content": "Basyirah JITT 5–7, Basyirah Gold JITT G1 (terhad 20 pax), Balqis JITT 8–10; hotel, Info Wukuf & Info Pakej."
+      },
+      {
+        "pdfPage": 83,
+        "content": "Pakej penerbangan komersial ±20–25 hari: Kesuma JITT 11, Cindai JITT 12; akaun bayaran; keistimewaan; Terma & Syarat; Perkhidmatan Naik Taraf Berbayar."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "jay-ibrahim-nirmala",
+      "name": "Nirmala",
+      "series": "Pakej Penerbangan Carter (Biltmore Oberoi Swissotel)",
+      "tierLabel": "Nirmala",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "± 40 - 45 HARI (lencana pada nama pakej)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter; tarikh (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "tertakluk kepada kelulusan pihak Maktab dan keadaan semasa",
+        "description": "Jemaah yang ingin melakukan Tarwiyah akan bergerak ke Mina pada 7 Zulhijjah (seperti dicetak).",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Bagi jemaah yang ingin melakukan Tarwiyah akan bergerak ke Mina pada 7 Zulhijjah (tertakluk kepada kelulusan pihak Maktab dan keadaan semasa)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina; naik taraf dengan caj tambahan.",
+        "dateLabel": "1 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina • RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 81,
+            "text": "Penginapan di Aziziyah (4 orang sebilik mengikut jantina) naik taraf dengan caj tambahan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "4. Penginapan di Aziziyah (bilik berempat berasingan, mengikut jantina untuk setiap pakej).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Maktab (Muaisim) disediakan; PMN secara pilihan dengan caj tambahan RM10,000.",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Khemah Maktab (Muaisim) disediakan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 81,
+            "text": "Perkhidmatan Masyaer Naik Taraf (PMN) bagi khemah Arafah dan Mina disediakan secara pilihan dengan caj tambahan (RM10,000)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 81,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah dan kembali ke Aziziyah selepas 10 Zulhijjah. Bagi perlaksanaan bermabit di Mina pada 11 - 13 Zulhijjah, jemaah diberi pilihan sama ada berada di khemah (PMN/Muaisim) atau berulang-alik dari hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah (sebelum 1 / selepas 15 Zulhijjah) dan Aziziyah (1-15 Zulhijjah) dinyatakan; urutan Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Haramain speed train kelas ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Asia di Makkah dan Aziziyah; Sajian Antarabangsa di Madinah.",
+        "evidence": [
+          {
+            "pdfPage": 81,
+            "text": "Makanan Sajian Asia Fullboard (3X) / Makanan Sajian Antarabangsa Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif setaraf ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 6)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "Sebelum 1 Zulhijjah / selepas 15 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "(Sebelum 1 Zulhijjah/ selepas 15 Zulhijjah) SWISSÔTEL MAKKAH @ SETARAF Makanan Sajian Asia Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nasamat Al Yaqin @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "1 - 15 Zulhijjah",
+          "distanceM": 660,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 660m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina — Makanan Sajian Asia Fullboard (3X) — ± 660m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Sewa Khas (Charter)",
+          "condition": "Tarikh bergantung kepada ketetapan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah (4 orang sebilik mengikut jantina)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "Penginapan di Aziziyah (4 orang sebilik mengikut jantina) naik taraf dengan caj tambahan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah Maktab (Muaisim)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "Khemah Maktab (Muaisim) disediakan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "Haramain speed train kelas ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "PMN (caj tambahan RM10,000, pilihan)",
+          "evidence": [
+            {
+              "pdfPage": 81,
+              "text": "PMN ... disediakan secara pilihan dengan caj tambahan (RM10,000)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "JITT 1",
+          "priceSen": 5489800,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 81,
+              "text": "JITT 1 RM54,898 5 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 2",
+          "priceSen": 5889800,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 81,
+              "text": "JITT 2 RM58,898 4 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 3",
+          "priceSen": 6389800,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 81,
+              "text": "JITT 3 RM63,898 3 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 4",
+          "priceSen": 6889800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 81,
+              "text": "JITT 4 RM68,898 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-basyirah",
+      "name": "Basyirah",
+      "series": "Pakej Penerbangan Carter (Biltmore Oberoi Swissotel)",
+      "tierLabel": "Basyirah",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "± 40 - 45 HARI (lencana pada nama pakej)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter; tarikh (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "tertakluk kepada kelulusan pihak Maktab dan keadaan semasa",
+        "description": "Jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (seperti dicetak).",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Bagi jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (tertakluk kepada kelulusan pihak Maktab dan keadaan semasa)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina; naik taraf dengan caj tambahan.",
+        "dateLabel": "1 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina • RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Penginapan di Aziziyah (2 orang sebilik Basyirah Gold) dan (4 orang sebilik mengikut jantina Basyirah) naik taraf dengan caj tambahan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "4. Penginapan di Aziziyah (bilik berempat berasingan, mengikut jantina untuk setiap pakej).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Maktab (Muaisim) disediakan; caj tambahan RM10,000 untuk PMN bagi Pakej Basyirah.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Khemah Maktab (Muaisim) disediakan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Perkhidmatan Masyaer Naiktaraf (PMN) disediakan untuk Pakej Basyirah Gold. Caj tambahan (RM10,000) dikenakan untuk Pakej Basyirah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah dan kembali ke Aziziyah selepas 10 Zulhijjah. Bagi perlaksanaan bermabit di Mina pada 11 - 13 Zulhijjah, jemaah diberi pilihan sama ada berada di khemah (PMN/Muaisim) atau berulang-alik dari hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah (sebelum 1 / selepas 15 Zulhijjah) dan Aziziyah (1-15 Zulhijjah) dinyatakan; urutan Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Haramain speed train kelas ekonomi (Basyirah) kelas perniagaan (Basyirah Gold)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Asia di Makkah dan Aziziyah; Sajian Antarabangsa di Madinah.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Makanan Sajian Asia Fullboard (3X) / Makanan Sajian Antarabangsa Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif setaraf ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 6)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Haram View",
+          "dateLabel": "Sebelum 1 Zulhijjah / selepas 15 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(Sebelum 1 Zulhijjah/ selepas 15 Zulhijjah) SWISSÔTEL MAKKAH @ SETARAF • Haram View (Basyirah) • Kaabah View (Basyirah Gold) Makanan Sajian Asia Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nasamat Al Yaqin @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "1 - 15 Zulhijjah",
+          "distanceM": 660,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 660m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina — Makanan Sajian Asia Fullboard (3X) — ± 660m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Sewa Khas (Charter)",
+          "condition": "Tarikh bergantung kepada ketetapan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah (4 orang sebilik mengikut jantina)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(4 orang sebilik mengikut jantina Basyirah) naik taraf dengan caj tambahan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah Maktab (Muaisim)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Khemah Maktab (Muaisim) disediakan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Makkah bilik Haram View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "• Haram View (Basyirah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Haramain speed train kelas ekonomi (Basyirah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "PMN (caj tambahan RM10,000)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Caj tambahan (RM10,000) dikenakan untuk Pakej Basyirah",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "JITT 5",
+          "priceSen": 7589800,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 5 RM75,898 4 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 6",
+          "priceSen": 8089800,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 6 RM80,898 3 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 7",
+          "priceSen": 8589800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 7 RM85,898 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-basyirah-gold",
+      "name": "Basyirah Gold",
+      "series": "Pakej Penerbangan Carter (Biltmore Oberoi Swissotel)",
+      "tierLabel": "Basyirah Gold",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "± 40 - 45 HARI (lencana pada nama pakej)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter; tarikh (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "tertakluk kepada kelulusan pihak Maktab dan keadaan semasa",
+        "description": "Jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (seperti dicetak).",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Bagi jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (tertakluk kepada kelulusan pihak Maktab dan keadaan semasa)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [2],
+        "defaultArrangementNote": "Penginapan di Aziziyah 2 orang sebilik (Basyirah Gold).",
+        "dateLabel": "1 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penginapan di Aziziyah (2 orang sebilik Basyirah Gold) dan (4 orang sebilik mengikut jantina Basyirah) naik taraf dengan caj tambahan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "PMN disediakan untuk Pakej Basyirah Gold; bas khas untuk hari masyaer.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Perkhidmatan Masyaer Naiktaraf (PMN) disediakan untuk Pakej Basyirah Gold.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Bas Khas disediakan untuk hari masyaer bagi pakej Basyirah Gold",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah dan kembali ke Aziziyah selepas 10 Zulhijjah. Bagi perlaksanaan bermabit di Mina pada 11 - 13 Zulhijjah, jemaah diberi pilihan sama ada berada di khemah (PMN/Muaisim) atau berulang-alik dari hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah (sebelum 1 / selepas 15 Zulhijjah) dan Aziziyah (1-15 Zulhijjah) dinyatakan; urutan Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Haramain speed train kelas ekonomi (Basyirah) kelas perniagaan (Basyirah Gold)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Asia di Makkah dan Aziziyah; Sajian Antarabangsa di Madinah.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Makanan Sajian Asia Fullboard (3X) / Makanan Sajian Antarabangsa Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "TERHAD 20 PAX (kuota dicetak, bukan bukti kekosongan)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Kaabah View",
+          "dateLabel": "Sebelum 1 Zulhijjah / selepas 15 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(Sebelum 1 Zulhijjah/ selepas 15 Zulhijjah) SWISSÔTEL MAKKAH @ SETARAF • Haram View (Basyirah) • Kaabah View (Basyirah Gold) Makanan Sajian Asia Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nasamat Al Yaqin @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "1 - 15 Zulhijjah",
+          "distanceM": 660,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 660m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF — Makanan Sajian Asia Fullboard (3X) — ± 660m; Penginapan di Aziziyah (2 orang sebilik Basyirah Gold)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Sewa Khas (Charter)",
+          "condition": "Tarikh bergantung kepada ketetapan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah 2 orang sebilik",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Penginapan di Aziziyah (2 orang sebilik Basyirah Gold)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyaer Naik Taraf (PMN)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Perkhidmatan Masyaer Naiktaraf (PMN) disediakan untuk Pakej Basyirah Gold.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas khas untuk hari masyaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Bas Khas disediakan untuk hari masyaer bagi pakej Basyirah Gold",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Makkah bilik Kaabah View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "• Kaabah View (Basyirah Gold)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "kelas perniagaan (Basyirah Gold)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "JITT G1",
+          "priceSen": 14889800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT G1 RM148,898 2 ORANG SEBILIK — BASYIRAH GOLD TERHAD 20 PAX",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-balqis",
+      "name": "Balqis",
+      "series": "Pakej Penerbangan Carter (Biltmore Oberoi Swissotel)",
+      "tierLabel": "Balqis",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "± 40 - 45 HARI (lencana pada nama pakej)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Penerbangan carter; tarikh (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "tertakluk kepada kelulusan pihak Maktab dan keadaan semasa",
+        "description": "Jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (seperti dicetak).",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Bagi jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (tertakluk kepada kelulusan pihak Maktab dan keadaan semasa)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina; naik taraf dengan caj tambahan.",
+        "dateLabel": "1 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina • RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Penginapan di Aziziyah (4 orang sebilik), naik taraf caj tambahan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "4. Penginapan di Aziziyah (bilik berempat berasingan, mengikut jantina untuk setiap pakej).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Dicetak 'Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)' tanpa menyatakan sama ada termasuk dalam harga atau caj tambahan; baris 'Khemah Maktab (Muaisim) disediakan' tiada untuk Balqis. Bas khas untuk hari Masyaer.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)",
+            "status": "unclear"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Bas khas disediakan untuk hari Masyaer",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 82,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah dan kembali ke Aziziyah selepas 10 Zulhijjah. Bagi perlaksanaan bermabit di Mina pada 11 - 13 Zulhijjah, jemaah diberi pilihan sama ada berada di khemah (PMN/Muaisim) atau berulang-alik dari hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah (sebelum 1 / selepas 15 Zulhijjah) dan Aziziyah (1-15 Zulhijjah) dinyatakan; urutan Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "Haramain speed train kelas ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Antarabangsa di Makkah dan Madinah; Sajian Asia di Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 82,
+            "text": "SWISSÔTEL MAKKAH • Kaabah View @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif setaraf ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 6)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Kaabah View",
+          "dateLabel": "Sebelum 1 Zulhijjah / selepas 15 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(Sebelum 1 Zulhijjah/ selepas 15 Zulhijjah) SWISSÔTEL MAKKAH @ SETARAF • Kaabah View Makanan Sajian Antarabangsa Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Nasamat Al Yaqin @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "1 - 15 Zulhijjah",
+          "distanceM": 660,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 660m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF • Penginapan di Aziziyah adalah 4 orang sebilik mengikut jantina — Makanan Sajian Asia Fullboard (3X) — ± 660m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Sewa Khas (Charter)",
+          "condition": "Tarikh bergantung kepada ketetapan Tabung Haji",
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Penerbangan Sewa Khas (Charter) dengan tarikh penerbangan (awal / pertengahan) bergantung kepada ketetapan Tabung Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah (4 orang sebilik)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Penginapan di Aziziyah (4 orang sebilik), naik taraf caj tambahan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas khas untuk hari Masyaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Bas khas disediakan untuk hari Masyaer",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Makkah bilik Kaabah View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "SWISSÔTEL MAKKAH • Kaabah View @ SETARAF",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas ekonomi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 82,
+              "text": "Haramain speed train kelas ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "JITT 8",
+          "priceSen": 11589800,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 8 RM115,898 4 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 9",
+          "priceSen": 12089800,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 9 RM120,898 3 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "JITT 10",
+          "priceSen": 12889800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 82,
+              "text": "JITT 10 RM128,898 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-kesuma",
+      "name": "Kesuma",
+      "series": "Pakej Penerbangan Komersial",
+      "tierLabel": "Kesuma",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 25,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "PAKEJ PENERBANGAN KOMERSIAL ❖ ± 20-25 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Tarikh penerbangan akhir bergantung kepada kelulusan pihak TH",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Penerbangan komersial kelas ekonomi (RM7,000) dengan tarikh penerbangan akhir bergantung kepada kelulusan pihak TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "tertakluk kepada kelulusan pihak Maktab dan keadaan semasa",
+        "description": "Jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (seperti dicetak).",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Bagi jemaah yang ingin melakukan Tarwiyah akan bergerak ke Arafah pada 7 Zulhijjah (tertakluk kepada kelulusan pihak Maktab dan keadaan semasa)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Kotak Aziziyah Kesuma tidak menyatakan susunan bilik; T&S 4 menyatakan bilik berempat berasingan mengikut jantina untuk setiap pakej.",
+        "dateLabel": "1 - 15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF Makanan Sajian Asia Fullboard (3X)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "4. Penginapan di Aziziyah (bilik berempat berasingan, mengikut jantina untuk setiap pakej).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Dicetak 'Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)' tanpa menyatakan sama ada termasuk dalam harga atau caj tambahan. Bas khas untuk hari Masyaer.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)",
+            "status": "unclear"
+          },
+          {
+            "pdfPage": 83,
+            "text": "Bas khas disediakan untuk hari Masyaer",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah dan kembali ke Aziziyah selepas 10 Zulhijjah; bermabit di Mina 11 - 13 Zulhijjah pilihan khemah (PMN/Muaisim) atau berulang-alik dari hotel di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Aziziyah 1-15 Zulhijjah, Makkah selepas 15 Zulhijjah; masa Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Penerbangan komersial kelas ekonomi (RM7,000) dengan tarikh penerbangan akhir bergantung kepada kelulusan pihak TH",
+            "status": "unclear"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Haramain speed train kelas perniagaan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Antarabangsa di Makkah dan Madinah; Sajian Asia di Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "SWISSÔTEL MAKKAH @ SETARAF • Kaabah View Makanan Sajian Antarabangsa Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif setaraf ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 6)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Nasamat Al Yaqin @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "1 - 15 Zulhijjah",
+          "distanceM": 660,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 660m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "(1 - 15 Zulhijjah) NASAMAT AL YAQIN @ SETARAF Makanan Sajian Asia Fullboard (3X) — ± 660m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Kaabah View",
+          "dateLabel": "Selepas 15 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "(Selepas 15 Zulhijjah) SWISSÔTEL MAKKAH @ SETARAF • Kaabah View Makanan Sajian Antarabangsa Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan komersial kelas ekonomi",
+          "condition": "Tarikh penerbangan akhir bergantung kepada kelulusan pihak TH",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Penerbangan komersial kelas ekonomi (RM7,000) dengan tarikh penerbangan akhir bergantung kepada kelulusan pihak TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas khas untuk hari Masyaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Bas khas disediakan untuk hari Masyaer",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Haramain speed train kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Makkah bilik Kaabah View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "SWISSÔTEL MAKKAH @ SETARAF • Kaabah View",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "JITT 11",
+          "priceSen": 13889800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 83,
+              "text": "JITT 11 RM138,898 2 ORANG SEBILIK — KESUMA",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-cindai",
+      "name": "Cindai",
+      "series": "Pakej Penerbangan Komersial",
+      "tierLabel": "Cindai",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 25,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "PAKEJ PENERBANGAN KOMERSIAL ❖ ± 20-25 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": "Info Wukuf Cindai tidak menyebut Tarwiyah (bergerak ke Arafah pada pagi 9 Zulhijjah).",
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "optional",
+        "condition": "Penginapan transit di Aziziyah disediakan jika diperlukan; jemaah diberi pilihan sama ada ingin menginap di hotel Makkah atau hotel Aziziyah.",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Penginapan transit di Aziziyah disediakan jika diperlukan",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "Jemaah diberi pilihan sama ada ingin menginap di hotel Makkah atau hotel Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Dicetak 'Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)' tanpa menyatakan sama ada termasuk dalam harga atau caj tambahan. Berulang-alik dari hotel Makkah ke khemah di Mina untuk 11-13 Zulhijjah. Bas khas untuk hari Masyaer.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Perkhidmatan Masyaer Naik Taraf (PMN) disediakan (RM10,000)",
+            "status": "unclear"
+          },
+          {
+            "pdfPage": 83,
+            "text": "Bergerak ke Arafah pada pagi 9 Zulhijjah dan kembali ke Makkah pada malam 10 Zulhijjah selepas melalui Muzdalifah; Berulang-alik dari hotel Makkah ke khemah di Mina dan pulang ke hotel Makkah selepas melontar Jamrah untuk 11 - 13 Zulhijjah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 83,
+            "text": "Bas khas disediakan untuk hari Masyaer",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Makkah 1-21 Zulhijjah; masa Madinah tidak dinyatakan.",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Penerbangan komersial kelas perniagaan disediakan (RM10,000)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "Haramain speed train kelas perniagaan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard (3X): Sajian Asia di Makkah; Sajian Antarabangsa di Madinah.",
+        "evidence": [
+          {
+            "pdfPage": 83,
+            "text": "SWISSÔTEL MAKKAH • Kaabah View @ SETARAF Makanan Sajian Asia Fullboard (3X)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Brosur tidak menyatakan kekosongan; pakej alternatif setaraf ditawarkan jika pakej pilihan utama tiada kekosongan (T&S 6)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Swissôtel Makkah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Kaabah View",
+          "dateLabel": "1-21 Zulhijjah",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 100m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Asia Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "(1-21 Zulhijjah) SWISSÔTEL MAKKAH • Kaabah View @ SETARAF Makanan Sajian Asia Fullboard (3X) — ± 100m",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Biltmore Oberoi Madinah @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "± 15m (titik ukuran tidak dinyatakan)",
+          "meals": "Makanan Sajian Antarabangsa Fullboard (3X)",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "BILTMORE OBEROI MADINAH @ SETARAF Makanan Sajian Antarabangsa Fullboard (3X) — ± 15m",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan komersial kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Penerbangan komersial kelas perniagaan disediakan (RM10,000)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan transit di Aziziyah jika diperlukan",
+          "condition": "Jika diperlukan",
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Penginapan transit di Aziziyah disediakan jika diperlukan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas khas untuk hari Masyaer",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Bas khas disediakan untuk hari Masyaer",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain speed train kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "Haramain speed train kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Makkah bilik Kaabah View",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 83,
+              "text": "SWISSÔTEL MAKKAH • Kaabah View @ SETARAF",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "JITT 12",
+          "priceSen": 23889800,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 83,
+              "text": "JITT 12 RM238,898 2 ORANG SEBILIK — CINDAI",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "jay-ibrahim-aziziyah-bilik-2",
+      "packageIds": ["jay-ibrahim-nirmala", "jay-ibrahim-basyirah", "jay-ibrahim-balqis"],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf bilik Aziziyah kepada 2 orang sebilik (ikon 2 orang)",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Asas harga (seorang/sebilik) tidak dicetak; diandaikan seorang. Perlu disahkan.",
+      "evidence": [
+        {
+          "pdfPage": 81,
+          "text": "• RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 82,
+          "text": "• RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-aziziyah-bilik-3",
+      "packageIds": ["jay-ibrahim-nirmala", "jay-ibrahim-basyirah", "jay-ibrahim-balqis"],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf bilik Aziziyah kepada 3 orang sebilik (ikon 3 orang)",
+      "priceSen": 400000,
+      "basis": "per_person",
+      "resultingOccupancy": 3,
+      "availability": "inquiry_required",
+      "condition": "Asas harga (seorang/sebilik) tidak dicetak; diandaikan seorang. Perlu disahkan.",
+      "evidence": [
+        {
+          "pdfPage": 81,
+          "text": "• RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 82,
+          "text": "• RM8,000 [ikon 2 orang] | RM4,000 [ikon 3 orang]",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-pmn",
+      "packageIds": ["jay-ibrahim-nirmala", "jay-ibrahim-basyirah"],
+      "kind": "other",
+      "description": "Perkhidmatan Masyaer Naik Taraf (PMN) bagi khemah Arafah dan Mina (pilihan)",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kelulusan pihak TH dan pihak berkuasa Arab Saudi",
+      "evidence": [
+        {
+          "pdfPage": 81,
+          "text": "Perkhidmatan Masyaer Naik Taraf (PMN) bagi khemah Arafah dan Mina disediakan secara pilihan dengan caj tambahan (RM10,000)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 82,
+          "text": "Caj tambahan (RM10,000) dikenakan untuk Pakej Basyirah",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 83,
+          "text": "1. Perkhidmatan Masyaer Naik Taraf (PMN) disediakan secara pilihan dengan bayaran tambahan (RM10,000) (tertakluk kepada kelulusan pihak TH dan pihak berkuasa Arab Saudi).",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-penerbangan-komersial-pilihan",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-balqis"
+      ],
+      "kind": "other",
+      "description": "Penerbangan komersial / kelas pertama / kelas perniagaan secara pilihan",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada perubahan dan kelulusan pihak TH",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "2. Penerbangan komersial / kelas pertama / kelas perniagaan secara pilihan dengan kos tambahan (RM10,000) dan tertakluk kepada perubahan dan kelulusan pihak TH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-kesuma-kelas-perniagaan",
+      "packageIds": ["jay-ibrahim-kesuma"],
+      "kind": "other",
+      "description": "Naik taraf penerbangan kelas perniagaan",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": null,
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "Naik taraf kelas perniagaan dengan caj tambahan (RM10,000)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-bilik-kaabah-haram-view",
+      "packageIds": ["jay-ibrahim-nirmala", "jay-ibrahim-basyirah"],
+      "kind": "other",
+      "description": "Naik taraf ke bilik Kaabah View dan Haram View",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Caj tambahan tidak dinyatakan jumlahnya; asas harga tidak dicetak",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "5. Naik Taraf ke bilik Kaabah View dan Haram View dengan caj tambahan akan dikenakan.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-keretapi-kelas-perniagaan",
+      "packageIds": ["jay-ibrahim-nirmala", "jay-ibrahim-basyirah", "jay-ibrahim-balqis"],
+      "kind": "other",
+      "description": "Keretapi laju Haramain kelas perniagaan",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada harga semasa dan kekosongan tempat duduk, tertakluk kepada terma & syarat",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "6. Keretapi laju (kelas perniagaan) - tertakluk kepada harga semasa dan kekosongan tempat duduk, tertakluk kepada terma & syarat.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-sajian-antarabangsa-makkah",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-cindai"
+      ],
+      "kind": "meal",
+      "description": "Naik taraf kepada sajian antarabangsa di Swissotel Makkah",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Caj tambahan tidak dinyatakan jumlahnya",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "7. Naik taraf kepada sajian antarabangsa di Swissotel Makkah dengan caj tambahan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "jay-ibrahim-bayaran-haji-pjh",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-balqis",
+        "jay-ibrahim-kesuma",
+        "jay-ibrahim-cindai"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit terus daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan terus dari Akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-caj-tambahan-th",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-balqis",
+        "jay-ibrahim-kesuma",
+        "jay-ibrahim-cindai"
+      ],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "Walaubagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-caj-perubahan-hari",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-balqis",
+        "jay-ibrahim-kesuma",
+        "jay-ibrahim-cindai"
+      ],
+      "description": "Bayaran tambahan untuk pengurangan atau penambahan bilangan hari berbeza dari tarikh asal",
+      "priceSen": null,
+      "basis": "per_night",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "3. Bayaran tambahan dikenakan untuk pengurangan atau penambahan bilangan hari berbeza dari tarikh asal.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "jay-ibrahim-caj-balik-awal",
+      "packageIds": [
+        "jay-ibrahim-nirmala",
+        "jay-ibrahim-basyirah",
+        "jay-ibrahim-basyirah-gold",
+        "jay-ibrahim-balqis",
+        "jay-ibrahim-kesuma",
+        "jay-ibrahim-cindai"
+      ],
+      "description": "Bayaran tambahan tiket kapal terbang dan pengangkutan bagi jemaah yang memohon balik awal tidak melalui KT Tabung Haji",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 83,
+          "text": "4. Bayaran tambahan akan dikenakan untuk tiket kapal terbang dan pengangkutan bagi jemaah yang memohon balik awal tidak melalui KT Tabung Haji.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-balqis",
+      "field": "variants.pmnStatus",
+      "note": "Balqis: 'PMN disediakan (RM10,000)' — tidak jelas sama ada PMN termasuk dalam harga (nilai RM10,000) atau caj tambahan RM10,000. Baris 'Khemah Maktab (Muaisim) disediakan' tiada. Direkod not_stated; perlu pengesahan PJH.",
+      "pages": [82, 83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-kesuma",
+      "field": "variants.pmnStatus",
+      "note": "Kesuma: 'PMN disediakan (RM10,000)' — tidak jelas termasuk atau caj tambahan. Direkod not_stated.",
+      "pages": [83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-cindai",
+      "field": "variants.pmnStatus",
+      "note": "Cindai: 'PMN disediakan (RM10,000)' — tidak jelas termasuk atau caj tambahan. Direkod not_stated.",
+      "pages": [83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-kesuma",
+      "field": "flightClass",
+      "note": "'Penerbangan komersial kelas ekonomi (RM7,000)' — maksud angka RM7,000 tidak jelas (nilai termasuk atau caj tambahan). Tidak direkod sebagai caj.",
+      "pages": [83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-cindai",
+      "field": "flightClass",
+      "note": "'Penerbangan komersial kelas perniagaan disediakan (RM10,000)' — maksud angka RM10,000 tidak jelas (nilai termasuk atau caj tambahan).",
+      "pages": [83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.aziziyah.basis",
+      "note": "Naik taraf Aziziyah RM8,000 (ikon 2 orang) / RM4,000 (ikon 3 orang) tanpa perkataan 'seorang' atau 'sebilik'; basis per_person ialah andaian.",
+      "pages": [81, 82]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.licenceNumberAsPublished",
+      "note": "Nombor lesen PJH kabur dalam versi termampat: dibaca '19/1448H' (mungkin '10/1448H').",
+      "pages": [81]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jarak hotel (±100m, ±15m, ±660m) dicetak tanpa titik ukuran.",
+      "pages": [81, 82, 83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.sequence",
+      "note": "Masa penginapan Madinah (sebelum/selepas haji) tidak dinyatakan; urutan stays bukan kronologi yang disahkan.",
+      "pages": [81, 82, 83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah.description",
+      "note": "Nirmala menyebut bergerak ke Mina pada 7 Zulhijjah; Basyirah/Basyirah Gold/Balqis/Kesuma menyebut 'ke Arafah pada 7 Zulhijjah' (seperti dicetak, kemungkinan ralat cetak).",
+      "pages": [81, 82, 83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "jay-ibrahim-cindai",
+      "field": "tarwiyah",
+      "note": "Info Wukuf Cindai tidak menyebut Tarwiyah.",
+      "pages": [83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 81–83.",
+      "pages": [81, 82, 83]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [81]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-E",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 220 dpi dan potongan zum bagi teks kecil (Info Pakej, kotak Aziziyah, T&S, lesen). Imej sumber ~100 ppi.",
+    "independentCheck": null
+  }
+}

@@ -13,13 +13,13 @@
   ],
   "totals": {
     "pjhExpected": 34,
-    "pjhWithCatalogFile": 24,
+    "pjhWithCatalogFile": 29,
     "pjhReviewed": 0,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
-    "packageFamilies": 124,
-    "variantsIdentified": 390,
-    "variantsImported": 390,
+    "packageFamilies": 143,
+    "variantsIdentified": 449,
+    "variantsImported": 449,
     "variantsPublished": 0,
     "unresolvedVariants": 0
   },
@@ -761,27 +761,45 @@
         83
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Jay Ibrahim Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 3,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        81,
+        82,
+        83
+      ],
+      "packageFamiliesIdentified": 6,
+      "variantsIdentified": 13,
+      "variantsImported": 13,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 19/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 13,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] jay-ibrahim-balqis: variants.pmnStatus — Balqis: 'PMN disediakan (RM10,000)' — tidak jelas sama ada PMN termasuk dalam harga (nilai RM10,000) atau caj tambahan RM10,000. Baris 'Khemah Maktab (Muaisim) disediakan' tiada. Direkod not_stated; perlu pengesahan PJH.",
+        "[non_blocking] jay-ibrahim-kesuma: variants.pmnStatus — Kesuma: 'PMN disediakan (RM10,000)' — tidak jelas termasuk atau caj tambahan. Direkod not_stated.",
+        "[non_blocking] jay-ibrahim-cindai: variants.pmnStatus — Cindai: 'PMN disediakan (RM10,000)' — tidak jelas termasuk atau caj tambahan. Direkod not_stated.",
+        "[non_blocking] jay-ibrahim-kesuma: flightClass — 'Penerbangan komersial kelas ekonomi (RM7,000)' — maksud angka RM7,000 tidak jelas (nilai termasuk atau caj tambahan). Tidak direkod sebagai caj.",
+        "[non_blocking] jay-ibrahim-cindai: flightClass — 'Penerbangan komersial kelas perniagaan disediakan (RM10,000)' — maksud angka RM10,000 tidak jelas (nilai termasuk atau caj tambahan).",
+        "[non_blocking] jay-ibrahim: upgrades.aziziyah.basis — Naik taraf Aziziyah RM8,000 (ikon 2 orang) / RM4,000 (ikon 3 orang) tanpa perkataan 'seorang' atau 'sebilik'; basis per_person ialah andaian.",
+        "[non_blocking] jay-ibrahim: pjh.licenceNumberAsPublished — Nombor lesen PJH kabur dalam versi termampat: dibaca '19/1448H' (mungkin '10/1448H').",
+        "[non_blocking] jay-ibrahim: stays.distanceReference — Jarak hotel (±100m, ±15m, ±660m) dicetak tanpa titik ukuran.",
+        "[non_blocking] jay-ibrahim: stays.sequence — Masa penginapan Madinah (sebelum/selepas haji) tidak dinyatakan; urutan stays bukan kronologi yang disahkan.",
+        "[non_blocking] jay-ibrahim: tarwiyah.description — Nirmala menyebut bergerak ke Mina pada 7 Zulhijjah; Basyirah/Basyirah Gold/Balqis/Kesuma menyebut 'ke Arafah pada 7 Zulhijjah' (seperti dicetak, kemungkinan ralat cetak).",
+        "[non_blocking] jay-ibrahim-cindai: tarwiyah — Info Wukuf Cindai tidak menyebut Tarwiyah.",
+        "[non_blocking] jay-ibrahim: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 81–83.",
+        "[non_blocking] jay-ibrahim: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-E (semakan bebas belum dibuat)"
     },
     {
       "index": 20,
@@ -792,27 +810,42 @@
         87
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Juara Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 4,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "packageFamiliesIdentified": 4,
+      "variantsIdentified": 14,
+      "variantsImported": 14,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 20/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] juara-al-furqan-plus: aziziyah — Al-Furqan Plus berada dalam blok Al-Furqan (hotel Makkah/Madinah/Aziziyah sama) tetapi labelnya hanya '+TARWIYAH' tanpa 'AZIZIYAH'; Aziziyah direkod included berdasarkan 'Termasuk penginapan Aziziyah untuk Pakej Al-Furqan'. Perlu pengesahan.",
+        "[non_blocking] juara-al-salam: aziziyah — Al-Salam: Aziziyah tidak termasuk secara jelas; hanya PTM (Naik Taraf Hotel Masyaeir) secara pilihan bermula dari RM7,500. Direkod optional.",
+        "[non_blocking] juara: masyair.type — Pakej asas (Al-Salam, Al-Furqan) tidak menamakan jenis khemah (Muaisim tidak disebut); direkod not_stated dengan pmnStatus not_included kerana PMN ialah pakej 'Plus' berasingan (+RM7,000).",
+        "[non_blocking] juara: upgrades.priceSen — PTM 'bermula dari RM7,500' dan penerbangan komersial kelas perniagaan 'bermula dari RM16,000' ialah harga minimum; priceSen dibiarkan null.",
+        "[non_blocking] juara: stays.distanceM — Senarai '16 Kelebihan' menyebut 'Jarak 50m & 450m' untuk hotel Madinah & Makkah, bercanggah dengan jarak pakej (Makkah ±400m/±60m, Madinah ±180m ke dataran). Jarak pakej digunakan.",
+        "[non_blocking] juara: stays.sequence — Urutan Makkah/Madinah tidak dinyatakan; sequence ikut susunan brosur.",
+        "[non_blocking] juara: terms — Rujukan borang pembatalan pada hlm. 87 dicetak '1447H/2026M' (kemungkinan sisa brosur musim lalu).",
+        "[non_blocking] juara: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 84–87.",
+        "[non_blocking] juara: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-E (semakan bebas belum dibuat)"
     },
     {
       "index": 21,
@@ -823,27 +856,39 @@
         90
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Kembara Umrah Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 3,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        88,
+        89,
+        90
+      ],
+      "packageFamiliesIdentified": 4,
+      "variantsIdentified": 16,
+      "variantsImported": 16,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH21/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] kembara-umrah: variants.madinahOccupancy — Varian Bilik Ber-5 (KHM1, KHI1, KHMP1, KHSP1): T&S 8 menyatakan Madinah hanya berempat/bertiga/berdua; bilik Madinah untuk varian ini direkod 4 (inferens). Perlu pengesahan PJH.",
+        "[non_blocking] kembara-umrah: masyair.type — Pakej Mateen & Iman (asas) tidak menamakan jenis khemah; pmnStatus not_included kerana PMN hanya dalam pakej Premium (+RM11,000).",
+        "[non_blocking] kembara-umrah: tarwiyah — Tarwiyah disenaraikan sebagai kelebihan tanpa syarat dicetak; tiada huraian tarikh/pelaksanaan.",
+        "[non_blocking] kembara-umrah: stays.dateLabel/sequence — Tarikh dan urutan penginapan Makkah/Aziziyah/Madinah tidak dinyatakan.",
+        "[non_blocking] kembara-umrah: terms — T&S no. 10 terpotong oleh bahagian 'Hubungi Pegawai Kami' (teks tidak lengkap).",
+        "[non_blocking] kembara-umrah: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 88–90.",
+        "[non_blocking] kembara-umrah: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-E (semakan bebas belum dibuat)"
     },
     {
       "index": 22,
@@ -854,27 +899,41 @@
         93
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "KRS Travel Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 3,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        91,
+        92,
+        93
+      ],
+      "packageFamiliesIdentified": 3,
+      "variantsIdentified": 8,
+      "variantsImported": 8,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 22/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] krs: variants.pmnStatus — PMN/Muaisim tidak disebut langsung dalam halaman 91–93; semua varian pmnStatus not_stated.",
+        "[non_blocking] krs: flightClass/trainClass — Rotab & Ajwa: 'KELAS EKONOMI' dengan ikon tempat duduk, tidak jelas merujuk penerbangan carter atau kereta api Haramain; kedua-duanya direkod not_stated.",
+        "[non_blocking] krs: tarwiyah — Tarwiyah (8 Zulhijjah) dinyatakan sebagai keistimewaan umum syarikat tanpa syarat; tidak dinyatakan per pakej. Tarikh 8 Zulhijjah seperti dicetak.",
+        "[non_blocking] krs: aziziyah.defaultOccupancies — 'Bilik berkumpulan' di Aziziyah untuk semua pakej; bilangan orang sebilik tidak dinyatakan.",
+        "[non_blocking] krs-rotab: upgrades.tukar-penerbangan-komersial — Tambahan RM20,000 untuk tukar carter ke komersial: asas (seorang) dan kelas penerbangan tidak dinyatakan.",
+        "[non_blocking] krs: stays.dateLabel/sequence — Tarikh dan urutan penginapan tidak dinyatakan.",
+        "[non_blocking] krs: travelDates — Tarikh perjalanan tidak dinyatakan.",
+        "[non_blocking] krs: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 91–93.",
+        "[non_blocking] krs: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-E (semakan bebas belum dibuat)"
     },
     {
       "index": 23,
@@ -885,27 +944,38 @@
         95
       ],
       "seasonId": "1448H",
-      "legalName": null,
+      "legalName": "Mahabbaten Travel & Tours Sdn Bhd",
       "sourceIds": [
         "compilation-34pjh-1448h"
       ],
       "pagesExpected": 2,
-      "pagesReviewed": [],
-      "packageFamiliesIdentified": null,
-      "variantsIdentified": null,
-      "variantsImported": 0,
+      "pagesReviewed": [
+        94,
+        95
+      ],
+      "packageFamiliesIdentified": 2,
+      "variantsIdentified": 8,
+      "variantsImported": 8,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "not_started",
+      "processingStatus": "in_progress",
       "approvalStatus": "unverified",
-      "licenceNumberAsPublished": null,
+      "licenceNumberAsPublished": "PJH 23/1448H",
       "factsVerified": 0,
-      "fieldsNotPublished": null,
+      "fieldsNotPublished": 7,
       "unreadablePages": [],
       "unresolvedVariants": [],
-      "gaps": [],
-      "reviewedAt": null,
-      "reviewer": null
+      "gaps": [
+        "[non_blocking] mahabbaten: aziziyah — Hotel Nuzul Al Rayyan (1–15 Zulhijjah, 5 sebilik, ±600m dari Dataran Kompleks Jamrat) dicetak di bawah tajuk 'MINA' sebagai alternatif kepada 'Khemah (Mina Muasim)'; perkataan 'Aziziyah' tidak dicetak. Direkod aziziyah included dan stay location 'mina'.",
+        "[non_blocking] mahabbaten: stays — Jemaah yang tiba sebelum 1 Zulhijjah menginap di 'hotel ekonomi' yang tidak dinamakan (bukan Elaf/Safwah) sehingga 1 Zulhijjah.",
+        "[non_blocking] mahabbaten: tarwiyah — Tarwiyah tidak disebut dalam halaman 94–95.",
+        "[non_blocking] mahabbaten: stays.distanceReference — Jarak hotel Makkah/Madinah ('Jarak +-400/60/300 Meter') dicetak tanpa titik ukuran.",
+        "[non_blocking] mahabbaten: upgrades.business-class.priceSen — Business Class: 'tambahan bayaran minima RM14,000 seorang' — harga minimum, priceSen null.",
+        "[non_blocking] mahabbaten: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 94–95.",
+        "[non_blocking] mahabbaten: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+      ],
+      "reviewedAt": "2026-10-03",
+      "reviewer": "agen-E (semakan bebas belum dibuat)"
     },
     {
       "index": 24,
