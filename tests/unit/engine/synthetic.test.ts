@@ -227,3 +227,45 @@ describe("Input", () => {
     expect(r.inputErrors.join(" ")).toMatch(/tidak sepadan/);
   });
 });
+
+describe("Susunan Aziziyah khusus varian (aziziyahOccupancy)", () => {
+  const p = synthPackage("s-azvar", {
+    aziziyah: {
+      status: "included",
+      condition: null,
+      defaultOccupancies: [5],
+      defaultArrangementNote: null,
+      labelAsPublished: null,
+      dateLabel: null,
+      nightCount: null,
+      evidence: [],
+    },
+  });
+  const catalog = synthCatalog({
+    packages: [p],
+    variants: [synthVariant(p.id, "D2-AZ4", 2, 6_000_000n, { aziziyahOccupancy: 4 })],
+  });
+  it("menggunakan susunan varian, bukan susunan pakej, tanpa caj naik taraf", () => {
+    const c = assess(
+      catalog,
+      req({
+        aziziyah: { mode: "required" },
+        rooms: [{ pilgrims: 2, makkah: 2, madinah: 2, aziziyah: 4 }],
+      }),
+    ).candidates[0];
+    expect(c.assignments[0].aziziyahRoom).toBe("default");
+    expect(c.requirements.find((r) => r.key === "aziziyah_room")!.status).toBe("MEMENUHI");
+    expect(c.cost.knownGroupSen).toBe(12_000_000n);
+  });
+  it("Aziziyah berdua tidak dipenuhi apabila varian ditetapkan ber-4 dan tiada naik taraf", () => {
+    const c = assess(
+      catalog,
+      req({
+        aziziyah: { mode: "required" },
+        rooms: [{ pilgrims: 2, makkah: 2, madinah: 2, aziziyah: 2 }],
+      }),
+    ).candidates[0];
+    expect(c.assignments[0].aziziyahRoom).toBe("not_offered");
+    expect(c.group).toBe("not_matching");
+  });
+});

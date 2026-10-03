@@ -89,7 +89,7 @@ function resolveAziziyah(
   if (pkg.aziziyah.status !== "included" && pkg.aziziyah.status !== "optional") {
     return { resolution: "no_aziziyah", upgrade: null };
   }
-  if (pkg.aziziyah.defaultOccupancies?.includes(room.aziziyah)) {
+  if (aziziyahDefaults(pkg, variant)?.includes(room.aziziyah)) {
     return { resolution: "default", upgrade: null };
   }
   const options = catalog.upgrades
@@ -101,6 +101,13 @@ function resolveAziziyah(
   const upgrade = options[0];
   if (!upgrade) return { resolution: "not_offered", upgrade: null };
   return { resolution: upgrade.priceSen === null ? "upgrade_unpriced" : "upgrade", upgrade };
+}
+
+/** Susunan asal Aziziyah: khusus varian jika dicetak, jika tidak ikut pakej. */
+export function aziziyahDefaults(pkg: Package, variant: Variant): number[] | null {
+  return variant.aziziyahOccupancy !== null
+    ? [variant.aziziyahOccupancy]
+    : pkg.aziziyah.defaultOccupancies;
 }
 
 const basisLabel: Record<PricingBasis, string> = {

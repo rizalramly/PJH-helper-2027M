@@ -114,6 +114,7 @@ export interface Package {
     /** Susunan bilik asal Aziziyah (cth. [4,5,6] ikut jantina). */
     defaultOccupancies: number[] | null;
     defaultArrangementNote: string | null;
+    labelAsPublished: string | null;
     dateLabel: string | null;
     nightCount: number | null;
     evidence: Evidence[];
@@ -149,6 +150,8 @@ export interface Variant {
   currency: "MYR";
   makkahOccupancy: number;
   madinahOccupancy: number;
+  /** Susunan bilik Aziziyah khusus varian; null = ikut pakej. */
+  aziziyahOccupancy: number | null;
   pmnStatus: PmnStatus;
   /** Kategori pengembara; engine hanya menilai `adult`. */
   travellerCategory: TravellerCategory;

@@ -87,6 +87,7 @@ export function toEngineCatalog(files: PjhCatalogFile[], datasetVersion: string)
           currency: v.currency,
           makkahOccupancy: v.makkahOccupancy,
           madinahOccupancy: v.madinahOccupancy,
+          aziziyahOccupancy: v.aziziyahOccupancy,
           pmnStatus: v.pmnStatus,
           travellerCategory: v.travellerCategory,
           roomLabelAsPublished: v.roomLabelAsPublished,

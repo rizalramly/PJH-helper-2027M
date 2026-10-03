@@ -73,6 +73,18 @@ export function explainCandidate(
     uncertainties.push(`Kos diketahui; caj tambahan belum lengkap: ${cost.unpriced.join("; ")}.`);
   for (const c of cost.conditionalCharges)
     uncertainties.push(`Caj bersyarat mungkin dikenakan: ${c}.`);
+  for (const a of assignments) {
+    if (a.variant.roomLabelAsPublished && /\d\s*[/-]\s*\d/.test(a.variant.roomLabelAsPublished)) {
+      uncertainties.push(
+        `Susunan bilik varian ${a.variant.code} dicetak "${a.variant.roomLabelAsPublished}"; bilangan sebenar sebilik perlu disahkan.`,
+      );
+    }
+  }
+  if (pkg.aziziyah.labelAsPublished) {
+    uncertainties.push(
+      `Penginapan yang direkod sebagai Aziziyah dicetak sebagai "${pkg.aziziyah.labelAsPublished}".`,
+    );
+  }
   if (pkg.duration.approximate && pkg.duration.value !== null) {
     uncertainties.push(
       `Tempoh ialah anggaran ±${pkg.duration.value} hari; tarikh sebenar belum diterbitkan.`,

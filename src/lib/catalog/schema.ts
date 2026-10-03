@@ -53,6 +53,8 @@ export const variantSchema = z
     currency: z.literal("MYR").default("MYR"),
     makkahOccupancy: occupancy,
     madinahOccupancy: occupancy,
+    /** Susunan bilik Aziziyah khusus varian ini jika dicetak (cth. ber-2 Makkah tetapi ber-4 Aziziyah). */
+    aziziyahOccupancy: occupancy.nullable().default(null),
     pmnStatus: z.enum(["included", "not_included", "not_stated"]),
     travellerCategory: z
       .enum(["adult", "child_with_bed", "child_no_bed", "infant"])
@@ -97,6 +99,8 @@ export const packageSchema = z.object({
     condition: z.string().nullable().default(null),
     defaultOccupancies: z.array(occupancy).nullable().default(null),
     defaultArrangementNote: z.string().nullable().default(null),
+    /** Label penginapan seperti dicetak jika bukan "Aziziyah" (cth. "Syisyah", "hotel Mina", "hotel transit"). */
+    labelAsPublished: z.string().nullable().default(null),
     dateLabel: z.string().nullable().default(null),
     nightCount: z.number().int().positive().nullable().default(null),
     evidence: evidenceList,

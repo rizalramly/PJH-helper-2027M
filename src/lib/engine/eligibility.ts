@@ -1,4 +1,5 @@
 // Status setiap keperluan (spesifikasi §7) dan pengumpulan hasil (§9). Fungsi tulen.
+import { aziziyahDefaults } from "./costing";
 import { formatRM } from "./money";
 import type {
   CostBreakdown,
@@ -185,14 +186,20 @@ export function evaluateRequirements(
         switch (a.aziziyahRoom) {
           case "included":
             return ["MEMENUHI", `Bilik Aziziyah ber-${occ} sudah termasuk.`, false];
-          case "default":
-            return az.defaultOccupancies?.length === 1
-              ? ["MEMENUHI", `Susunan asal Aziziyah ialah ber-${occ}.`, false]
+          case "default": {
+            const defaults = aziziyahDefaults(pkg, a.variant);
+            return defaults?.length === 1
+              ? [
+                  "MEMENUHI",
+                  `Susunan asal Aziziyah bagi varian ${a.variant.code} ialah ber-${occ}.`,
+                  false,
+                ]
               : [
                   "PERLU_PENGESAHAN",
-                  `Susunan asal Aziziyah ber-${az.defaultOccupancies?.join("/")} diputuskan oleh syarikat${az.defaultArrangementNote ? ` (${az.defaultArrangementNote})` : ""}; ber-${occ} perlu disahkan.`,
+                  `Susunan asal Aziziyah ber-${defaults?.join("/")} diputuskan oleh syarikat${az.defaultArrangementNote ? ` (${az.defaultArrangementNote})` : ""}; ber-${occ} perlu disahkan.`,
                   false,
                 ];
+          }
           case "upgrade":
             return [
               "MEMENUHI",
