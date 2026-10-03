@@ -55,3 +55,36 @@ Selepas seed pertama bagi setiap persekitaran:
 3. Log masuk di `/admin`, muat naik PDF kompilasi melalui _Dokumen sumber_ (untuk skrin semakan).
 
 Perincian aliran kerja dan keselamatan: `docs/admin.md`.
+
+## Penggunaan Vercel (Fasa 8) — langkah operator
+
+Connector Vercel dalam sesi pembangunan tidak mempunyai kebenaran mencipta projek dalam team `apai`, jadi langkah 1–4 dibuat oleh pemilik akaun di papan pemuka Vercel. Projek `retirement-calculator` dalam team yang sama tidak disentuh.
+
+1. **Projek**: _Add New → Project → Import_ `rizalramly/PJH-helper-2027M` (team `apai`). Framework **Next.js**, Root Directory `/`, arahan lalai (pnpm dikesan daripada `packageManager`). Cabang production = cabang lalai repo (`claude/blissful-cray-nvzz0y`). Disyorkan: _Settings → Functions → Region_ **sin1 (Singapura)**.
+2. **Blob store berasingan** (_Storage → Create → Blob_, akses **Private**, rantau sin1):
+   - `pjh-helper-production` → _Connect Project_, persekitaran **Production** sahaja.
+   - `pjh-helper-preview` → persekitaran **Preview** (dan Development jika perlu).
+     Ini mencipta `BLOB_READ_WRITE_TOKEN` bagi setiap persekitaran. Preview tidak boleh menyentuh data production.
+3. **Environment Variables** (_Settings → Environment Variables_):
+   - `AUTH_SECRET`: nilai rawak ≥ 32 aksara (`openssl rand -base64 32`), **berbeza** bagi Production dan Preview.
+   - `ADMIN_SETUP_TOKEN`: nilai rawak ≥ 32 aksara (Production; Preview jika mahu menguji). Simpan nilai ini; ia diperlukan sekali di langkah 5.
+   - Jangan guna awalan `NEXT_PUBLIC_` untuk mana-mana nilai ini.
+4. **Deploy**: _Deployments → Redeploy_ (atau push baharu) supaya pemboleh ubah di atas digunakan. Status mesti **Ready**.
+5. **Persediaan pertama** (pelayar): buka `https://<domain-production>/admin/persediaan`, masukkan `ADMIN_SETUP_TOKEN`, emel dan kata laluan (≥ 12 aksara). Hanya berjaya jika belum ada pengguna.
+6. Log masuk di `/admin` → _Ringkasan_ → **Terbitkan katalog awal daripada repo** (sekali; setara `pnpm db:seed`). Halaman awam memaparkan "katalog tidak tersedia" sehingga langkah ini selesai.
+7. _Dokumen sumber_ → muat naik `docs/Pakej_Haji_2027_Semua_34_PJH_Bawah_29MB.pdf` (untuk skrin semakan; SHA-256 `e900b9c5…`).
+8. Padam `ADMIN_SETUP_TOKEN` (titik akhir persediaan tidak lagi berfungsi selepas pentadbir pertama wujud, tetapi buang juga) dan redeploy.
+9. Disyorkan: _Firewall → Rate limiting_ pada `POST /api/admin/session` (cth. 10 permintaan / minit / IP).
+
+### Pemeriksaan selepas penggunaan
+
+- [ ] `/` memaparkan musim 1448H dan liputan "33 daripada 34 PJH disemak".
+- [ ] Wizard pasangan RM100,000 → `/hasil` memaparkan cadangan; Busyra MTSP02 (Aziziyah ber-2) RM 86,490.00 seorang.
+- [ ] `/banding` dan `/laporan` (cetak) berfungsi pada telefon dan desktop.
+- [ ] `/liputan` memaparkan jurang menghalang Jad.
+- [ ] `/admin` tanpa sesi → ubah hala log masuk; `/api/admin/drafts` → 401.
+- [ ] Ujian tulis/baca: buka draf PJH, ubah nota/harga ujian, buang draf; log audit merekodkannya. Data kekal selepas redeploy.
+- [ ] `/api/admin/sources/<sha>` tanpa sesi → 401.
+- [ ] Log runtime tiada ralat 5xx berulang atau rahsia.
+
+Rollback kod: _Deployments → … → Promote to Production_ pada deployment terdahulu. Rollback data: _Terbit & sejarah → Aktifkan semula_ (bebas daripada rollback kod).
