@@ -45,7 +45,11 @@ Draf berasaskan versi aktif ketika ia dibuka. Jika fail PJH yang sama telah beru
 - Sesi: kuki `__Host-pjh_admin` (HttpOnly, Secure, SameSite=Strict, 8 jam) bertandatangan HMAC-SHA256 dengan `AUTH_SECRET` (≥ 32 aksara). Setiap permintaan menyemak semula pengguna, peranan, status dilumpuhkan dan `sessionVersion` (lumpuhkan/tukar kata laluan membatalkan semua sesi).
 - `src/proxy.ts` menghalang `/admin/*` dan `/api/admin/*` tanpa token sah (401 / ubah hala). Setiap Route Handler dan halaman turut mengesahkan sesi sepenuhnya.
 - CSRF: kuki SameSite=Strict + semakan `Origin`/`Sec-Fetch-Site` bagi permintaan yang mengubah data.
-- Had log masuk: 5 cubaan / 15 minit bagi setiap IP dan emel (dalam memori setiap instans), mesej ralat generik, masa respons disamakan bagi emel yang tidak wujud.
+- Had log masuk: 5 cubaan / 15 minit bagi setiap IP dan emel, ditempah **sebelum** kata laluan disemak (letusan serentak tidak melepasi had), maksimum 4 semakan scrypt serentak setiap instans, mesej ralat generik dan masa respons disamakan bagi emel yang tidak wujud. Had ini dalam memori setiap instans; untuk production, tambah peraturan had kadar Vercel WAF pada `/api/admin/session`.
+- Log keluar menaikkan `sessionVersion`, jadi token yang dicuri tidak boleh digunakan lagi (semua sesi pengguna itu ditamatkan).
+- Laluan stor disahkan secara berpusat (`src/lib/storage/paths.ts`): segmen `..`/`.`/kosong dan aksara `? # % \` ditolak dalam semua pelaksanaan stor; parameter musim dan PJH dalam URL disahkan sebelum digunakan.
+- Badan permintaan dibaca dengan had bait (termasuk badan chunked). Fail muat naik klien terikat pada laluan `uploads/<pengguna>/`; pengguna lain tidak boleh mendaftar atau membuangnya.
+- PDF disajikan kepada pentadbir sahaja dengan `nosniff`, `Content-Security-Policy: default-src 'none'; frame-ancestors 'self'` dan `X-Frame-Options: SAMEORIGIN`. Penapis kandungan aktif PDF ialah usaha terbaik (bukan jaminan); PDF tidak pernah dilaksanakan oleh pelayan.
 - Semua tindakan direkod dalam log audit (append-only), termasuk log masuk gagal.
 
 > Keputusan pelaksanaan: pelan asal menyebut Auth.js (Credentials). Untuk panel kecil dengan stor Blob, modul sesi dan scrypt yang ringkas dalam `src/lib/auth/` dipilih supaya tiada kebergantungan beta atau modul natif, setiap guard boleh diuji terus, dan semakan CSRF/peranan jelas dalam kod. Peralihan ke Auth.js kemudian hanya menyentuh `src/lib/auth/`.

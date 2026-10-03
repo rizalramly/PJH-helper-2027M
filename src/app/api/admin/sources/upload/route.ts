@@ -2,15 +2,15 @@ import { handleUpload, type HandleUploadBody } from "@vercel/blob/client";
 import { NextResponse } from "next/server";
 
 import { adminRoute } from "@/lib/admin/api";
-import { MAX_SOURCE_BYTES } from "@/lib/admin/sources";
+import { MAX_SOURCE_BYTES, UPLOAD_PATH_RE, uploadPrefix } from "@/lib/admin/sources";
 import { apiError } from "@/lib/api/http";
 
 /**
  * POST /api/admin/sources/upload — token muat naik klien Vercel Blob (PDF sahaja, ≤ 50 MB,
- * laluan sementara uploads/). Fail kemudian disahkan dan didaftarkan melalui /register.
+ * laluan sementara uploads/<pengguna>/). Fail kemudian disahkan dan didaftarkan melalui /register.
  */
 export async function POST(req: Request) {
-  return adminRoute(req, "any", async ({ store }) => {
+  return adminRoute(req, "any", async ({ store, user }) => {
     if (store.kind !== "vercel-blob") {
       return apiError(
         400,
@@ -26,7 +26,7 @@ export async function POST(req: Request) {
       body,
       request: req,
       onBeforeGenerateToken: async (pathname) => {
-        if (!/^uploads\/[A-Za-z0-9._-]{1,120}\.pdf$/.test(pathname)) {
+        if (!UPLOAD_PATH_RE.test(pathname) || !pathname.startsWith(uploadPrefix(user.email))) {
           throw new Error("Laluan muat naik tidak sah.");
         }
         return {

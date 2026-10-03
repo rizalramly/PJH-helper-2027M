@@ -1,3 +1,5 @@
+import { assertSafePath, assertSafePrefix } from "./paths";
+
 // Stor objek JSON minimum di atas Vercel Blob (atau memori untuk ujian).
 // Tiada transaksi berbilang objek: ketekalan dijaga dengan objek tidak boleh ubah
 // dan penunjuk aktif yang dikemas kini secara bersyarat (ETag).
@@ -37,11 +39,13 @@ export class MemoryKV implements JsonKV {
   private counter = 0;
 
   async getJSON<T>(path: string): Promise<StoredJSON<T> | null> {
+    assertSafePath(path);
     const o = this.objects.get(path);
     return o ? { value: JSON.parse(o.body) as T, etag: o.etag } : null;
   }
 
   async putJSON(path: string, value: unknown, options: PutOptions = {}) {
+    assertSafePath(path);
     const existing = this.objects.get(path);
     if (options.createOnly && existing) throw new ConflictError(`${path} sudah wujud`);
     if (options.ifMatch !== undefined && existing?.etag !== options.ifMatch) {
@@ -53,10 +57,12 @@ export class MemoryKV implements JsonKV {
   }
 
   async list(prefix: string) {
+    assertSafePrefix(prefix);
     return [...this.objects.keys()].filter((k) => k.startsWith(prefix)).sort();
   }
 
   async delete(path: string) {
+    assertSafePath(path);
     this.objects.delete(path);
   }
 }

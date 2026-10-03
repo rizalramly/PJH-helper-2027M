@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-import { adminRoute, parseBody, requireSeason } from "@/lib/admin/api";
+import { adminRoute, parseBody, seasonParam } from "@/lib/admin/api";
 import { invalidateActiveCatalog } from "@/lib/catalog/active";
 import { DEFAULT_SEASON_ID } from "@/lib/catalog/seasons";
 import {
@@ -14,7 +14,9 @@ import {
 /** GET /api/admin/versions?season= — versi aktif, sejarah versi dan peristiwa terbit/aktif. */
 export async function GET(req: Request) {
   return adminRoute(req, "any", async ({ store }) => {
-    const season = new URL(req.url).searchParams.get("season") ?? DEFAULT_SEASON_ID;
+    const season = await seasonParam(
+      new URL(req.url).searchParams.get("season") ?? DEFAULT_SEASON_ID,
+    );
     const [active, versions, audit] = await Promise.all([
       getActivePointer(store.kv, season),
       listDatasetVersions(store.kv, season),
@@ -40,14 +42,8 @@ export async function POST(req: Request) {
   return adminRoute(req, "admin", async ({ store, op }) => {
     const { data, error } = await parseBody(req, schema, 1_000);
     if (error) return error;
-    await requireSeason(data.seasonId);
-    const previous = await activateVersion(
-      store.kv,
-      data.seasonId,
-      data.datasetVersion,
-      op.actor,
-      op.now,
-    );
+    const season = await seasonParam(data.seasonId);
+    const previous = await activateVersion(store.kv, season, data.datasetVersion, op.actor, op.now);
     invalidateActiveCatalog();
     return NextResponse.json({ datasetVersion: data.datasetVersion, previousVersion: previous });
   });

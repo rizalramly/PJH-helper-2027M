@@ -12,7 +12,13 @@ import { Feedback, TextField, type FeedbackState } from "./Fields";
 
 const MAX = 50 * 1024 * 1024;
 
-export function SourceUpload({ storeKind }: { storeKind: "vercel-blob" | "file" | "memory" }) {
+export function SourceUpload({
+  storeKind,
+  uploadPrefix,
+}: {
+  storeKind: "vercel-blob" | "file" | "memory";
+  uploadPrefix: string;
+}) {
   const router = useRouter();
   const input = React.useRef<HTMLInputElement>(null);
   const [note, setNote] = React.useState("");
@@ -41,7 +47,7 @@ export function SourceUpload({ storeKind }: { storeKind: "vercel-blob" | "file" 
                 .replace(/[^A-Za-z0-9._-]+/g, "_")
                 .replace(/\.pdf$/i, "")
                 .slice(0, 80) || "sumber";
-            const blob = await upload(`uploads/${safe}.pdf`, file, {
+            const blob = await upload(`${uploadPrefix}${safe}.pdf`, file, {
               access: "private",
               handleUploadUrl: "/api/admin/sources/upload",
               contentType: "application/pdf",

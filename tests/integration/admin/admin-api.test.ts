@@ -22,6 +22,7 @@ import {
   POST as sessionPOST,
 } from "@/app/api/admin/session/route";
 import { GET as sourceGET } from "@/app/api/admin/sources/[sha]/route";
+import { POST as registerPOST } from "@/app/api/admin/sources/register/route";
 import { GET as sourcesGET, POST as sourcesPOST } from "@/app/api/admin/sources/route";
 import { GET as versionsGET, POST as versionsPOST } from "@/app/api/admin/versions/route";
 import { POST as assessPOST } from "@/app/api/assess/route";
@@ -649,5 +650,118 @@ describe("musim", () => {
     ).toBe(200);
     const pub: Json = await (await publicSeasonsGET()).json();
     expect(pub.seasons.map((s: Json) => s.id)).toEqual(["1449H", "1448H"]);
+  });
+});
+
+describe("pengerasan keselamatan (semakan bebas)", () => {
+  it("laluan stor dengan .., # atau %2F ditolak (tiada bacaan admin/users.json)", async () => {
+    const traversal = await versionsGET(
+      req("/api/admin/versions?season=..%2Fadmin%2Fusers.json%23", { cookie: reviewerCookie }),
+    );
+    expect(traversal.status).toBe(400);
+    expect(await traversal.text()).not.toContain("passwordHash");
+    const listing = await draftsGET(
+      req("/api/admin/drafts?season=../admin", { cookie: reviewerCookie }),
+    );
+    expect(listing.status).toBe(400);
+    for (const p of [
+      { season: "../admin", pjh: "users" },
+      { season: "1448H", pjh: "../../admin/users" },
+      { season: "1448H", pjh: "busyra#x" },
+    ]) {
+      const res = await draftGET(
+        req("/api/admin/drafts/x/y", { cookie: reviewerCookie }),
+        params(p),
+      );
+      expect(res.status).toBe(400);
+    }
+    await expect(store.kv.getJSON("catalog/../admin/users.json#/active.json")).rejects.toThrow(
+      /Laluan stor tidak sah/,
+    );
+  });
+
+  it("penyemak tidak boleh mengubah metadata kelulusan melalui editor JSON", async () => {
+    const d = await openBusyra(adminCookie);
+    const approved = await draftPATCH(
+      req("/api/admin/drafts/1448H/busyra", {
+        method: "PATCH",
+        cookie: adminCookie,
+        body: {
+          etag: d.etag,
+          ops: [
+            {
+              op: "set_approval",
+              status: "verified_approved",
+              officialSource: "Senarai TH 1448H",
+              officialReference: null,
+            },
+          ],
+        },
+      }),
+      params({ season: "1448H", pjh: "busyra" }),
+    );
+    expect(approved.status).toBe(200);
+    const cur: Json = await (
+      await draftGET(
+        req("/api/admin/drafts/1448H/busyra", { cookie: reviewerCookie }),
+        params({ season: "1448H", pjh: "busyra" }),
+      )
+    ).json();
+    const file = structuredClone(cur.draft.file);
+    file.pjh.approval.verifiedBy = "ketua@contoh.my (admin)";
+    file.pjh.approval.officialSource = "Sumber palsu";
+    const forged = await draftPATCH(
+      req("/api/admin/drafts/1448H/busyra", {
+        method: "PATCH",
+        cookie: reviewerCookie,
+        body: { etag: cur.etag, ops: [{ op: "replace_file", file }] },
+      }),
+      params({ season: "1448H", pjh: "busyra" }),
+    );
+    expect(forged.status).toBe(422);
+  });
+
+  it("letusan log masuk serentak tidak melepasi had cubaan", async () => {
+    const burst = await Promise.all(
+      Array.from({ length: 12 }, () => login("admin@contoh.my", "salah-kata-laluan-xx")),
+    );
+    let checked = burst.filter((r) => r.res.status === 401).length;
+    expect(burst.filter((r) => r.res.status === 429).length).toBeGreaterThan(0);
+    // Teruskan secara berurutan: jumlah kata laluan salah yang benar-benar disemak ≤ 5.
+    for (let i = 0; i < 10; i++) {
+      const r = await login("admin@contoh.my", "salah-kata-laluan-xx");
+      if (r.res.status === 401) checked++;
+      else expect(r.res.status).toBe(429);
+    }
+    expect(checked).toBe(5);
+    expect((await login("admin@contoh.my")).res.status).toBe(429);
+  });
+
+  it("log keluar membatalkan token di pelayan, bukan sekadar kuki", async () => {
+    const { cookie } = await login("semak@contoh.my");
+    expect((await sessionGET(req("/api/admin/session", { cookie }))).status).toBe(200);
+    await sessionDELETE(req("/api/admin/session", { method: "DELETE", cookie }));
+    expect((await sessionGET(req("/api/admin/session", { cookie }))).status).toBe(401);
+  });
+
+  it("badan permintaan terlalu besar ditolak sebelum diproses", async () => {
+    const res = await sessionPOST(
+      req("/api/admin/session", {
+        method: "POST",
+        body: { email: "a@b.my", password: "x".repeat(50_000) },
+      }),
+    );
+    expect(res.status).toBe(413);
+  });
+
+  it("pengguna tidak boleh mendaftar atau membuang fail muat naik pengguna lain", async () => {
+    const res = await registerPOST(
+      req("/api/admin/sources/register", {
+        method: "POST",
+        cookie: reviewerCookie,
+        body: { pathname: "uploads/0123456789abcdef/brosur-abc.pdf", filename: "brosur.pdf" },
+      }),
+    );
+    expect(res.status).toBe(403);
   });
 });

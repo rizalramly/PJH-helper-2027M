@@ -18,6 +18,8 @@ export class PublishValidationError extends Error {
 export interface PublishOutcome {
   result: PublishResult;
   published: string[];
+  /** Draf yang disunting semasa penerbitan; tidak dibuang. */
+  kept: string[];
 }
 
 export async function publishDrafts(
@@ -28,6 +30,7 @@ export async function publishDrafts(
   const ids = [...new Set(input.pjhIds)].sort();
   if (!ids.length) throw new DraftError("Pilih sekurang-kurangnya satu draf untuk diterbitkan.");
   const replacements = new Map<string, PjhCatalogFileInput>();
+  const etags = new Map<string, string>();
   const problems: string[] = [];
   for (const id of ids) {
     const d = await getDraft(kv, base.seasonId, id);
@@ -47,6 +50,7 @@ export async function publishDrafts(
       continue;
     }
     replacements.set(id, d.value.file);
+    etags.set(id, d.etag);
   }
   if (problems.length) throw new PublishValidationError(problems);
 
@@ -89,6 +93,13 @@ export async function publishDrafts(
     now: input.now,
     note: `PJH: ${ids.join(", ")}`,
   });
-  for (const id of ids) await kv.delete(draftPath(base.seasonId, id));
-  return { result, published: ids };
+  // Buang draf hanya jika tidak disunting selepas dibaca untuk penerbitan; jika disunting,
+  // draf kekal (perubahan baharu tidak hilang) dan boleh disemak semula.
+  const kept: string[] = [];
+  for (const id of ids) {
+    const now = await getDraft(kv, base.seasonId, id);
+    if (now && now.etag !== etags.get(id)) kept.push(id);
+    else if (now) await kv.delete(draftPath(base.seasonId, id));
+  }
+  return { result, published: ids, kept };
 }

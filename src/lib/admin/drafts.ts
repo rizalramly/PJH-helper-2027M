@@ -7,7 +7,14 @@ import type { PjhCatalogFileInput } from "../catalog/schema";
 import { validateCatalogFile } from "../catalog/validate";
 import { appendAudit, canonical } from "../storage/catalog-repo";
 import { ConflictError, type JsonKV } from "../storage/kv";
-import { applyOps, OpError, withReviewReset, type DraftOp, type OpContext } from "./ops";
+import {
+  applyOps,
+  OpError,
+  sameApproval,
+  withReviewReset,
+  type DraftOp,
+  type OpContext,
+} from "./ops";
 
 export type DraftStatus = "draft" | "submitted" | "approved";
 
@@ -216,9 +223,9 @@ export async function importJsonDraft(
   if (existing && !replace) {
     throw new DraftError(`Draf ${pjhId} sudah wujud. Tandakan "gantikan draf" untuk menimpanya.`);
   }
-  const prevApproval = (existing?.value.file ?? baseFile)?.pjh.approval?.status ?? "unverified";
-  if (ctx.role !== "admin" && (f.pjh?.approval?.status ?? "unverified") !== prevApproval) {
-    throw new OpError("Hanya pentadbir boleh menukar status kelulusan PJH.");
+  const prevApproval = (existing?.value.file ?? baseFile)?.pjh.approval;
+  if (ctx.role !== "admin" && !sameApproval(prevApproval, f.pjh?.approval)) {
+    throw new OpError("Hanya pentadbir boleh menukar status atau maklumat kelulusan PJH.");
   }
   const file = withReviewReset(raw as PjhCatalogFileInput);
   const draft = existing

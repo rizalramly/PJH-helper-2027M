@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-import { adminRoute, parseBody, requireSeason } from "@/lib/admin/api";
+import { adminRoute, parseBody, pjhParam, seasonParam } from "@/lib/admin/api";
 import { loadBaseCatalog } from "@/lib/admin/base";
 import { listDrafts, openDraft } from "@/lib/admin/drafts";
 import { DEFAULT_SEASON_ID } from "@/lib/catalog/seasons";
@@ -9,7 +9,9 @@ import { DEFAULT_SEASON_ID } from "@/lib/catalog/seasons";
 /** GET /api/admin/drafts?season= — senarai draf. */
 export async function GET(req: Request) {
   return adminRoute(req, "any", async ({ store }) => {
-    const season = new URL(req.url).searchParams.get("season") ?? DEFAULT_SEASON_ID;
+    const season = await seasonParam(
+      new URL(req.url).searchParams.get("season") ?? DEFAULT_SEASON_ID,
+    );
     const drafts = await listDrafts(store.kv, season);
     return NextResponse.json({
       drafts: drafts.map((d) => ({
@@ -37,9 +39,9 @@ export async function POST(req: Request) {
   return adminRoute(req, "any", async ({ store, op }) => {
     const { data, error } = await parseBody(req, openSchema, 1_000);
     if (error) return error;
-    await requireSeason(data.seasonId);
-    const base = await loadBaseCatalog(store, data.seasonId);
-    const d = await openDraft(store.kv, base, data.pjhId, op);
+    const season = await seasonParam(data.seasonId);
+    const base = await loadBaseCatalog(store, season);
+    const d = await openDraft(store.kv, base, pjhParam(data.pjhId), op);
     return NextResponse.json({ pjhId: d.value.pjhId, status: d.value.status, etag: d.etag });
   });
 }

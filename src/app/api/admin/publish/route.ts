@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-import { adminRoute, parseBody, requireSeason } from "@/lib/admin/api";
+import { adminRoute, parseBody, seasonParam } from "@/lib/admin/api";
 import { loadBaseCatalog } from "@/lib/admin/base";
 import { publishDrafts } from "@/lib/admin/publish";
 import { invalidateActiveCatalog } from "@/lib/catalog/active";
@@ -24,7 +24,7 @@ export async function POST(req: Request) {
   return adminRoute(req, "admin", async ({ store, op }) => {
     const { data, error } = await parseBody(req, schema, 8_000);
     if (error) return error;
-    await requireSeason(data.seasonId);
+    await seasonParam(data.seasonId);
     const base = await loadBaseCatalog(store, data.seasonId);
     const out = await publishDrafts(store.kv, base, {
       pjhIds: data.pjhIds,

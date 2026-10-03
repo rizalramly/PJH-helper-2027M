@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { z } from "zod";
 
 import { apiError } from "@/lib/api/http";
-import { adminRoute, parseBody } from "@/lib/admin/api";
+import { adminRoute, parseBody, pjhParam, seasonParam } from "@/lib/admin/api";
 import { loadBaseCatalog } from "@/lib/admin/base";
 import { diffFiles } from "@/lib/admin/diff";
 import { discardDraft, editDraft, getDraft, validateDraftFile } from "@/lib/admin/drafts";
@@ -13,7 +13,9 @@ type Ctx = RouteContext<"/api/admin/drafts/[season]/[pjh]">;
 /** GET — draf, ETag, validasi pra-terbit dan perbezaan berbanding katalog aktif. */
 export async function GET(req: Request, ctx: Ctx) {
   return adminRoute(req, "any", async ({ store }) => {
-    const { season, pjh } = await ctx.params;
+    const p = await ctx.params;
+    const season = await seasonParam(p.season);
+    const pjh = pjhParam(p.pjh);
     const d = await getDraft(store.kv, season, pjh);
     if (!d) return apiError(404, "not_found", "Draf tidak wujud.");
     const base = await loadBaseCatalog(store, season);
@@ -38,7 +40,9 @@ const patchSchema = z.object({
 /** PATCH — laksanakan operasi suntingan (optimistic concurrency melalui ETag). */
 export async function PATCH(req: Request, ctx: Ctx) {
   return adminRoute(req, "any", async ({ store, op }) => {
-    const { season, pjh } = await ctx.params;
+    const p = await ctx.params;
+    const season = await seasonParam(p.season);
+    const pjh = pjhParam(p.pjh);
     const { data, error } = await parseBody(req, patchSchema, 1_000_000);
     if (error) return error;
     const d = await editDraft(
@@ -58,7 +62,9 @@ export async function PATCH(req: Request, ctx: Ctx) {
 /** DELETE — buang draf (katalog aktif tidak terjejas). */
 export async function DELETE(req: Request, ctx: Ctx) {
   return adminRoute(req, "any", async ({ store, op }) => {
-    const { season, pjh } = await ctx.params;
+    const p = await ctx.params;
+    const season = await seasonParam(p.season);
+    const pjh = pjhParam(p.pjh);
     const { data, error } = await parseBody(
       req,
       z.object({ etag: z.string().min(1).max(200) }),

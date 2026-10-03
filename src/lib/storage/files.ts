@@ -3,6 +3,7 @@
 import { del, get, head, put } from "@vercel/blob";
 
 import { ConflictError } from "./kv";
+import { assertSafePath } from "./paths";
 
 export interface StoredFile {
   data: Uint8Array;
@@ -24,16 +25,20 @@ export class MemoryFileStore implements FileStore {
   private files = new Map<string, StoredFile>();
 
   async putFile(path: string, data: Uint8Array, contentType: string) {
+    assertSafePath(path);
     if (this.files.has(path)) throw new ConflictError(`${path} sudah wujud`);
     this.files.set(path, { data: new Uint8Array(data), size: data.byteLength, contentType });
   }
   async getFile(path: string) {
+    assertSafePath(path);
     return this.files.get(path) ?? null;
   }
   async exists(path: string) {
+    assertSafePath(path);
     return this.files.has(path);
   }
   async delete(path: string) {
+    assertSafePath(path);
     this.files.delete(path);
   }
 }
@@ -43,6 +48,7 @@ export class BlobFileStore implements FileStore {
   constructor(private readonly token?: string) {}
 
   async putFile(path: string, data: Uint8Array, contentType: string) {
+    assertSafePath(path);
     try {
       await put(path, Buffer.from(data), {
         access: "private",
@@ -60,6 +66,7 @@ export class BlobFileStore implements FileStore {
   }
 
   async getFile(path: string): Promise<StoredFile | null> {
+    assertSafePath(path);
     const res = await get(path, { access: "private", useCache: false, token: this.token });
     if (!res || res.statusCode !== 200) return null;
     const data = new Uint8Array(await new Response(res.stream).arrayBuffer());
@@ -67,6 +74,7 @@ export class BlobFileStore implements FileStore {
   }
 
   async exists(path: string) {
+    assertSafePath(path);
     try {
       await head(path, { token: this.token });
       return true;
@@ -76,6 +84,7 @@ export class BlobFileStore implements FileStore {
   }
 
   async delete(path: string) {
+    assertSafePath(path);
     await del(path, { token: this.token });
   }
 }

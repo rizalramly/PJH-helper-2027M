@@ -50,3 +50,26 @@ describe("token sesi", () => {
     expect(readCookie(null, "x")).toBeNull();
   });
 });
+
+describe("pengawal laluan stor", () => {
+  it("menolak traversal dan aksara URL khas", async () => {
+    const { assertSafePath, assertSafePrefix } = await import("@/lib/storage/paths");
+    for (const bad of [
+      "../x.json",
+      "a/../b.json",
+      "a/./b",
+      "a//b",
+      "a/b#c",
+      "a/b?c",
+      "a/%2e%2e/b",
+      "a\\b",
+      "/abs",
+      "",
+    ]) {
+      expect(() => assertSafePath(bad)).toThrow(/Laluan stor tidak sah/);
+    }
+    expect(() => assertSafePath("drafts/1448h/busyra.json")).not.toThrow();
+    expect(() => assertSafePrefix("audit/2026-10/")).not.toThrow();
+    expect(() => assertSafePrefix("audit/../")).toThrow();
+  });
+});

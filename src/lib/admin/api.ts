@@ -13,6 +13,28 @@ import { OpError, type OpContext } from "./ops";
 import { PublishValidationError } from "./publish";
 import { DuplicateSourceError, InvalidSourceError } from "./sources";
 
+export class ParamError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "ParamError";
+  }
+}
+
+const SEASON_RE = /^\d{4}H$/;
+const PJH_RE = /^[a-z0-9-]{1,60}$/;
+
+/** Sahkan ID musim daripada URL/badan (format + wujud). Elak laluan stor sewenang-wenang. */
+export async function seasonParam(raw: string | null | undefined): Promise<string> {
+  if (!raw || !SEASON_RE.test(raw)) throw new ParamError("ID musim tidak sah.");
+  await requireSeason(raw);
+  return raw;
+}
+
+export function pjhParam(raw: string | null | undefined): string {
+  if (!raw || !PJH_RE.test(raw)) throw new ParamError("ID PJH tidak sah.");
+  return raw;
+}
+
 export interface AdminCtx {
   user: SessionUser;
   store: Store;
@@ -36,6 +58,7 @@ export function adminRoute(
         op: { actor: actorOf(user), now: new Date(), role: user.role },
       });
     } catch (e) {
+      if (e instanceof ParamError) return apiError(400, "bad_request", e.message);
       if (e instanceof OpError || e instanceof DraftError) {
         return apiError(422, "validation_failed", e.message);
       }

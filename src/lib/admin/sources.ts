@@ -11,6 +11,11 @@ export const MAX_SOURCE_BYTES = 50 * 1024 * 1024;
 export const SOURCES_INDEX = "sources/index.json";
 export const sourcePath = (sha256: string) => `sources/${sha256}.pdf`;
 
+/** Laluan sementara muat naik klien, terikat pada pengguna (pengguna lain tidak boleh mendaftar/membuangnya). */
+export const uploadPrefix = (email: string) =>
+  `uploads/${createHash("sha256").update(`upload:${email}`).digest("hex").slice(0, 16)}/`;
+export const UPLOAD_PATH_RE = /^uploads\/[0-9a-f]{16}\/[A-Za-z0-9._-]{1,200}\.pdf$/;
+
 export interface SourceRecord {
   sha256: string;
   filename: string;

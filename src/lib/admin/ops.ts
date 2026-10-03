@@ -4,6 +4,7 @@
 import { z } from "zod";
 
 import { DEFAULT_SOURCE_ID, type PjhCatalogFileInput } from "../catalog/schema";
+import { sameContent } from "./diff";
 
 const senInput = z.number().int().nonnegative().max(100_000_000_00);
 const occupancy = z.number().int().min(1).max(12);
@@ -377,14 +378,26 @@ export function applyOp(input: File, op: DraftOp, ctx: OpContext): File {
       const next = structuredClone(op.file) as unknown as File;
       if (next?.pjh?.id !== input.pjh.id) throw new OpError("pjh.id tidak boleh ditukar.");
       if (next.seasonId !== input.seasonId) throw new OpError("seasonId tidak boleh ditukar.");
-      const before = input.pjh.approval?.status ?? "unverified";
-      if (ctx.role !== "admin" && (next.pjh.approval?.status ?? "unverified") !== before) {
-        throw new OpError("Hanya pentadbir boleh menukar status kelulusan PJH.");
+      if (ctx.role !== "admin" && !sameApproval(input.pjh.approval, next.pjh?.approval)) {
+        throw new OpError("Hanya pentadbir boleh menukar status atau maklumat kelulusan PJH.");
       }
       return withReviewReset(next);
     }
   }
   return withReviewReset(file);
+}
+
+const UNVERIFIED = {
+  status: "unverified",
+  officialSource: null,
+  officialReference: null,
+  verifiedAt: null,
+  verifiedBy: null,
+};
+
+/** Bandingkan keseluruhan objek kelulusan (status, sumber rasmi, penyemak, tarikh). */
+export function sameApproval(a: unknown, b: unknown) {
+  return sameContent({ ...UNVERIFIED, ...(a as object) }, { ...UNVERIFIED, ...(b as object) });
 }
 
 /** Perubahan kandungan membatalkan semakan pentadbir sebelumnya. */

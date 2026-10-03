@@ -6,14 +6,11 @@ import { dirname, join, relative, sep } from "node:path";
 
 import type { FileStore, StoredFile } from "./files";
 import { ConflictError, type JsonKV, type PutOptions, type StoredJSON } from "./kv";
-
-const SAFE_PATH = /^[a-z0-9][a-z0-9/_.@-]*$/i;
+import { assertSafePath, assertSafePrefix } from "./paths";
 
 /** Tolak laluan yang boleh keluar dari direktori stor. */
 export function safeJoin(root: string, path: string) {
-  if (!SAFE_PATH.test(path) || path.split("/").some((p) => p === ".." || p === "")) {
-    throw new Error(`Laluan stor tidak sah: ${path}`);
-  }
+  assertSafePath(path);
   return join(root, ...path.split("/"));
 }
 
@@ -53,6 +50,20 @@ async function walk(dir: string): Promise<string[]> {
   return out;
 }
 
+// Kunci setiap laluan dalam proses: semakan ETag + tulis berlaku secara atomik bagi satu
+// pelayan pembangunan (Blob menguatkuasakan prasyarat di pelayan untuk production).
+const locks = new Map<string, Promise<unknown>>();
+function withLock<T>(key: string, fn: () => Promise<T>): Promise<T> {
+  const prev = locks.get(key) ?? Promise.resolve();
+  const run = prev.then(fn, fn);
+  const tail = run.catch(() => undefined);
+  locks.set(key, tail);
+  void tail.then(() => {
+    if (locks.get(key) === tail) locks.delete(key);
+  });
+  return run;
+}
+
 export class FileKV implements JsonKV {
   readonly kind = "file" as const;
   constructor(private readonly root: string) {}
@@ -66,20 +77,23 @@ export class FileKV implements JsonKV {
 
   async putJSON(path: string, value: unknown, options: PutOptions = {}) {
     const file = safeJoin(this.root, path);
-    const existing = await readOrNull(file);
-    if (options.createOnly && existing) throw new ConflictError(`${path} sudah wujud`);
-    if (
-      options.ifMatch !== undefined &&
-      (!existing || etagOf(existing.toString("utf8")) !== options.ifMatch)
-    ) {
-      throw new ConflictError(`${path} telah berubah (ETag tidak sepadan)`);
-    }
-    const body = JSON.stringify(value);
-    await atomicWrite(file, body);
-    return { etag: etagOf(body) };
+    return withLock(file, async () => {
+      const existing = await readOrNull(file);
+      if (options.createOnly && existing) throw new ConflictError(`${path} sudah wujud`);
+      if (
+        options.ifMatch !== undefined &&
+        (!existing || etagOf(existing.toString("utf8")) !== options.ifMatch)
+      ) {
+        throw new ConflictError(`${path} telah berubah (ETag tidak sepadan)`);
+      }
+      const body = JSON.stringify(value);
+      await atomicWrite(file, body);
+      return { etag: etagOf(body) };
+    });
   }
 
   async list(prefix: string) {
+    assertSafePrefix(prefix);
     const files = await walk(this.root);
     return files
       .map((f) => relative(this.root, f).split(sep).join("/"))

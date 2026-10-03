@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 
-import { adminRoute, parseBody } from "@/lib/admin/api";
+import { adminRoute, parseBody, pjhParam, seasonParam } from "@/lib/admin/api";
 import { reviewDraft } from "@/lib/admin/drafts";
 
 const schema = z.object({
@@ -16,7 +16,9 @@ export async function POST(
   ctx: RouteContext<"/api/admin/drafts/[season]/[pjh]/review">,
 ) {
   return adminRoute(req, "any", async ({ store, op }) => {
-    const { season, pjh } = await ctx.params;
+    const p = await ctx.params;
+    const season = await seasonParam(p.season);
+    const pjh = pjhParam(p.pjh);
     const { data, error } = await parseBody(req, schema, 4_000);
     if (error) return error;
     const d = await reviewDraft(

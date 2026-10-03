@@ -1,6 +1,7 @@
 import { BlobPreconditionFailedError, del, get, list, put } from "@vercel/blob";
 
 import { ConflictError, type JsonKV, type PutOptions, type StoredJSON } from "./kv";
+import { assertSafePath, assertSafePrefix } from "./paths";
 
 /**
  * Vercel Blob (akses private). Jangan import dari komponen client: token hanya wujud di server. Token dibaca daripada BLOB_READ_WRITE_TOKEN di server sahaja.
@@ -12,6 +13,7 @@ export class BlobKV implements JsonKV {
   constructor(private readonly token?: string) {}
 
   async getJSON<T>(path: string): Promise<StoredJSON<T> | null> {
+    assertSafePath(path);
     const res = await get(path, { access: "private", useCache: false, token: this.token });
     if (!res || res.statusCode !== 200) return null;
     const text = await new Response(res.stream).text();
@@ -19,6 +21,7 @@ export class BlobKV implements JsonKV {
   }
 
   async putJSON(path: string, value: unknown, options: PutOptions = {}) {
+    assertSafePath(path);
     try {
       const res = await put(path, JSON.stringify(value), {
         access: "private",
@@ -42,6 +45,7 @@ export class BlobKV implements JsonKV {
   }
 
   async list(prefix: string) {
+    assertSafePrefix(prefix);
     const out: string[] = [];
     let cursor: string | undefined;
     do {
@@ -53,6 +57,7 @@ export class BlobKV implements JsonKV {
   }
 
   async delete(path: string) {
+    assertSafePath(path);
     await del(path, { token: this.token });
   }
 }

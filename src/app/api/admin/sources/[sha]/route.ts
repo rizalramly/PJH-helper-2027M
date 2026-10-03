@@ -40,6 +40,10 @@ export async function GET(req: Request, ctx: RouteContext<"/api/admin/sources/[s
         "content-disposition": `inline; filename="${filename.replace(/[^\w.-]/g, "_")}"`,
         "cache-control": "private, max-age=300",
         "x-content-type-options": "nosniff",
+        // Hanya boleh dibingkai oleh panel ini; tiada sumber lain dimuatkan dari dokumen.
+        "content-security-policy": "default-src 'none'; frame-ancestors 'self'",
+        "x-frame-options": "SAMEORIGIN",
+        "cross-origin-resource-policy": "same-origin",
       },
     });
   });

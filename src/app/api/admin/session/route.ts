@@ -4,7 +4,7 @@ import { z } from "zod";
 import { apiError, readJson, withErrors } from "@/lib/api/http";
 import { requireApiUser, sameOrigin } from "@/lib/auth/guard";
 import { verifyAgainstDummy, verifyPassword } from "@/lib/auth/password";
-import { clearFailures, recordFailure, tooManyAttempts } from "@/lib/auth/rate-limit";
+import { finishAttempt, reserveAttempt } from "@/lib/auth/rate-limit";
 import {
   sessionCookieOptions,
   sessionSecret,
@@ -50,22 +50,30 @@ export async function POST(req: Request) {
 
     const email = normalizeEmail(parsed.data.email);
     const now = new Date();
-    const keys = [`ip:${clientIp(req)}`, `email:${email}`];
-    if (tooManyAttempts(keys, now.getTime())) {
+    const keys = { ip: clientIp(req), email };
+    const slot = reserveAttempt(keys, now.getTime());
+    if ("blocked" in slot) {
       return apiError(
         429,
         "rate_limited",
-        "Terlalu banyak cubaan log masuk. Cuba lagi selepas 15 minit.",
+        slot.blocked === "busy"
+          ? "Pelayan sibuk. Cuba lagi sebentar."
+          : "Terlalu banyak cubaan log masuk. Cuba lagi selepas 15 minit.",
       );
     }
 
-    const user = await findUser(store.kv, email);
-    const valid =
-      user && !user.disabledAt
-        ? await verifyPassword(parsed.data.password, user.passwordHash)
-        : await verifyAgainstDummy(parsed.data.password);
+    let user: Awaited<ReturnType<typeof findUser>> = null;
+    let valid = false;
+    try {
+      user = await findUser(store.kv, email);
+      valid =
+        user && !user.disabledAt
+          ? await verifyPassword(parsed.data.password, user.passwordHash)
+          : await verifyAgainstDummy(parsed.data.password);
+    } finally {
+      finishAttempt(keys, slot.stamp, valid);
+    }
     if (!user || user.disabledAt || !valid) {
-      recordFailure(keys, now.getTime());
       await appendAudit(store.kv, {
         at: now.toISOString(),
         actor: "tanpa-sesi",
@@ -75,7 +83,6 @@ export async function POST(req: Request) {
       return apiError(401, "unauthorized", FAIL);
     }
 
-    clearFailures([`email:${email}`]);
     await updateUser(store.kv, email, (u) => ({ ...u, lastLoginAt: now.toISOString() }), null);
     await appendAudit(store.kv, {
       at: now.toISOString(),
@@ -102,8 +109,16 @@ export async function DELETE(req: Request) {
     if (!sameOrigin(req)) return apiError(403, "forbidden", "Permintaan merentas asal ditolak.");
     const { user } = await requireApiUser(req);
     if (user) {
+      // Batalkan token secara pelayan (semua sesi pengguna ini), bukan sekadar memadam kuki.
+      const now = new Date();
+      await updateUser(
+        requireStore().kv,
+        user.email,
+        (u) => ({ ...u, sessionVersion: u.sessionVersion + 1 }),
+        null,
+      );
       await appendAudit(requireStore().kv, {
-        at: new Date().toISOString(),
+        at: now.toISOString(),
         actor: `${user.email} (${user.role})`,
         action: "logout",
       });
