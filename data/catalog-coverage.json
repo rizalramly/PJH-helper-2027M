@@ -14,12 +14,12 @@
   "totals": {
     "pjhExpected": 34,
     "pjhWithCatalogFile": 34,
-    "pjhReviewed": 20,
+    "pjhReviewed": 24,
     "pjhBlocked": 1,
     "pjhApprovalVerified": 0,
     "packageFamilies": 161,
-    "variantsIdentified": 508,
-    "variantsImported": 508,
+    "variantsIdentified": 513,
+    "variantsImported": 513,
     "variantsPublished": 0,
     "unresolvedVariants": 0
   },
@@ -1067,26 +1067,26 @@
       "variantsImported": 16,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH24 /1448H",
-      "factsVerified": 0,
+      "factsVerified": 72,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] mimm: variants.code — Kod MTx02/MTx03 dicetak dalam fon sangat kecil (~100 ppi); dibaca MTM02/MTM03, MTU02/03, MTS02/03, MTN02/03 mengikut corak. Harga jelas.",
         "[non_blocking] mimm: masyair.type — Pakej Marwah/Uhud/Safa/Nour tidak menyatakan jenis khemah asas (Muaisim atau lain); hanya PMN sebagai tambahan RM12,000.",
         "[non_blocking] mimm: stays.sequence/dateLabel — Susunan dan tarikh penginapan pakej Marwah/Uhud/Safa/Nour tidak dicetak; sequence mengikut susunan kad (Makkah, Madinah, Aziziyah).",
         "[non_blocking] mimm: stays.distanceIsApproximate — Jarak dicetak dengan awalan '+' (cth. '+260 Meter'); mungkin bermaksud ± tetapi tidak dianggap anggaran.",
         "[non_blocking] mimm: aziziyah — Tarikh dan susunan bilik Aziziyah bagi pakej Marwah/Uhud/Safa/Nour tidak dinyatakan; adakah bilangan sebilik varian terpakai di Aziziyah tidak dinyatakan.",
-        "[non_blocking] mimm-najm: aziziyah — Aziziyah 11-13 Zulhijjah ditanda (Pilihan) tetapi caj tambahan (jika ada) tidak dinyatakan.",
+        "[non_blocking] mimm-najm: aziziyah — Aziziyah 11-13 Zulhijjah disenarai sebagai manfaat pakej ('Bilik di Hotel Aziziyah dari 11-13 Zulhijjah') tetapi kad hotel ditanda '(Pilihan)'; direkod included + syarat. Tiada caj tambahan dicetak; sahkan sama ada penginapan ini pilihan jemaah.",
         "[non_blocking] mimm: tarwiyah — Tarwiyah hanya disebut pada banner 'Tarwiyah Pilihan' dan halaman program bimbingan umum; tiada syarat kelulusan dicetak.",
         "[non_blocking] mimm: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 96–101.",
-        "[non_blocking] mimm: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+        "[non_blocking] mimm: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+        "[non_blocking] mimm: variants.pmnStatus — Halaman 101: 'PMN adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.' Khemah asas (Muaisim/Muassasah) tidak dinamakan, maka pmnStatus varian asas = not_stated (peraturan R4); harga asas tidak merangkumi PMN."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-F (semakan bebas belum dibuat)"
+      "reviewer": "agen-F; semakan bebas: penyemak-6"
     },
     {
       "index": 25,
@@ -1114,16 +1114,16 @@
       "variantsImported": 19,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 25/1448H",
-      "factsVerified": 0,
+      "factsVerified": 68,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
         "[non_blocking] mkm-salam: aziziyah — Kad Salam hanya menyenaraikan hotel Mekah dan Madinah; Aziziyah tidak dinyatakan (tidak dianggap termasuk atau tidak termasuk).",
-        "[non_blocking] mkm: masyair.type — Pakej carter menyatakan 'Khemah Muassasah @setaraf' — tidak dipetakan kepada Muaisim kerana istilah berbeza.",
+        "[non_blocking] mkm: masyair.type — Pakej carter mencetak 'Khemah Muassasah @setaraf' sebagai khemah asas; dipetakan kepada masyair.type 'muaisim' (khemah asas bukan PMN, selaras peraturan R4 Muaisim/Muassasah). Istilah asal dikekalkan dalam description.",
         "[non_blocking] mkm: stays.sequence/dateLabel — Susunan dan tarikh penginapan Makkah/Madinah/Aziziyah tidak dicetak; sequence mengikut andaian Makkah, Madinah, Aziziyah tanpa tarikh.",
         "[non_blocking] mkm: aziziyah.dateLabel — Tarikh/tempoh penginapan Aziziyah tidak dinyatakan.",
         "[non_blocking] mkm-safa: flightClass — Safa (pakej tertinggi) dicetak 'penerbangan komersial — kelas ekonomi' manakala Sakinah 'penerbangan kelas perniagaan'; direkod seperti dicetak.",
@@ -1133,7 +1133,7 @@
         "[non_blocking] mkm: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-F (semakan bebas belum dibuat)"
+      "reviewer": "agen-F; semakan bebas: penyemak-6"
     },
     {
       "index": 26,
@@ -1157,10 +1157,10 @@
       "variantsImported": 16,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH 26/1448H",
-      "factsVerified": 0,
+      "factsVerified": 37,
       "fieldsNotPublished": 9,
       "unreadablePages": [],
       "unresolvedVariants": [],
@@ -1169,14 +1169,14 @@
         "[non_blocking] qashwa-travel: stays.distanceM — Jarak hotel dicetak sangat kecil ('+- 400 Meter', '+- 80 Meter', '+- 590 Meter dari Jamarat'); titik ukuran Makkah/Madinah tidak dinyatakan. Angka 590 kabur.",
         "[non_blocking] qashwa-travel: charges.bayaran-haji-pjh — Nota mencetak 'bayaran haji PJH 1447H/2026M' (bukan 1448H/2027M) bagi RM23,398; kemungkinan salah cetak, perlu disahkan.",
         "[non_blocking] qashwa-travel-tamam: aziziyah — Pakej Tamam tiada hotel Aziziyah dan dilabel 'Sepanjang masa beribadah di Masjidil Haram', tetapi tidak menyatakan secara jelas 'tanpa Aziziyah'.",
-        "[non_blocking] qashwa-travel: masyair — Khemah Muassim di Mina 'Termasuk Pakej' hanya ditunjuk untuk Tamam dan Safwah + Azka (teks kecil kabur). Jenis khemah Rahmah/Safwah tidak dinyatakan.",
+        "[non_blocking] qashwa-travel: masyair — Khemah Muassim di Mina 'Termasuk Pakej' hanya ditunjuk untuk Tamam dan Safwah + Azka (teks kecil kabur). Jenis khemah Rahmah/Safwah tidak dinyatakan. Maka pmnStatus varian Rahmah/Safwah = not_stated (R4); Tamam dan Safwah + Azka = not_included (khemah Muassim dicetak 'Termasuk Pakej').",
         "[non_blocking] qashwa-travel-safwah-azka: stays.sequence — Dua hotel Makkah (Al Safwah Tower 3 dan Azka Al Safa) disenaraikan; susunan dan tarikh tidak dinyatakan.",
         "[non_blocking] qashwa-travel: tarwiyah — Tarwiyah tidak disebut.",
         "[non_blocking] qashwa-travel: flightClass — Jenis dan kelas penerbangan tidak dinyatakan.",
         "[non_blocking] qashwa-travel: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-F (semakan bebas belum dibuat)"
+      "reviewer": "agen-F; semakan bebas: penyemak-6"
     },
     {
       "index": 27,
@@ -1203,30 +1203,31 @@
         115
       ],
       "packageFamiliesIdentified": 7,
-      "variantsIdentified": 31,
-      "variantsImported": 31,
+      "variantsIdentified": 36,
+      "variantsImported": 36,
       "variantsPublished": 0,
       "excludedVariants": [],
-      "processingStatus": "in_progress",
+      "processingStatus": "reviewed",
       "approvalStatus": "unverified",
       "licenceNumberAsPublished": "PJH27/1448H",
-      "factsVerified": 0,
-      "fieldsNotPublished": 9,
+      "factsVerified": 96,
+      "fieldsNotPublished": 10,
       "unreadablePages": [],
       "unresolvedVariants": [],
       "gaps": [
-        "[non_blocking] rayhar: variants.madinahOccupancy — Beberapa varian (G-44, OLA 44, OLA AZ44, ORI 44, JUM AZ44) dicetak '4/5 Madinah orang sebilik'; direkod 4 dengan nota. Bilangan sebenar Madinah mungkin 5.",
-        "[non_blocking] rayhar: variants.code — Kod OLA 34, OLA 23, OLA 24 (dan AZ34/AZ23/AZ24, ORI 23) mempunyai lencana bilangan sebilik sama dengan 33/22; nota 'OLA-24, OLA-23 & OLA-34 hanya untuk penginapan di Makkah sahaja' tidak menerangkan perbezaan bilik. Perlu pengesahan PJH.",
+        "[non_blocking] rayhar: variants.madinahOccupancy — Varian SAFWAH G-44, OLA 44, OLA AZ44, ORI 44 dan JUM AZ44 dicetak '4/5 Madinah orang sebilik' dengan satu harga; dipecah kepada dua varian (Madinah 4 dan 5) dengan kod dan harga sama (peraturan R2).",
+        "[non_blocking] rayhar: variants.code — Kod OLA 34/OLA 23/OLA 24 (dan OLA AZ34/AZ23/AZ24, ORI 23) mempunyai lencana bilangan sebilik sama dengan OLA 33/22 tetapi harga lebih tinggi (cth. OLA 22 RM81,590 < OLA 23 RM83,590 < OLA 24 RM85,990). Nota 'OLA-24, OLA-23 & OLA-34 hanya untuk penginapan di Makkah sahaja' tidak menerangkan perbezaan. Corak harga konsisten dengan digit kedua = kapasiti/jenis bilik Makkah (cth. 2 orang dalam bilik ber-4), tetapi tafsiran ini tidak dicetak; perlu pengesahan PJH sebelum dipaparkan sebagai perbezaan bilik.",
         "[non_blocking] rayhar: tarwiyah — Tarwiyah tidak disebut dalam mana-mana halaman 108–115.",
         "[non_blocking] rayhar: flightClass/trainClass — Kelas penerbangan carter/komersial tidak dinyatakan (kecuali pilihan kelas perniagaan berbayar untuk Platinum); kereta api Haramain tidak disebut.",
         "[non_blocking] rayhar: masyair.type — Jenis khemah asas (Muaisim atau lain) tidak dinyatakan; hanya PMN pilihan RM10,000.",
         "[non_blocking] rayhar: stays.dateLabel — Tarikh penginapan Madinah bagi Olayan Ajyad, Olayan Aziziah, Orinsis dan Jumeirah Aziziah tidak dinyatakan; Makkah Olayan Ajyad/Orinsis juga tiada tarikh.",
         "[non_blocking] rayhar: aziziyah.optional — Kos Aziziah ketika hari Masyaer untuk Safwah Platinum/Olayan Ajyad/Orinsis: bilik ber-N mengikut harga seorang; bilangan malam tidak dinyatakan.",
         "[non_blocking] rayhar: stays.roomSizeSqm/privateBathroom/privateForBookingGroup — Tidak dinyatakan dalam halaman 108–115.",
-        "[non_blocking] rayhar: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH."
+        "[non_blocking] rayhar: approval — Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+        "[non_blocking] rayhar: variants.pmnStatus — Khemah asas tidak dinamakan (hanya 'mengikut peraturan Kementerian Haji Arab Saudi'); PMN + bas sewa khas ialah pilihan RM10,000. pmnStatus semua varian = not_stated (peraturan R4)."
       ],
       "reviewedAt": "2026-10-03",
-      "reviewer": "agen-F (semakan bebas belum dibuat)"
+      "reviewer": "agen-F; semakan bebas: penyemak-6"
     },
     {
       "index": 28,

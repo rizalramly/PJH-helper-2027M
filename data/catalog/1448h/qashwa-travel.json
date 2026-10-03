@@ -13,7 +13,7 @@
       {
         "pdfPage": 107,
         "text": "NO LESEN : PJH 26/1448H — SSM : 760363-P — MOTAC : KPK/LN 4987 (IOTU)",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 107,
             "text": "DEPOSIT PENDAFTARAN RM3000",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,15 +33,20 @@
           {
             "pdfPage": 107,
             "text": "Semua bilik di hotel Aziziyah disediakan mengikut susunan bilik berkelompok mengikut jantina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [107, 107],
-    "pagesReviewed": [107],
+    "pageRange": [
+      107,
+      107
+    ],
+    "pagesReviewed": [
+      107
+    ],
     "pageNotes": [
       {
         "pdfPage": 107,
@@ -64,7 +69,7 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ RAHMAH +- 40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -89,12 +94,12 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ RAHMAH +- 40 HARI — TRANSIT AZIZIYAH",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Semua bilik di hotel Aziziyah disediakan mengikut susunan bilik berkelompok mengikut jantina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -105,7 +110,7 @@
           {
             "pdfPage": 107,
             "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -124,7 +129,7 @@
           {
             "pdfPage": 107,
             "text": "TERMASUK TIKET SPEED TRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -134,12 +139,12 @@
           {
             "pdfPage": 107,
             "text": "Sajian Makanan 3x Sehari",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Fullboard For East",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -170,7 +175,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Mekah ★★★ PRESTIGE AJYAD @ SETARAF — Fullboard For East — +- 400 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -195,7 +200,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Madinah ★★★★ ELAF TAIBA @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -233,7 +238,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Sajian Makanan 3x Sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -244,7 +249,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Khemah Arafah & Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -255,7 +260,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Takaful Perlindungan Kembara",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -266,7 +271,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Set Cenderahati",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -277,7 +282,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Kursus Haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -288,7 +293,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pembimbing & Petugas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -299,7 +304,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pengangkutan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -310,7 +315,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Bimbingan Umrah 7x",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -321,7 +326,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Tiket Speed Train Sehala",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -333,7 +338,7 @@
             {
               "pdfPage": 107,
               "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -346,7 +351,7 @@
           "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-5",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -354,7 +359,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ RAHMAH — QR5 RM 49,880 BILIK BER-5",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -365,7 +370,7 @@
           "currency": "MYR",
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-4",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -373,7 +378,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ RAHMAH — QR4 RM 59,880 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -384,7 +389,7 @@
           "currency": "MYR",
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-3",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -392,7 +397,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ RAHMAH — QR3 RM 65,880 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -403,7 +408,7 @@
           "currency": "MYR",
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-2",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -411,7 +416,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ RAHMAH — QR2 RM 75,880 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -431,7 +436,7 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ SAFWAH +- 40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -456,12 +461,12 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ SAFWAH +- 40 HARI — TRANSIT AZIZIYAH",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Semua bilik di hotel Aziziyah disediakan mengikut susunan bilik berkelompok mengikut jantina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -472,7 +477,7 @@
           {
             "pdfPage": 107,
             "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -491,7 +496,7 @@
           {
             "pdfPage": 107,
             "text": "TERMASUK TIKET SPEED TRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -501,12 +506,12 @@
           {
             "pdfPage": 107,
             "text": "Sajian Makanan 3x Sehari",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Fullboard For East",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -537,7 +542,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Mekah ★★★★★ AL SAFWAH TOWER 3 @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -562,7 +567,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Madinah ★★★★ ELAF TAIBA @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -600,7 +605,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Sajian Makanan 3x Sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -611,7 +616,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Khemah Arafah & Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -622,7 +627,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Takaful Perlindungan Kembara",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -633,7 +638,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Set Cenderahati",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -644,7 +649,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Kursus Haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -655,7 +660,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pembimbing & Petugas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -666,7 +671,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pengangkutan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -677,7 +682,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Bimbingan Umrah 7x",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -688,7 +693,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Tiket Speed Train Sehala",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -700,7 +705,7 @@
             {
               "pdfPage": 107,
               "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -713,7 +718,7 @@
           "currency": "MYR",
           "makkahOccupancy": 5,
           "madinahOccupancy": 5,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-5",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -721,7 +726,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH — QS5 RM 54,980 BILIK BER-5",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -732,7 +737,7 @@
           "currency": "MYR",
           "makkahOccupancy": 4,
           "madinahOccupancy": 4,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-4",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -740,7 +745,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH — QS4 RM 61,980 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -751,7 +756,7 @@
           "currency": "MYR",
           "makkahOccupancy": 3,
           "madinahOccupancy": 3,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-3",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -759,7 +764,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH — QS3 RM 69,980 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -770,7 +775,7 @@
           "currency": "MYR",
           "makkahOccupancy": 2,
           "madinahOccupancy": 2,
-          "pmnStatus": "not_included",
+          "pmnStatus": "not_stated",
           "travellerCategory": "adult",
           "roomLabelAsPublished": "BILIK BER-2",
           "notes": "Kod dicetak dalam fon sangat kecil; dibaca mengikut corak.",
@@ -778,7 +783,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH — QS2 RM 78,980 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -798,7 +803,7 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ TAMAM +- 40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -847,7 +852,7 @@
           {
             "pdfPage": 107,
             "text": "TERMASUK TIKET SPEED TRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -857,12 +862,12 @@
           {
             "pdfPage": 107,
             "text": "Sajian Makanan 3x Sehari",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Fullboard For East",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -893,7 +898,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Mekah ★★★ ELAF AL BAIT @ SETARAF — Fullboard For East — +- 150 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -918,7 +923,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Madinah ★★★★ ELAF TAIBA @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -931,7 +936,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Sajian Makanan 3x Sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -942,7 +947,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Khemah Arafah & Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -953,7 +958,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Takaful Perlindungan Kembara",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -964,7 +969,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Set Cenderahati",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -975,7 +980,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Kursus Haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -986,7 +991,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pembimbing & Petugas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -997,7 +1002,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pengangkutan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1008,7 +1013,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Bimbingan Umrah 7x",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1019,7 +1024,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Tiket Speed Train Sehala",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1031,7 +1036,7 @@
             {
               "pdfPage": 107,
               "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1052,7 +1057,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ TAMAM — QT5 RM 55,880 BILIK BER-5",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1071,7 +1076,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ TAMAM — QT4 RM 62,880 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1090,7 +1095,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ TAMAM — QT3 RM 70,880 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1109,7 +1114,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ TAMAM — QT2 RM 79,880 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1129,7 +1134,7 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ SAFWAH + AZKA +- 40 HARI",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1154,7 +1159,7 @@
           {
             "pdfPage": 107,
             "text": "PAKEJ SAFWAH + AZKA +- 40 HARI — TANPA AZIZIYAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1184,7 +1189,7 @@
           {
             "pdfPage": 107,
             "text": "TERMASUK TIKET SPEED TRAIN SEHALA",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1194,12 +1199,12 @@
           {
             "pdfPage": 107,
             "text": "Sajian Makanan 3x Sehari",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 107,
             "text": "Fullboard For East",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1230,7 +1235,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Mekah ★★★★★ AL SAFWAH TOWER 3 @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1255,7 +1260,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Mekah ★★★ AZKA AL SAFA @ SETARAF — Fullboard For East — +- 350 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1280,7 +1285,7 @@
             {
               "pdfPage": 107,
               "text": "Hotel Madinah ★★★★ ELAF TAIBA @ SETARAF — Fullboard For East — +- 80 Meter",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1293,7 +1298,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Sajian Makanan 3x Sehari",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1304,7 +1309,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Khemah Arafah & Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1315,7 +1320,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Takaful Perlindungan Kembara",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1326,7 +1331,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Set Cenderahati",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1337,7 +1342,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Kursus Haji",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1348,7 +1353,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pembimbing & Petugas",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1359,7 +1364,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Pengangkutan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1370,7 +1375,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Bimbingan Umrah 7x",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1381,7 +1386,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ HAJI TERMASUK: Tiket Speed Train Sehala",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1393,7 +1398,7 @@
             {
               "pdfPage": 107,
               "text": "NAIK TARAF PMN — Bayaran Tambahan RM9,880",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1414,7 +1419,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH + AZKA — QSA5 RM 65,880 BILIK BER-5",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1433,7 +1438,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH + AZKA — QSA4 RM 69,880 BILIK BER-4",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1452,7 +1457,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH + AZKA — QSA3 RM 75,880 BILIK BER-3",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1471,7 +1476,7 @@
             {
               "pdfPage": 107,
               "text": "PAKEJ SAFWAH + AZKA — QSA2 RM 88,880 BILIK BER-2",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1501,7 +1506,7 @@
         {
           "pdfPage": 107,
           "text": "NAIK TARAF PMN (Perkhidmatan Masyair Naik Taraf) — Bayaran Tambahan RM9,880",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1525,7 +1530,7 @@
         {
           "pdfPage": 107,
           "text": "Harga pakej haji adalah termasuk bayaran haji PJH 1447H/2026M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1547,7 +1552,7 @@
         {
           "pdfPage": 107,
           "text": "Harga pakej haji adalah termasuk bayaran haji PJH 1447H/2026M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1559,69 +1564,91 @@
       "packageId": null,
       "field": "variants.code",
       "note": "Kod varian (QR5…QR2, QS5…QS2, QT5…QT2, QSA5…QSA2) dicetak dalam lencana sangat kecil dan kabur; dibaca mengikut corak. Harga jelas.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceM",
       "note": "Jarak hotel dicetak sangat kecil ('+- 400 Meter', '+- 80 Meter', '+- 590 Meter dari Jamarat'); titik ukuran Makkah/Madinah tidak dinyatakan. Angka 590 kabur.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "charges.bayaran-haji-pjh",
       "note": "Nota mencetak 'bayaran haji PJH 1447H/2026M' (bukan 1448H/2027M) bagi RM23,398; kemungkinan salah cetak, perlu disahkan.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": "qashwa-travel-tamam",
       "field": "aziziyah",
       "note": "Pakej Tamam tiada hotel Aziziyah dan dilabel 'Sepanjang masa beribadah di Masjidil Haram', tetapi tidak menyatakan secara jelas 'tanpa Aziziyah'.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair",
-      "note": "Khemah Muassim di Mina 'Termasuk Pakej' hanya ditunjuk untuk Tamam dan Safwah + Azka (teks kecil kabur). Jenis khemah Rahmah/Safwah tidak dinyatakan.",
-      "pages": [107]
+      "note": "Khemah Muassim di Mina 'Termasuk Pakej' hanya ditunjuk untuk Tamam dan Safwah + Azka (teks kecil kabur). Jenis khemah Rahmah/Safwah tidak dinyatakan. Maka pmnStatus varian Rahmah/Safwah = not_stated (R4); Tamam dan Safwah + Azka = not_included (khemah Muassim dicetak 'Termasuk Pakej').",
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": "qashwa-travel-safwah-azka",
       "field": "stays.sequence",
       "note": "Dua hotel Makkah (Al Safwah Tower 3 dan Azka Al Safa) disenaraikan; susunan dan tarikh tidak dinyatakan.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak disebut.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass",
       "note": "Jenis dan kelas penerbangan tidak dinyatakan.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [107]
+      "pages": [
+        107
+      ]
     }
   ],
   "transcription": {
     "reviewer": "agen-F",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual halaman penuh (1800 px) + potongan 250/400 dpi (pdftoppm) bagi kod, hotel dan nota kecil. Imej sumber ~100 ppi; teks hotel sangat kecil.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-6",
+      "checkedAt": "2026-10-03",
+      "notes": "Halaman 107 disemak pada 200 dan 400 dpi; 16 varian, semua harga betul. Kod (QR/QS/QT/QSA + bilangan) konsisten dengan lencana kabur; gap kod kekal. Pembetulan: pmnStatus Rahmah/Safwah not_included → not_stated (R4: khemah asas tidak dicetak untuk dua pakej ini; PMN naik taraf RM9,880). Disahkan: Safwah + Azka 'TANPA AZIZIYAH' → explicitly_not_included; Tamam tiada Aziziyah dicetak → not_stated (R6); Tarwiyah tidak disebut → not_stated; nota '1447H/2026M' disalin seperti dicetak (R9). Jarak Aziziyah 590 m dan teks khemah Muassim kekal unclear."
+    }
   }
 }

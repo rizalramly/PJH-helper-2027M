@@ -13,7 +13,7 @@
       {
         "pdfPage": 102,
         "text": "LESEN PJH : PJH 25/1448H — NO.PENDAFTARAN SYARIKAT : 201101025871 (964005-X) — LESEN MOTAC(UMRAH DAN ZIARAH) : IU00430 / KPL 6666",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 106,
             "text": "TEMPOH KEBERADAAN DI TANAH SUCI ADALAH TERTAKLUK KEPADA JADUAL PENERBANGAN ATAU PENGATURAN OPERASI SEMASA.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 106,
             "text": "SEBARANG PERKHIDMATAN TAMBAHAN DI LUAR HARGA PAKEJ AKAN DIKENAKAN CAJ BERASINGAN.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 106,
             "text": "PENDAFTARAN PAKEJ INI TERTAKLUK KEPADA TERMA & SYARAT SEPERTI YANG DINYATAKAN DI BORANG PENDAFTARAN HAJI MKM TICKETING TRAVEL & TOURS SDN. BHD.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,7 +53,7 @@
           {
             "pdfPage": 106,
             "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -63,15 +63,24 @@
           {
             "pdfPage": 106,
             "text": "Pembayaran Deposit RM10,000 seorang bagi bakal Jemaah Haji Terpilih. Kaedah pembayaran secara Online Transfer.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [102, 106],
-    "pagesReviewed": [102, 103, 104, 105, 106],
+    "pageRange": [
+      102,
+      106
+    ],
+    "pagesReviewed": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
     "pageNotes": [
       {
         "pdfPage": 102,
@@ -110,7 +119,7 @@
           {
             "pdfPage": 103,
             "text": "SYIFA — ±40-45 HARI — PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -126,19 +135,21 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [4],
+        "defaultOccupancies": [
+          4
+        ],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -146,23 +157,23 @@
           {
             "pdfPage": 103,
             "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "masyair": {
-        "type": "not_stated",
-        "description": "Khemah Muassasah @setaraf. PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
+        "type": "muaisim",
+        "description": "Khemah asas dicetak 'Khemah Muassasah @setaraf' (khemah asas bukan PMN). PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
         "evidence": [
           {
             "pdfPage": 103,
             "text": "KHEMAH MUASSASAH @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 106,
             "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -177,7 +188,7 @@
           {
             "pdfPage": 103,
             "text": "PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -187,7 +198,7 @@
           {
             "pdfPage": 103,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -197,7 +208,7 @@
           {
             "pdfPage": 103,
             "text": "BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -228,7 +239,7 @@
             {
               "pdfPage": 103,
               "text": "MAKKAH TOWERS @setaraf +/- 50m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -253,7 +264,7 @@
             {
               "pdfPage": 103,
               "text": "GRAND MILLENNIUM AL HARAM @setaraf +/- 100m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -278,7 +289,7 @@
             {
               "pdfPage": 103,
               "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -291,7 +302,7 @@
             {
               "pdfPage": 103,
               "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -302,7 +313,7 @@
             {
               "pdfPage": 103,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -313,7 +324,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -324,7 +335,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -335,7 +346,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -347,7 +358,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -357,7 +368,7 @@
             {
               "pdfPage": 106,
               "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -378,7 +389,7 @@
             {
               "pdfPage": 103,
               "text": "SY01 BILIK-5 RM 53,500",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -397,7 +408,7 @@
             {
               "pdfPage": 103,
               "text": "SY02 BILIK-4 RM 55,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -416,7 +427,7 @@
             {
               "pdfPage": 103,
               "text": "SY03 BILIK-3 RM 60,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -435,7 +446,7 @@
             {
               "pdfPage": 103,
               "text": "SY04 BILIK-2 RM 65,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -455,7 +466,7 @@
           {
             "pdfPage": 103,
             "text": "SALAM — ±40-45 HARI — PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -471,12 +482,12 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -490,18 +501,18 @@
         "evidence": []
       },
       "masyair": {
-        "type": "not_stated",
-        "description": "Khemah Muassasah @setaraf. PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
+        "type": "muaisim",
+        "description": "Khemah asas dicetak 'Khemah Muassasah @setaraf' (khemah asas bukan PMN). PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
         "evidence": [
           {
             "pdfPage": 103,
             "text": "KHEMAH MUASSASAH @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 106,
             "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -516,7 +527,7 @@
           {
             "pdfPage": 103,
             "text": "PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -526,7 +537,7 @@
           {
             "pdfPage": 103,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -536,7 +547,7 @@
           {
             "pdfPage": 103,
             "text": "BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -567,7 +578,7 @@
             {
               "pdfPage": 103,
               "text": "AZKA AL SAFA @setaraf +/-350m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -592,7 +603,7 @@
             {
               "pdfPage": 103,
               "text": "GRAND MILLENNIUM AL HARAM @setaraf +/- 100m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -605,7 +616,7 @@
             {
               "pdfPage": 103,
               "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -616,7 +627,7 @@
             {
               "pdfPage": 103,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -627,7 +638,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -638,7 +649,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -649,7 +660,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -661,7 +672,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -671,7 +682,7 @@
             {
               "pdfPage": 106,
               "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -692,7 +703,7 @@
             {
               "pdfPage": 103,
               "text": "SL01 BILIK-5 RM 54,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -711,7 +722,7 @@
             {
               "pdfPage": 103,
               "text": "SL02 BILIK-4 RM 56,500",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -730,7 +741,7 @@
             {
               "pdfPage": 103,
               "text": "SL03 BILIK-3 RM 60,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -749,7 +760,7 @@
             {
               "pdfPage": 103,
               "text": "SL04 BILIK-2 RM 69,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -769,7 +780,7 @@
           {
             "pdfPage": 103,
             "text": "FATEH — ±40-45 HARI — PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -785,19 +796,21 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [4],
+        "defaultOccupancies": [
+          4
+        ],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -805,23 +818,23 @@
           {
             "pdfPage": 103,
             "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "masyair": {
-        "type": "not_stated",
-        "description": "Khemah Muassasah @setaraf. PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
+        "type": "muaisim",
+        "description": "Khemah asas dicetak 'Khemah Muassasah @setaraf' (khemah asas bukan PMN). PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
         "evidence": [
           {
             "pdfPage": 103,
             "text": "KHEMAH MUASSASAH @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 106,
             "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -836,7 +849,7 @@
           {
             "pdfPage": 103,
             "text": "PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -846,7 +859,7 @@
           {
             "pdfPage": 103,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -856,7 +869,7 @@
           {
             "pdfPage": 103,
             "text": "BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -887,7 +900,7 @@
             {
               "pdfPage": 103,
               "text": "TILAL JABAL AL KABAH @setaraf +/- 260m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -912,7 +925,7 @@
             {
               "pdfPage": 103,
               "text": "MADEN AL RAWDA @setaraf +/- 100m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -937,7 +950,7 @@
             {
               "pdfPage": 103,
               "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -950,7 +963,7 @@
             {
               "pdfPage": 103,
               "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -961,7 +974,7 @@
             {
               "pdfPage": 103,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -972,7 +985,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -983,7 +996,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -994,7 +1007,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1006,7 +1019,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1016,7 +1029,7 @@
             {
               "pdfPage": 106,
               "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1037,7 +1050,7 @@
             {
               "pdfPage": 103,
               "text": "FT01 BILIK-3 RM 55,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1056,7 +1069,7 @@
             {
               "pdfPage": 103,
               "text": "FT02 BILIK-2 RM 59,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1076,7 +1089,7 @@
           {
             "pdfPage": 104,
             "text": "MENARA JAM — ±40-45 HARI — PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1092,19 +1105,21 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [4],
+        "defaultOccupancies": [
+          4
+        ],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -1112,23 +1127,23 @@
           {
             "pdfPage": 104,
             "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "masyair": {
-        "type": "not_stated",
-        "description": "Khemah Muassasah @setaraf. PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
+        "type": "muaisim",
+        "description": "Khemah asas dicetak 'Khemah Muassasah @setaraf' (khemah asas bukan PMN). PMN tidak termasuk; boleh dipilih dengan bayaran tambahan RM10,000 (tertakluk kekosongan).",
         "evidence": [
           {
             "pdfPage": 104,
             "text": "KHEMAH MUASSASAH @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 106,
             "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1143,7 +1158,7 @@
           {
             "pdfPage": 104,
             "text": "PENERBANGAN CARTER",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1153,7 +1168,7 @@
           {
             "pdfPage": 104,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1163,7 +1178,7 @@
           {
             "pdfPage": 104,
             "text": "BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1194,7 +1209,7 @@
             {
               "pdfPage": 104,
               "text": "MOVENPICK HAJAR @setaraf +/-80m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1219,7 +1234,7 @@
             {
               "pdfPage": 104,
               "text": "GRAND MILLENNIUM AL HARAM @setaraf +/- 100m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1244,7 +1259,7 @@
             {
               "pdfPage": 104,
               "text": "AZIZIYAH — MANAZIL AL MAQAM (BILIK BEREMPAT) @setaraf +/- 500m ke Dataran Mina — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1257,7 +1272,7 @@
             {
               "pdfPage": 104,
               "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1268,7 +1283,7 @@
             {
               "pdfPage": 104,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1279,7 +1294,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1290,7 +1305,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1301,7 +1316,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1313,7 +1328,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1323,7 +1338,7 @@
             {
               "pdfPage": 106,
               "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1344,7 +1359,7 @@
             {
               "pdfPage": 104,
               "text": "MJ01 BILIK-4 RM 66,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1363,7 +1378,7 @@
             {
               "pdfPage": 104,
               "text": "MJ02 BILIK-3 RM 73,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1382,7 +1397,7 @@
             {
               "pdfPage": 104,
               "text": "MJ03 BILIK-2 RM 79,900",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1402,7 +1417,7 @@
           {
             "pdfPage": 104,
             "text": "SAKINAH — ± 20 HARI — PENERBANGAN KOMERSIAL",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1418,12 +1433,12 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1438,7 +1453,7 @@
           {
             "pdfPage": 104,
             "text": "AZIZIYAH — MANAZIL AL MAQAM @setaraf +/- 500m ke Dataran Mina",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1449,12 +1464,12 @@
           {
             "pdfPage": 104,
             "text": "KHEMAH VIP (PMN) @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 104,
             "text": "KHEMAH PMN : ANGGARAN NILAI ±RM 10,000 — *Termasuk dalam pakej. Nilai adalah anggaran dan tertakluk kepada kadar semasa.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1469,7 +1484,7 @@
           {
             "pdfPage": 104,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN & PENERBANGAN KELAS PERNIAGAAN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1479,7 +1494,7 @@
           {
             "pdfPage": 104,
             "text": "KERETA API LAJU HARAMAIN & PENERBANGAN KELAS PERNIAGAAN",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1489,7 +1504,7 @@
           {
             "pdfPage": 104,
             "text": "SAJIAN CITARASA BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1520,7 +1535,7 @@
             {
               "pdfPage": 104,
               "text": "FAIRMONT MAKKAH @setaraf +/-80m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1545,7 +1560,7 @@
             {
               "pdfPage": 104,
               "text": "DAR AL IMAN INTERCONTINENTAL @setaraf +/- 15m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1570,7 +1585,7 @@
             {
               "pdfPage": 104,
               "text": "AZIZIYAH — MANAZIL AL MAQAM @setaraf +/- 500m ke Dataran Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1583,7 +1598,7 @@
             {
               "pdfPage": 104,
               "text": "BAS KHAS",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1594,7 +1609,7 @@
             {
               "pdfPage": 104,
               "text": "KERETA API LAJU HARAMAIN & PENERBANGAN KELAS PERNIAGAAN",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1605,7 +1620,7 @@
             {
               "pdfPage": 104,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1616,7 +1631,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1627,7 +1642,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1638,7 +1653,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1650,7 +1665,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1671,7 +1686,7 @@
             {
               "pdfPage": 104,
               "text": "SK01 BILIK-4 RM 125,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1690,7 +1705,7 @@
             {
               "pdfPage": 104,
               "text": "SK02 BILIK-3 RM 135,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1709,7 +1724,7 @@
             {
               "pdfPage": 104,
               "text": "SK03 BILIK-2 RM 145,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1729,7 +1744,7 @@
           {
             "pdfPage": 104,
             "text": "SAFA — ± 20 HARI — PENERBANGAN KOMERSIAL",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1745,12 +1760,12 @@
           {
             "pdfPage": 105,
             "text": "KHEMAH DI ARAFAH & MINA — Melaksanakan ibadah Sunnah Tarwiyah pada 8 Zulhijjah.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 102,
             "text": "IBADAH SUNNAH TARWIYAH 8 ZULHIJJAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1765,7 +1780,7 @@
           {
             "pdfPage": 104,
             "text": "AZIZIYAH — MANAZIL AL MAQAM @setaraf +/- 500m ke Dataran Mina",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1776,12 +1791,12 @@
           {
             "pdfPage": 104,
             "text": "KHEMAH VIP (PMN) @SETARAF",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 104,
             "text": "KHEMAH PMN : ANGGARAN NILAI ±RM 10,000 — *Termasuk dalam pakej. Nilai adalah anggaran dan tertakluk kepada kadar semasa.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1796,7 +1811,7 @@
           {
             "pdfPage": 104,
             "text": "TERMASUK DALAM PAKEJ — KERETA API LAJU HARAMAIN & PENERBANGAN KOMERSIAL — KELAS EKONOMI —",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1806,7 +1821,7 @@
           {
             "pdfPage": 104,
             "text": "KERETA API LAJU HARAMAIN & PENERBANGAN KOMERSIAL — KELAS EKONOMI —",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1816,7 +1831,7 @@
           {
             "pdfPage": 104,
             "text": "SAJIAN CITARASA BUFFET ASIA 3X SEHARI DI MAKKAH & MADINAH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1847,7 +1862,7 @@
             {
               "pdfPage": 104,
               "text": "FAIRMONT MAKKAH @setaraf +/-80m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1872,7 +1887,7 @@
             {
               "pdfPage": 104,
               "text": "DAR AL TAQWA HOTEL @setaraf +/- 15m ke Masjid Nabawi",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1897,7 +1912,7 @@
             {
               "pdfPage": 104,
               "text": "AZIZIYAH — MANAZIL AL MAQAM @setaraf +/- 500m ke Dataran Mina",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1910,7 +1925,7 @@
             {
               "pdfPage": 104,
               "text": "BAS KHAS",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1921,7 +1936,7 @@
             {
               "pdfPage": 104,
               "text": "KERETA API LAJU HARAMAIN & PENERBANGAN KOMERSIAL — KELAS EKONOMI —",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1932,7 +1947,7 @@
             {
               "pdfPage": 104,
               "text": "HOTEL & PENERBANGAN AWAL & AKHIR",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1943,7 +1958,7 @@
             {
               "pdfPage": 105,
               "text": "CENDERAHATI HAJI — Beg Pakaian, Sandang, Bimbit, Kasut & Uncang, Sejadah, Tag Beg, Buku Panduan, Bantal Leher Kain Ihram / Mini Telekung, Botol Wuduk, Digital Tasbih. * Tertakluk Kepada Perubahan Semasa",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1954,7 +1969,7 @@
             {
               "pdfPage": 105,
               "text": "Pelan Perlindungan Takaful Berkelompok (Tertakluk kepada Terma & Syarat oleh Syarikat Takaful)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1965,7 +1980,7 @@
             {
               "pdfPage": 105,
               "text": "Lawatan luar: Majlis makan & ceramah agama. * Tertakluk kepada kelulusan pihak berkuasa Arab Saudi.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1977,7 +1992,7 @@
             {
               "pdfPage": 105,
               "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1998,7 +2013,7 @@
             {
               "pdfPage": 104,
               "text": "SF01 BILIK-4 RM 145,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2017,7 +2032,7 @@
             {
               "pdfPage": 104,
               "text": "SF02 BILIK-3 RM 155,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2036,7 +2051,7 @@
             {
               "pdfPage": 104,
               "text": "SF03 BILIK-2 RM 165,000",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2046,7 +2061,11 @@
   "upgrades": [
     {
       "id": "mkm-aziziyah-bilik-berdua",
-      "packageIds": ["mkm-syifa", "mkm-fateh", "mkm-menara-jam"],
+      "packageIds": [
+        "mkm-syifa",
+        "mkm-fateh",
+        "mkm-menara-jam"
+      ],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2061,18 +2080,23 @@
         {
           "pdfPage": 103,
           "text": "AZIZIYAH MANAZIL AL MAQAM (BILIK BEREMPAT) — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 104,
           "text": "MENARA JAM — AZIZIYAH MANAZIL AL MAQAM (BILIK BEREMPAT) — NAIK TARAF BILIK BERDUA RM7,000 SEORANG",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mkm-pmn-pilihan",
-      "packageIds": ["mkm-syifa", "mkm-salam", "mkm-fateh", "mkm-menara-jam"],
+      "packageIds": [
+        "mkm-syifa",
+        "mkm-salam",
+        "mkm-fateh",
+        "mkm-menara-jam"
+      ],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2087,7 +2111,7 @@
         {
           "pdfPage": 106,
           "text": "PERKHIDMATAN MASY'AIR NAIK TARAF (PMN) DISEDIAKAN SECARA PILIHAN DENGAN BAYARAN TAMBAHAN RM10,000 MENGIKUT KADAR BAYARAN YANG BAKAL DITETAPKAN OLEH PIHAK PENYEDIA. (TERTAKLUK KEPADA KEKOSONGAN)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2113,7 +2137,7 @@
         {
           "pdfPage": 106,
           "text": "Harga Pakej Haji adalah termasuk bayaran Haji PJH 1448H/2027M sebanyak RM23,398.00 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/ berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2137,13 +2161,16 @@
         {
           "pdfPage": 106,
           "text": "Harga Pakej Haji adalah termasuk bayaran Haji PJH 1448H/2027M sebanyak RM23,398.00 yang akan didebitkan dari Akaun TH Jemaah Haji PJH. Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/ berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mkm-penerbangan-komersial",
-      "packageIds": ["mkm-sakinah", "mkm-safa"],
+      "packageIds": [
+        "mkm-sakinah",
+        "mkm-safa"
+      ],
       "description": "Penerbangan komersial (anggaran nilai ±RM15,000; termasuk dalam pakej, nilai anggaran)",
       "priceSen": 1500000,
       "basis": "per_person",
@@ -2154,13 +2181,16 @@
         {
           "pdfPage": 104,
           "text": "PENERBANGAN KOMERSIAL : ANGGARAN NILAI ±RM 15,000 — *Termasuk dalam pakej. Nilai adalah anggaran dan tertakluk kepada kadar semasa.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "mkm-khemah-pmn",
-      "packageIds": ["mkm-sakinah", "mkm-safa"],
+      "packageIds": [
+        "mkm-sakinah",
+        "mkm-safa"
+      ],
       "description": "Khemah PMN (anggaran nilai ±RM10,000; termasuk dalam pakej, nilai anggaran)",
       "priceSen": 1000000,
       "basis": "per_person",
@@ -2171,7 +2201,7 @@
         {
           "pdfPage": 104,
           "text": "KHEMAH PMN : ANGGARAN NILAI ±RM 10,000 — *Termasuk dalam pakej. Nilai adalah anggaran dan tertakluk kepada kadar semasa.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2195,7 +2225,7 @@
         {
           "pdfPage": 105,
           "text": "Bagi yang berumur 65 tahun ke atas, insuran ini tersedia sebagai pilihan (dengan kos tambahan).",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2219,7 +2249,7 @@
         {
           "pdfPage": 105,
           "text": "* Perkhidmatan kargo tidak termasuk dalam harga pakej dan dikenakan bayaran tambahan.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2233,7 +2263,7 @@
         {
           "pdfPage": 102,
           "text": "SYIFA SY01 BILIK-5 RM53,500; SALAM SL01 BILIK-5 RM54,000; FATEH FT01 BILIK-3 RM55,000; MENARA JAM MJ01 BILIK-4 RM66,900; SAKINAH SK01 BILIK-4 RM125,000; SAFA SF01 BILIK-4 RM145,000",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2244,69 +2274,101 @@
       "packageId": "mkm-salam",
       "field": "aziziyah",
       "note": "Kad Salam hanya menyenaraikan hotel Mekah dan Madinah; Aziziyah tidak dinyatakan (tidak dianggap termasuk atau tidak termasuk).",
-      "pages": [102, 103]
+      "pages": [
+        102,
+        103
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type",
-      "note": "Pakej carter menyatakan 'Khemah Muassasah @setaraf' — tidak dipetakan kepada Muaisim kerana istilah berbeza.",
-      "pages": [103, 104]
+      "note": "Pakej carter mencetak 'Khemah Muassasah @setaraf' sebagai khemah asas; dipetakan kepada masyair.type 'muaisim' (khemah asas bukan PMN, selaras peraturan R4 Muaisim/Muassasah). Istilah asal dikekalkan dalam description.",
+      "pages": [
+        103,
+        104
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.sequence/dateLabel",
       "note": "Susunan dan tarikh penginapan Makkah/Madinah/Aziziyah tidak dicetak; sequence mengikut andaian Makkah, Madinah, Aziziyah tanpa tarikh.",
-      "pages": [103, 104]
+      "pages": [
+        103,
+        104
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.dateLabel",
       "note": "Tarikh/tempoh penginapan Aziziyah tidak dinyatakan.",
-      "pages": [103, 104]
+      "pages": [
+        103,
+        104
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": "mkm-safa",
       "field": "flightClass",
       "note": "Safa (pakej tertinggi) dicetak 'penerbangan komersial — kelas ekonomi' manakala Sakinah 'penerbangan kelas perniagaan'; direkod seperti dicetak.",
-      "pages": [104]
+      "pages": [
+        104
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "charges.priceSen",
       "note": "Nilai penerbangan komersial ±RM15,000 dan khemah PMN ±RM10,000 untuk Sakinah/Safa ialah anggaran, termasuk dalam harga.",
-      "pages": [104]
+      "pages": [
+        104
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah 8 Zulhijjah dinyatakan pada halaman kelebihan umum tanpa syarat kelulusan; tidak disebut pada kad pakej.",
-      "pages": [102, 105, 106]
+      "pages": [
+        102,
+        105,
+        106
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 102–106.",
-      "pages": [102, 103, 104, 105, 106]
+      "pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [102]
+      "pages": [
+        102
+      ]
     }
   ],
   "transcription": {
     "reviewer": "agen-F",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual halaman penuh (1800 px) + potongan 250 dpi (pdftoppm) bagi harga, hotel dan nota kecil. Imej sumber ~100 ppi.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-6",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua 5 halaman (102–106) dan 19 varian disemak dengan imej 200 dpi. Semua kod, harga dan bilik betul; tiada varian tertinggal (kad muka depan hlm. 102 ialah ulangan, kekal excludedItems). Pembetulan: masyair.type Syifa/Salam/Fateh/Menara Jam not_stated → muaisim ('Khemah Muassasah @setaraf' = khemah asas; pmnStatus not_included kekal, R4). Disahkan: Sakinah penerbangan kelas perniagaan, Safa komersial kelas ekonomi (seperti dicetak); Salam tiada Aziziyah dicetak → not_stated (R6); Tarwiyah 8 Zulhijjah offered (kelebihan umum, syarat 'tertakluk kelulusan' hanya untuk ziarah/lawatan luar)."
+    }
   }
 }
