@@ -29,6 +29,8 @@ jobs:
       - run: pnpm typecheck
       - run: pnpm format:check
       - run: pnpm test
+      - name: Validate catalog and dry-run seed
+        run: pnpm catalog:validate && pnpm db:seed --dry-run
       - run: pnpm build
       - name: Install Playwright Chromium
         run: pnpm exec playwright install --with-deps chromium

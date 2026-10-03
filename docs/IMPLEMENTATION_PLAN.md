@@ -582,7 +582,7 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 - [x] Fasa 0 asas + UI UX Pro Max + CI
 - [x] Fasa 1 katalog 34 PJH + manifest liputan + rekonsiliasi (33/34 reviewed, 1 blocked: Jad Gold; 517 varian)
 - [x] Fasa 2 engine + senario A–F + ujian merentas PJH (dibina lebih awal bersama Fasa 1)
-- [ ] Fasa 3 stor Blob + seed idempotent
+- [x] Fasa 3 stor Blob + seed idempotent (`docs/deployment.md`)
 - [ ] Fasa 4 API assess/compare/katalog/liputan
 - [ ] Fasa 5 wizard
 - [ ] Fasa 6 hasil/banding/laporan cetak/Liputan data

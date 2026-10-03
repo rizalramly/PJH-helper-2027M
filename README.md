@@ -52,6 +52,10 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<query>" --domain ux
 python3 .claude/skills/ui-ux-pro-max/scripts/search.py "<query>" --stack nextjs
 ```
 
+## Stor data
+
+Katalog diterbitkan sebagai snapshot berversi dalam Vercel Blob dengan penunjuk aktif. Lihat [`docs/deployment.md`](docs/deployment.md) untuk susun atur, seed, persekitaran dan rollback. Tanpa `BLOB_READ_WRITE_TOKEN`, pembangunan setempat membaca fail repo.
+
 ## Pemboleh ubah persekitaran
 
 Lihat `.env.example`. Semua rahsia hanya di server. Jangan guna awalan `NEXT_PUBLIC_*` untuk credential.
