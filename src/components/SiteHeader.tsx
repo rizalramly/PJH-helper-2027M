@@ -29,6 +29,14 @@ export function SiteHeader() {
             </li>
             <li>
               <Link
+                href="/pakej"
+                className="flex min-h-11 items-center rounded-md px-2 hover:bg-accent"
+              >
+                Semak pakej
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/hasil"
                 className="flex min-h-11 items-center rounded-md px-2 hover:bg-accent"
               >
