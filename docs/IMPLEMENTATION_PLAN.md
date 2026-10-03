@@ -587,8 +587,8 @@ Setiap fasa berakhir dengan commit/PR kecil ke branch kerja, CI hijau, dan semak
 - [x] Fasa 5 wizard `/nilai` (5 langkah, autosave peranti, E2E 375/1440 + axe) + `/hasil` minimum (kad penuh dalam Fasa 6)
 - [x] Fasa 6 `/hasil` (kad penuh, skor boleh dibuka, kepelbagaian PJH, sifar padanan), `/banding` ≤ 3, `/laporan` cetak A4, `/liputan` (E2E 375/1440 + axe)
 - [x] Fasa 7 pentadbir `/admin` (sesi scrypt + HMAC, peranan admin/penyemak, `proxy.ts`), draf + skrin semakan dua panel, import JSON/CSV, muat naik PDF (SHA-256), validasi pra-terbit, terbit/rollback, audit, musim (`docs/admin.md`)
-- [ ] Fasa 8 Vercel preview → production + pemeriksaan
-- [ ] Fasa 9 semakan, README, serahan
+- [~] Fasa 8 kod + runbook siap (`/admin/persediaan`, katalog awal, `docs/deployment.md`); **deployment tertangguh**: connector Vercel 403 mencipta projek, rangkaian sesi menyekat `*.vercel.app`
+- [~] Fasa 9 semakan UI pra-penghantaran, README, `docs/SERAHAN.md` + `docs/serahan-data.md`
 
 ---
 

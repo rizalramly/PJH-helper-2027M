@@ -19,7 +19,8 @@
     "catalog:status": "tsx scripts/catalog-store.ts status",
     "catalog:history": "tsx scripts/catalog-store.ts history",
     "admin:create": "tsx scripts/admin-user.ts create",
-    "admin:users": "tsx scripts/admin-user.ts list"
+    "admin:users": "tsx scripts/admin-user.ts list",
+    "docs:serahan": "tsx scripts/build-handover.ts"
   },
   "dependencies": {
     "@vercel/blob": "^2.8.0",

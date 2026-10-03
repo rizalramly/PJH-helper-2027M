@@ -139,7 +139,10 @@ export default async function AdminHome() {
             </li>
           ))}
         </ul>
-        <Link href="/admin/audit" className="text-sm text-primary underline">
+        <Link
+          href="/admin/audit"
+          className="inline-flex min-h-11 items-center self-start text-sm text-primary underline"
+        >
           Log audit penuh
         </Link>
       </section>
