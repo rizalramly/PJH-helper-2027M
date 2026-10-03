@@ -29,7 +29,10 @@ export type PricingBasis = "per_person" | "per_room" | "per_group" | "per_night"
 
 export type StayLocation = "makkah" | "madinah" | "aziziyah" | "mina";
 
-export type DistanceReference = "haram_courtyard" | "nabawi_courtyard" | "jamarat" | "not_stated";
+export type DistanceReference =
+  "haram_courtyard" | "nabawi_courtyard" | "jamarat" | "other" | "not_stated";
+
+export type TravellerCategory = "adult" | "child_with_bed" | "child_no_bed" | "infant";
 
 export type TransportClass = "business" | "economy" | "not_stated";
 
@@ -70,6 +73,7 @@ export interface Stay {
   distanceM: number | null;
   distanceIsApproximate: boolean;
   distanceReference: DistanceReference;
+  distanceReferenceAsPublished: string | null;
   meals: string | null;
   roomSizeSqm: number | null;
   privateBathroom: boolean | null;
@@ -124,6 +128,8 @@ export interface Package {
   flightClass: { value: TransportClass; evidence: Evidence[] };
   trainClass: { value: TransportClass; evidence: Evidence[] };
   meals: { description: string | null; evidence: Evidence[] };
+  travelDates: { label: string | null; evidence: Evidence[] };
+  exclusions: { text: string; evidence: Evidence[] }[];
   availability: { status: AvailabilityStatus; verifiedAt: string | null; note: string | null };
   publishedStatus: "published" | "draft" | "archived";
   /** Konflik data yang belum diselesaikan bagi harga/hotel. */
@@ -144,6 +150,11 @@ export interface Variant {
   makkahOccupancy: number;
   madinahOccupancy: number;
   pmnStatus: PmnStatus;
+  /** Kategori pengembara; engine hanya menilai `adult`. */
+  travellerCategory: TravellerCategory;
+  /** Label bilik seperti dicetak (cth. "Bilik Ber-4"). */
+  roomLabelAsPublished: string | null;
+  notes: string | null;
   evidence: Evidence[];
 }
 
@@ -289,10 +300,22 @@ export interface CostLine {
   evidence: Evidence[];
 }
 
+export type AziziyahRoomResolution =
+  | "not_requested"
+  | "no_aziziyah"
+  | "default"
+  | "included"
+  | "upgrade"
+  | "upgrade_unpriced"
+  | "not_offered";
+
 export interface RoomAssignment {
   room: RoomSpec;
   variant: Variant;
   aziziyahUpgrade: Upgrade | null;
+  aziziyahRoom: AziziyahRoomResolution;
+  /** Kos PJH diketahui seorang bagi bilik ini; null jika harga varian tidak diketahui. */
+  perPersonSen: bigint | null;
 }
 
 export interface CostBreakdown {
@@ -314,6 +337,8 @@ export interface DimensionScore {
   weight: number;
   utility: number;
   known: boolean;
+  /** Bahagian dimensi yang mempunyai data sah (0–1), untuk liputan bukti. */
+  knownFraction: number;
   note: string;
 }
 

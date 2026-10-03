@@ -1,0 +1,5299 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "busyra",
+    "label": "Busyra",
+    "name": "Busyra Holidays",
+    "legalName": "Busyra Holidays Sdn Bhd",
+    "website": "www.busyraholidays.com",
+    "publicContact": "Hotline 011-35350372; info.busyraholidays@gmail.com",
+    "licenceNumberAsPublished": "PJH 08/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 33,
+        "brochurePage": 1,
+        "text": "No. Lesen PJH : PJH 08/1448H — NO. SSM : (1050387-P) — MOTAC - KPK/LN : 8288 | Iklan MOTAC : IU00598",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga tertakluk kepada perubahan daripada kerajaan Arab Saudi, Tabung Haji, penerbangan, hotel dan lain-lain.",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "1. Harga yang dipamerkan adalah tertakluk kepada perubahan",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh penerbangan (carter) tertakluk kepada kelulusan Tabung Haji.",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "2. Tarikh penerbangan (carter) jemaah Haji tertakluk kepada kelulusan pihak Tabung Haji.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bayaran: deposit RM5,000 semasa pendaftaran; 50% harga pakej sebelum 1 Rejab; 100% sebelum 1 Syaaban.",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "Deposit/Wang Pendahuluan RM 5,000 semasa pendaftaran; Bayaran Kedua 50% dari Harga Pakej sebelum 1 Rejab; Bayaran Akhir 100% Harga Pakej sebelum 1 Syaaban",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan 5% / 20% / 40% daripada harga pakej setelah ditolak Bayaran Haji PJH, mengikut kategori (selepas bayaran pakej / selepas jadual penerbangan / selepas visa diperuntukkan).",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "KATEGORI 1 ... 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Kekosongan bilik terhad; syarikat akan menawarkan pakej lain jika tiada kekosongan bagi pairing/regu yang tidak mencukupi.",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "5. KETERSEDIAAN JENIS BILIK HOTEL - Kekosongan tempat adalah terhad mengikut pakej yang disediakan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Ziarah yang tidak dinyatakan secara bertulis adalah tidak termasuk.",
+        "evidence": [
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "8. Sebarang ziarah yang tidak dinyatakan secara bertulis ... adalah TIDAK TERMASUK",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [33, 44],
+    "pagesReviewed": [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+    "pageNotes": [
+      {
+        "pdfPage": 33,
+        "content": "Muka depan: harga 'bermula' MTE06/MTS06/SFE05/SFS05/MJP04/VIP02 (ulangan varian), lesen PJH 08/1448H."
+      },
+      {
+        "pdfPage": 34,
+        "content": "Makkah Tower Series: Ekonomi & Standard, Muaisim & PMN, hotel, inklusi."
+      },
+      {
+        "pdfPage": 35,
+        "content": "Safwah Tower Series: Ekonomi & Standard, Muaisim & PMN."
+      },
+      {
+        "pdfPage": 36,
+        "content": "Menara Jam Premium: Muaisim & PMN; Aziziyah 04-14 Zulhijjah; keistimewaan PMN."
+      },
+      {
+        "pdfPage": 37,
+        "content": "Pakej Haji VIP: VIP02, 25 hari, PMN + Aziziyah + Business Class komersial."
+      },
+      {
+        "pdfPage": 38,
+        "content": "Kelebihan Aziziyah, Kursus Haji Perdana, 'Kenapa memilih Busyra' termasuk Tarwiyah bersyarat."
+      },
+      {
+        "pdfPage": 39,
+        "content": "Kelebihan PMN (Maktab 112, 200 m ke Jamarat); senarai 33 item set keperluan haji."
+      },
+      {
+        "pdfPage": 40,
+        "content": "Ketua operasi dan pembimbing ibadah. Tiada harga."
+      },
+      {
+        "pdfPage": 41,
+        "content": "Ilustrasi perjalanan haji tamattu' (penerbangan carter KUL-JED-MED-KUL)."
+      },
+      {
+        "pdfPage": 42,
+        "content": "Maklumat syarikat; terma & syarat: bayaran, pembatalan, kekosongan, Aziziyah + naik taraf bilik, tempoh ±40 hari."
+      },
+      {
+        "pdfPage": 43,
+        "content": "Tangkapan ulasan Google (ulasan PJH, bukan ulasan hotel). Tiada harga."
+      },
+      {
+        "pdfPage": 44,
+        "content": "Muka belakang: harga promosi SFE05/MTE06 (ulangan), nota Business Class dan Takaful tambahan."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "busyra-makkah-tower-ekonomi-muaisim",
+      "name": "Makkah Tower Ekonomi (Khemah Muaisim)",
+      "series": "Makkah Tower Series",
+      "tierLabel": "Ekonomi",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaisim. Jarak ke tempat melontar dinyatakan 3.5 km (hlm. brosur 6–7) dan ±4 km (hlm. brosur 9).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "PAKEJ KHEMAH MUAISIM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "Tidak perlu berulang alik dari khemah Muaisim (jarak 3.5km untuk melontar).",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Berjalan kaki dari Khemah Mina Muaisim ke tempat melontar +- 4km.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Makkah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Worth Peninsular @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 250,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Worth Peninsular @ Setaraf — +- 250 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTE06",
+          "priceSen": 4888800,
+          "makkahOccupancy": 6,
+          "madinahOccupancy": 6,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-6",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTE06 RM 48,888 Bilik Ber-6",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTE05",
+          "priceSen": 5399000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTE05 RM 53,990 Bilik Ber-5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTE04",
+          "priceSen": 5599000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTE04 RM 55,990 Bilik Ber-4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTE03",
+          "priceSen": 5899000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTE03 RM 58,990 Bilik Ber-3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTE02",
+          "priceSen": 6299000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTE02 RM 62,990 Bilik Ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-makkah-tower-ekonomi-pmn",
+      "name": "Makkah Tower Ekonomi + PMN",
+      "series": "Makkah Tower Series",
+      "tierLabel": "Ekonomi",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf: Maktab 112 (Arafah & Mina), khemah PMN ±200 m ke Kompleks Jamarat, bas sewa khas.",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "PAKEJ PERKHIDMATAN MASYAIR NAIK TARAF (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 39,
+            "brochurePage": 7,
+            "text": "Menginap di Maktab 112 (Arafah & Mina). Jarak khemah PMN ke kompleks Jamarat 200m. Bas sewa khas bagi pergerakan Masyair.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Makkah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Worth Peninsular @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 250,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Worth Peninsular @ Setaraf — +- 250 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTEP05",
+          "priceSen": 6199000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTEP05 RM 61,990 Bilik Ber-5 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTEP04",
+          "priceSen": 6399000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTEP04 RM 63,990 Bilik Ber-4 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTEP03",
+          "priceSen": 6699000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTEP03 RM 66,990 Bilik Ber-3 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTEP02",
+          "priceSen": 7099000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTEP02 RM 70,990 Bilik Ber-2 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-makkah-tower-standard-muaisim",
+      "name": "Makkah Tower Standard (Khemah Muaisim)",
+      "series": "Makkah Tower Series",
+      "tierLabel": "Standard",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaisim. Jarak ke tempat melontar dinyatakan 3.5 km (hlm. brosur 6–7) dan ±4 km (hlm. brosur 9).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "PAKEJ KHEMAH MUAISIM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "Tidak perlu berulang alik dari khemah Muaisim (jarak 3.5km untuk melontar).",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Berjalan kaki dari Khemah Mina Muaisim ke tempat melontar +- 4km.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Makkah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTS06",
+          "priceSen": 5599000,
+          "makkahOccupancy": 6,
+          "madinahOccupancy": 6,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-6",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTS06 RM 55,990 Bilik Ber-6",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS05",
+          "priceSen": 5799000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTS05 RM 57,990 Bilik Ber-5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS04",
+          "priceSen": 5999000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTS04 RM 59,990 Bilik Ber-4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS03",
+          "priceSen": 6399000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTS03 RM 63,990 Bilik Ber-3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTS02",
+          "priceSen": 6999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTS02 RM 69,990 Bilik Ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-makkah-tower-standard-pmn",
+      "name": "Makkah Tower Standard + PMN",
+      "series": "Makkah Tower Series",
+      "tierLabel": "Standard",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf: Maktab 112 (Arafah & Mina), khemah PMN ±200 m ke Kompleks Jamarat, bas sewa khas.",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "PAKEJ PERKHIDMATAN MASYAIR NAIK TARAF (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 39,
+            "brochurePage": 7,
+            "text": "Menginap di Maktab 112 (Arafah & Mina). Jarak khemah PMN ke kompleks Jamarat 200m. Bas sewa khas bagi pergerakan Masyair.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 34,
+            "brochurePage": 2,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Makkah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Makkah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MTSP05",
+          "priceSen": 6599000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTSP05 RM 65,990 Bilik Ber-5 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTSP04",
+          "priceSen": 6799000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTSP04 RM 67,990 Bilik Ber-4 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTSP03",
+          "priceSen": 7199000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTSP03 RM 71,990 Bilik Ber-3 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MTSP02",
+          "priceSen": 7799000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 34,
+              "brochurePage": 2,
+              "text": "MTSP02 RM 77,990 Bilik Ber-2 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-safwah-tower-ekonomi-muaisim",
+      "name": "Safwah Tower Ekonomi (Khemah Muaisim)",
+      "series": "Safwah Tower Series",
+      "tierLabel": "Ekonomi",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaisim. Jarak ke tempat melontar dinyatakan 3.5 km (hlm. brosur 6–7) dan ±4 km (hlm. brosur 9).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "PAKEJ KHEMAH MUAISIM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "Tidak perlu berulang alik dari khemah Muaisim (jarak 3.5km untuk melontar).",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Berjalan kaki dari Khemah Mina Muaisim ke tempat melontar +- 4km.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Safwah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Worth Peninsular @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 250,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Worth Peninsular @ Setaraf — +- 250 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "SFE05",
+          "priceSen": 5599000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFE05 RM 55,990 Bilik Ber-5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFE04",
+          "priceSen": 5899000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFE04 RM 58,990 Bilik Ber-4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFE03",
+          "priceSen": 6099000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFE03 RM 60,990 Bilik Ber-3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFE02",
+          "priceSen": 6499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFE02 RM 64,990 Bilik Ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-safwah-tower-ekonomi-pmn",
+      "name": "Safwah Tower Ekonomi + PMN",
+      "series": "Safwah Tower Series",
+      "tierLabel": "Ekonomi",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf: Maktab 112 (Arafah & Mina), khemah PMN ±200 m ke Kompleks Jamarat, bas sewa khas.",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "PAKEJ PERKHIDMATAN MASYAIR NAIK TARAF (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 39,
+            "brochurePage": 7,
+            "text": "Menginap di Maktab 112 (Arafah & Mina). Jarak khemah PMN ke kompleks Jamarat 200m. Bas sewa khas bagi pergerakan Masyair.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Haramain Speed Train",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Buffet sajian Asia Ekonomi (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Safwah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Worth Peninsular @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 250,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Worth Peninsular @ Setaraf — +- 250 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "SFEP05",
+          "priceSen": 6399000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFEP05 RM 63,990 Bilik Ber-5 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFEP04",
+          "priceSen": 6699000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFEP04 RM 66,990 Bilik Ber-4 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFEP03",
+          "priceSen": 6899000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFEP03 RM 68,990 Bilik Ber-3 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFEP02",
+          "priceSen": 7299000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFEP02 RM 72,990 Bilik Ber-2 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-safwah-tower-standard-muaisim",
+      "name": "Safwah Tower Standard (Khemah Muaisim)",
+      "series": "Safwah Tower Series",
+      "tierLabel": "Standard",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaisim. Jarak ke tempat melontar dinyatakan 3.5 km (hlm. brosur 6–7) dan ±4 km (hlm. brosur 9).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "PAKEJ KHEMAH MUAISIM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "Tidak perlu berulang alik dari khemah Muaisim (jarak 3.5km untuk melontar).",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Berjalan kaki dari Khemah Mina Muaisim ke tempat melontar +- 4km.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Istimewa BUSINESS CLASS HARAMAIN SPEED TRAIN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "BUSINESS CLASS HARAMAIN SPEED TRAIN *Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Safwah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "SFS05",
+          "priceSen": 6099000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFS05 RM 60,990 Bilik Ber-5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFS04",
+          "priceSen": 6499000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFS04 RM 64,990 Bilik Ber-4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFS03",
+          "priceSen": 6899000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFS03 RM 68,990 Bilik Ber-3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFS02",
+          "priceSen": 7499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFS02 RM 74,990 Bilik Ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-safwah-tower-standard-pmn",
+      "name": "Safwah Tower Standard + PMN",
+      "series": "Safwah Tower Series",
+      "tierLabel": "Standard",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5, 6],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5/6 mengikut jantina.",
+        "dateLabel": "01-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 01-15 Zulhijjah — ** Penginapan bilik ber 4/5/6 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf: Maktab 112 (Arafah & Mina), khemah PMN ±200 m ke Kompleks Jamarat, bas sewa khas.",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "PAKEJ PERKHIDMATAN MASYAIR NAIK TARAF (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 39,
+            "brochurePage": 7,
+            "text": "Menginap di Maktab 112 (Arafah & Mina). Jarak khemah PMN ke kompleks Jamarat 200m. Bas sewa khas bagi pergerakan Masyair.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Istimewa BUSINESS CLASS HARAMAIN SPEED TRAIN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "BUSINESS CLASS HARAMAIN SPEED TRAIN *Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 35,
+            "brochurePage": 3,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Safwah Tower @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "01-15 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 01-15 Zulhijjah — Penginapan bilik ber 4/5/6 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwah Tower @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "HOTEL MAKKAH (15 Zulhijjah) Daftar masuk hotel Makkah mengikut pakej (ilustrasi penerbangan carter)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "SFSP05",
+          "priceSen": 6899000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFSP05 RM 68,990 Bilik Ber-5 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFSP04",
+          "priceSen": 7299000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFSP04 RM 72,990 Bilik Ber-4 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFSP03",
+          "priceSen": 7699000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFSP03 RM 76,990 Bilik Ber-3 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "SFSP02",
+          "priceSen": 8299000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 35,
+              "brochurePage": 3,
+              "text": "SFSP02 RM 82,990 Bilik Ber-2 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-menara-jam-premium-muaisim",
+      "name": "Menara Jam Premium (Khemah Muaisim)",
+      "series": "Menara Jam Series",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5 mengikut jantina.",
+        "dateLabel": "04-14 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 04-14 Zulhijjah — ** Penginapan bilik ber 4/5 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Penginapan di Aziziyah pada 04-14 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muaisim. Jarak ke tempat melontar dinyatakan 3.5 km (hlm. brosur 6–7) dan ±4 km (hlm. brosur 9).",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "PAKEJ KHEMAH MUAISIM",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "Tidak perlu berulang alik dari khemah Muaisim (jarak 3.5km untuk melontar).",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Berjalan kaki dari Khemah Mina Muaisim ke tempat melontar +- 4km.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Istimewa BUSINESS CLASS HARAMAIN SPEED TRAIN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "BUSINESS CLASS HARAMAIN SPEED TRAIN *Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Movenpick Menara Jam @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Movenpick Menara Jam @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "04-14 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 04-14 Zulhijjah — Penginapan bilik ber 4/5 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Movenpick Menara Jam @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "Hotel Aziziyah: Jemaah akan menginap di hotel Dar Salah bermula dari 1 hingga 15 Zulhijjah. (Pakej Menara Jam & VIP bermula 4-14 Zulhijjah) — Hotel Makkah (15 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MJP04",
+          "priceSen": 7599000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJP04 RM 75,990 Bilik Ber-4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MJP03",
+          "priceSen": 7999000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJP03 RM 79,990 Bilik Ber-3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MJP02",
+          "priceSen": 8599000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJP02 RM 85,990 Bilik Ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-menara-jam-premium-pmn",
+      "name": "Menara Jam Premium + PMN",
+      "series": "Menara Jam Series",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Termasuk Aziziyah ±40 Hari",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "7. TEMPOH PAKEJ : +- 40 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "description": "Bermalam di Mina pada 7/8 Zulhijjah sebelum wukuf (hlm. brosur 6).",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 38,
+            "brochurePage": 6,
+            "text": "MELAKSANAKAN TARWIYAH — Melaksanakan ibadah sunnah iaitu pada 7/8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muasasah dan pihak berkuasa Arab Saudi).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Penginapan bilik ber 4/5 mengikut jantina.",
+        "dateLabel": "04-14 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Termasuk Aziziyah — Hotel Dar Salah @ Setaraf — 04-14 Zulhijjah — ** Penginapan bilik ber 4/5 mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 42,
+            "brochurePage": 10,
+            "text": "6. PENGINAPAN DI AZIZIYAH - Susunan bilik jemaah Haji akan diputuskan oleh syarikat mengikut jantina bagi jenis bilik ber-6, ber-5 dan ber-4 sahaja.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Penginapan di Aziziyah pada 04-14 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair Naik Taraf: Maktab 112 (Arafah & Mina), khemah PMN ±200 m ke Kompleks Jamarat, bas sewa khas.",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "PAKEJ PERKHIDMATAN MASYAIR NAIK TARAF (PMN)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 39,
+            "brochurePage": 7,
+            "text": "Menginap di Maktab 112 (Arafah & Mina). Jarak khemah PMN ke kompleks Jamarat 200m. Bas sewa khas bagi pergerakan Masyair.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Aziziyah → Makkah → Madinah mengikut ilustrasi penerbangan carter; tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Hotel Makkah (25 Zulkaedah) → Hotel Aziziyah (1–15 Zulhijjah) → Hotel Makkah (15 Zulhijjah) → Hotel Madinah (1–7 Muharram). Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 41,
+            "brochurePage": 9,
+            "text": "Ilustrasi di atas adalah untuk penerbangan carter KUL-JED-MED-KUL, bergantung kepada agihan penerbangan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Istimewa BUSINESS CLASS HARAMAIN SPEED TRAIN",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "BUSINESS CLASS HARAMAIN SPEED TRAIN *Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Buffet sajian Asia Standard (3x Fullboard)",
+        "evidence": [
+          {
+            "pdfPage": 36,
+            "brochurePage": 4,
+            "text": "Buffet sajian Asia Standard (3x Fullboard)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan terhad; harga PMN tertakluk kepada kekosongan (hlm. brosur 10 §5)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Movenpick Menara Jam @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Movenpick Menara Jam @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram — FULLBOARD",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Hotel Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "04-14 Zulhijjah",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "FULLBOARD",
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 04-14 Zulhijjah — Penginapan bilik ber 4/5 mengikut jantina.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Movenpick Menara Jam @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "15 Zulhijjah (daftar masuk semula)",
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 41,
+              "brochurePage": 9,
+              "text": "Hotel Aziziyah: Jemaah akan menginap di hotel Dar Salah bermula dari 1 hingga 15 Zulhijjah. (Pakej Menara Jam & VIP bermula 4-14 Zulhijjah) — Hotel Makkah (15 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": "FULLBOARD",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Grand Millenium Al Haram @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Wang Naik Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Wang Naik Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Haji Perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Kursus Haji Perdana",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Penginapan di Aziziyah (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Haramain Speed Train",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah 25 tempat sirah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Ziarah 25 tempat sirah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah Awal (7/8 Zulhijjah)",
+          "condition": "Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi",
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Tarwiyah Awal (7/8 Zulhijjah) (Bergantung kepada kebenaran Tabung Haji dan Kerajaan Saudi)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bimbingan Umrah 3X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Bimbingan Umrah 3X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Badar/Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Ziarah Kota Badar/Taif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pusat Rawatan TH",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Pusat Rawatan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Set Haji Eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Set Haji Eksklusif",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam 5 Liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Air Zam-Zam 5 Liter",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perlindungan Takaful",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "Perlindungan Takaful",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 44,
+              "brochurePage": 12,
+              "text": "TAKAFUL TAMBAHAN PERLINDUNGAN MENYELURUH *kecuali untuk Pakej Makkah Tower Ekonomi dan Pakej Safwah Ekonomi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "MJPP04",
+          "priceSen": 8399000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJPP04 RM 83,990 Bilik Ber-4 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MJPP03",
+          "priceSen": 8799000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJPP03 RM 87,990 Bilik Ber-3 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "MJPP02",
+          "priceSen": 9399000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 36,
+              "brochurePage": 4,
+              "text": "MJPP02 RM 93,990 Bilik Ber-2 — *Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "busyra-vip",
+      "name": "Pakej Haji VIP",
+      "series": "Pakej Haji VIP",
+      "tierLabel": "VIP",
+      "duration": {
+        "value": 25,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "25 Hari +-",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [2],
+        "defaultArrangementNote": "Penginapan bilik BERDUA.",
+        "dateLabel": "04-14 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "AZIZIYAH — Dar Salah @ Setaraf — 04 - 14 ZULHIJJAH — ** Penginapan bilik BERDUA.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "PMN + AZIZIYAH + BUSINESS CLASS (COMMERCIAL)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN Maktab 112, ±200 m ke Kompleks Jamarat; bas sewa khas semasa urusan Masyair. Tertakluk terma & syarat.",
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "MINA (MAKTAB 112) — PERKHIDMATAN MASYAIR NAIK TARAF (PMN) — Khemah PMN MAKTAB 112 — +- 200 Meter Ke Kompleks Jamarat — ** Tertakluk terma & syarat",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "MASYAIR NAIK TARAF (PMN) Bernilai RM 8,000 seorang.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Ilustrasi perjalanan (hlm. brosur 9) adalah untuk penerbangan carter; tidak dipakai kepada VIP (penerbangan komersial).",
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "BUSINESS CLASS (COMMERCIAL) Bernilai RM 20,000 seorang.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "BUSINESS CLASS (COMMERCIAL FLIGHT)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "HARAMAIN SPEED TRAIN (BUSINESS CLASS)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 44,
+            "brochurePage": 12,
+            "text": "*Untuk Pakej Safwah Standard, Menara Jam & VIP sahaja.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "International Buffet (Makkah & Madinah)",
+        "evidence": [
+          {
+            "pdfPage": 37,
+            "brochurePage": 5,
+            "text": "INTERNATIONAL BUFFET (MAKKAH & MADINAH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Kekosongan tidak dinyatakan; perlu pertanyaan."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Hotel / @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidil Haram",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Makkah Hotel / @ Setaraf — +- 50 Meter Ke Perkarangan Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Dar Salah @ Setaraf",
+          "orEquivalent": true,
+          "dateLabel": "04 - 14 ZULHIJJAH",
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "AZIZIYAH — Dar Salah @ Setaraf — +- 480 Meter Ke Kompleks Jamarat — 04 - 14 ZULHIJJAH — ** Penginapan bilik BERDUA.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram (Junior Suite) @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Junior Suite",
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke Perkarangan Masjidin Nabawi",
+          "meals": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Grand Millenium Al-Haram (Junior Suite) @ Setaraf — +- 100 Meter Ke Perkarangan Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "mina",
+          "sequence": 5,
+          "hotelNameAsPublished": "Khemah PMN Maktab 112",
+          "orEquivalent": false,
+          "distanceM": 200,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "MINA (MAKTAB 112) Khemah PMN MAKTAB 112 +- 200 Meter Ke Kompleks Jamarat ** Tertakluk terma & syarat",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Servis laluan dan lounge VIP sewaktu ketibaan Jeddah Airport",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Servis laluan dan lounge VIP sewaktu ketibaan Jeddah Airport",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas sewa khas semasa urusan Masyair (Arafah & Mina)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Bas sewa khas semasa urusan Masyair (Arafah & Mina)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kemudahan lounge kelas perniagaan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Kemudahan lounge kelas perniagaan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Elaun bagasi lebih besar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Elaun bagasi lebih besar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Speed Train (Business Class)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Haramain Speed Train (Business Class)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Business Class (Commercial Flight)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Business Class (Commercial Flight)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyair Naik Taraf (PMN)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Perkhidmatan Masyair Naik Taraf (PMN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah (04-14 Zulhijjah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Penginapan di Aziziyah (04-14 Zulhijjah)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful Tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Takaful Tambahan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Aktiviti ziarah (berkumpulan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Aktiviti ziarah (berkumpulan)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan laluan VIP (arrival)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Perkhidmatan laluan VIP (arrival)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengangkutan peribadi GMC (airport transfer & inter-city sahaja)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Pengangkutan peribadi GMC (airport transfer & inter-city sahaja)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tawaf & Saie lebih awal",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "Tawaf & Saie lebih awal",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "International Buffet (Makkah & Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "International Buffet (Makkah & Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "VIP02",
+          "priceSen": 15999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "priceEvidence": [
+            {
+              "pdfPage": 37,
+              "brochurePage": 5,
+              "text": "VIP02 RM 159,990 Bilik Ber-2",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 33,
+              "brochurePage": 1,
+              "text": "PAKEJ VIP VIP02 RM 159,990 bilik ber-2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "busyra-aziziyah-bilik-berdua",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-muaisim",
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-muaisim",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-muaisim",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-muaisim",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-muaisim",
+        "busyra-menara-jam-premium-pmn",
+        "busyra-vip"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": ["VIP02"],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf bilik Aziziyah kepada bilik berdua",
+      "priceSen": 850000,
+      "basis": "per_person",
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": null,
+      "evidence": [
+        {
+          "pdfPage": 42,
+          "brochurePage": 10,
+          "text": "Caj tambahan bagi bakal Haji yang berminat untuk menaik taraf bilik mengikut jenis bilik adalah seperti berikut: BILIK BERDUA : RM 8,500 / SEORANG",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 37,
+          "brochurePage": 5,
+          "text": "** Penginapan bilik BERDUA. (VIP)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-aziziyah-bilik-bertiga",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-muaisim",
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-muaisim",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-muaisim",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-muaisim",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-muaisim",
+        "busyra-menara-jam-premium-pmn"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf bilik Aziziyah kepada bilik bertiga",
+      "priceSen": 750000,
+      "basis": "per_person",
+      "resultingOccupancy": 3,
+      "availability": "inquiry_required",
+      "condition": null,
+      "evidence": [
+        {
+          "pdfPage": 42,
+          "brochurePage": 10,
+          "text": "BILIK BERTIGA : RM 7,500 / SEORANG",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-buffet-standard-makkah-tower-ekonomi",
+      "packageIds": ["busyra-makkah-tower-ekonomi-muaisim", "busyra-makkah-tower-ekonomi-pmn"],
+      "kind": "meal",
+      "description": "Naik taraf buffet Standard di Makkah sahaja",
+      "priceSen": 550000,
+      "basis": "per_person",
+      "condition": "Di Makkah sahaja",
+      "availability": "inquiry_required",
+      "evidence": [
+        {
+          "pdfPage": 34,
+          "brochurePage": 2,
+          "text": "(Naik Taraf buffet standard RM 5,500 di Makkah sahaja)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-buffet-standard-safwah-ekonomi",
+      "packageIds": ["busyra-safwah-tower-ekonomi-muaisim", "busyra-safwah-tower-ekonomi-pmn"],
+      "kind": "meal",
+      "description": "Naik taraf buffet Standard di Makkah sahaja",
+      "priceSen": null,
+      "basis": "per_person",
+      "condition": "Di Makkah sahaja",
+      "availability": "inquiry_required",
+      "evidence": [
+        {
+          "pdfPage": 35,
+          "brochurePage": 3,
+          "text": "(Naik Taraf buffet standard RM 5,500 atau RM 6,500 di Makkah sahaja) — angka kabur dalam versi termampat",
+          "status": "unclear"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "busyra-bayaran-haji-pjh",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-muaisim",
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-muaisim",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-muaisim",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-muaisim",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-muaisim",
+        "busyra-menara-jam-premium-pmn",
+        "busyra-vip"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 34,
+          "brochurePage": 2,
+          "text": "HARGA PAKEJ HAJI ADALAH TERMASUK BAYARAN HAJI PJH 1448H/2027M SEBANYAK RM 23,398 YANG AKAN DIDEBITKAN DARI AKAUN TH JEMAAH HAJI PJH.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 37,
+          "brochurePage": 5,
+          "text": "HARGA PAKEJ HAJI ADALAH TERMASUK BAYARAN HAJI PJH 1448H/2027M SEBANYAK RM 23,398 YANG AKAN DIDEBITKAN DARI AKAUN TH JEMAAH HAJI PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-caj-pmn",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-pmn",
+        "busyra-vip"
+      ],
+      "description": "Caj tambahan PMN",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 34,
+          "brochurePage": 2,
+          "text": "*Harga ini telah termasuk caj tambahan PMN sebanyak RM8,000 seorang dan tertakluk kepada kekosongan",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 37,
+          "brochurePage": 5,
+          "text": "MASYAIR NAIK TARAF (PMN) Bernilai RM 8,000 seorang.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-caj-tambahan-th",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-muaisim",
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-muaisim",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-muaisim",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-muaisim",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-muaisim",
+        "busyra-menara-jam-premium-pmn",
+        "busyra-vip"
+      ],
+      "description": "Caj tambahan jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 34,
+          "brochurePage": 2,
+          "text": "WALAUBAGAIMANAPUN, TH BERHAK UNTUK MENGENAKAN CAJ TAMBAHAN JIKA BERLAKU PENAMBAHAN KOS ATAU PENGENALAN KOS BAHARU OLEH PIHAK BERAUTORITI / BERKUASA DI ARAB SAUDI",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "busyra-caj-hari-tambahan",
+      "packageIds": [
+        "busyra-makkah-tower-ekonomi-muaisim",
+        "busyra-makkah-tower-ekonomi-pmn",
+        "busyra-makkah-tower-standard-muaisim",
+        "busyra-makkah-tower-standard-pmn",
+        "busyra-safwah-tower-ekonomi-muaisim",
+        "busyra-safwah-tower-ekonomi-pmn",
+        "busyra-safwah-tower-standard-muaisim",
+        "busyra-safwah-tower-standard-pmn",
+        "busyra-menara-jam-premium-muaisim",
+        "busyra-menara-jam-premium-pmn"
+      ],
+      "description": "Caj hari tambahan jika tempoh melebihi brosur akibat jadual penerbangan TH",
+      "priceSen": null,
+      "basis": "per_night",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 42,
+          "brochurePage": 10,
+          "text": "Jika tempoh durasi pakej melebihi dari dalam brosur / polisi PHB, (disebabkan jadual penerbangan lebih awal atau dilewatkan oleh TH), maka terdapat cas tambahan pada hari berikutnya dengan kadar yang telah dipersetujui.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga 'bermula' pada muka depan (MTE06, MTS06, SFE05, SFS05, MJP04, VIP02)",
+      "reason": "Ulangan varian sedia ada, bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 33,
+          "brochurePage": 1,
+          "text": "Harga bermula pada kad muka depan",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "description": "Harga promosi muka belakang (SFE05 RM55,990, MTE06 RM48,888)",
+      "reason": "Ulangan varian sedia ada",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 44,
+          "brochurePage": 12,
+          "text": "SAFWAH + AZIZIYAH RM 55,990; MAKKAH TOWER + AZIZIYAH RM 48,888",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": "busyra-safwah-tower-ekonomi-muaisim",
+      "field": "upgrades.busyra-buffet-standard-safwah-ekonomi.priceSen",
+      "note": "Angka naik taraf buffet kabur: RM5,500 atau RM6,500. Perlu versi resolusi asal.",
+      "pages": [35]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "busyra-vip",
+      "field": "tarwiyah",
+      "note": "Halaman VIP tidak menyatakan Tarwiyah; hlm. 38/41 umum untuk pakej carter.",
+      "pages": [37, 38, 41]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam mana-mana halaman 33–44.",
+      "pages": [33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [33]
+    }
+  ],
+  "transcription": {
+    "reviewer": "claude-code (agen utama)",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual halaman penuh 110 dpi + potongan 300 dpi bagi teks kecil (pdftoppm). Imej sumber ~103 ppi.",
+    "independentCheck": null
+  }
+}
