@@ -79,6 +79,8 @@
   }
   html {
     -webkit-text-size-adjust: 100%;
+    /* Bar navigasi wizard melekat di bawah: medan yang difokus tidak terlindung (WCAG 2.4.11). */
+    scroll-padding-bottom: 6rem;
   }
   body {
     @apply bg-background font-sans text-foreground;
