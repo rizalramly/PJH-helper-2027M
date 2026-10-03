@@ -13,7 +13,7 @@
       {
         "pdfPage": 12,
         "text": "AMANI TRAVEL — PJH04/1448H — 201301023616 (1053445-U) — KPK/LN 8255 - IOTU",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": [
@@ -23,7 +23,7 @@
           {
             "pdfPage": 15,
             "text": "2. Harga yang dipamerkan adalah tertakluk kepada perubahan pihak Tabung Haji, penerbangan, hotel, kekosongan bilik dan lain-lain. 3. Sebarang perubahan akan dimaklumkan dari semasa ke semasa.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -33,7 +33,7 @@
           {
             "pdfPage": 15,
             "text": "4. Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada pihak Tabung Haji dan syarikat penerbangan.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -43,7 +43,7 @@
           {
             "pdfPage": 15,
             "text": "MENARIK DIRI / PEMBATALAN — KATEGORI 1 - Denda pembatalan sebanyak 5% ... KATEGORI 2 - ... 20% ... KATEGORI 3 - ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH ...",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -53,23 +53,15 @@
           {
             "pdfPage": 13,
             "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       }
     ]
   },
   "source": {
-    "pageRange": [
-      12,
-      15
-    ],
-    "pagesReviewed": [
-      12,
-      13,
-      14,
-      15
-    ],
+    "pageRange": [12, 15],
+    "pagesReviewed": [12, 13, 14, 15],
     "pageNotes": [
       {
         "pdfPage": 12,
@@ -102,7 +94,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej SAFWAH EKONOMI — Durasi Penuh ± 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -118,21 +110,19 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5
-        ],
+        "defaultOccupancies": [5],
         "defaultArrangementNote": "Penginapan di Aziziyah Ber-5 bagi semua bilik Mekah/Madinah.",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
@@ -140,17 +130,17 @@
           {
             "pdfPage": 12,
             "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -161,7 +151,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — KHEMAH MUAISIM — Khemah muassasah swasta",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -172,7 +162,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -182,7 +172,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -192,7 +182,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -202,12 +192,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — *Makanan Kelas Ekonomi Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -226,19 +216,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -248,7 +238,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -262,19 +252,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -284,17 +274,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -308,19 +298,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -334,19 +324,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -356,7 +346,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -369,7 +359,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -380,7 +370,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -391,7 +381,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -402,7 +392,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -413,7 +403,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -424,7 +414,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -435,7 +425,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -446,7 +436,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -457,7 +447,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -468,7 +458,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -486,9 +476,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-5 — ASK5 RM 53,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASK4",
@@ -502,9 +493,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-4 — ASK4 RM 57,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASK3",
@@ -518,9 +510,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-3 — ASK3 RM 60,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASK2",
@@ -534,9 +527,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-2 — ASK2 RM 63,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         }
       ]
     },
@@ -552,7 +546,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej SAFWAH EKONOMI — Durasi Penuh ± 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -568,21 +562,19 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5
-        ],
+        "defaultOccupancies": [5],
         "defaultArrangementNote": "Penginapan di Aziziyah Ber-5 bagi semua bilik Mekah/Madinah.",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
@@ -590,17 +582,17 @@
           {
             "pdfPage": 12,
             "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -611,7 +603,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — PMN — Harga ini telah termasuk caj PMN sebanyak RM8,000 — Tertakluk kekosongan kuota khemah PMN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
@@ -627,7 +619,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -637,7 +629,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -647,7 +639,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -657,12 +649,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH EKONOMI — *Makanan Kelas Ekonomi Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -681,19 +673,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -703,7 +695,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -717,19 +709,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -739,17 +731,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -763,19 +755,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -789,19 +781,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah EKONOMI — RM53,900 ASK5 Bilik Ber-5 — Penginapan di Aziziyah Ber-5 — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -811,7 +803,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -824,7 +816,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -835,7 +827,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -846,7 +838,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -857,7 +849,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -868,7 +860,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -879,7 +871,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -890,7 +882,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -901,7 +893,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -912,7 +904,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -923,7 +915,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -941,9 +933,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — PMN — Bilik di Mekah/Madinah Bilik ber-5 — ASKN5 RM 61,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASKN4",
@@ -957,9 +950,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — PMN — Bilik di Mekah/Madinah Bilik ber-4 — ASKN4 RM 65,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASKN3",
@@ -973,9 +967,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — PMN — Bilik di Mekah/Madinah Bilik ber-3 — ASKN3 RM 68,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         },
         {
           "code": "ASKN2",
@@ -989,9 +984,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH EKONOMI — PMN — Bilik di Mekah/Madinah Bilik ber-2 — ASKN2 RM 71,900 — Bilik di Aziziyah Bilik ber-5",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 5
         }
       ]
     },
@@ -1007,7 +1003,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej SAFWAH STANDARD — Durasi Penuh ± 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1023,41 +1019,37 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          2,
-          3,
-          4
-        ],
-        "defaultArrangementNote": "Penginapan di Aziziyah mengikut pakej (bilik Aziziyah dicetak per kod).",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Dicetak 'Penginapan di Aziziyah Mengikut Pakej'; bilik Aziziyah dicetak per kod varian (aziziyahOccupancy).",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 12,
             "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1068,7 +1060,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — KHEMAH MUAISIM — Khemah muassasah swasta",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1079,7 +1071,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1089,7 +1081,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1099,7 +1091,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1109,12 +1101,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — *Makanan Kelas Standard Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1133,19 +1125,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1155,7 +1147,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1169,19 +1161,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1191,17 +1183,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1215,19 +1207,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1241,19 +1233,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1263,7 +1255,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1276,7 +1268,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1287,7 +1279,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1298,7 +1290,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1309,7 +1301,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1320,7 +1312,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1331,7 +1323,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1342,7 +1334,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1353,7 +1345,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1364,7 +1356,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1375,7 +1367,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1386,7 +1378,7 @@
             {
               "pdfPage": 12,
               "text": "Medical Card — Kemudahan rawatan di fasiliti kesihatan di Arab Saudi. *Terhad pakej Safwah Standard & Rotana sahaja",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1404,9 +1396,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-4 — ASD4 RM 62,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ASD3",
@@ -1420,9 +1413,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-3 — ASD3 RM 66,900 — Bilik di Aziziyah Bilik ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 3
         },
         {
           "code": "ASDA42",
@@ -1436,9 +1430,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-2 — ASDA42 RM 68,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ASD2",
@@ -1452,9 +1447,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-2 — ASD2 RM 74,900 — Bilik di Aziziyah Bilik ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 2
         }
       ]
     },
@@ -1470,7 +1466,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej SAFWAH STANDARD — Durasi Penuh ± 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1486,41 +1482,37 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          2,
-          3,
-          4
-        ],
-        "defaultArrangementNote": "Penginapan di Aziziyah mengikut pakej (bilik Aziziyah dicetak per kod).",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Dicetak 'Penginapan di Aziziyah Mengikut Pakej'; bilik Aziziyah dicetak per kod varian (aziziyahOccupancy).",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 12,
             "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1531,7 +1523,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — PMN — Harga ini telah termasuk caj PMN sebanyak RM8,000 — Tertakluk kekosongan kuota khemah PMN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
@@ -1547,7 +1539,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1557,7 +1549,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1567,7 +1559,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1577,12 +1569,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej SAFWAH STANDARD — *Makanan Kelas Standard Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1601,19 +1593,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1623,7 +1615,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1637,19 +1629,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1659,17 +1651,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1683,19 +1675,19 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1709,19 +1701,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Safwah STANDARD — RM62,900 ASD4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Al-Safwah Tower 3; Hotel Madinah Dallah Taibah; Aziziyah Hotel Jar Albayt; Durasi Penuh ± 40 Hari — JARAK HOTEL ±60m ±100m ±600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -1731,7 +1723,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1744,7 +1736,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1755,7 +1747,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1766,7 +1758,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1777,7 +1769,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1788,7 +1780,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1799,7 +1791,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1810,7 +1802,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1821,7 +1813,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1832,7 +1824,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1843,7 +1835,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1854,7 +1846,7 @@
             {
               "pdfPage": 12,
               "text": "Medical Card — Kemudahan rawatan di fasiliti kesihatan di Arab Saudi. *Terhad pakej Safwah Standard & Rotana sahaja",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1872,9 +1864,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — PMN — Bilik di Mekah/Madinah Bilik ber-4 — ASDN4 RM 70,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ASDN3",
@@ -1888,9 +1881,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — PMN — Bilik di Mekah/Madinah Bilik ber-3 — ASDN3 RM 74,900 — Bilik di Aziziyah Bilik ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 3
         },
         {
           "code": "ASDA4N2",
@@ -1904,9 +1898,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — PMN — Bilik di Mekah/Madinah Bilik ber-2 — ASDA4N2 RM 76,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ASDN2",
@@ -1920,9 +1915,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej SAFWAH STANDARD — PMN — Bilik di Mekah/Madinah Bilik ber-2 — ASDN2 RM 82,900 — Bilik di Aziziyah Bilik ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 2
         }
       ]
     },
@@ -1938,7 +1934,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej ROTANA CLOCK TOWER — Durasi Penuh 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1954,41 +1950,37 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          2,
-          3,
-          4
-        ],
-        "defaultArrangementNote": "Penginapan di Aziziyah mengikut pakej (bilik Aziziyah sama dengan bilik Mekah/Madinah).",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Dicetak 'Penginapan di Aziziyah Mengikut Pakej'; bilik Aziziyah dicetak per kod varian (aziziyahOccupancy).",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 12,
             "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1999,7 +1991,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — KHEMAH MUAISIM — Khemah muassasah swasta",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2010,7 +2002,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2020,7 +2012,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2030,7 +2022,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2040,12 +2032,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — *Makanan Kelas Standard Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2064,19 +2056,19 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2086,7 +2078,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2100,19 +2092,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2122,17 +2114,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2146,19 +2138,19 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2172,19 +2164,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2194,7 +2186,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2207,7 +2199,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2218,7 +2210,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2229,7 +2221,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2240,7 +2232,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2251,7 +2243,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2262,7 +2254,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2273,7 +2265,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2284,7 +2276,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2295,7 +2287,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2306,7 +2298,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2317,7 +2309,7 @@
             {
               "pdfPage": 12,
               "text": "Medical Card — Kemudahan rawatan di fasiliti kesihatan di Arab Saudi. *Terhad pakej Safwah Standard & Rotana sahaja",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2335,9 +2327,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-4 — ARR4 RM 69,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ARR3",
@@ -2351,9 +2344,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-3 — ARR3 RM 74,900 — Bilik di Aziziyah Bilik ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 3
         },
         {
           "code": "ARR2",
@@ -2367,9 +2361,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — KHEMAH MUAISIM — Bilik di Mekah/Madinah Bilik ber-2 — ARR2 RM 85,900 — Bilik di Aziziyah Bilik ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 2
         }
       ]
     },
@@ -2385,7 +2380,7 @@
           {
             "pdfPage": 12,
             "text": "Pakej ROTANA CLOCK TOWER — Durasi Penuh 40 Hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2401,41 +2396,37 @@
           {
             "pdfPage": 12,
             "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Hari Tarwiyah — Mengikut sunnah perjalanan Haji Nabi Muhammad SAW dengam bermabit di Mina sebelum ibadah wuquf. Menaiki bas ke Khemah Mina. Bermalam di khemah Mina.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          2,
-          3,
-          4
-        ],
-        "defaultArrangementNote": "Penginapan di Aziziyah mengikut pakej (bilik Aziziyah sama dengan bilik Mekah/Madinah).",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Dicetak 'Penginapan di Aziziyah Mengikut Pakej'; bilik Aziziyah dicetak per kod varian (aziziyahOccupancy).",
         "dateLabel": "bermula 1 Zulhijjah",
         "nightCount": null,
         "evidence": [
           {
             "pdfPage": 12,
             "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — Bilik di Aziziyah (lajur per kod)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2446,7 +2437,7 @@
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — PMN — Harga ini telah termasuk caj PMN sebanyak RM8,000 — Tertakluk kekosongan kuota khemah PMN",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 13,
@@ -2462,7 +2453,7 @@
           {
             "pdfPage": 14,
             "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2472,7 +2463,7 @@
           {
             "pdfPage": 12,
             "text": "*Semua Pakej Adalah Penerbangan Catar Kelas Ekonomi*",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2482,7 +2473,7 @@
           {
             "pdfPage": 12,
             "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2492,12 +2483,12 @@
           {
             "pdfPage": 13,
             "text": "Pakej ROTANA CLOCK TOWER — *Makanan Kelas Standard Far East Food",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 12,
             "text": "3 Kali Makan Sehari (Far East Food) — Masakan Asia di Mekah & Madinah diuruskan oleh pihak hotel secara buffet.",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -2516,19 +2507,19 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2538,7 +2529,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2552,19 +2543,19 @@
           "nightCount": null,
           "distanceM": 600,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari dataran Jamarat (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2574,17 +2565,17 @@
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Aziziyah — Jemaah akan menginap di hotel Jar Albait bermula 1 Zulhijjah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
               "text": "Penginapan di Aziziyah — Berhampiran dengan Kompleks Jamarah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2598,19 +2589,19 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 14,
               "text": "Daftar Masuk Hotel Mekah/Madinah → Daftar Masuk Hotel Aziziyah (bermula 1 Zulhijjah) → Hari Tarwiyah → Wuquf → Muzdalifah → Melontar Jamrah Aqabah → Kembali ke Hotel Aziziyah → Mabit di Mina → Daftar Masuk Hotel Mekah → Daftar Masuk Hotel Madinah / Pulang ke Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2624,19 +2615,19 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": false,
-          "distanceReference": "not_stated",
-          "distanceReferenceAsPublished": "label titik ukuran di bawah angka jarak tidak dapat dibaca",
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "dari pintu masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
             {
               "pdfPage": 12,
               "text": "Pakej Rotana CLOCK TOWER — RM69,900 ARR4 Bilik Ber-4 — Penginapan di Aziziyah Mengikut Pakej — Hotel Mekah Hotel Rotana Clock Tower; Hotel Madinah Sofitel Shahd; Aziziyah Hotel Jar Albayt; Durasi Penuh 40 Hari — JARAK HOTEL 80m 100m 600m",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — MEKAH / MADINAH / AZIZIYAH (gambar hotel)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 12,
@@ -2646,7 +2637,7 @@
             {
               "pdfPage": 13,
               "text": "Semua penginapan di Aziziyah, Mekah & Madinah adalah seperti yang tertera di dalam pakej atau setaraf.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2659,7 +2650,7 @@
             {
               "pdfPage": 12,
               "text": "Pembimbing Wanita — Mutawwifah berpengalaman untuk membimbing jemaah wanita.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2670,7 +2661,7 @@
             {
               "pdfPage": 12,
               "text": "Melaksanakan Ibadah Tarwiyah — Melaksanakan ibadah sunnah Tarwiyah pada 8 Zulhijjah di Mina.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2681,7 +2672,7 @@
             {
               "pdfPage": 12,
               "text": "Kursus Intensif Haji — Kursus khas ulangkaji mengenai hukum-hakam haji & taklimat perjalanan haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2692,7 +2683,7 @@
             {
               "pdfPage": 12,
               "text": "Ziarah ke 20 Tempat — Lawatan ke tempat bersejarah sekitar Mekah & Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2703,7 +2694,7 @@
             {
               "pdfPage": 12,
               "text": "Mutawwif Berpengalaman",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2714,7 +2705,7 @@
             {
               "pdfPage": 12,
               "text": "Perlindungan Takaful — Jemaah dilindungi dengan perlindungan Takaful Perjalanan Haji.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2725,7 +2716,7 @@
             {
               "pdfPage": 12,
               "text": "Majlis Kesyukuran — Jamuan makan malam meraikan Jemaah Haji di tanah suci. Majlis Minum Petang di Tanah Air",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2736,7 +2727,7 @@
             {
               "pdfPage": 12,
               "text": "Kereta Api Laju (HHR) — Nikmati perjalanan menaiki kereta api laju daripada/ke Mekah@Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2747,7 +2738,7 @@
             {
               "pdfPage": 12,
               "text": "ISTIMEWA — Pengajian Kitab 40 Hadis Tentang Haji & Umrah serta Nota Tafsir Surah Al-Hujurat",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2758,7 +2749,7 @@
             {
               "pdfPage": 15,
               "text": "SET KELENGKAPAN HAJI — Topi, Payung, Thumbler, Buku panduan, Bagasi 28 inch, Bagasi 20 inch, Backpack 19 inch, Beg sandang, Kurta, Kopiah, Uncang kasut, Tudung, Handbag, T-shirt polo, Set kain ihram, Set Telekung, T-shirt eksklusif, Kipas, Sejadah, Bantal leher, Botol spray, Kipas mini mudah alih",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -2769,7 +2760,7 @@
             {
               "pdfPage": 12,
               "text": "Medical Card — Kemudahan rawatan di fasiliti kesihatan di Arab Saudi. *Terhad pakej Safwah Standard & Rotana sahaja",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -2787,9 +2778,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — PMN — Bilik di Mekah/Madinah Bilik ber-4 — ARRN4 RM 77,900 — Bilik di Aziziyah Bilik ber-4",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 4
         },
         {
           "code": "ARRN3",
@@ -2803,9 +2795,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — PMN — Bilik di Mekah/Madinah Bilik ber-3 — ARRN3 RM 82,900 — Bilik di Aziziyah Bilik ber-3",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 3
         },
         {
           "code": "ARRN2",
@@ -2819,9 +2812,10 @@
             {
               "pdfPage": 13,
               "text": "Pakej ROTANA CLOCK TOWER — PMN — Bilik di Mekah/Madinah Bilik ber-2 — ARRN2 RM 93,900 — Bilik di Aziziyah Bilik ber-2",
-              "status": "transcribed"
+              "status": "verified"
             }
-          ]
+          ],
+          "aziziyahOccupancy": 2
         }
       ]
     }
@@ -2847,7 +2841,7 @@
         {
           "pdfPage": 12,
           "text": "* Pilihan International Buffet di Mekah (Dengan Cas Tambahan) bermula RM6,500 per pax) *",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2871,7 +2865,7 @@
         {
           "pdfPage": 13,
           "text": "Naik taraf penerbangan komersil kelas perniagaan dengan anggaran tambahan sebanyak ±RM12,000.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2896,17 +2890,13 @@
         {
           "pdfPage": 15,
           "text": "1. Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "amani-caj-pmn",
-      "packageIds": [
-        "amani-safwah-ekonomi-pmn",
-        "amani-safwah-standard-pmn",
-        "amani-rotana-pmn"
-      ],
+      "packageIds": ["amani-safwah-ekonomi-pmn", "amani-safwah-standard-pmn", "amani-rotana-pmn"],
       "description": "Caj PMN",
       "priceSen": 800000,
       "basis": "per_person",
@@ -2916,7 +2906,7 @@
         {
           "pdfPage": 13,
           "text": "Harga ini telah termasuk caj PMN sebanyak RM8,000 — Tertakluk kekosongan kuota khemah PMN",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -2939,7 +2929,7 @@
         {
           "pdfPage": 15,
           "text": "Walaubagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2953,7 +2943,7 @@
         {
           "pdfPage": 12,
           "text": "RM53,900 ASK5 Bilik Ber-5; RM62,900 ASD4 Bilik Ber-4; RM69,900 ARR4 Bilik Ber-4",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -2963,52 +2953,53 @@
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
-      "note": "Label titik ukuran di bawah angka jarak (hlm. 12) terlalu kecil/kabur untuk dibaca walaupun pada 400 dpi; distanceReference = not_stated.",
-      "pages": [
-        12
-      ]
-    },
-    {
-      "severity": "non_blocking",
-      "packageId": null,
-      "field": "variants.aziziyahOccupancy",
-      "note": "Bilik Aziziyah berbeza daripada bilik Mekah/Madinah bagi Safwah Ekonomi (semua ber-5) dan ASDA42/ASDA4N2 (ber-4); skema tiada medan occupancy Aziziyah per varian — direkod dalam notes/roomLabelAsPublished.",
-      "pages": [
-        13
-      ]
+      "note": "Label titik ukuran di bawah angka jarak (hlm. 12) sangat kecil/kabur; dibaca secara anggaran sebagai 'dari dataran masjid' (Mekah), 'dari pintu masjid' (Madinah), 'dari dataran Jamarat' (Aziziyah). Evidence jarak kekal unclear.",
+      "pages": [12]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "trainClass",
       "note": "Kelas kereta api laju (HHR) tidak dinyatakan.",
-      "pages": [
-        12
-      ]
+      "pages": [12]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.endDate",
       "note": "Aziziyah bermula 1 Zulhijjah; tarikh keluar dan bilangan malam tidak dinyatakan.",
-      "pages": [
-        14
-      ]
+      "pages": [14]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.pmn.description",
       "note": "Teks kecil penerangan PMN (bas khas, jarak khemah) kabur; dibaca secara anggaran.",
-      "pages": [
-        13
-      ]
+      "pages": [13]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.amani-business-class-komersil.basis",
+      "note": "Naik taraf kelas perniagaan '±RM12,000' tidak menyatakan asas kadar (seorang/sebilik); direkod per_person (R7).",
+      "pages": [13]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "inclusions.kit",
+      "note": "Senarai set kelengkapan mencetak 'T-shirt eksklusif Edisi Haji 1447H' (musim lalu) walaupun brosur untuk 1448H; disalin seperti dicetak (R9).",
+      "pages": [15]
     }
   ],
   "transcription": {
     "reviewer": "agen-A",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula pdftoppm 220/400 dpi dan potongan bagi carta harga, jarak hotel dan nota PMN.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-1",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua 22 sel harga dan kod (ASK5–2, ASKN5–2, ASD4/ASD3/ASDA42/ASD2, ASDN4/ASDN3/ASDA4N2/ASDN2, ARR4–2, ARRN4–2), bilik Mekah/Madinah dan bilik Aziziyah per kod, caj PMN RM8,000 termasuk, Business Class ±RM12,000, buffet antarabangsa bermula RM6,500/pax, hotel + jarak, Tarwiyah (hlm. 12, tiada syarat dicetak di hlm. 12–15 → offered), lesen PJH04/1448H, terma hlm. 15 disemak terhadap imej 300 dpi. Pembetulan: aziziyahOccupancy ditetapkan per varian (R3; Safwah Ekonomi semua 5, ASDA42/ASDA4N2 = 4, lain sama dengan bilik Mekah/Madinah); defaultOccupancies Safwah Standard/Rotana ditukar kepada null kerana susunan dicetak per kod; titik ukuran jarak dibaca secara anggaran (other/jamarat, evidence unclear). Tiada pembetulan harga/kod."
+    }
   }
 }

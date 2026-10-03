@@ -13,26 +13,19 @@
       {
         "pdfPage": 9,
         "text": "ALAM SHAH TRAVEL & TOURS SDN BHD — NO LESEN HAJI: PJH 03/1448H; NO MOTAC: KPL/LN 8511; NO SSM: 201601038292",
-        "status": "transcribed"
+        "status": "verified"
       },
       {
         "pdfPage": 10,
         "text": "NO LESEN HAJI: PJH 03/1448H",
-        "status": "transcribed"
+        "status": "verified"
       }
     ],
     "terms": []
   },
   "source": {
-    "pageRange": [
-      9,
-      11
-    ],
-    "pagesReviewed": [
-      9,
-      10,
-      11
-    ],
+    "pageRange": [9, 11],
+    "pagesReviewed": [9, 10, 11],
     "pageNotes": [
       {
         "pdfPage": 9,
@@ -61,7 +54,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -77,17 +70,14 @@
           {
             "pdfPage": 9,
             "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Penginapan di Aziziah disusun secara ber-4/5 mengikut jantina.",
         "dateLabel": null,
         "nightCount": null,
@@ -95,12 +85,12 @@
           {
             "pdfPage": 10,
             "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 10,
             "text": "Hotel Aziziah ± 20 hari — Oriens Manabir @ Setaraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -111,7 +101,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -122,7 +112,7 @@
           {
             "pdfPage": 10,
             "text": "Hotel Aziziah ± 20 hari; Hotel Mekah ± 15 hari; Hotel Madinah ± 6 hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -132,7 +122,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -142,7 +132,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -152,7 +142,7 @@
           {
             "pdfPage": 10,
             "text": "Info Makanan — Meals Aziziah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Mekah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Madinah 3 Kali Sehari (Fullboard) - International",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -179,12 +169,12 @@
             {
               "pdfPage": 10,
               "text": "Hotel Aziziah ± 20 hari — Oriens Manabir @ Setaraf — ±540m ke Dataran Kompleks Melontar",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 10,
               "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -205,7 +195,7 @@
             {
               "pdfPage": 10,
               "text": "Hotel Mekah ± 15 hari — Sawaed Al Khair @ Setaraf — ±380m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -226,12 +216,12 @@
             {
               "pdfPage": 10,
               "text": "Hotel Madinah ± 6 hari — Leader Al Muna Kareem @ Setaraf — ±180m ke Masjidil Nabawi (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 10,
               "text": "Semua hotel di Madinah terletak di laluan pintu masuk muslimah ke Raudah (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -244,12 +234,12 @@
             {
               "pdfPage": 10,
               "text": "Istimewa — TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -260,7 +250,7 @@
             {
               "pdfPage": 9,
               "text": "Kereta Api Laju — Tiket Kereta api laju Haramain",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -271,7 +261,7 @@
             {
               "pdfPage": 9,
               "text": "Taklimat Perdana — Majlis ramah mesra & silaturrahim serta taklimat keberangkatan jemaah haji di hotel 5 bintang.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -282,7 +272,7 @@
             {
               "pdfPage": 9,
               "text": "Audio Tour Guide — Menggunakan sistem audio wireless ...",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -293,7 +283,7 @@
             {
               "pdfPage": 9,
               "text": "20 Tempat Ziarah — Ziarah luar dan dalam di Mekah dan Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -304,7 +294,7 @@
             {
               "pdfPage": 9,
               "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -315,7 +305,7 @@
             {
               "pdfPage": 9,
               "text": "Cenderahati Kelengkapan Haji — Bagasi 28 inci, Bagasi 20 inci, Bagpack, Uncang Kasut, Beg Sandang, Set Kain Ihram (Lelaki), Telekung (Perempuan), Tumbler, Bucket Hat, Payung, Botol Spray Wuduk, Set Pemotong Kuku, T-shirt Eksklusif, Kurta, Baju Muslimah, Sejadah Eksklusif, Bantal Leher, Kipas Tangan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -328,12 +318,28 @@
           "madinahOccupancy": 4,
           "pmnStatus": "not_included",
           "roomLabelAsPublished": "Bilik Berempat / Berlima",
-          "notes": "Dicetak 'Bilik Berempat / Berlima' — bilik Makkah/Madinah mungkin ber-4 atau ber-5.",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 10,
               "text": "MEA04 RM48,990 BILIK BEREMPAT / BERLIMA",
-              "status": "transcribed"
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "code": "MEA04",
+          "priceSen": 4899000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Berempat / Berlima",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 10,
+              "text": "MEA04 RM48,990 BILIK BEREMPAT / BERLIMA",
+              "status": "verified"
             }
           ]
         },
@@ -348,7 +354,7 @@
             {
               "pdfPage": 10,
               "text": "MEA03 RM51,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -363,7 +369,7 @@
             {
               "pdfPage": 10,
               "text": "MEA02 RM55,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -381,7 +387,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -397,7 +403,7 @@
           {
             "pdfPage": 9,
             "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -417,7 +423,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -428,7 +434,7 @@
           {
             "pdfPage": 10,
             "text": "Hotel Mekah ± 35 hari; Hotel Madinah ± 6 hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -438,7 +444,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -448,7 +454,7 @@
           {
             "pdfPage": 10,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -458,7 +464,7 @@
           {
             "pdfPage": 10,
             "text": "Info Makanan — Meals Mekah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Madinah 3 Kali Sehari (Fullboard) - International",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -484,7 +490,7 @@
             {
               "pdfPage": 10,
               "text": "Hotel Mekah ± 35 hari — Sawaed Al Khair @ Setaraf — ±380m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -505,12 +511,12 @@
             {
               "pdfPage": 10,
               "text": "Hotel Madinah ± 6 hari — Leader Al Muna Kareem @ Setaraf — ±180m ke Masjidil Nabawi (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 10,
               "text": "Semua hotel di Madinah terletak di laluan pintu masuk muslimah ke Raudah (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -523,12 +529,12 @@
             {
               "pdfPage": 10,
               "text": "Istimewa — TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -539,7 +545,7 @@
             {
               "pdfPage": 9,
               "text": "Kereta Api Laju — Tiket Kereta api laju Haramain",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -550,7 +556,7 @@
             {
               "pdfPage": 9,
               "text": "Taklimat Perdana — Majlis ramah mesra & silaturrahim serta taklimat keberangkatan jemaah haji di hotel 5 bintang.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -561,7 +567,7 @@
             {
               "pdfPage": 9,
               "text": "Audio Tour Guide — Menggunakan sistem audio wireless ...",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -572,7 +578,7 @@
             {
               "pdfPage": 9,
               "text": "20 Tempat Ziarah — Ziarah luar dan dalam di Mekah dan Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -583,7 +589,7 @@
             {
               "pdfPage": 9,
               "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -594,7 +600,7 @@
             {
               "pdfPage": 9,
               "text": "Cenderahati Kelengkapan Haji — Bagasi 28 inci, Bagasi 20 inci, Bagpack, Uncang Kasut, Beg Sandang, Set Kain Ihram (Lelaki), Telekung (Perempuan), Tumbler, Bucket Hat, Payung, Botol Spray Wuduk, Set Pemotong Kuku, T-shirt Eksklusif, Kurta, Baju Muslimah, Sejadah Eksklusif, Bantal Leher, Kipas Tangan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -607,12 +613,28 @@
           "madinahOccupancy": 4,
           "pmnStatus": "not_included",
           "roomLabelAsPublished": "Bilik Berempat / Berlima",
-          "notes": "Dicetak 'Bilik Berempat / Berlima' — bilik Makkah/Madinah mungkin ber-4 atau ber-5.",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
           "priceEvidence": [
             {
               "pdfPage": 10,
               "text": "MK04 RM52,990 BILIK BEREMPAT / BERLIMA",
-              "status": "transcribed"
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "code": "MK04",
+          "priceSen": 5299000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Berempat / Berlima",
+          "notes": "Satu harga dicetak untuk bilik 4/5 orang",
+          "priceEvidence": [
+            {
+              "pdfPage": 10,
+              "text": "MK04 RM52,990 BILIK BEREMPAT / BERLIMA",
+              "status": "verified"
             }
           ]
         },
@@ -627,7 +649,7 @@
             {
               "pdfPage": 10,
               "text": "MK03 RM56,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -642,7 +664,7 @@
             {
               "pdfPage": 10,
               "text": "MK02 RM63,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -660,7 +682,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -676,17 +698,14 @@
           {
             "pdfPage": 9,
             "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Penginapan di Aziziah disusun secara ber-4/5 mengikut jantina.",
         "dateLabel": null,
         "nightCount": null,
@@ -694,12 +713,12 @@
           {
             "pdfPage": 11,
             "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 11,
             "text": "Hotel Aziziah ± 15 hari — Rahaf Al Mashaer @ Setaraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -710,7 +729,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -721,7 +740,7 @@
           {
             "pdfPage": 11,
             "text": "Hotel Aziziah ± 15 hari; Hotel Mekah ± 20 hari; Hotel Madinah ± 6 hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -731,7 +750,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -741,7 +760,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Khemah Muassim PJH",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -751,7 +770,7 @@
           {
             "pdfPage": 11,
             "text": "Info Makanan — Meals Aziziah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Mekah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Madinah 3 Kali Sehari (Fullboard) - Makanan Asia \"Fareast\"",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -778,12 +797,12 @@
             {
               "pdfPage": 11,
               "text": "Hotel Aziziah ± 15 hari — Rahaf Al Mashaer @ Setaraf — ±350m ke Dataran Kompleks Melontar",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -804,7 +823,7 @@
             {
               "pdfPage": 11,
               "text": "Hotel Mekah ± 20 hari — Al - Safwah Tower 3 @ Setaraf — ±60m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -825,12 +844,12 @@
             {
               "pdfPage": 11,
               "text": "Hotel Madinah ± 6 hari — Grand Millenium Al Haram @ Setaraf — ±100m ke Masjidil Nabawi (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "Semua hotel di Madinah terletak di laluan pintu masuk muslimah ke Raudah (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -843,12 +862,12 @@
             {
               "pdfPage": 10,
               "text": "Istimewa — TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -859,7 +878,7 @@
             {
               "pdfPage": 9,
               "text": "Kereta Api Laju — Tiket Kereta api laju Haramain",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -870,7 +889,7 @@
             {
               "pdfPage": 9,
               "text": "Taklimat Perdana — Majlis ramah mesra & silaturrahim serta taklimat keberangkatan jemaah haji di hotel 5 bintang.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -881,7 +900,7 @@
             {
               "pdfPage": 9,
               "text": "Audio Tour Guide — Menggunakan sistem audio wireless ...",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -892,7 +911,7 @@
             {
               "pdfPage": 9,
               "text": "20 Tempat Ziarah — Ziarah luar dan dalam di Mekah dan Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -903,7 +922,7 @@
             {
               "pdfPage": 9,
               "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -914,7 +933,7 @@
             {
               "pdfPage": 9,
               "text": "Cenderahati Kelengkapan Haji — Bagasi 28 inci, Bagasi 20 inci, Bagpack, Uncang Kasut, Beg Sandang, Set Kain Ihram (Lelaki), Telekung (Perempuan), Tumbler, Bucket Hat, Payung, Botol Spray Wuduk, Set Pemotong Kuku, T-shirt Eksklusif, Kurta, Baju Muslimah, Sejadah Eksklusif, Bantal Leher, Kipas Tangan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -932,7 +951,7 @@
             {
               "pdfPage": 11,
               "text": "SA05 TERHAD RM53,990 BILIK BERLIMA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -947,7 +966,7 @@
             {
               "pdfPage": 11,
               "text": "SA04 RM55,990 BILIK BEREMPAT",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -962,7 +981,7 @@
             {
               "pdfPage": 11,
               "text": "SA03 RM58,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -977,7 +996,7 @@
             {
               "pdfPage": 11,
               "text": "SA02 RM63,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -995,7 +1014,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Perkhidmatan Masyair Naik Taraf (PMN) - Khemah Asas Maktab 112",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1011,17 +1030,14 @@
           {
             "pdfPage": 9,
             "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Penginapan di Aziziah disusun secara ber-4/5 mengikut jantina.",
         "dateLabel": null,
         "nightCount": null,
@@ -1029,12 +1045,12 @@
           {
             "pdfPage": 11,
             "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 11,
             "text": "Hotel Aziziah ± 15 hari — Rahaf Al Mashaer @ Setaraf",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1045,12 +1061,12 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Perkhidmatan Masyair Naik Taraf (PMN) - Khemah Asas Maktab 112",
-            "status": "transcribed"
+            "status": "verified"
           },
           {
             "pdfPage": 11,
             "text": "Info PMN — Pakej sudah termasuk kos khemah Perkhidmatan Masyair Naik Taraf (PMN) yang bernilai RM8000/Pax - Khemah Asas Maktab 112 *Tertakluk kepada kelulusan dan kebenaran Tabung Haji (TH)",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1061,7 +1077,7 @@
           {
             "pdfPage": 11,
             "text": "Hotel Aziziah ± 15 hari; Hotel Mekah ± 20 hari; Hotel Madinah ± 6 hari",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1071,7 +1087,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Perkhidmatan Masyair Naik Taraf (PMN) - Khemah Asas Maktab 112",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1081,7 +1097,7 @@
           {
             "pdfPage": 11,
             "text": "Info Pakej — Tempoh Haji ±40 hari; Penerbangan Carter Tabung Haji (KT); Train (Sehala) Economy Class; Khemah Perkhidmatan Masyair Naik Taraf (PMN) - Khemah Asas Maktab 112",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1091,7 +1107,7 @@
           {
             "pdfPage": 11,
             "text": "Info Makanan — Meals Aziziah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Mekah 3 Kali Sehari (Fullboard) - Masakan Melayu; Meals Madinah 3 Kali Sehari (Fullboard) - Makanan Asia \"Fareast\"",
-            "status": "transcribed"
+            "status": "verified"
           }
         ]
       },
@@ -1118,12 +1134,12 @@
             {
               "pdfPage": 11,
               "text": "Hotel Aziziah ± 15 hari — Rahaf Al Mashaer @ Setaraf — ±350m ke Dataran Kompleks Melontar",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1144,7 +1160,7 @@
             {
               "pdfPage": 11,
               "text": "Hotel Mekah ± 20 hari — Al - Safwah Tower 3 @ Setaraf — ±60m ke Masjidil Haram",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1165,12 +1181,12 @@
             {
               "pdfPage": 11,
               "text": "Hotel Madinah ± 6 hari — Grand Millenium Al Haram @ Setaraf — ±100m ke Masjidil Nabawi (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "Semua hotel di Madinah terletak di laluan pintu masuk muslimah ke Raudah (Gate 338)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1183,12 +1199,12 @@
             {
               "pdfPage": 10,
               "text": "Istimewa — TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             },
             {
               "pdfPage": 11,
               "text": "TERMASUK aktiviti beriadah di beach resort dan menaiki bot di Laut Merah",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1199,7 +1215,7 @@
             {
               "pdfPage": 9,
               "text": "Kereta Api Laju — Tiket Kereta api laju Haramain",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1210,7 +1226,7 @@
             {
               "pdfPage": 9,
               "text": "Taklimat Perdana — Majlis ramah mesra & silaturrahim serta taklimat keberangkatan jemaah haji di hotel 5 bintang.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1221,7 +1237,7 @@
             {
               "pdfPage": 9,
               "text": "Audio Tour Guide — Menggunakan sistem audio wireless ...",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1232,7 +1248,7 @@
             {
               "pdfPage": 9,
               "text": "20 Tempat Ziarah — Ziarah luar dan dalam di Mekah dan Madinah.",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1243,7 +1259,7 @@
             {
               "pdfPage": 9,
               "text": "Hari Tarwiyah — Melaksanakan ibadah sunnah iaitu pada 8 Zulhijjah, rombongan jemaah akan bermalam di Mina untuk hari Tarwiyah. (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1254,7 +1270,7 @@
             {
               "pdfPage": 9,
               "text": "Cenderahati Kelengkapan Haji — Bagasi 28 inci, Bagasi 20 inci, Bagpack, Uncang Kasut, Beg Sandang, Set Kain Ihram (Lelaki), Telekung (Perempuan), Tumbler, Bucket Hat, Payung, Botol Spray Wuduk, Set Pemotong Kuku, T-shirt Eksklusif, Kurta, Baju Muslimah, Sejadah Eksklusif, Bantal Leher, Kipas Tangan",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1272,7 +1288,7 @@
             {
               "pdfPage": 11,
               "text": "SAP05 TERHAD RM60,990 BILIK BERLIMA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1287,7 +1303,7 @@
             {
               "pdfPage": 11,
               "text": "SAP04 RM62,990 BILIK BEREMPAT",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1302,7 +1318,7 @@
             {
               "pdfPage": 11,
               "text": "SAP03 RM65,990 BILIK BERTIGA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         },
@@ -1317,7 +1333,7 @@
             {
               "pdfPage": 11,
               "text": "SAP02 RM70,990 BILIK BERDUA",
-              "status": "transcribed"
+              "status": "verified"
             }
           ]
         }
@@ -1343,12 +1359,12 @@
         {
           "pdfPage": 10,
           "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 11,
           "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1370,12 +1386,12 @@
         {
           "pdfPage": 10,
           "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 11,
           "text": "Info Penting — Penginapan di Aziziah akan disusun secara ber-4/5 mengikut jantina; Pilihan untuk upgrade bilik ber-2 di Aziziah :- RM7000/Pax; Pilihan untuk upgrade bilik ber-3 di Aziziah :- RM2500/Pax *Tertakluk kepada kekosongan",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1397,12 +1413,12 @@
         {
           "pdfPage": 10,
           "text": "Add-on Penerbangan Business Class :- RM18000/Pax (Termasuk airport transfer)",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 11,
           "text": "Add-on Penerbangan Business Class :- RM18000/Pax (Termasuk airport transfer)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1423,20 +1439,18 @@
         {
           "pdfPage": 10,
           "text": "Info PMN — Pilihan untuk perkhidmatan naik taraf (PMN) :- RM8000/Pax *Tertakluk kepada kelulusan dan kebenaran Tabung Haji (TH)",
-          "status": "transcribed"
+          "status": "verified"
         },
         {
           "pdfPage": 11,
           "text": "Info PMN — Pilihan untuk perkhidmatan naik taraf (PMN) :- RM8000/Pax *Tertakluk kepada kelulusan dan kebenaran Tabung Haji (TH)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "alam-shah-bas-mina-hotel",
-      "packageIds": [
-        "alam-shah-mekah-klasik"
-      ],
+      "packageIds": ["alam-shah-mekah-klasik"],
       "kind": "other",
       "description": "Perkhidmatan bas ulang alik dari Mina ke hotel",
       "priceSen": 250000,
@@ -1447,7 +1461,7 @@
         {
           "pdfPage": 10,
           "text": "Info Penting — Perkhidmatan bas ulang alik dari Mina ke hotel disediakan dengan bayaran :- RM2500/Pax",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1470,15 +1484,13 @@
         {
           "pdfPage": 9,
           "text": "Harga Pakej Haji adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
     {
       "id": "alam-shah-caj-pmn",
-      "packageIds": [
-        "alam-shah-safwah-aziziah-pmn"
-      ],
+      "packageIds": ["alam-shah-safwah-aziziah-pmn"],
       "description": "Kos khemah Perkhidmatan Masyair Naik Taraf (PMN)",
       "priceSen": 800000,
       "basis": "per_person",
@@ -1488,7 +1500,7 @@
         {
           "pdfPage": 11,
           "text": "Info PMN — Pakej sudah termasuk kos khemah Perkhidmatan Masyair Naik Taraf (PMN) yang bernilai RM8000/Pax - Khemah Asas Maktab 112 *Tertakluk kepada kelulusan dan kebenaran Tabung Haji (TH)",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     },
@@ -1509,7 +1521,7 @@
         {
           "pdfPage": 9,
           "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika belaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1523,7 +1535,7 @@
         {
           "pdfPage": 9,
           "text": "HARGA BERMULA RM48,990",
-          "status": "transcribed"
+          "status": "verified"
         }
       ]
     }
@@ -1531,78 +1543,48 @@
   "gaps": [
     {
       "severity": "non_blocking",
-      "packageId": "alam-shah-mekah-aziziah",
-      "field": "variants.MEA04.occupancy",
-      "note": "MEA04 dicetak 'Bilik Berempat / Berlima'; direkod sebagai 4 (ikut kod) tetapi mungkin ber-5.",
-      "pages": [
-        10
-      ]
-    },
-    {
-      "severity": "non_blocking",
-      "packageId": "alam-shah-mekah-klasik",
-      "field": "variants.MK04.occupancy",
-      "note": "MK04 dicetak 'Bilik Berempat / Berlima'; direkod sebagai 4 (ikut kod) tetapi mungkin ber-5.",
-      "pages": [
-        10
-      ]
-    },
-    {
-      "severity": "non_blocking",
       "packageId": "alam-shah-mekah-klasik",
       "field": "aziziyah",
       "note": "Aziziyah tidak dinyatakan secara jelas; tiada hotel Aziziyah disenaraikan (Mekah ±35 hari + Madinah ±6 hari) dan bas Mina–hotel berbayar RM2,500.",
-      "pages": [
-        10
-      ]
+      "pages": [10]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "relocations",
       "note": "Urutan hotel (Aziziah/Mekah/Madinah) tidak dinyatakan; sequence stays ikut susunan kad.",
-      "pages": [
-        10,
-        11
-      ]
+      "pages": [10, 11]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass",
       "note": "Kelas penerbangan carter TH tidak dinyatakan (Business Class hanya sebagai add-on).",
-      "pages": [
-        10,
-        11
-      ]
+      "pages": [10, 11]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.terms",
       "note": "Tiada terma pembayaran/pembatalan dicetak dalam hlm. 9–11.",
-      "pages": [
-        9,
-        10,
-        11
-      ]
+      "pages": [9, 10, 11]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.aziziyahDistance",
       "note": "Hlm. 9 menyatakan 'Jarak Hotel Aziziah Dekat 350 meter dari kompleks jamrah' sedangkan hotel Aziziah Mekah Aziziah (Oriens Manabir) dicetak ±540 m; 350 m sepadan dengan Rahaf Al Mashaer (Safwah).",
-      "pages": [
-        9,
-        10,
-        11
-      ]
+      "pages": [9, 10, 11]
     }
   ],
   "transcription": {
     "reviewer": "agen-A",
     "reviewedAt": "2026-10-03",
     "method": "Bacaan visual imej halaman 1800 px + render semula pdftoppm 220 dpi (halaman ini dirender ~3637 px) dan potongan bagi Info Penting/Info PMN.",
-    "independentCheck": null
+    "independentCheck": {
+      "reviewer": "penyemak-1",
+      "checkedAt": "2026-10-03",
+      "notes": "Semua 14 sel harga (MEA04–02, MK04–02, SA05–02, SAP05–02), hotel + jarak + tempoh menginap, makanan, Info Penting/Info PMN (upgrade Aziziah ber-2 RM7,000 & ber-3 RM2,500 per pax, Business Class RM18,000/pax, PMN RM8,000/pax, bas Mina RM2,500/pax), Tarwiyah bersyarat (hlm. 9), lesen PJH 03/1448H disemak terhadap imej 300 dpi. Pembetulan: MEA04 dan MK04 'Bilik Berempat / Berlima' dipecah kepada dua varian (occupancy 4 dan 5, kod dan harga sama) mengikut R2 — varian 14 → 16. Mekah Klasik Aziziyah kekal not_stated + gap (R6). Tiada pembetulan harga."
+    }
   }
 }
