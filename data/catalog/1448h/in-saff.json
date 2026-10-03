@@ -1,0 +1,5148 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "in-saff",
+    "label": "In-Saff",
+    "name": "In Saff Travel & Tours",
+    "legalName": "In Saff Travel & Tours Sdn. Bhd.",
+    "website": null,
+    "publicContact": "Hotline 010-928 8448; Lot PT 38729, Tingkat 2 Wisma Khaleeda, Jln Tengku Mohamad, 21300 Kuala Nerus, Terengganu",
+    "licenceNumberAsPublished": "PJH 16 / 1448",
+    "licenceEvidence": [
+      {
+        "pdfPage": 64,
+        "text": "NO LESEN - PJH 16 / 1448 — SSM : 1120123-W — MOTAC : KPK/LN 8448",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga tertakluk kepada sebarang perubahan, hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan atas kelulusan TH.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "Harga yang ditawarkan adalah tertakluk kepada sebarang perubahan,hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan yang akan dimaklumkan dari semasa ke semasa atas kelulusan TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan tertakluk kepada ketetapan penerbangan carter haji TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan atau tidak cukup regu, bakal haji ditawarkan pakej alternatif yang setaraf.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "Sekiranya pakej pilihan utama tiada kekosongan pada masa tempahan disahkan, atau tidak cukup regu di akhir penyusunan bilik penginapan, bakal haji akan ditawarkan untuk menerima pakej-pakej pilihan alternatif yang setaraf.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "IN SAFF tidak menjamin tempat duduk Kelas Perniagaan dalam penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "IN SAFF tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya memperolehi tempat duduk Kelas Perniagaan dalam penerbangan tersebut.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan/penundaan (selepas ditolak Bayaran Haji PJH): 5% selepas Bayaran Pakej Haji; 20% selepas Jadual Penerbangan Haji dikeluarkan; 40% selepas Jadual Penerbangan dikeluarkan dan Visa Haji diperuntukkan.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit RM1,000 bagi jemaah haji yang terpilih.",
+        "evidence": [
+          {
+            "pdfPage": 71,
+            "text": "MAKLUMAT PEMBAYARAN DEPOSIT RM 1,000 BAGI JEMAAH HAJI YANG TERPILIH",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [64, 72],
+    "pagesReviewed": [64, 65, 66, 67, 68, 69, 70, 71, 72],
+    "pageNotes": [
+      {
+        "pdfPage": 64,
+        "content": "Pakej Anjum: Anjum A (30-35 hari) & Anjum B (±40 hari), 10 harga berkod AJ/…; hotel Anjum/Grand Millenium/Al Alaa; upgrade Madinah Biltmore bagi bilik berdua & seorang; Bayaran Haji PJH; lesen PJH 16/1448."
+      },
+      {
+        "pdfPage": 65,
+        "content": "Pakej Clock Tower: CT A (30-35 hari) & CT B (±40 hari), 10 harga berkod CT/…; Mövenpick; Biltmore bagi bilik berdua/seorang CT A dan semua bilik CT B."
+      },
+      {
+        "pdfPage": 66,
+        "content": "Pakej Raffles (30-35 hari): City View & Partial Kaabah View, 4 harga berkod RF/…; Raffles Palace Signature One Bedroom Suite, Biltmore, Al Alaa."
+      },
+      {
+        "pdfPage": 67,
+        "content": "Tier & kelebihan Pakej Anjum (Tier 4/3/2): pemetaan bilik→hotel Madinah, ziarah, kelas kereta api, add-on PMN & business class."
+      },
+      {
+        "pdfPage": 68,
+        "content": "Tier & kelebihan Clock Tower (Tier 3/2) dan Raffles (Tier 1): PMN & flight business termasuk Tier 1 dengan nota pemulangan RM4,500/RM9,000."
+      },
+      {
+        "pdfPage": 69,
+        "content": "Pakej termasuk (semua pakej), Istimewa (Hari Tarwiyah, kelas speed train mengikut tier, medical card), 22 barangan hadiah."
+      },
+      {
+        "pdfPage": 70,
+        "content": "Madrasah Aziziyah: Hotel Al Alaa 480 m dari Kompleks Jamarat; setiap pakej menginap di Aziziyah; pengisian ilmu."
+      },
+      {
+        "pdfPage": 71,
+        "content": "Maklumat tambahan (perubahan harga, kekosongan, tiada jaminan business class), syarat pembatalan 5/20/40%, deposit RM1,000."
+      },
+      {
+        "pdfPage": 72,
+        "content": "Tenaga utama haji (lembaga, pengurusan, pembimbing, operasi). Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "in-saff-anjum-a-tier4",
+      "name": "Anjum A (Singkat) – Tier 4",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 4",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Madinah ★★★★★ ±100 M Grand Millenium Al-Haram @ Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 4 TERMASUK: Ziarah sekitar Masjid Nabawi. Ziarah luar di Madinah. Ziarah Manasik dan Ja'ranah. Ziarah Hudaibiyah. Bas Masyair - shuttle bus.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/1/B4",
+          "priceSen": 5397000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-4 RM 53,970 AJ/1/B4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AJ/1/B3",
+          "priceSen": 5897000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-3 RM 58,970 AJ/1/B3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-a-tier3-grand-millenium",
+      "name": "Anjum A (Singkat) – Tier 3, Bilik Berdua AZ",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 3",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Madinah ★★★★★ ±100 M Grand Millenium Al-Haram @ Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 3 TERMASUK: ... Bas Masyair - shuttle bus. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/1/B2(AZ)",
+          "priceSen": 6497000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2 AZ",
+          "notes": "Bilik berdua di Aziziyah; bilik berempat di Makkah & Madinah.",
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-2 AZ RM 64,970 AJ/1/B2(AZ)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-a-tier3-biltmore",
+      "name": "Anjum A (Singkat) – Tier 3, Bilik Berdua (Biltmore)",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 3",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 67,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 3 TERMASUK: ... Bas Masyair - shuttle bus. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/1/B2",
+          "priceSen": 6997000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-2 RM 69,970 AJ/1/B2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-a-tier2-biltmore",
+      "name": "Anjum A (Singkat) – Tier 2, Bilik Seorang (Biltmore)",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 2",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - Private. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 4,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - Private.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 67,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 2 TERMASUK: ... Bas Masyair - Private. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/1/B1",
+          "priceSen": 10397000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Seorang RM 103,970 AJ/1/B1",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-b-tier3-grand-millenium",
+      "name": "Anjum B (Standard) – Tier 3",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 3",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Standard) ± 40 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Madinah ★★★★★ ±100 M Grand Millenium Al-Haram @ Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 3 TERMASUK: ... Bas Masyair - shuttle bus. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/2/B4",
+          "priceSen": 5897000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-4 RM 58,970 AJ/2/B4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AJ/2/B3",
+          "priceSen": 6397000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-3 RM 63,970 AJ/2/B3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "AJ/2/B2(AZ)",
+          "priceSen": 6997000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2 AZ",
+          "notes": "Bilik berdua di Aziziyah; bilik berempat di Makkah & Madinah.",
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-2 AZ RM 69,970 AJ/2/B2(AZ)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-b-tier3-biltmore",
+      "name": "Anjum B (Standard) – Tier 3, Bilik Berdua (Biltmore)",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 3",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Standard) ± 40 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 67,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 3 TERMASUK: ... Bas Masyair - shuttle bus. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/2/B2",
+          "priceSen": 7497000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Ber-2 RM 74,970 AJ/2/B2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-anjum-b-tier2-biltmore",
+      "name": "Anjum B (Standard) – Tier 2, Bilik Seorang (Biltmore)",
+      "series": "Pakej Anjum",
+      "tierLabel": "Tier 2",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "(Standard) ± 40 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 64,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - Private. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 4,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "Bas Masyair - Private.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 67,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 67,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Anjum @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 160,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Makkah ★★★★★ ±160M Hotel Anjum @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 64,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 67,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 67,
+              "text": "TIER 2 TERMASUK: ... Bas Masyair - Private. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "AJ/2/B1",
+          "priceSen": 11397000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 64,
+              "text": "Bilik Seorang RM 113,970 AJ/2/B1",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-clock-tower-a-tier3",
+      "name": "Clock Tower A (Singkat) – Tier 3",
+      "series": "Pakej Clock Tower",
+      "tierLabel": "Tier 3",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - shuttle bus. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 5,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "Bas Masyair - shuttle bus.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Economy Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Economy Class Seat Bagi Tier 3 & Tier 4",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Mövenpick @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Makkah ★★★★★ ±80M Hotel Mövenpick @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Madinah ★★★★★ ±100 M Grand Millenium Al-Haram @ Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 3 TERMASUK: ... Bas Masyair - shuttle bus. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "CT/1/B4",
+          "priceSen": 5997000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-4 RM 59,970 CT/1/B4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/1/B3",
+          "priceSen": 6497000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-3 RM 64,970 CT/1/B3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-clock-tower-a-tier2-grand-millenium",
+      "name": "Clock Tower A (Singkat) – Tier 2, Bilik Berdua AZ",
+      "series": "Pakej Clock Tower",
+      "tierLabel": "Tier 2",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - Private. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 4,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "Bas Masyair - Private.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Mövenpick @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Makkah ★★★★★ ±80M Hotel Mövenpick @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millenium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Madinah ★★★★★ ±100 M Grand Millenium Al-Haram @ Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 2 TERMASUK: ... Bas Masyair - Private. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "CT/1/B2(AZ)",
+          "priceSen": 7097000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2 AZ",
+          "notes": "Bilik berdua di Aziziyah; bilik berempat di Makkah & Madinah.",
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-2 AZ RM 70,970 CT/1/B2(AZ)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-clock-tower-a-tier2-biltmore",
+      "name": "Clock Tower A (Singkat) – Tier 2, Biltmore",
+      "series": "Pakej Clock Tower",
+      "tierLabel": "Tier 2",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "(Singkat) 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - Private. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 4,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "Bas Masyair - Private.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Mövenpick @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Makkah ★★★★★ ±80M Hotel Mövenpick @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 68,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 2 TERMASUK: ... Bas Masyair - Private. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "CT/1/B2",
+          "priceSen": 7597000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-2 RM 75,970 CT/1/B2",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/1/B1",
+          "priceSen": 10997000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Seorang RM 109,970 CT/1/B1",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-clock-tower-b-tier2-biltmore",
+      "name": "Clock Tower B (Standard) – Tier 2",
+      "series": "Pakej Clock Tower",
+      "tierLabel": "Tier 2",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "(Standard) ± 40 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut pendaftaran (seorang/berdua/bertiga/berempat) kecuali pakej bilik berdua AZ: berempat di Makkah & Madinah, berdua di Aziziyah.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 65,
+            "text": "Semua bilik disediakan mengikut pendaftaran bagi pakej bilik seorang, berdua, bertiga dan berempat, kecuali pakej bilik berdua AZ, disediakan bilik berempat di Makkah, Madinah dan bilik berdua di Aziziyah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah di Arafah & Mina termasuk (jenis khemah tidak dinamakan). Bas Masyair - Private. Perkhidmatan Masyair Naik Taraf (PMN) ialah add-on pilihan RM 4,500 (bergantung kepada kelulusan TH).",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "Bas Masyair - Private.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "PENERBANGAN — Penerbangan Charter atau Komersil",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "ADD ON: Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Mövenpick @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Makkah ★★★★★ ±80M Hotel Mövenpick @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 65,
+              "text": "UPGRADE HOTEL MADINAH ... The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi) ★★★★★ 15 Meter",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 68,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 2 TERMASUK: ... Bas Masyair - Private. Medical Card. Ziarah Muzium Clock Tower ... Ziarah Jeddah, Ziarah Taif, Ziarah Special Madinah, Ziarah Badar",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "MEDICAL CARD — Bagi Tier 1,2 & 3",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "CT/2/B4",
+          "priceSen": 6997000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-4 RM 69,970 CT/2/B4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/2/B3",
+          "priceSen": 7497000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-3 RM 74,970 CT/2/B3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/2/B2(AZ)",
+          "priceSen": 8097000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2 AZ",
+          "notes": "Bilik berdua di Aziziyah; bilik berempat di Makkah & Madinah.",
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-2 AZ RM 80,970 CT/2/B2(AZ)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/2/B2",
+          "priceSen": 8597000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Ber-2 RM 85,970 CT/2/B2",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "CT/2/B1",
+          "priceSen": 12497000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "not_included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 65,
+              "text": "Bilik Seorang RM 124,970 CT/2/B1",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-raffles-city-view",
+      "name": "Raffles – City View (Tier 1)",
+      "series": "Pakej Raffles",
+      "tierLabel": "Tier 1",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 66,
+            "text": "Pakej Raffles 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 66,
+            "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair naik taraf termasuk bagi Tier 1 (bergantung kepada kelulusan TH); nilai RM4,500 dipulangkan jika tidak berjaya/tidak mendapat kelulusan.",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "ISTIMEWA: Perkhidmatan Masyair naik taraf (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "* Nilai sebanyak RM 4,500 bagi Perkhidmatan Masyair Naik Taraf, dan RM 9,000 bagi flight ticket business class akan dipulangkan kepada tier 1 sekiranya tidak berjaya atau tidak mendapat kelulusan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "ISTIMEWA: Flight Ticket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 71,
+            "text": "IN SAFF tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya memperolehi tempat duduk Kelas Perniagaan dalam penerbangan tersebut.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Raffles Palace @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Signature One Bedroom Suite – City View",
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Makkah ★★★★★ ± 80M Hotel Raffles Palace @ setaraf Signature One Bedroom Suite",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 66,
+              "text": "City View",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Madinah ★★★★★ ±15M The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 68,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar, Badar + makan nasi Arab kambing di padang pasir, Al Ula",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 1 TERMASUK: ... Ziarah Badar + Makan Nasi Arab Kambing di padang pasir. Ziarah Al Ula",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Medical Card",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Flight Ticket Business Class",
+          "condition": "Nilai RM9,000 dipulangkan sekiranya tidak berjaya atau tidak mendapat kelulusan",
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "ISTIMEWA: Flight Ticket Business Class",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyair naik taraf",
+          "condition": "Bergantung kepada kelulusan TH; nilai RM4,500 dipulangkan sekiranya tidak berjaya",
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Perkhidmatan Masyair naik taraf (Bergantung kepada kelulusan TH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khidmat VIP Al Tanfeethi di Airport Saudi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Khidmat VIP Al Tanfeethi di Airport Saudi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kenderaan GMC bagi setiap perjalanan termasuk ziarah (kecuali di Masyair: bas private)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Setiap perjalanan akan menggunakan kenderaan GMC termasuk ziarah jika melibatkan kenderaan. Kecuali ketika mengerjakan Haji di Masyair akan menggunakan bas private",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "RF/B2/CV",
+          "priceSen": 13497000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 66,
+              "text": "City View: Bilik Ber-2 RM 134,970 RF/B2/CV",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "RF/B1/CV",
+          "priceSen": 18497000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 66,
+              "text": "City View: Bilik Seorang RM 184,970 RF/B1/CV",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-saff-raffles-partial-kaabah-view",
+      "name": "Raffles – Partial Kaabah View (Tier 1)",
+      "series": "Pakej Raffles",
+      "tierLabel": "Tier 1",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 66,
+            "text": "Pakej Raffles 30-35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Disenaraikan sebagai 'Hari Tarwiyah' di bawah Istimewa (bagi semua pakej); tiada butiran atau syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "Istimewa: HARI TARWIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 66,
+            "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 70,
+            "text": "Setiap pakej akan memasuki penginapan di Aziziyah yang dimanfaatkan sebagai MADRASAH AZIZIYAH.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "ARAFAH & MINA — Termasuk pengangkutan, khemah di Arafah, Mina dan penginapan di Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Perkhidmatan Masyair naik taraf termasuk bagi Tier 1 (bergantung kepada kelulusan TH); nilai RM4,500 dipulangkan jika tidak berjaya/tidak mendapat kelulusan.",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "ISTIMEWA: Perkhidmatan Masyair naik taraf (Bergantung kepada kelulusan TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 68,
+            "text": "* Nilai sebanyak RM 4,500 bagi Perkhidmatan Masyair Naik Taraf, dan RM 9,000 bagi flight ticket business class akan dipulangkan kepada tier 1 sekiranya tidak berjaya atau tidak mendapat kelulusan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "ISTIMEWA: Flight Ticket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 71,
+            "text": "IN SAFF tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya memperolehi tempat duduk Kelas Perniagaan dalam penerbangan tersebut.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 68,
+            "text": "Haramain Speed Train: Tiket Business Class",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 69,
+            "text": "SPEED TRAIN — Business Class Seat Bagi Tier 1 & Tier 2",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 69,
+            "text": "SAJIAN MAKANAN — Sajian secara buffet Asia 3 kali sehari di Makkah, Madinah & Aziziyah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik; jika pakej pilihan utama tiada kekosongan, pakej alternatif setaraf ditawarkan (hlm. 71)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hotel Raffles Palace @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": "Signature One Bedroom Suite – Partial Kaabah View",
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Kaabah; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Makkah ★★★★★ ± 80M Hotel Raffles Palace @ setaraf Signature One Bedroom Suite",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 66,
+              "text": "Partial Kaabah View",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al Alaa Hotel @ setaraf",
+          "orEquivalent": true,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "dari Kompleks Jamarat",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Aziziyah ±480M Al Alaa Hotel @ setaraf",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 70,
+              "text": "HOTEL AL ALAA — Kawasan strategik, berhampiran Kompleks Jamarat 480 M dari Kompleks Jamarat",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+          "orEquivalent": true,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": "Ikon Masjid Nabawi; titik ukuran tidak dinyatakan",
+          "meals": "Buffet Asia 3 kali sehari",
+          "evidence": [
+            {
+              "pdfPage": 66,
+              "text": "Madinah ★★★★★ ±15M The Biltmore Al Madinah @ setaraf (nama lama Hotel Oberoi)",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 68,
+              "text": "Bilik ... (The Biltmore Madinah)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Ziarah sekitar Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "ZIARAH — Ziarah sekitar Makkah & Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Takaful berkelompok (perlindungan perjalanan di tanah suci)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "TAKAFUL BERKELOMPOK — Perlindungan perjalanan ditanah suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing & petugas (Mutawwif)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PEMBIMBING & PETUGAS — Barisan Mutawwif & petugas yang berpengalaman luas.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus Perdana Haji di tanah air",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "KURSUS HAJI — Kursus Perdana Haji di tanah air daripada panel yang bertauliah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "22 barangan hadiah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "22 Barangan Hadiah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air Zam-Zam dibawa pulang",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "AIR ZAM-ZAM — Dibekalkan Air Zam Zam untuk dibawa pulang ke tanah air.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Petugas wanita sepanjang musim haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "PETUGAS WANITA SEPANJANG MUSIM HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Badal haji untuk jemaah yang meninggal sebelum wukuf (sudah berada di Saudi)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "BADAL HAJI UNTUK YANG MENINGGAL SEBELUM MELAKUKAN HAJI — Bagi Jemaah yang sudah berada di Saudi tetapi belum sempat berwukuf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "SIM kad Saudi (data & panggilan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 69,
+              "text": "SIM KAD SAUDI — Data & Panggilan",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Madrasah Aziziyah (pengisian ilmu, simulasi melontar, ulangkaji kursus)",
+          "condition": "Simulasi melontar bergantung kepada situasi semasa",
+          "evidence": [
+            {
+              "pdfPage": 70,
+              "text": "SIMULASI MELONTAR (Bergantung kepada Situasi Semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah sekitar Masjid Nabawi, luar Madinah, Manasik dan Ja'ranah, Hudaibiyah, Muzium Clock Tower, Pasar Kaakiah, Muzium Wahyu & Jabal Nour, Jeddah, Taif, Special Madinah, Badar, Badar + makan nasi Arab kambing di padang pasir, Al Ula",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "TIER 1 TERMASUK: ... Ziarah Badar + Makan Nasi Arab Kambing di padang pasir. Ziarah Al Ula",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Medical Card",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Medical Card",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Flight Ticket Business Class",
+          "condition": "Nilai RM9,000 dipulangkan sekiranya tidak berjaya atau tidak mendapat kelulusan",
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "ISTIMEWA: Flight Ticket Business Class",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyair naik taraf",
+          "condition": "Bergantung kepada kelulusan TH; nilai RM4,500 dipulangkan sekiranya tidak berjaya",
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Perkhidmatan Masyair naik taraf (Bergantung kepada kelulusan TH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khidmat VIP Al Tanfeethi di Airport Saudi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Khidmat VIP Al Tanfeethi di Airport Saudi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kenderaan GMC bagi setiap perjalanan termasuk ziarah (kecuali di Masyair: bas private)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 68,
+              "text": "Setiap perjalanan akan menggunakan kenderaan GMC termasuk ziarah jika melibatkan kenderaan. Kecuali ketika mengerjakan Haji di Masyair akan menggunakan bas private",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "RF/B2/PKV",
+          "priceSen": 14497000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 66,
+              "text": "Partial Kaabah View: Bilik Ber-2 RM 144,970 RF/B2/PKV",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "RF/B1/PKV",
+          "priceSen": 19497000,
+          "makkahOccupancy": 1,
+          "madinahOccupancy": 1,
+          "pmnStatus": "included",
+          "roomLabelAsPublished": "Bilik Seorang",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 66,
+              "text": "Partial Kaabah View: Bilik Seorang RM 194,970 RF/B1/PKV",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "in-saff-pmn-tier4-3",
+      "packageIds": [
+        "in-saff-anjum-a-tier4",
+        "in-saff-anjum-a-tier3-grand-millenium",
+        "in-saff-anjum-a-tier3-biltmore",
+        "in-saff-anjum-b-tier3-grand-millenium",
+        "in-saff-anjum-b-tier3-biltmore",
+        "in-saff-clock-tower-a-tier3"
+      ],
+      "kind": "other",
+      "description": "Add-on: Perkhidmatan Masyair Naik Taraf (PMN) & bas Masyair private",
+      "priceSen": 550000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Bergantung kepada kelulusan TH",
+      "evidence": [
+        {
+          "pdfPage": 67,
+          "text": "ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 68,
+          "text": "TIER 3 Clock Tower A — ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 5,500 (Bergantung kepada kelulusan TH)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "in-saff-pmn-tier2",
+      "packageIds": [
+        "in-saff-anjum-a-tier2-biltmore",
+        "in-saff-anjum-b-tier2-biltmore",
+        "in-saff-clock-tower-a-tier2-grand-millenium",
+        "in-saff-clock-tower-a-tier2-biltmore",
+        "in-saff-clock-tower-b-tier2-biltmore"
+      ],
+      "kind": "other",
+      "description": "Add-on: Perkhidmatan Masyair Naik Taraf (PMN) & bas Masyair private",
+      "priceSen": 450000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Bergantung kepada kelulusan TH",
+      "evidence": [
+        {
+          "pdfPage": 67,
+          "text": "TIER 2 ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 68,
+          "text": "TIER 2 Clock Tower — ADD ON: Perkhidmatan Masyair Naik Taraf & bas Masyair private - RM 4,500 (Bergantung kepada kelulusan TH)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "in-saff-flight-business-tier4-3",
+      "packageIds": [
+        "in-saff-anjum-a-tier4",
+        "in-saff-anjum-a-tier3-grand-millenium",
+        "in-saff-anjum-a-tier3-biltmore",
+        "in-saff-anjum-b-tier3-grand-millenium",
+        "in-saff-anjum-b-tier3-biltmore",
+        "in-saff-clock-tower-a-tier3"
+      ],
+      "kind": "other",
+      "description": "Add-on: Upgrade business class flight ticket (dari RM11,500 ke RM17,000)",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Harga berjulat RM11,500–RM17,000; tiada jaminan tempat duduk Kelas Perniagaan (hlm. 71)",
+      "evidence": [
+        {
+          "pdfPage": 67,
+          "text": "Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 68,
+          "text": "Upgrade business class flight ticket: Dari RM 11,500 ke RM 17,000",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "in-saff-flight-business-tier2",
+      "packageIds": [
+        "in-saff-anjum-a-tier2-biltmore",
+        "in-saff-anjum-b-tier2-biltmore",
+        "in-saff-clock-tower-a-tier2-grand-millenium",
+        "in-saff-clock-tower-a-tier2-biltmore",
+        "in-saff-clock-tower-b-tier2-biltmore"
+      ],
+      "kind": "other",
+      "description": "Add-on: Upgrade business class flight ticket (dari RM9,000 ke RM16,000)",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Harga berjulat RM9,000–RM16,000; tiada jaminan tempat duduk Kelas Perniagaan (hlm. 71)",
+      "evidence": [
+        {
+          "pdfPage": 67,
+          "text": "Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 68,
+          "text": "Upgrade business class flight ticket: Dari RM 9,000 ke RM 16,000",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "in-saff-bayaran-haji-pjh",
+      "packageIds": [
+        "in-saff-anjum-a-tier4",
+        "in-saff-anjum-a-tier3-grand-millenium",
+        "in-saff-anjum-a-tier3-biltmore",
+        "in-saff-anjum-a-tier2-biltmore",
+        "in-saff-anjum-b-tier3-grand-millenium",
+        "in-saff-anjum-b-tier3-biltmore",
+        "in-saff-anjum-b-tier2-biltmore",
+        "in-saff-clock-tower-a-tier3",
+        "in-saff-clock-tower-a-tier2-grand-millenium",
+        "in-saff-clock-tower-a-tier2-biltmore",
+        "in-saff-clock-tower-b-tier2-biltmore",
+        "in-saff-raffles-city-view",
+        "in-saff-raffles-partial-kaabah-view"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 64,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 65,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 66,
+          "text": "Harga pakej haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "in-saff-caj-tambahan-th",
+      "packageIds": [
+        "in-saff-anjum-a-tier4",
+        "in-saff-anjum-a-tier3-grand-millenium",
+        "in-saff-anjum-a-tier3-biltmore",
+        "in-saff-anjum-a-tier2-biltmore",
+        "in-saff-anjum-b-tier3-grand-millenium",
+        "in-saff-anjum-b-tier3-biltmore",
+        "in-saff-anjum-b-tier2-biltmore",
+        "in-saff-clock-tower-a-tier3",
+        "in-saff-clock-tower-a-tier2-grand-millenium",
+        "in-saff-clock-tower-a-tier2-biltmore",
+        "in-saff-clock-tower-b-tier2-biltmore",
+        "in-saff-raffles-city-view",
+        "in-saff-raffles-partial-kaabah-view"
+      ],
+      "description": "Caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 64,
+          "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti/berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Hanya 'Hari Tarwiyah' disenaraikan di bawah Istimewa (hlm. 69) tanpa butiran tarikh atau syarat; perlu pengesahan sama ada tertakluk kebenaran TH/Muassasah.",
+      "pages": [69]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair.type",
+      "note": "Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai add-on berbayar (Tier 2–4) atau termasuk (Tier 1).",
+      "pages": [67, 68, 69]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass",
+      "note": "Kelas penerbangan asas Tier 2–4 tidak dinyatakan (Charter atau Komersil); business class ialah add-on berjulat tanpa harga tetap.",
+      "pages": [67, 68, 69]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "packages (pembahagian tier)",
+      "note": "Pakej dipecah mengikut tier dan hotel Madinah berdasarkan jadual tier hlm. 67–68 (bilik berdua/seorang dan semua bilik CT B menggunakan The Biltmore). Halaman harga hanya menyebut 'Upgrade Hotel Madinah' tanpa harga berasingan; dianggap termasuk dalam harga varian.",
+      "pages": [64, 65, 67, 68]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jarak hotel Makkah/Madinah dicetak dengan ikon sahaja (tiada titik ukuran). Tarikh menginap, malam dan bilangan perpindahan tidak dinyatakan.",
+      "pages": [64, 65, 66]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [64]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-D",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px; potongan 300 dpi (pdftoppm) bagi nota kecil. Pakej dipecah mengikut tier/hotel Madinah berdasarkan jadual tier hlm. 67–68.",
+    "independentCheck": null
+  }
+}

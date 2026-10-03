@@ -1,0 +1,1344 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "kujdt",
+    "label": "KUJDT",
+    "name": "KUJDT",
+    "legalName": "Tiara Mass Travel & Tours Sdn Bhd",
+    "website": "www.kujdt.my",
+    "publicContact": "Fatin 013 734 8770; Hizami 019 763 8770; Rahman 019 715 8770; Ema 019 258 8770; Yan 019 736 8770; Zafirah 011 1852 8770; Mira 019 706 8770; Dini 019 731 8770",
+    "licenceNumberAsPublished": "PJH 30/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 120,
+        "text": "No. Lesen PJH: PJH 30/1448H — No. Pendaftaran SSM: 1120163P — No. Lesen MOTAC: KPL7826 IOTU",
+        "status": "transcribed"
+      },
+      {
+        "pdfPage": 123,
+        "text": "KUJDT dimiliki sepenuhnya oleh : TIARA MASS TRAVEL & TOURS SDN. BHD. 1120163P",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Tarikh dan pilihan penerbangan semua pakej haji tertakluk kepada pihak TH.",
+        "evidence": [
+          {
+            "pdfPage": 123,
+            "text": "**Tarikh dan pilihan penerbangan semua Pakej Haji tertakluk kepada pihak TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Jika pakej pilihan tiada kekosongan atau tidak cukup regu di bilik, bakal jemaah ditawarkan pakej alternatif yang setaraf; keutamaan kepada jemaah yang terpilih awal.",
+        "evidence": [
+          {
+            "pdfPage": 123,
+            "text": "**Sekiranya pakej pilihan tiada kekosongan pada masa tempahan disahkan atau tidak cukup regu di bilik penginapan, bakal Jemaah Haji akan ditawarkan untuk menerima pakej pilihan alternatif yang setaraf. (Keutamaan pengesahan pakej akan diberikan kepada Bakal Jemaah Haji Yang Terpilih Awal)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit tempahan RM10,000 seorang bagi jemaah haji terpilih.",
+        "evidence": [
+          {
+            "pdfPage": 123,
+            "text": "**Deposit tempahan Pakej Haji ialah RM10,000 seorang bagi Jemaah Haji terpilih.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan (daripada harga pakej selepas ditolak Bayaran Haji PJH): Kategori 1 5% selepas membuat bayaran pakej; Kategori 2 20% selepas jadual penerbangan dikeluarkan; Kategori 3 40% selepas jadual penerbangan dikeluarkan dan visa diperuntukkan.",
+        "evidence": [
+          {
+            "pdfPage": 123,
+            "text": "-Kategori 1, Denda pembatalan 5% ... setelah membuat bayaran pakej Haji. -Kategori 2, Denda pembatalan 20% ... setelah jadual penerbangan Haji dikeluarkan. -Kategori 3, Denda pembatalan 40% ... setelah jadual penerbangan Haji dikeluarkan dan Visa Haji diperuntukkan.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [120, 123],
+    "pagesReviewed": [120, 121, 122, 123],
+    "pageNotes": [
+      {
+        "pdfPage": 120,
+        "content": "Muka depan: 'harga dari RM 54,990' (Clock Tower & Makkah Tower), 18 sebab (Tarwiyah tertakluk kelulusan TH, 10 malam Syisyah, ziarah Taif & Badar), lesen PJH 30/1448H."
+      },
+      {
+        "pdfPage": 121,
+        "content": "Barisan pembimbing; infografik operasi haji 25 Zulkaedah–15 Zulhijjah (Syisyah 4–14 Zulhijjah, Tarwiyah tertakluk TH)."
+      },
+      {
+        "pdfPage": 122,
+        "content": "Jadual harga: Makkah Tower (HMT-6/4/3/2), Clock Tower Lite (HCTL-4/3/2), Clock Tower Plus (HCTP-4/3/2); hotel, makan, penerbangan, tempoh, pilihan PMN RM12,000."
+      },
+      {
+        "pdfPage": 123,
+        "content": "Peta M Hotel Al Dana (730m dari Jamrah), 23 set kelengkapan, akaun bayaran, Terma & Syarat (Bayaran Haji, deposit RM10,000, denda pembatalan), hubungan."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "kujdt-makkah-tower",
+      "name": "Pakej Makkah Tower-50 Meter",
+      "series": "Pakej Makkah Tower-50 Meter",
+      "tierLabel": null,
+      "duration": {
+        "value": 45,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tempoh Pakej +/-45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kelulusan TH; tertakluk keadaan semasa & kebenaran TH",
+        "description": "Malam 8 Zulhijjah bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji).",
+        "evidence": [
+          {
+            "pdfPage": 120,
+            "text": "Melaksanakan SUNNAH HARI TARWIYAH 8 Zulhijjah (tertakluk kelulusan TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "MALAM 8 ZULHIJJAH Berniat Haji (Rukun Haji) dan bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji) *Tertakluk keadaan semasa & kebenaran TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 3, 2],
+        "defaultArrangementNote": "Bilangan sebilik di Syisyah (Aziziyah) dicetak per varian: 4 sebilik bagi varian -6/-4, 3 sebilik bagi -3, 2 sebilik bagi -2.",
+        "dateLabel": "4–14 Zulhijjah",
+        "nightCount": 10,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium — **PAKEJ LAMA Di Mekah, HANYA 10 MALAM di Hotel Syisyah (Aziziyah)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "4 - 7 ZULHIJJAH: Check out hotel Mekah dan check in hotel Syisyah (Aziziyah) pada 4 Zulhijjah ... 14 ZULHIJJAH, check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 120,
+            "text": "Lebih LAMA DI MEKAH, di Hotel Syisyah (Aziziyah) cuma 10 MALAM SAHAJA",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinyatakan; PMN ialah pilihan naik taraf RM12,000.",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Pilihan Upgrade PMN (perkhidmatan Masyair Naiktaraf) RM 12,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Syisyah/Aziziyah (4 Zulhijjah) → Makkah (14 Zulhijjah) → Madinah mengikut infografik operasi haji.",
+        "evidence": [
+          {
+            "pdfPage": 121,
+            "text": "25 ZULKAEDAH ... check in hotel Mekah; 4 Zulhijjah check in hotel Syisyah (Aziziyah); 14 ZULHIJJAH check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah; 15 ZULHIJJAH sehingga pulang, program di Mekah dan Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Penerbangan Charter TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3X sehari: Makkah fullboard Asian; Syisyah fullboard International; Madinah fullboard Asian",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Makan 3X Sehari FULLBOARD ASIAN (Mekah) / FULLBOARD INTERNATIONAL (Syisyah) / FULLBOARD ASIAN (Madinah)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Jika pakej pilihan tiada kekosongan atau tidak cukup regu, pakej alternatif setaraf ditawarkan (hlm. 123)."
+      },
+      "unresolvedConflicts": [
+        "Muka depan (hlm. 120) 'harga dari RM 54,990' tetapi jadual (hlm. 122) HMT-6 RM54,900; varian guna jadual hlm. 122."
+      ],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Makkah Tower @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Mekah (+/-50m) Makkah Tower @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "M Hotel Al Dana By Millennium",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "4–14 Zulhijjah",
+          "nightCount": 10,
+          "distanceM": 730,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Jamrah",
+          "meals": "Fullboard International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 123,
+              "text": "M HOTEL AL DANA BY MILLENNIUM +-730m dari Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millennium Al Haram @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Madinah (+/-100m) Grand Millennium Al Haram @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Khidmat kurier pos barang 10kg ke Malaysia (bernilai RM200)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Kurier Pos Barang 10kg Bernilai RM200",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bekalan free flow air ZamZam di bilik hotel",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Bekalan Free Flow Air ZamZam Di Bilik Hotel",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khidmat dobi (bernilai RM500)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Dobi Bernilai RM500",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah ke Taif & Badar (bernilai RM600)",
+          "condition": "Tertakluk kelulusan TH",
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "TERMASUK ziarah ke TAIF & BADAR bernilai RM600 (tertakluk kelulusan TH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tiket sehala kelas ekonomi Keretapi Laju Haramain HHSR",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pilihan Tawaf & Saie Haji lebih awal pada 10 Zulhijjah untuk Tahalul Thani",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "Pilihan untuk TAWAF & SAIE Haji lebih AWAL pada 10 Zulhijjah untuk Tahalul Thani",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kekal bilik berdua di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina (seperti dicetak; skop tidak diperincikan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "KEKAL BILIK BERDUA di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian di Syisyah (Aziziyah) dari dapur rasmi hotel (tidak guna katering luar)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "SAJIAN Syisyah (Aziziyah) dari DAPUR RASMI HOTEL (tak gunakan katering luar)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 set kelengkapan haji KUJDT (beg bagasi 28\", beg kabin 20\", beg masyair, kain ihram x2, telekung dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 123,
+              "text": "23 SET KELENGKAPAN HAJI KUJDT — 1. Beg Bagasi 28\" 2. Beg Kabin 20\" 3. Beg Mini Kabin 12\" 4. Beg Masyair ... 15. Kain Ihram (Lelaki) x2 ... 23. ID Tag & Lanyard",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "HMT-6",
+          "codeIsInternal": false,
+          "priceSen": 5490000,
+          "currency": "MYR",
+          "makkahOccupancy": 6,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 6 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+          "notes": "Syisyah (Aziziyah) 4 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM54,900 (HMT-6) Mekah 6 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HMT-4",
+          "codeIsInternal": false,
+          "priceSen": 6390000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+          "notes": "Syisyah (Aziziyah) 4 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM63,900 (HMT-4) Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HMT-3",
+          "codeIsInternal": false,
+          "priceSen": 6990000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+          "notes": "Syisyah (Aziziyah) 3 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM69,900 (HMT-3) Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HMT-2",
+          "codeIsInternal": false,
+          "priceSen": 7990000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+          "notes": "Syisyah (Aziziyah) 2 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM79,900 (HMT-2) Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kujdt-clock-tower-lite",
+      "name": "Pakej Clock Tower Lite-80 Meter",
+      "series": "Pakej Clock Tower Lite-80 Meter",
+      "tierLabel": null,
+      "duration": {
+        "value": 45,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tempoh Pakej +/-45 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kelulusan TH; tertakluk keadaan semasa & kebenaran TH",
+        "description": "Malam 8 Zulhijjah bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji).",
+        "evidence": [
+          {
+            "pdfPage": 120,
+            "text": "Melaksanakan SUNNAH HARI TARWIYAH 8 Zulhijjah (tertakluk kelulusan TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "MALAM 8 ZULHIJJAH Berniat Haji (Rukun Haji) dan bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji) *Tertakluk keadaan semasa & kebenaran TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 3, 2],
+        "defaultArrangementNote": "Bilangan sebilik di Syisyah (Aziziyah) dicetak per varian: 4 sebilik bagi varian -6/-4, 3 sebilik bagi -3, 2 sebilik bagi -2.",
+        "dateLabel": "4–14 Zulhijjah",
+        "nightCount": 10,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium — **PAKEJ LAMA Di Mekah, HANYA 10 MALAM di Hotel Syisyah (Aziziyah)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "4 - 7 ZULHIJJAH: Check out hotel Mekah dan check in hotel Syisyah (Aziziyah) pada 4 Zulhijjah ... 14 ZULHIJJAH, check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 120,
+            "text": "Lebih LAMA DI MEKAH, di Hotel Syisyah (Aziziyah) cuma 10 MALAM SAHAJA",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinyatakan; PMN ialah pilihan naik taraf RM12,000.",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Pilihan Upgrade PMN (perkhidmatan Masyair Naiktaraf) RM 12,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Syisyah/Aziziyah (4 Zulhijjah) → Makkah (14 Zulhijjah) → Madinah mengikut infografik operasi haji.",
+        "evidence": [
+          {
+            "pdfPage": 121,
+            "text": "25 ZULKAEDAH ... check in hotel Mekah; 4 Zulhijjah check in hotel Syisyah (Aziziyah); 14 ZULHIJJAH check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah; 15 ZULHIJJAH sehingga pulang, program di Mekah dan Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Penerbangan Charter TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3X sehari: Makkah fullboard Asian; Syisyah fullboard International; Madinah fullboard Asian",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Makan 3X Sehari FULLBOARD ASIAN (Mekah) / FULLBOARD INTERNATIONAL (Syisyah) / FULLBOARD ASIAN (Madinah)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Jika pakej pilihan tiada kekosongan atau tidak cukup regu, pakej alternatif setaraf ditawarkan (hlm. 123)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Movenpick Hajar Tower Makkah @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Mekah (Clock Tower +/-80m) Movenpick Hajar Tower Makkah @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "M Hotel Al Dana By Millennium",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "4–14 Zulhijjah",
+          "nightCount": 10,
+          "distanceM": 730,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Jamrah",
+          "meals": "Fullboard International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 123,
+              "text": "M HOTEL AL DANA BY MILLENNIUM +-730m dari Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millennium Al Haram @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Madinah (+/-100m) Grand Millennium Al Haram @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Khidmat kurier pos barang 10kg ke Malaysia (bernilai RM200)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Kurier Pos Barang 10kg Bernilai RM200",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bekalan free flow air ZamZam di bilik hotel",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Bekalan Free Flow Air ZamZam Di Bilik Hotel",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khidmat dobi (bernilai RM500)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Dobi Bernilai RM500",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah ke Taif & Badar (bernilai RM600)",
+          "condition": "Tertakluk kelulusan TH",
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "TERMASUK ziarah ke TAIF & BADAR bernilai RM600 (tertakluk kelulusan TH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tiket sehala kelas ekonomi Keretapi Laju Haramain HHSR",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pilihan Tawaf & Saie Haji lebih awal pada 10 Zulhijjah untuk Tahalul Thani",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "Pilihan untuk TAWAF & SAIE Haji lebih AWAL pada 10 Zulhijjah untuk Tahalul Thani",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kekal bilik berdua di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina (seperti dicetak; skop tidak diperincikan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "KEKAL BILIK BERDUA di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian di Syisyah (Aziziyah) dari dapur rasmi hotel (tidak guna katering luar)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "SAJIAN Syisyah (Aziziyah) dari DAPUR RASMI HOTEL (tak gunakan katering luar)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 set kelengkapan haji KUJDT (beg bagasi 28\", beg kabin 20\", beg masyair, kain ihram x2, telekung dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 123,
+              "text": "23 SET KELENGKAPAN HAJI KUJDT — 1. Beg Bagasi 28\" 2. Beg Kabin 20\" 3. Beg Mini Kabin 12\" 4. Beg Masyair ... 15. Kain Ihram (Lelaki) x2 ... 23. ID Tag & Lanyard",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "HCTL-4",
+          "codeIsInternal": false,
+          "priceSen": 6790000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+          "notes": "Syisyah (Aziziyah) 4 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM67,900 (HCTL-4) Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HCTL-3",
+          "codeIsInternal": false,
+          "priceSen": 7390000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+          "notes": "Syisyah (Aziziyah) 3 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM73,900 (HCTL-3) Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HCTL-2",
+          "codeIsInternal": false,
+          "priceSen": 8490000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+          "notes": "Syisyah (Aziziyah) 2 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM84,900 (HCTL-2) Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kujdt-clock-tower-plus",
+      "name": "Pakej Clock Tower Plus-80 Meter",
+      "series": "Pakej Clock Tower Plus-80 Meter",
+      "tierLabel": null,
+      "duration": {
+        "value": 30,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tempoh Pakej +/-30 Hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kelulusan TH; tertakluk keadaan semasa & kebenaran TH",
+        "description": "Malam 8 Zulhijjah bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji).",
+        "evidence": [
+          {
+            "pdfPage": 120,
+            "text": "Melaksanakan SUNNAH HARI TARWIYAH 8 Zulhijjah (tertakluk kelulusan TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "MALAM 8 ZULHIJJAH Berniat Haji (Rukun Haji) dan bertolak ke khemah Mina untuk hari Tarwiyah (Sunat Haji) *Tertakluk keadaan semasa & kebenaran TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 3, 2],
+        "defaultArrangementNote": "Bilangan sebilik di Syisyah (Aziziyah) dicetak per varian: 4 sebilik bagi varian -6/-4, 3 sebilik bagi -3, 2 sebilik bagi -2.",
+        "dateLabel": "4–14 Zulhijjah",
+        "nightCount": 10,
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium — **PAKEJ LAMA Di Mekah, HANYA 10 MALAM di Hotel Syisyah (Aziziyah)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 121,
+            "text": "4 - 7 ZULHIJJAH: Check out hotel Mekah dan check in hotel Syisyah (Aziziyah) pada 4 Zulhijjah ... 14 ZULHIJJAH, check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 120,
+            "text": "Lebih LAMA DI MEKAH, di Hotel Syisyah (Aziziyah) cuma 10 MALAM SAHAJA",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah asas tidak dinyatakan; PMN ialah pilihan naik taraf RM12,000.",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Pilihan Upgrade PMN (perkhidmatan Masyair Naiktaraf) RM 12,000",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Makkah → Syisyah/Aziziyah (4 Zulhijjah) → Makkah (14 Zulhijjah) → Madinah mengikut infografik operasi haji.",
+        "evidence": [
+          {
+            "pdfPage": 121,
+            "text": "25 ZULKAEDAH ... check in hotel Mekah; 4 Zulhijjah check in hotel Syisyah (Aziziyah); 14 ZULHIJJAH check out hotel Syisyah (Aziziyah) dan check in semula di hotel Mekah; 15 ZULHIJJAH sehingga pulang, program di Mekah dan Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Penerbangan Pergi Charter TH | Penerbangan Pulang Komersial Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3X sehari: Makkah fullboard Asian; Syisyah fullboard International; Madinah fullboard Asian",
+        "evidence": [
+          {
+            "pdfPage": 122,
+            "text": "Makan 3X Sehari FULLBOARD ASIAN (Mekah) / FULLBOARD INTERNATIONAL (Syisyah) / FULLBOARD ASIAN (Madinah)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Jika pakej pilihan tiada kekosongan atau tidak cukup regu, pakej alternatif setaraf ditawarkan (hlm. 123)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Al Marwa Rayhaan By Rotana @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Mekah (Clock Tower +/-80m) Al Marwa Rayhaan By Rotana @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "M Hotel Al Dana By Millennium",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "4–14 Zulhijjah",
+          "nightCount": 10,
+          "distanceM": 730,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Jamrah",
+          "meals": "Fullboard International",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Syisyah (+/-730m Dari Jamrah) M Hotel Al Dana By Millennium",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 123,
+              "text": "M HOTEL AL DANA BY MILLENNIUM +-730m dari Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Grand Millennium Al Haram @ setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asian",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Hotel Madinah (+/-100m) Grand Millennium Al Haram @ setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Khidmat kurier pos barang 10kg ke Malaysia (bernilai RM200)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Kurier Pos Barang 10kg Bernilai RM200",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bekalan free flow air ZamZam di bilik hotel",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Bekalan Free Flow Air ZamZam Di Bilik Hotel",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khidmat dobi (bernilai RM500)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Pakej Termasuk Khidmat Dobi Bernilai RM500",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah ke Taif & Badar (bernilai RM600)",
+          "condition": "Tertakluk kelulusan TH",
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "TERMASUK ziarah ke TAIF & BADAR bernilai RM600 (tertakluk kelulusan TH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tiket sehala kelas ekonomi Keretapi Laju Haramain HHSR",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 122,
+              "text": "Tiket Sehala Kelas Ekonomi Keretapi Laju Haramain HHSR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pilihan Tawaf & Saie Haji lebih awal pada 10 Zulhijjah untuk Tahalul Thani",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "Pilihan untuk TAWAF & SAIE Haji lebih AWAL pada 10 Zulhijjah untuk Tahalul Thani",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kekal bilik berdua di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina (seperti dicetak; skop tidak diperincikan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "KEKAL BILIK BERDUA di Hotel Syisyah (Aziziyah) hingga selesai Mabit di Mina",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian di Syisyah (Aziziyah) dari dapur rasmi hotel (tidak guna katering luar)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 120,
+              "text": "SAJIAN Syisyah (Aziziyah) dari DAPUR RASMI HOTEL (tak gunakan katering luar)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "23 set kelengkapan haji KUJDT (beg bagasi 28\", beg kabin 20\", beg masyair, kain ihram x2, telekung dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 123,
+              "text": "23 SET KELENGKAPAN HAJI KUJDT — 1. Beg Bagasi 28\" 2. Beg Kabin 20\" 3. Beg Mini Kabin 12\" 4. Beg Masyair ... 15. Kain Ihram (Lelaki) x2 ... 23. ID Tag & Lanyard",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "HCTP-4",
+          "codeIsInternal": false,
+          "priceSen": 7090000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+          "notes": "Syisyah (Aziziyah) 4 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM70,900 (HCTP-4) Mekah 4 Sebilik | Syisyah 4 Sebilik | Madinah 4 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HCTP-3",
+          "codeIsInternal": false,
+          "priceSen": 7590000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+          "notes": "Syisyah (Aziziyah) 3 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM75,900 (HCTP-3) Mekah 3 Sebilik | Syisyah 3 Sebilik | Madinah 3 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HCTP-2",
+          "codeIsInternal": false,
+          "priceSen": 8690000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+          "notes": "Syisyah (Aziziyah) 2 sebilik",
+          "priceEvidence": [
+            {
+              "pdfPage": 122,
+              "text": "RM86,900 (HCTP-2) Mekah 2 Sebilik | Syisyah 2 Sebilik | Madinah 2 Sebilik",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "kujdt-pmn",
+      "packageIds": ["kujdt-makkah-tower", "kujdt-clock-tower-lite", "kujdt-clock-tower-plus"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Pilihan upgrade PMN (perkhidmatan Masyair Naiktaraf)",
+      "priceSen": 1200000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Asas harga (seorang) tidak dicetak; direkod per_person",
+      "evidence": [
+        {
+          "pdfPage": 122,
+          "text": "Pilihan Upgrade PMN (perkhidmatan Masyair Naiktaraf) RM 12,000",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "kujdt-bayaran-haji-pjh",
+      "packageIds": ["kujdt-makkah-tower", "kujdt-clock-tower-lite", "kujdt-clock-tower-plus"],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 123,
+          "text": "**Harga Pakej Haji adalah termasuk Bayaran Haji PJH 1448H / 2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "kujdt-caj-tambahan-th",
+      "packageIds": ["kujdt-makkah-tower", "kujdt-clock-tower-lite", "kujdt-clock-tower-plus"],
+      "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 123,
+          "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga 'harga dari RM 54,990' pada muka depan (Hotel Clock Tower & Hotel Makkah Tower)",
+      "reason": "Harga 'bermula dari' pada muka depan, bukan pakej tambahan; bercanggah dengan HMT-6 RM54,900 di hlm. 122",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 120,
+          "text": "HOTEL CLOCK TOWER & HOTEL MAKKAH TOWER harga dari RM 54,990",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": "kujdt-makkah-tower",
+      "field": "variants.HMT-6.priceSen",
+      "note": "Muka depan hlm. 120 'harga dari RM 54,990' vs jadual hlm. 122 HMT-6 RM54,900 (kedua-duanya jelas dibaca). Varian guna RM54,900; perlu pengesahan PJH.",
+      "pages": [120, 122]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.kujdt-pmn.basis",
+      "note": "Pilihan Upgrade PMN RM12,000 dicetak tanpa 'seorang/pax'; direkod per_person sebagai andaian.",
+      "pages": [122]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair",
+      "note": "Jenis khemah asas (tanpa PMN) tidak dinyatakan.",
+      "pages": [120, 121, 122, 123]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jarak hotel Makkah (+/-50m / +/-80m) dan Madinah (+/-100m) tanpa titik ukuran; infografik hlm. 120 hanya menunjuk ke Masjidil Haram.",
+      "pages": [120, 122]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "kujdt-clock-tower-plus",
+      "field": "flightClass",
+      "note": "Penerbangan pergi Charter TH (kelas tidak dinyatakan), pulang Komersial Ekonomi; nilai tunggal direkod not_stated.",
+      "pages": [122]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "inclusions",
+      "note": "'Kekal bilik berdua di Hotel Syisyah hingga selesai Mabit di Mina' (hlm. 120) tidak jelas sama ada untuk semua varian atau hanya varian 2 sebilik.",
+      "pages": [120]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam mana-mana halaman 120–123.",
+      "pages": [120, 121, 122, 123]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [120]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-G",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan bagi jadual harga, terma dan infografik. Imej sumber ~100 ppi.",
+    "independentCheck": null
+  }
+}

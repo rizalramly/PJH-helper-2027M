@@ -1,0 +1,1641 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "felda",
+    "label": "Felda",
+    "name": "Felda Travel",
+    "legalName": "Felda Travel Sdn Bhd",
+    "website": "www.feldatravel.com.my",
+    "publicContact": "03 2789 1133; 019 279 0022; salam@feldatravel.com.my",
+    "licenceNumberAsPublished": "12/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 51,
+        "text": "NO LESEN PJH : 12/1448H — NO SSM : 198301004772 (100395-K) — NO LESEN MOTAC : 0399",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan semasa tempahan disahkan, Bakal Haji akan ditawarkan pakej pilihan alternatif.",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "2. Sekiranya pakej pilihan utama tiada kekosongan pada masa tempahan disahkan, Bakal Haji akan ditawarkan pakej pilihan alternatif.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh kemasukan sebenar ke hotel Aziziyah, Makkah & Madinah tertakluk kepada perubahan dan jadual penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "4. Tarikh kemasukan sebenar ke hotel Aziziyah, Makkah & Madinah adalah tertakluk kepada perubahan dan jadual penerbangan TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pergerakan masyair haji yang dinyatakan dalam info wukuf adalah tertakluk kepada perubahan semasa dan kelulusan pihak berautoriti.",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "5. Pergerakan masyair haji yang dinyatakan dalam info wukuf adalah tertakluk kepada perubahan semasa dan kelulusan pihak berautoriti.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit RM1000 ke akaun Maybank Felda Travel Sdn Bhd.",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "FELDA TRAVEL SDN BHD | DEPOSIT RM1000 — Maybank 5144 9540 1643",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Penalti pembatalan: Kategori 1 5%, Kategori 2 20%, Kategori 3 40% daripada harga pakej selepas ditolak bayaran haji PJH (mengikut peringkat bayaran/jadual penerbangan/visa).",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "Kategori 1 : Penalti pembatalan sebanyak 5% ... Kategori 2 : ... 20% ... Kategori 3 : ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Semua pendaftaran tertakluk kepada terma & syarat penuh dalam Borang Pendaftaran Haji Felda Travel Sdn Bhd 1448H.",
+        "evidence": [
+          {
+            "pdfPage": 54,
+            "text": "7. Semua pendaftaran adalah tertakluk kepada terma & syarat penuh seperti yang dinyatakan pada Borang Pendaftaran Haji Felda Travel Sdn Bhd 1448H.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [51, 54],
+    "pagesReviewed": [51, 52, 53, 54],
+    "pageNotes": [
+      {
+        "pdfPage": 51,
+        "content": "Muka depan Felda Travel (lesen PJH 12/1448H) + Pakej Nuhasi (FT001–FT004, Muassim, tiada Aziziyah, Tarwiyah 8 ZH)."
+      },
+      {
+        "pdfPage": 52,
+        "content": "Pakej Brunzi (FT005–FT007, Aziziyah + Muassim) dan Pakej Fiddi (FT008–FT010, Aziziyah + Khemah PMN)."
+      },
+      {
+        "pdfPage": 53,
+        "content": "Pakej Fiddi Plus (FT011–FT013, 25–30 hari, komersial ekonomi, PMN); inklusi semua pakej (Haramain Train, modul)."
+      },
+      {
+        "pdfPage": 54,
+        "content": "Keistimewaan pakej, cenderahati, Terma & Syarat (RM23,398 termasuk), penalti pembatalan, hubungan, deposit RM1000."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "felda-nuhasi",
+      "name": "Pakej Nuhasi",
+      "series": "Pakej Haji Felda Travel",
+      "tierLabel": "Nuhasi",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "± 40 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Makkah 25 ZQ – 1 MH; Madinah 1 – 7 MH (jadual hotel)",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "MAKKAH MIRA AJYAD HOTEL 350M 25 ZQ - 1 MH; MADINAH NOZOL ROYAL HOTEL 220M 1 - 7 MH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Pergerakan masyair haji yang dinyatakan dalam info wukuf adalah tertakluk kepada perubahan semasa dan kelulusan pihak berautoriti.",
+        "description": "Bergerak dan bermalam di Mina pada 7-8 Zulhijjah untuk Hari Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "Hari Tarwiyah — Bergerak dan bermalam di Mina pada 7-8 Zulhijjah untuk Hari Tarwiyah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 51,
+            "text": "Melaksanakan sunnah Hari Tarwiyah bagi Pakej Nuhasi. Jemaah akan bermalam di Mina pada 8 Zulhijjah.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 54,
+            "text": "5. Pergerakan masyair haji yang dinyatakan dalam info wukuf adalah tertakluk kepada perubahan semasa dan kelulusan pihak berautoriti.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "explicitly_not_included",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "AZIZIYAH --- TIADA --- ; Pakej ini terus ke Hotel Mekah dan tidak mempunyai Hotel Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim di Mina 8–13 ZH; jarak sehala ke Kompleks Jamrah sekitar 3.5km. Bermabit di Mina 10–13 Zulhijjah dan kembali ke hotel Makkah pada 13 Zulhijjah.",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "MINA KHEMAH MUASSIM 3.5KM 8 - 13 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 51,
+            "text": "Khemah Mina di Muassim dengan jarak sehala ke Kompleks Jamrah sekitar 3.5km",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "Penerbangan CARTER — Penerbangan carter dengan tarikh penerbangan ditentukan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "Haramain Train termasuk dalam pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard Asia — sajian penuh Asia 3 kali sehari di Makkah dan Madinah",
+        "evidence": [
+          {
+            "pdfPage": 51,
+            "text": "Fullboard Asia; Sajian penuh Asia 3 kali sehari disediakan di Makkah dan Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kekosongan; jika pakej pilihan tiada kekosongan, pakej alternatif ditawarkan (Terma 2, hlm. 54)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "MIRA AJYAD HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 3 bintang",
+          "dateLabel": "25 ZQ - 1 MH",
+          "nightCount": null,
+          "distanceM": 350,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 51,
+              "text": "MAKKAH MIRA AJYAD HOTEL 3★ 350M 25 ZQ - 1 MH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "NOZOL ROYAL HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 4 bintang",
+          "dateLabel": "1 - 7 MH",
+          "nightCount": null,
+          "distanceM": 220,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 51,
+              "text": "MADINAH NOZOL ROYAL HOTEL 4★ 220M 1 - 7 MH",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pakej ini menetap lebih lama di Makkah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 51,
+              "text": "Pakej ini menetap lebih lama di Makkah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 51,
+              "text": "Haramain Train termasuk dalam pakej",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 5x",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "UMRAH — Umrah 3x Fiddi Plus & 5x Nuhasi, Brunzi & Fiddi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah: Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Ziarah Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah. Kecuali Ziarah Taif & Badar tidak termasuk dalam Pakej Fiddi Plus",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar makan DSaji bernilai SAR210",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Baucar makan DSaji bernilai SAR210, memberikan pilihan hidangan tambahan sepanjang berada di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Percuma 1x perkhidmatan buggy pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Percuma 1x perkhidmatan buggy secara pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Rehlah: hidangan nasi unta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "REHLAH — Nikmati pengalaman istimewa menjamu nasi unta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar kargo haji FGV Transport 10KG (percuma)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "BAUCAR KARGO HAJI FGV TRANSPORT 10KG — PERCUMA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati percuma (bagasi 28\", troli backpack 20\", beg sling, kain ihram, telekung, kerusi mabit dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "PERCUMA CENDERAHATI DARI FELDA TRAVEL — Bagasi 28\" • Troli Backpack 20\" • Beg sling • ... • Kerusi Mabit",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "FT001",
+          "codeIsInternal": false,
+          "priceSen": 5490000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 5",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 51,
+              "text": "FT001 | BER - 5 RM54900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT002",
+          "codeIsInternal": false,
+          "priceSen": 5690000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 51,
+              "text": "FT002 | BER - 4 RM56900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT003",
+          "codeIsInternal": false,
+          "priceSen": 6390000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 51,
+              "text": "FT003 | BER - 3 RM63900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT004",
+          "codeIsInternal": false,
+          "priceSen": 7690000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 51,
+              "text": "FT004 | BER - 2 RM76900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "felda-brunzi",
+      "name": "Pakej Brunzi",
+      "series": "Pakej Haji Felda Travel",
+      "tierLabel": "Brunzi",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "± 40 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Aziziyah 1 – 14 ZH; Makkah 14 ZH – 1 MH; Madinah 1 – 9 MH (jadual hotel)",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "AZIZIYAH SUITE AL MAQAM 500M 1 - 14 ZH; MAKKAH MOVENPICK HAJJAR HOTEL 50M 14 ZH - 1 MH; MADINAH NOZOL ROYAL HOTEL 220M 1 - 9 MH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "description": "Info wukuf menyatakan bergerak dan bermalam di Arafah pada 8 Zulhijjah; tiada sebutan Tarwiyah di Mina.",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Bergerak dan bermalam di Arafah pada 8 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Berasingan mengikut jantina secara bilik berempat atau berlima.",
+        "dateLabel": "1 - 14 ZH",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "AZIZIYAH SUITE AL MAQAM 500M 1 - 14 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 52,
+            "text": "Penginapan di Hotel Aziziyah adalah berasingan mengikut jantina secara bilik berempat atau berlima",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 54,
+            "text": "3. Bagi Pakej Brunzi & Fiddi, susun atur bilik penginapan hotel di Aziziyah adalah berdasarkan bilik berempat atau berlima.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim di Mina 10–13 ZH; jarak sehala ke Kompleks Jamrah sekitar 3.5km. Pilihan berada di khemah Mina sepanjang 10–13 Zulhijjah atau berulang alik dari Hotel Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "MINA KHEMAH MUASSIM 3.5KM 10 - 13 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 52,
+            "text": "Bagi mabit di Mina, jemaah diberi pilihan untuk berada di Khemah Mina sepanjang 10-13 Zulhijjah atau boleh berulang alik dari Hotel Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Penerbangan CARTER — Penerbangan carter dengan tarikh penerbangan ditentukan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Haramain Train termasuk dalam pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard Asia — sajian penuh Asia 3 kali sehari di Makkah, Madinah dan Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Fullboard Asia; Sajian penuh Asia 3 kali sehari disediakan di Makkah, Madinah dan Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kekosongan; jika pakej pilihan tiada kekosongan, pakej alternatif ditawarkan (Terma 2, hlm. 54)."
+      },
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "SUITE AL MAQAM",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "1 - 14 ZH",
+          "nightCount": null,
+          "distanceM": 500,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "AZIZIYAH SUITE AL MAQAM 500M 1 - 14 ZH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "MOVENPICK HAJJAR HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 5 bintang",
+          "dateLabel": "14 ZH - 1 MH",
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "MAKKAH MOVENPICK HAJJAR HOTEL 5★ 50M 14 ZH - 1 MH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "NOZOL ROYAL HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 4 bintang",
+          "dateLabel": "1 - 9 MH",
+          "nightCount": null,
+          "distanceM": 220,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "MADINAH NOZOL ROYAL HOTEL 4★ 220M 1 - 9 MH",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "Haramain Train termasuk dalam pakej",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 5x",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "UMRAH — Umrah 3x Fiddi Plus & 5x Nuhasi, Brunzi & Fiddi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah: Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Ziarah Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah. Kecuali Ziarah Taif & Badar tidak termasuk dalam Pakej Fiddi Plus",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar makan DSaji bernilai SAR210",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Baucar makan DSaji bernilai SAR210, memberikan pilihan hidangan tambahan sepanjang berada di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Percuma 1x perkhidmatan buggy pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Percuma 1x perkhidmatan buggy secara pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Rehlah: hidangan nasi unta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "REHLAH — Nikmati pengalaman istimewa menjamu nasi unta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar kargo haji FGV Transport 10KG (percuma)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "BAUCAR KARGO HAJI FGV TRANSPORT 10KG — PERCUMA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati percuma (bagasi 28\", troli backpack 20\", beg sling, kain ihram, telekung, kerusi mabit dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "PERCUMA CENDERAHATI DARI FELDA TRAVEL — Bagasi 28\" • Troli Backpack 20\" • Beg sling • ... • Kerusi Mabit",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "FT005",
+          "codeIsInternal": false,
+          "priceSen": 6890000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT005 | BER - 4 RM68900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT006",
+          "codeIsInternal": false,
+          "priceSen": 7390000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT006 | BER - 3 RM73900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT007",
+          "codeIsInternal": false,
+          "priceSen": 8390000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT007 | BER - 2 RM83900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "felda-fiddi",
+      "name": "Pakej Fiddi",
+      "series": "Pakej Haji Felda Travel",
+      "tierLabel": "Fiddi",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "± 40 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Aziziyah 1 – 14 ZH; Makkah 14 ZH – 1 MH; Madinah 1 – 9 MH (jadual hotel)",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "AZIZIYAH SUITE AL MAQAM 500M 1 - 14 ZH; MAKKAH SWISSOTEL HOTEL 80M 14 ZH - 1 MH; MADINAH GRAND MILLENNIUM AL-HARAM 100M 1 - 9 MH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "description": "Info wukuf: bergerak ke Arafah pada pagi 9 Zulhijjah; tiada sebutan Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Bergerak ke Arafah pada pagi 9 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Berasingan mengikut jantina secara bilik berempat atau berlima.",
+        "dateLabel": "1 - 14 ZH",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "AZIZIYAH SUITE AL MAQAM 3★ 500M 1 - 14 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 52,
+            "text": "Penginapan di Hotel Aziziyah adalah berasingan mengikut jantina secara bilik berempat atau berlima",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 54,
+            "text": "3. Bagi Pakej Brunzi & Fiddi, susun atur bilik penginapan hotel di Aziziyah adalah berdasarkan bilik berempat atau berlima.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN di Mina 10–13 ZH; jarak sehala 500m ke Kompleks Jamrah. Terus ke Mekah untuk tawaf dan saie haji selepas bermabit seketika di Muzdalifah. Boleh berada di Khemah PMN sepanjang 10–13 Zulhijjah atau berulang-alik dari Hotel Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "PAKEJ FIDDI — KHEMAH PMN; MINA KHEMAH PMN 500M 10 - 13 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 52,
+            "text": "Khemah Mina PMN dengan jarak sehala 500m ke Kompleks Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Penerbangan CARTER — Penerbangan carter dengan tarikh penerbangan ditentukan Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Haramain Train termasuk dalam pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard Asia — sajian penuh Asia 3 kali sehari di Makkah, Madinah dan Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 52,
+            "text": "Fullboard Asia; Sajian penuh Asia 3 kali sehari disediakan di Makkah, Madinah dan Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kekosongan; jika pakej pilihan tiada kekosongan, pakej alternatif ditawarkan (Terma 2, hlm. 54)."
+      },
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "SUITE AL MAQAM",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 3 bintang",
+          "dateLabel": "1 - 14 ZH",
+          "nightCount": null,
+          "distanceM": 500,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "AZIZIYAH SUITE AL MAQAM 3★ 500M 1 - 14 ZH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "SWISSOTEL HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 5 bintang",
+          "dateLabel": "14 ZH - 1 MH",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "MAKKAH SWISSOTEL HOTEL 5★ 80M 14 ZH - 1 MH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "GRAND MILLENNIUM AL-HARAM",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 5 bintang",
+          "dateLabel": "1 - 9 MH",
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "MADINAH GRAND MILLENNIUM AL-HARAM 5★ 100M 1 - 9 MH",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Perkhidmatan Masyair Naik Taraf (PMN) bernilai RM8,000",
+          "condition": "Jika PMN tidak dapat disediakan, RM8,000 dipulangkan",
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "Kos perkhidmatan Masyair Naik Taraf (PMN) ialah berjumlah RM8,000. Sekiranya perkhidmatan PMN tidak dapat disediakan, bayaran RM8,000 akan dipulangkan kepada Bakal Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 52,
+              "text": "Haramain Train termasuk dalam pakej",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 5x",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "UMRAH — Umrah 3x Fiddi Plus & 5x Nuhasi, Brunzi & Fiddi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah: Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Ziarah Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah. Kecuali Ziarah Taif & Badar tidak termasuk dalam Pakej Fiddi Plus",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar makan DSaji bernilai SAR210",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Baucar makan DSaji bernilai SAR210, memberikan pilihan hidangan tambahan sepanjang berada di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Percuma 1x perkhidmatan buggy pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Percuma 1x perkhidmatan buggy secara pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Rehlah: hidangan nasi unta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "REHLAH — Nikmati pengalaman istimewa menjamu nasi unta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar kargo haji FGV Transport 10KG (percuma)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "BAUCAR KARGO HAJI FGV TRANSPORT 10KG — PERCUMA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati percuma (bagasi 28\", troli backpack 20\", beg sling, kain ihram, telekung, kerusi mabit dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "PERCUMA CENDERAHATI DARI FELDA TRAVEL — Bagasi 28\" • Troli Backpack 20\" • Beg sling • ... • Kerusi Mabit",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "FT008",
+          "codeIsInternal": false,
+          "priceSen": 8790000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT008 | BER - 4 RM87900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT009",
+          "codeIsInternal": false,
+          "priceSen": 9390000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT009 | BER - 3 RM93900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT010",
+          "codeIsInternal": false,
+          "priceSen": 9990000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 52,
+              "text": "FT010 | BER - 2 RM99900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "felda-fiddi-plus",
+      "name": "Pakej Fiddi Plus",
+      "series": "Pakej Haji Felda Travel",
+      "tierLabel": "Fiddi Plus",
+      "duration": {
+        "value": null,
+        "min": 25,
+        "max": 30,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "± 25 - 30 HARI",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 53,
+            "text": "Pakej dengan tempoh pendek 25-30 hari",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Aziziyah 1 – 14 ZH; Makkah 14 – 25 ZH; Madinah 25 – 30 ZH (jadual hotel)",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "AZIZIYAH SUITE AL MAQAM 500M 1 - 14 ZH; MAKKAH SWISSOTEL HOTEL 80M 14 - 25 ZH; MADINAH GRAND MILLENNIUM AL-HARAM 100M 25 - 30 ZH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "description": "Info wukuf: bergerak ke Arafah pada pagi 9 Zulhijjah; tiada sebutan Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "Bergerak ke Arafah pada pagi 9 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Mengikut jenis bilik berdasarkan pakej yang dipilih (berdua/bertiga/berempat).",
+        "dateLabel": "1 - 14 ZH",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "AZIZIYAH SUITE AL MAQAM 3★ 500M 1 - 14 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 53,
+            "text": "Penginapan di Hotel Aziziyah adalah mengikut jenis bilik berdasarkan pakej yang dipilih (berdua/bertiga/berempat)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN di Mina 10–13 ZH; jarak sehala 500m ke Kompleks Jamrah. Terus ke Mekah untuk tawaf dan saie haji selepas bermabit seketika di Muzdalifah.",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "PAKEJ FIDDI PLUS — KHEMAH PMN; MINA KHEMAH PMN 500M 10 - 13 ZH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 53,
+            "text": "Khemah Mina PMN dengan jarak sehala 500m ke Kompleks Jamrah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "Penerbangan Komersial KELAS EKONOMI",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 53,
+            "text": "Penerbangan komersial kelas ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "Haramain Train & Medical Card Al Khairi termasuk dalam pakej",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Fullboard Asia — sajian penuh Asia 3 kali sehari di Makkah, Madinah dan Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 53,
+            "text": "Fullboard Asia; Sajian penuh Asia 3 kali sehari disediakan di Makkah, Madinah dan Aziziyah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kekosongan; jika pakej pilihan tiada kekosongan, pakej alternatif ditawarkan (Terma 2, hlm. 54)."
+      },
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "SUITE AL MAQAM",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 3 bintang",
+          "dateLabel": "1 - 14 ZH",
+          "nightCount": null,
+          "distanceM": 500,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "AZIZIYAH SUITE AL MAQAM 3★ 500M 1 - 14 ZH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "SWISSOTEL HOTEL",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 5 bintang",
+          "dateLabel": "14 - 25 ZH",
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "MAKKAH SWISSOTEL HOTEL 5★ 80M 14 - 25 ZH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "GRAND MILLENNIUM AL-HARAM",
+          "orEquivalent": false,
+          "roomCategory": "Hotel 5 bintang",
+          "dateLabel": "25 - 30 ZH",
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": false,
+          "distanceReference": "not_stated",
+          "distanceReferenceAsPublished": null,
+          "meals": "Fullboard Asia",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "MADINAH GRAND MILLENNIUM AL-HARAM 5★ 100M 25 - 30 ZH",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Medical Card Al Khairi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "Haramain Train & Medical Card Al Khairi termasuk dalam pakej",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Masyair Naik Taraf (PMN) bernilai RM8,000",
+          "condition": "Jika PMN tidak dapat disediakan, RM8,000 dipulangkan",
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "Kos perkhidmatan Masyair Naik Taraf (PMN) ialah berjumlah RM8,000. Sekiranya perkhidmatan PMN tidak dapat disediakan, bayaran RM8,000 akan dipulangkan kepada Bakal Haji",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Haramain Train",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 53,
+              "text": "Haramain Train termasuk dalam pakej",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Umrah 3x",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "UMRAH — Umrah 3x Fiddi Plus & 5x Nuhasi, Brunzi & Fiddi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah: Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah (kecuali Taif & Badar)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Ziarah Hudaibiah, Jaaranah, Muzium Wahyu, Taif, Badar & Ziarah Kota Madinah. Kecuali Ziarah Taif & Badar tidak termasuk dalam Pakej Fiddi Plus",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar makan DSaji bernilai SAR210",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Baucar makan DSaji bernilai SAR210, memberikan pilihan hidangan tambahan sepanjang berada di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Percuma 1x perkhidmatan buggy pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "Percuma 1x perkhidmatan buggy secara pergi dan balik dari Masjid Nabawi ke Masjid Quba",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Rehlah: hidangan nasi unta",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "REHLAH — Nikmati pengalaman istimewa menjamu nasi unta",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Baucar kargo haji FGV Transport 10KG (percuma)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "BAUCAR KARGO HAJI FGV TRANSPORT 10KG — PERCUMA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati percuma (bagasi 28\", troli backpack 20\", beg sling, kain ihram, telekung, kerusi mabit dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 54,
+              "text": "PERCUMA CENDERAHATI DARI FELDA TRAVEL — Bagasi 28\" • Troli Backpack 20\" • Beg sling • ... • Kerusi Mabit",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "FT011",
+          "codeIsInternal": false,
+          "priceSen": 10590000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 4",
+          "notes": "Bilik Aziziyah mengikut regu bilik pakej (berempat)",
+          "priceEvidence": [
+            {
+              "pdfPage": 53,
+              "text": "FT011 | BER - 4 RM105900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT012",
+          "codeIsInternal": false,
+          "priceSen": 11590000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 3",
+          "notes": "Bilik Aziziyah mengikut regu bilik pakej (bertiga)",
+          "priceEvidence": [
+            {
+              "pdfPage": 53,
+              "text": "FT012 | BER - 3 RM115900",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "FT013",
+          "codeIsInternal": false,
+          "priceSen": 12090000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BER - 2",
+          "notes": "Bilik Aziziyah mengikut regu bilik pakej (berdua)",
+          "priceEvidence": [
+            {
+              "pdfPage": 53,
+              "text": "FT013 | BER - 2 RM120900",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "felda-aziziyah-bilik-berdua",
+      "packageIds": ["felda-brunzi", "felda-fiddi"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf bilik berdua di Hotel Aziziyah",
+      "priceSen": 900000,
+      "basis": "per_person",
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": null,
+      "evidence": [
+        {
+          "pdfPage": 52,
+          "text": "Pilihan naik taraf bilik berdua di Hotel Aziziyah dengan surcaj RM9000/pax (Pakej Brunzi)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 52,
+          "text": "Pilihan naik taraf bilik berdua di Hotel Aziziyah dengan surcaj RM9000/pax (Pakej Fiddi)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "felda-fiddi-plus-kelas-perniagaan",
+      "packageIds": ["felda-fiddi-plus"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Tambang kelas perniagaan bagi penerbangan pergi dan balik",
+      "priceSen": 1100000,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan",
+      "evidence": [
+        {
+          "pdfPage": 53,
+          "text": "Harga tambahan tambang kelas perniagaan adalah sebanyak RM11,000 seorang bagi penerbangan pergi dan balik serta tertakluk kepada kekosongan",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "felda-bayaran-haji-pjh",
+      "packageIds": ["felda-nuhasi", "felda-brunzi", "felda-fiddi", "felda-fiddi-plus"],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada Akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 54,
+          "text": "1. Harga Pakej Haji adalah termasuk Bayaran Haji PJH 14487H/2027H sebanyak RM23,398 yang akan didebitkan daripada Akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "felda-caj-pmn",
+      "packageIds": ["felda-fiddi", "felda-fiddi-plus"],
+      "description": "Kos perkhidmatan Masyair Naik Taraf (PMN); dipulangkan jika PMN tidak dapat disediakan",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 52,
+          "text": "Kos perkhidmatan Masyair Naik Taraf (PMN) ialah berjumlah RM8,000. Sekiranya perkhidmatan PMN tidak dapat disediakan, bayaran RM8,000 akan dipulangkan kepada Bakal Haji",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 53,
+          "text": "Kos perkhidmatan Masyair Naik Taraf (PMN) ialah berjumlah RM8,000.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "felda-caj-tambahan-th",
+      "packageIds": ["felda-nuhasi", "felda-brunzi", "felda-fiddi", "felda-fiddi-plus"],
+      "description": "Caj tambahan oleh TH jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 54,
+          "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan sekiranya berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti atau pihak berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Perkhidmatan tambahan: tempahan penerbangan domestik, takaful perjalanan dan kad perubatan",
+      "reason": "Perkhidmatan sampingan tanpa harga, bukan varian haji",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 54,
+          "text": "PERKHIDMATAN TAMBAHAN — Tempahan penerbangan domestik, takaful perjalanan dan kad perubatan",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.distanceReference",
+      "note": "Jadual hotel hanya memberi 'JARAK' tanpa titik ukuran (pintu/perkarangan/menara); dicatat not_stated.",
+      "pages": [51, 52, 53]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "felda-brunzi",
+      "field": "tarwiyah",
+      "note": "Info wukuf Brunzi menyatakan 'bermalam di Arafah pada 8 Zulhijjah' — bukan Tarwiyah di Mina; status not_stated. Perlu pengesahan PJH.",
+      "pages": [52]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass",
+      "note": "Pakej Nuhasi/Brunzi/Fiddi: penerbangan carter, kelas tidak dinyatakan.",
+      "pages": [51, 52]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "trainClass",
+      "note": "Kelas Haramain Train tidak dinyatakan.",
+      "pages": [51, 52, 53]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam hlm. 51–54.",
+      "pages": [51, 52, 53, 54]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [51]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.terms",
+      "note": "Terma 1 mencetak 'PJH 14487H/2027H' (kemungkinan salah cetak 1448H); RM23,398 jelas.",
+      "pages": [54]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-C",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual halaman penuh (1800 px) + potongan 250 dpi (pdftoppm) bagi jadual hotel, info wukuf/pakej dan terma.",
+    "independentCheck": null
+  }
+}

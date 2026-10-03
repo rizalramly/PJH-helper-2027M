@@ -1,0 +1,1226 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "gemilang",
+    "label": "Gemilang",
+    "name": "Gemilang Travel and Tours",
+    "legalName": "Gemilang Travel and Tours Sdn Bhd",
+    "website": "www.gemilangtravel.com.my",
+    "publicContact": "03-4256 4133 / 0133; 013-255 3806; 019-288 3806; 019-983 3806; gemilanghaji@gmail.com",
+    "licenceNumberAsPublished": "PJH 13 / 1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 55,
+        "text": "LESEN TABUNG HAJI 2027 : PJH 13 / 1448H — SSM NO. : 156094-U — MOTAC NO. : KKKP 0296",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga pakej tertakluk kepada perubahan kadar pertukaran, penginapan, kekosongan bilik, penerbangan dan lain-lain atas kelulusan TH.",
+        "evidence": [
+          {
+            "pdfPage": 56,
+            "text": "Harga pakej yang ditawarkan tertakluk kepada sebarang perubahan kadar pertukaran penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan yang akan dimaklumkan dari semasa ke semasa atas kelulusan pihak TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bilangan hari, tarikh dan jenis penerbangan tertakluk kepada ketetapan penerbangan carter haji TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 56,
+            "text": "Bilangan hari, tarikh penerbangan dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak TH dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Pemilihan pakej tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik; jika tiada kekosongan, pakej alternatif setaraf ditawarkan.",
+        "evidence": [
+          {
+            "pdfPage": 56,
+            "text": "Pemilihan Jenis Pakej adalah tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik ketika bakal haji terpilih. Sekiranya semua Pakej GETT tiada kekosongan ... bakal haji akan ditawarkan untuk menerima pakej-pakej pilihan alternative yang setaraf",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: Kategori 1 5%, Kategori 2 20%, Kategori 3 40% daripada harga pakej selepas ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 56,
+            "text": "Kategori 1 : Denda pembatalan sebanyak 5% ... Kategori 2 : ... 20% ... Kategori 3 : ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bayaran melalui bank draf / cek berpalang / money order / money transfer atas nama Gemilang Travel and Tours Sdn Bhd; tiada bayaran tunai.",
+        "evidence": [
+          {
+            "pdfPage": 56,
+            "text": "Semua bayaran hendaklah dibuat dalam bentuk bank draf / cek berpalang / money order / money transfer atas nama: GEMILANG TRAVEL AND TOURS SDN BHD 5143 4701 3198; Syarikat tidak menerima bayaran tunai",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [55, 57],
+    "pagesReviewed": [55, 56, 57],
+    "pageNotes": [
+      {
+        "pdfPage": 55,
+        "content": "Muka depan + 3 pakej: Aziziyah Makkah Tower (GETT 1–5), Makkah Tower (GETT 6–10), Haji Elite Express (GETT 11); 'Harga dari RM49,990'; lesen PJH 13/1448H."
+      },
+      {
+        "pdfPage": 56,
+        "content": "Notis penting, syarat pembatalan, gambar hotel (jarak), pembimbing, RM23,398 termasuk, maklumat bayaran."
+      },
+      {
+        "pdfPage": 57,
+        "content": "Perkhidmatan dalam pakej (medical card 43 hari, HHR, ziarah, masyair STAT) dan perkhidmatan tambahan berbayar (Tarwiyah, naik taraf makanan SAR580, dll.); cenderahati; alamat HQ."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "gemilang-aziziyah-makkah-tower",
+      "name": "Aziziyah Makkah Tower",
+      "series": "Pakej Haji Gemilang (GETT)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 40,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Tempoh Pakej 38 - 40 HARI (Mengikut Penerbangan Carter TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "Kesemua Pakej GETT di jangka berada di Tanah Suci Makkah / Madinah 38-40 hari (Tertaluk Penerbangan Carter TH). Kecuali Pakej Haji GETT 11.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": "Aziziyah sehingga 15 Zulhijjah; Makkah 15 Zulhijjah - 4 Muharram",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Hotel Di Aziziyah (Sehingga 15 Zulhijjah); Hotel Di Makkah (Bermula 15 Zulhijjah - 4 Muharram)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Atas permohonan jemaah; dikenakan bayaran tambahan khemah di luar jadual; tertakluk kelulusan Muassasah dan TH atas isu keselamatan.",
+        "description": "Disenaraikan di bawah 'Perkhidmatan tambahan dengan bayaran dan kelulusan pihak berwajib', bukan sebahagian pakej asas.",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "PERGERAKAN TARWIYAH — Jemaah yang mohon perjalanan secara tarwiyah akan dikenakan bayaran tambahan khemah di luar jadual (tertakluk kelulusan Muassasah dan TH atas isu keselamatan).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Bilik mengikut varian (2–6 orang sebilik); bas khas Aziziyah–Makkah–Aziziyah 3 kali sebelum 4 Zulhijjah.",
+        "dateLabel": "Sehingga 15 Zulhijjah",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Hotel Di Aziziyah (Sehingga 15 Zulhijjah) (-+950m Dari Dataran Kompleks Melontar) ZAHRA SUFI HOTEL atau Setaraf",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 55,
+            "text": "Perkhidmatan Bas Khas (Aziziyah - Makkah - Aziziyah) 3 x Sebelum 4 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Arafah / Mina KHEMAH MUASSASAH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "ARAFAH / MINA / MUZDALIFAH — Diuruskan oleh pihak Syarikat Tiwafah Asia Tenggara (STAT). Bas / Khemah / Makanan dan Minuman disediakan oleh Muassasah Asia Tenggara Holiday Inn Bakkah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Penerbangan EKONOMI (CARTER TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "SEMUA PAKEJ GETT TERMASUK KERETA API LAJU HHR — Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 x sehari, Fullboard, menu Asian food (Buffet/Bungkus); makanan di Arafah/Mina oleh Muassasah",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Makan 3 x Sehari FULLBOARD Menu Asian Food",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "Makan dan Minum 3 kali sehari di Makkah dan Madinah, disediakan oleh pihak hotel. (Buffet/ Bungkus) Menu Asian.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Pemilihan pakej tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik (Notis Penting, hlm. 56)."
+      },
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "ZAHRA SUFI HOTEL atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "Sehingga 15 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 950,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Melontar",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Aziziyah (Sehingga 15 Zulhijjah) (-+950m Dari Dataran Kompleks Melontar) ZAHRA SUFI HOTEL atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "MAKKAH TOWER atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "Bermula 15 Zulhijjah - 4 Muharram",
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Makkah (Bermula 15 Zulhijjah - 4 Muharram) (-+50m Dari Dataran Masjid) MAKKAH TOWER atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "5H 4M",
+          "nightCount": 4,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Pagar Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Madinah (-+180m Dari Pagar Masjid) (5H 4M) GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Perkhidmatan bas khas Aziziyah–Makkah–Aziziyah 3 kali sebelum 4 Zulhijjah",
+          "condition": "Umrah Wajib dan Tawaf Qudum tidak dikira sebagai sebahagian perkhidmatan ini",
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Perkhidmatan Bas Khas (Aziziyah - Makkah - Aziziyah) 3 x Sebelum 4 Zulhijjah",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 56,
+              "text": "GETT MENYEDIAKAN Pengangkutan Ulang Alik daripada Zahra Sufi Hotel ke Masjidil Haram selama 3 kali. Umrah Wajib dan Tawaf Qudum tidak dikira sebagai sebahagian perkhidmatan ini.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kereta api laju HHR Makkah ke Madinah",
+          "condition": "Tertakluk terma & syarat",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insurance Medical Card (pesakit luar di hospital swasta) untuk 43 hari",
+          "condition": "Tertakluk kepada polisi medical",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "\"Insurance Medical Card\" pesakit luar di hospital swasta untuk 43 hari. Ketika berlaku dia Makkah dan Madinah tertakluk kepada polisi medical.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Umrah 5X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Semua Pakej Haji Gemilang Travel And Tours Sdn. Bhd. disediakan Perkhidmatan Umrah 5X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas umrah & ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali Masjid Quba)",
+          "condition": "Tertakluk kelulusan pihak berkuasa",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Perkhidmatan Bas Umrah Ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali ke Masjid Quba di Madinah termasuk berjalan kaki). Tertakluk kelulusan pihak berkuasa.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus/taklimat sebelum berangkat dan di Tanah Suci; kuliah harian",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Diadakan sebelum jemaah haji berangkat dan semasa berada di Tanah Suci.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati (13 item: beg bagasi 28 inch, beg kabin 20 inch, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "CENDERAHATI 1. Bantal Sandar Leher ... 9. Bag Bagasi 28 inch ... 13. Beg Kabin 20 inch",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "GETT 1",
+          "codeIsInternal": false,
+          "priceSen": 4999000,
+          "makkahOccupancy": 6,
+          "madinahOccupancy": 6,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "6 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 1 RM 49,990 6 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 2",
+          "codeIsInternal": false,
+          "priceSen": 5899000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 2 RM 58,990 5 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 3",
+          "codeIsInternal": false,
+          "priceSen": 6699000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 3 RM 66,990 4 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 4",
+          "codeIsInternal": false,
+          "priceSen": 7599000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 4 RM 75,990 3 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 5",
+          "codeIsInternal": false,
+          "priceSen": 8499000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 5 RM 84,990 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gemilang-makkah-tower",
+      "name": "Makkah Tower",
+      "series": "Pakej Haji Gemilang (GETT)",
+      "tierLabel": null,
+      "duration": {
+        "value": null,
+        "min": 38,
+        "max": 40,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Tempoh Pakej 38 - 40 HARI (Mengikut Penerbangan Carter TH)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "Kesemua Pakej GETT di jangka berada di Tanah Suci Makkah / Madinah 38-40 hari (Tertaluk Penerbangan Carter TH). Kecuali Pakej Haji GETT 11.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Atas permohonan jemaah; dikenakan bayaran tambahan khemah di luar jadual; tertakluk kelulusan Muassasah dan TH atas isu keselamatan.",
+        "description": "Disenaraikan di bawah 'Perkhidmatan tambahan dengan bayaran dan kelulusan pihak berwajib', bukan sebahagian pakej asas.",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "PERGERAKAN TARWIYAH — Jemaah yang mohon perjalanan secara tarwiyah akan dikenakan bayaran tambahan khemah di luar jadual (tertakluk kelulusan Muassasah dan TH atas isu keselamatan).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "evidence": []
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Arafah / Mina KHEMAH MUASSASAH atau Setaraf",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "ARAFAH / MINA / MUZDALIFAH — Diuruskan oleh pihak Syarikat Tiwafah Asia Tenggara (STAT). Bas / Khemah / Makanan dan Minuman disediakan oleh Muassasah Asia Tenggara Holiday Inn Bakkah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Penerbangan EKONOMI (CARTER TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "SEMUA PAKEJ GETT TERMASUK KERETA API LAJU HHR — Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 x sehari, Fullboard, menu Asian food (Buffet/Bungkus); makanan di Arafah/Mina oleh Muassasah",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Makan 3 x Sehari FULLBOARD Menu Asian Food",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "Makan dan Minum 3 kali sehari di Makkah dan Madinah, disediakan oleh pihak hotel. (Buffet/ Bungkus) Menu Asian.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Pemilihan pakej tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik (Notis Penting, hlm. 56)."
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "MAKKAH TOWER atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Makkah (-+50m Dari Dataran Masjid) MAKKAH TOWER atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "5H 4M",
+          "nightCount": 4,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Pagar Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Madinah (-+180m Dari Pagar Masjid) (5H 4M) GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Kereta api laju HHR Makkah ke Madinah",
+          "condition": "Tertakluk terma & syarat",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insurance Medical Card (pesakit luar di hospital swasta) untuk 43 hari",
+          "condition": "Tertakluk kepada polisi medical",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "\"Insurance Medical Card\" pesakit luar di hospital swasta untuk 43 hari. Ketika berlaku dia Makkah dan Madinah tertakluk kepada polisi medical.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Umrah 5X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Semua Pakej Haji Gemilang Travel And Tours Sdn. Bhd. disediakan Perkhidmatan Umrah 5X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas umrah & ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali Masjid Quba)",
+          "condition": "Tertakluk kelulusan pihak berkuasa",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Perkhidmatan Bas Umrah Ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali ke Masjid Quba di Madinah termasuk berjalan kaki). Tertakluk kelulusan pihak berkuasa.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus/taklimat sebelum berangkat dan di Tanah Suci; kuliah harian",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Diadakan sebelum jemaah haji berangkat dan semasa berada di Tanah Suci.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati (13 item: beg bagasi 28 inch, beg kabin 20 inch, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "CENDERAHATI 1. Bantal Sandar Leher ... 9. Bag Bagasi 28 inch ... 13. Beg Kabin 20 inch",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "GETT 6",
+          "codeIsInternal": false,
+          "priceSen": 6799000,
+          "makkahOccupancy": 6,
+          "madinahOccupancy": 6,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "6 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 6 RM 67,990 6 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 7",
+          "codeIsInternal": false,
+          "priceSen": 7199000,
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 7 RM 71,990 5 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 8",
+          "codeIsInternal": false,
+          "priceSen": 7899000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 8 RM 78,990 4 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 9",
+          "codeIsInternal": false,
+          "priceSen": 8899000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 9 RM 88,990 3 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "GETT 10",
+          "codeIsInternal": false,
+          "priceSen": 9999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 10 RM 99,990 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gemilang-haji-elite-express",
+      "name": "Haji Elite Express",
+      "series": "Pakej Haji Gemilang (GETT)",
+      "tierLabel": "Elite Express",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 25,
+        "approximate": false,
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Tempoh Pakej 20 - 25 HARI (Mengikut Penerbangan Carter TH / Komersial)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Atas permohonan jemaah; dikenakan bayaran tambahan khemah di luar jadual; tertakluk kelulusan Muassasah dan TH atas isu keselamatan.",
+        "description": "Disenaraikan di bawah 'Perkhidmatan tambahan dengan bayaran dan kelulusan pihak berwajib', bukan sebahagian pakej asas.",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "PERGERAKAN TARWIYAH — Jemaah yang mohon perjalanan secara tarwiyah akan dikenakan bayaran tambahan khemah di luar jadual (tertakluk kelulusan Muassasah dan TH atas isu keselamatan).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Hotel Di Aziziyah (-+950m Dari Dataran Kompleks Melontar) ZAHRA SUFI HOTEL atau Setaraf",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Arafah / Mina KHEMAH MUASSASAH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "ARAFAH / MINA / MUZDALIFAH — Diuruskan oleh pihak Syarikat Tiwafah Asia Tenggara (STAT). Bas / Khemah / Makanan dan Minuman disediakan oleh Muassasah Asia Tenggara Holiday Inn Bakkah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Penerbangan KELAS PERNIAGAAN (Mengikut Penerbangan Carter TH / Komersial)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 55,
+            "text": "Pihak GETT tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya mendapat tempat duduk kelas perniagaan. Tertakluk kelulusan TH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 57,
+            "text": "SEMUA PAKEJ GETT TERMASUK KERETA API LAJU HHR — Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makan 3 x sehari, Fullboard, menu Asian food (Buffet/Bungkus); makanan di Arafah/Mina oleh Muassasah",
+        "evidence": [
+          {
+            "pdfPage": 55,
+            "text": "Makan 3 x Sehari FULLBOARD Menu Asian Food",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 57,
+            "text": "Makan dan Minum 3 kali sehari di Makkah dan Madinah, disediakan oleh pihak hotel. (Buffet/ Bungkus) Menu Asian.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Pemilihan pakej tertakluk kepada kekosongan bilik dan mesti genap rakan sebilik (Notis Penting, hlm. 56)."
+      },
+      "unresolvedConflicts": [
+        "Kelas perniagaan diiklankan tetapi PJH menyatakan tiada jaminan tempat duduk kelas perniagaan dan tertakluk kelulusan TH."
+      ],
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "ZAHRA SUFI HOTEL atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 950,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Dataran Kompleks Melontar",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Aziziyah (-+950m Dari Dataran Kompleks Melontar) ZAHRA SUFI HOTEL atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "MAKKAH TOWER atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Makkah (-+50m Dari Dataran Masjid) MAKKAH TOWER atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "5H 4M",
+          "nightCount": 4,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Pagar Masjid",
+          "meals": "Fullboard, menu Asian food",
+          "privateBathroom": true,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Hotel Di Madinah (-+180m Dari Pagar Masjid) (5H 4M) GRAND MILLENIUM AL HARAM HOTEL atau Setaraf",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan kelas perniagaan (carter TH / komersial)",
+          "condition": "Tiada jaminan tempat duduk kelas perniagaan; tertakluk kelulusan TH",
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Pihak GETT tidak memberi jaminan dan tidak boleh dipertanggungjawabkan sekiranya jemaah tidak berjaya mendapat tempat duduk kelas perniagaan. Tertakluk kelulusan TH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kereta api laju HHR Makkah ke Madinah",
+          "condition": "Tertakluk terma & syarat",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Untuk semua Pakej GETT akan termasuk sekali Kereta Api Laju HHR dari Makkah ke Madinah. Tertakluk terma & syarat.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insurance Medical Card (pesakit luar di hospital swasta) untuk 43 hari",
+          "condition": "Tertakluk kepada polisi medical",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "\"Insurance Medical Card\" pesakit luar di hospital swasta untuk 43 hari. Ketika berlaku dia Makkah dan Madinah tertakluk kepada polisi medical.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Perkhidmatan Umrah 5X",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 55,
+              "text": "Semua Pakej Haji Gemilang Travel And Tours Sdn. Bhd. disediakan Perkhidmatan Umrah 5X",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Bas umrah & ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali Masjid Quba)",
+          "condition": "Tertakluk kelulusan pihak berkuasa",
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Perkhidmatan Bas Umrah Ziarah (2 kali Tanaim, 1 kali Hudaibiyyah, 1 kali Jaaranah, 1 kali ke Masjid Quba di Madinah termasuk berjalan kaki). Tertakluk kelulusan pihak berkuasa.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus/taklimat sebelum berangkat dan di Tanah Suci; kuliah harian",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "Diadakan sebelum jemaah haji berangkat dan semasa berada di Tanah Suci.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati (13 item: beg bagasi 28 inch, beg kabin 20 inch, kain ihram, telekung, dll.)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 57,
+              "text": "CENDERAHATI 1. Bantal Sandar Leher ... 9. Bag Bagasi 28 inch ... 13. Beg Kabin 20 inch",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "GETT 11",
+          "codeIsInternal": false,
+          "priceSen": 8999000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 55,
+              "text": "GETT 11 RM 89,990 2 ORANG SEBILIK",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "gemilang-naik-taraf-makanan-international",
+      "packageIds": [
+        "gemilang-aziziyah-makkah-tower",
+        "gemilang-makkah-tower",
+        "gemilang-haji-elite-express"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "meal",
+      "description": "Naik taraf sajian makanan International (SAR 580 sehari, 3 kali makan, seorang); harga dalam MYR tidak dicetak",
+      "priceSen": null,
+      "basis": "per_person",
+      "availability": "inquiry_required",
+      "condition": "Harga dicetak dalam SAR (SAR 580 sehari seorang); tertakluk kelulusan pihak berwajib",
+      "evidence": [
+        {
+          "pdfPage": 57,
+          "text": "NAIK TARAF SAJIAN MAKANAN — Sajian makanan di luar pakej untuk naik taraf International sebanyak SAR 580 sehari 3 kali makan untuk seorang.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "gemilang-bayaran-haji-pjh",
+      "packageIds": [
+        "gemilang-aziziyah-makkah-tower",
+        "gemilang-makkah-tower",
+        "gemilang-haji-elite-express"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada Akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 56,
+          "text": "Harga Pakej Haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM23,398 yang akan DIDEBITKAN dari Akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "gemilang-caj-tambahan-th",
+      "packageIds": [
+        "gemilang-aziziyah-makkah-tower",
+        "gemilang-makkah-tower",
+        "gemilang-haji-elite-express"
+      ],
+      "description": "Caj tambahan oleh TH jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 56,
+          "text": "Walau bagaimanapun, TH BERHAK untuk mengenakan Caj Tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh Pihak Berautoriti / Berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "gemilang-bayaran-khemah-tarwiyah",
+      "packageIds": [
+        "gemilang-aziziyah-makkah-tower",
+        "gemilang-makkah-tower",
+        "gemilang-haji-elite-express"
+      ],
+      "description": "Bayaran tambahan khemah di luar jadual bagi jemaah yang memohon perjalanan Tarwiyah",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 57,
+          "text": "PERGERAKAN TARWIYAH — Jemaah yang mohon perjalanan secara tarwiyah akan dikenakan bayaran tambahan khemah di luar jadual (tertakluk kelulusan Muassasah dan TH atas isu keselamatan).",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "gemilang-caj-tukar-tarikh-penerbangan",
+      "packageIds": [
+        "gemilang-aziziyah-makkah-tower",
+        "gemilang-makkah-tower",
+        "gemilang-haji-elite-express"
+      ],
+      "description": "Caj penukaran tarikh penerbangan oleh syarikat penerbangan (tertakluk kekosongan dan kelulusan Muassasah dan TH)",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 57,
+          "text": "PENUKARAN TARIKH PENERBANGAN — Penukaran tarikh penerbangan akan dikenakan caj oleh pihak Airlines ... bergantung pada kekosongan dan kelulusan muassasah dan TH.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga 'dari' RM49,990 pada muka depan",
+      "reason": "Ulangan varian GETT 1, bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 55,
+          "text": "HARGA DARI: RM 49,990",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "description": "Perkhidmatan tambahan berbayar: GMC, kereta api Haramain HSR, tiket kelas perniagaan, insurans tambahan, pengangkutan dalam negeri, pos/kargo, tambahan ziarah & mutawwif",
+      "reason": "Perkhidmatan atas permintaan tanpa harga dicetak; bukan varian haji",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 57,
+          "text": "PERKHIDMATAN GMC, KERETA API HARAMAIN HSR, DAN LAIN-LAIN — ... atas permintaan dengan kos tambahan. Harga Semasa dan kelulusan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "masyair/pmnStatus",
+      "note": "Brosur menyebut 'Khemah Muassasah' (diurus STAT) tanpa menyebut Muaisim atau PMN; masyair.type dan pmnStatus dicatat not_stated.",
+      "pages": [55, 57]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "gemilang-makkah-tower",
+      "field": "aziziyah",
+      "note": "Pakej Makkah Tower tidak menyenaraikan hotel Aziziyah dan tidak menyatakan ia dikecualikan.",
+      "pages": [55]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "gemilang-haji-elite-express",
+      "field": "flightClass",
+      "note": "Kelas perniagaan diiklankan tetapi tiada jaminan tempat duduk; tertakluk kelulusan TH.",
+      "pages": [55]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "trainClass",
+      "note": "Kelas kereta api HHR tidak dinyatakan.",
+      "pages": [55, 57]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.gemilang-naik-taraf-makanan-international.priceSen",
+      "note": "Harga naik taraf makanan hanya dalam SAR (580 sehari); tiada harga MYR.",
+      "pages": [57]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.terms.deposit",
+      "note": "Jumlah deposit tidak dinyatakan.",
+      "pages": [55, 56, 57]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [55]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-C",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual halaman penuh (1800 px) + potongan 250 dpi (pdftoppm) bagi blok pakej, notis penting dan senarai perkhidmatan.",
+    "independentCheck": null
+  }
+}

@@ -1,0 +1,1883 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "tri-d",
+    "label": "Tri-D",
+    "name": "Tri-D Travel & Tours",
+    "legalName": "Tri-D Travel & Tours Sdn Bhd",
+    "website": "Tri-dtravel.com",
+    "publicContact": "Hotline Haji 012-302 7953; 03-4149 7815 (Kuala Lumpur); 03-5523 2004 (Shah Alam); tridhaji@gmail.com; tridtraveltours@gmail.com",
+    "licenceNumberAsPublished": "32/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 130,
+        "text": "NO. LESEN HAJI : 32/1448H — NO. SSM : 198201001479 — NO. MOTAC : KPK/LN3720",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga tertakluk kepada perubahan kadar matawang asing, hotel penginapan, kekosongan bilik, penerbangan dan lain-lain perubahan atas kelulusan TH.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "HARGA YANG DI TAWARKAN ADALAH TERTAKLUK KEPADA PERUBAHAN KADAR MATAWANG ASING, HOTEL PENGINAPAN, KEKOSONGAN BILIK, PENERBANGAN DAN LAIN LAIN PERUBAHAN YANG AKAN DIMAKLUMKAN DARI SEMASA KE SEMASA ATAS KELULUSAN TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan tertakluk kepada ketetapan penerbangan carter haji TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "TARIKH PENERBANGAN, BILANGAN HARI DAN JENIS PENERBANGAN ADALAH TERTAKLUK KEPADA KETETAPAN PENERBANGAN CATER HAJI DARI PIHAK TABUNG HAJI DAN SYARIKAT PENERBANGAN.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan atau tidak cukup regu, bakal haji ditawarkan pakej alternatif yang setaraf; keutamaan kepada bakal haji terpilih awal.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "SEKIRANYA PAKEJ PILIHAN UTAMA TIADA KEKOSONGAN PADA MASA TEMPAHAN DISAHKAN, ATAU TIDAK CUKUP REGU DI AKHIR PENYUSUNAN BILIK PENGINAPAN, BAKAL HAJI AKAN DITAWARKAN UNTUK MENERIMA PAKEJ PILIHAN ALTERNATIF YANG SETARAF.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tertakluk kepada terma & syarat PJH Tri-D dan Sistem Agensi Haji (SAH).",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "SEMUA BAKAL HAJI YANG MENDAFTAR ADALAH TERTAKLUK KEPADA TERMA & SYARAT YANG DITETAPKAN OLEH PIHAK PJH TRI-D TRAVEL & TOURS DAN SEPERTI YANG TERKANDUNG DALAM SISTEM AGENSI HAJI (SAH).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Kadar denda pembatalan/penundaan seperti dalam Borang Pengesahan Terimaan Tawaran Perkhidmatan Pakej Haji 1448H/2027M.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "JIKA BAKAL HAJI MEMBUAT PEMBATALAN ATAU PENUNDAAN PEMERGIAN HAJI, KADAR DENDA YANG DIKENAKAN KEPADA BAKAL HAJI ADALAH SEPERTI YANG DINYATAKAN DI DALAM BORANG PENGESAHAN TERIMAAN TAWARAN PERKHIDMATAN PAKEJ HAJI 1448H/2027M",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit pendaftaran untuk jemaah terpilih RM2,000.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "DEPOSIT PENDAFTARAN UNTUK JEMAAH TERPILIH RM2,000.00",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [130, 133],
+    "pagesReviewed": [130, 131, 132, 133],
+    "pageNotes": [
+      {
+        "pdfPage": 130,
+        "content": "Muka depan: logo, No. Lesen Haji 32/1448H, SSM, MOTAC, pembimbing, talian hotline. Tiada harga."
+      },
+      {
+        "pdfPage": 131,
+        "content": "Pakej Romance Al-Sadd Ekonomi (TRID 01-03), Khemah Muassim, naik taraf PMN RM8,500, nota Bayaran Haji PJH RM23,398, pilihan penerbangan komersil."
+      },
+      {
+        "pdfPage": 132,
+        "content": "Pakej Jumeirah Klasik (TRID 04-06) dan Jumeirah Premium (TRID 07-09), Aziziyah Al-Wataniyah, naik taraf PMN RM8,500."
+      },
+      {
+        "pdfPage": 133,
+        "content": "Pakej Jumeirah Eksklusif (TRID 10-12, PMN termasuk, kelas perniagaan), terma & syarat, deposit RM2,000, perunding, cenderahati."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "tri-d-romance-al-sadd-ekonomi",
+      "name": "Pakej Romance Al-Sadd Ekonomi",
+      "series": "Romance Al-Sadd",
+      "tierLabel": "Ekonomi",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "TEMPOH (+-) 40 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah pada 8 Zulhijjah disenaraikan sebagai inklusi pakej tanpa syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": null,
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim, +- 3.5 km ke Jamrah; naik taraf ke PMN RM8,500 seorang ditawarkan.",
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 131,
+            "text": "PENGINAPAN DI MINA (+- 3.5 KM JARAK KHEMAH MUASSIM KE JAMRAH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "PENERBANGAN CARTER TABUNG HAJI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "TIKET KELAS EKONOMI — HARAMAIN SPEED TRAIN (HRR) (MAKKAH - MADINAH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sarapan / makan tengahari / makan malam (buffet)",
+        "evidence": [
+          {
+            "pdfPage": 131,
+            "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik dan kelulusan TH (terma hlm. 133)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Romance Al-Sadd @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 380,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "MAKKAH — ROMANCE AL-SADD @ SETARAF (+- 380 METER DARI DATARAN MASJIDIL HARAM)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Ruve Al Madinah Hotel @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "MADINAH — RUVE AL MADINAH HOTEL @ SETARAF (+- 180 METER DARI DATARAN MASJID NABAWI)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Carter Tabung Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "PENERBANGAN CARTER TABUNG HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing Haji / Mutawwif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "PEMBIMBING HAJI / MUTAWWIF",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyyah Haji (ibadah sunnah) pada 8 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah dalam dan ziarah luar di Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "PROGRAM ZIARAH DALAM DAN ZIARAH LUAR DI MAKKAH & DI MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengangkutan bas / tiket tren laju Haramain sehala (Makkah - Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "PENGANGKUTAN BAS / TIKET TREN LAJU HARAMAIN SEHALA (MAKKAH - MADINAH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan: sarapan / makan tengahari / makan malam (buffet)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insuran takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "INSURAN TAKAFUL BERKELOMPOK. **TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji / ceramah secara intensif di Malaysia dan Tanah Suci termasuk di Mina & Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "KURSUS HAJI / CERAMAH SECARA INTENSIF DI MALAYSIA DAN TANAH SUCI TERMASUK DI MINA & ARAFAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air zam zam 5 liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "AIR ZAM ZAM 5 LITER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati: beg troli, beg sandang, beg kasut, uncang batu, buku panduan, ihram/telekung & buku bimbingan zikir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "CENDERAHATI : BEG TROLI, BEG SANDANG, BEG KASUT, UNCANG BATU, BUKU PANDUAN, IHRAM/TELEKUNG & BUKU BIMBINGAN ZIKIR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan ekonomi di Makkah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "HOTEL PENGINAPAN EKONOMI DI MAKKAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Madinah (4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "HOTEL PENGINAPAN DI MADINAH (4*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Mina (Khemah Muassim)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Insuran tambahan (pilihan)",
+          "evidence": [
+            {
+              "pdfPage": 131,
+              "text": "**TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "TRID 01",
+          "codeIsInternal": false,
+          "priceSen": 4890000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 131,
+              "text": "4 ORANG SEBILIK TRID 01 RM48,900.00",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 02",
+          "codeIsInternal": false,
+          "priceSen": 4990000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 131,
+              "text": "3 ORANG SEBILIK TRID 02 RM49,900.00",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 03",
+          "codeIsInternal": false,
+          "priceSen": 5190000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 131,
+              "text": "2 ORANG SEBILIK TRID 03 RM51,900.00",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tri-d-jumeirah-klasik",
+      "name": "Pakej Jumeirah Klasik",
+      "series": "Jumeirah",
+      "tierLabel": "Klasik",
+      "duration": {
+        "value": null,
+        "min": 40,
+        "max": 45,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PAKEJ JUMEIRAH KLASIK — TEMPOH (+-) 40 - 45 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah pada 8 Zulhijjah disenaraikan sebagai inklusi pakej tanpa syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Varian 3 dan 2 orang sebilik bertanda '* 4 orang sebilik - Aziziyah'.",
+        "dateLabel": "01 Zulhijjah 1447H - 15 Zulhijjah 1447H (tahun dicetak 1447H)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 132,
+            "text": "AL-WATANIYAH HOTEL @ SETARAF — 01 ZULHIJJAH 1447H - 15 ZULHIJJAH 1447H",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 132,
+            "text": "* 4 ORANG SEBILIK - AZIZIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim; naik taraf ke PMN RM8,500 seorang ditawarkan.",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENERBANGAN CARTER TABUNG HAJI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "TIKET KELAS EKONOMI — HARAMAIN SPEED TRAIN (HRR) (MAKKAH - MADINAH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sarapan / makan tengahari / makan malam (buffet)",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik dan kelulusan TH (terma hlm. 133)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Jumeirah Jabal Omar @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "MAKKAH — JUMEIRAH JABAL OMAR @ SETARAF (+- 45 METER DARI DATARAN MASJIDIL HARAM)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al-Wataniyah Hotel @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "01 Zulhijjah 1447H - 15 Zulhijjah 1447H (seperti dicetak; termasuk bermabit di Mina & wuquf di Arafah)",
+          "nightCount": null,
+          "distanceM": 850,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Jarak ke Jamrah",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "AZIZIYAH — AL-WATANIYAH HOTEL @ SETARAF — 01 ZULHIJJAH 1447H - 15 ZULHIJJAH 1447H (TERMASUK BERMABIT DI MINA & WUQUF DIARAFAH) +- 850 METER JARAK KE JAMRAH",
+              "status": "unclear"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Ruve Al Madinah Hotel @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "MADINAH — RUVE AL MADINAH HOTEL @ SETARAF (+- 180 METER DARI DATARAN MASJID NABAWI)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Carter Tabung Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENERBANGAN CARTER TABUNG HAJI",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing Haji / Mutawwif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PEMBIMBING HAJI / MUTAWWIF",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyyah Haji (ibadah sunnah) pada 8 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah dalam dan ziarah luar di Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PROGRAM ZIARAH DALAM DAN ZIARAH LUAR DI MAKKAH & DI MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengangkutan bas / tiket tren laju Haramain sehala (Makkah - Madinah)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENGANGKUTAN BAS / TIKET TREN LAJU HARAMAIN SEHALA (MAKKAH - MADINAH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan: sarapan / makan tengahari / makan malam (buffet)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insuran takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "INSURAN TAKAFUL BERKELOMPOK. **TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji / ceramah secara intensif di Malaysia dan Tanah Suci termasuk di Mina & Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "KURSUS HAJI / CERAMAH SECARA INTENSIF DI MALAYSIA DAN TANAH SUCI TERMASUK DI MINA & ARAFAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air zam zam 5 liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "AIR ZAM ZAM 5 LITER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati: beg troli, beg sandang, beg kasut, uncang batu, buku panduan, ihram/telekung & buku bimbingan zikir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "CENDERAHATI : BEG TROLI, BEG SANDANG, BEG KASUT, UNCANG BATU, BUKU PANDUAN, IHRAM/TELEKUNG & BUKU BIMBINGAN ZIKIR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Makkah (5*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "HOTEL PENGINAPAN DI MAKKAH (5*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Madinah (4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "HOTEL PENGINAPAN DI MADINAH (4*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Mina (Khemah Muassim) / di hotel Aziziyah (3*-4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Insuran tambahan (pilihan)",
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "**TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "TRID 04",
+          "codeIsInternal": false,
+          "priceSen": 5799000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "4 ORANG SEBILIK TRID 04 RM57,990.00",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 05",
+          "codeIsInternal": false,
+          "priceSen": 5998000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "3 ORANG SEBILIK TRID 05 RM59,980.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 06",
+          "codeIsInternal": false,
+          "priceSen": 6399000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "2 ORANG SEBILIK TRID 06 RM63,990.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tri-d-jumeirah-premium",
+      "name": "Pakej Jumeirah Premium",
+      "series": "Jumeirah",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": null,
+        "min": 30,
+        "max": 35,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PAKEJ JUMEIRAH PREMIUM — TEMPOH (+-) 30 - 35 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah pada 8 Zulhijjah disenaraikan sebagai inklusi pakej tanpa syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Varian 3 dan 2 orang sebilik bertanda '* 4 orang sebilik - Aziziyah'.",
+        "dateLabel": "01 Zulhijjah 1447H - 15 Zulhijjah 1447H (tahun dicetak 1447H)",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 132,
+            "text": "AL-WATANIYAH HOTEL @ SETARAF — 01 ZULHIJJAH 1447H - 15 ZULHIJJAH 1447H",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 132,
+            "text": "* 4 ORANG SEBILIK - AZIZIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim; naik taraf ke PMN RM8,500 seorang ditawarkan.",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "PENERBANGAN KOMERSIAL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "TIKET KELAS EKONOMI — HARAMAIN SPEED TRAIN (HRR) (MAKKAH - MADINAH)",
+            "status": "unclear"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sarapan / makan tengahari / makan malam (buffet)",
+        "evidence": [
+          {
+            "pdfPage": 132,
+            "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik dan kelulusan TH (terma hlm. 133)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Jumeirah Jabal Omar @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "MAKKAH — JUMEIRAH JABAL OMAR @ SETARAF (+- 45 METER DARI DATARAN MASJIDIL HARAM)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Al-Wataniyah Hotel @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "01 Zulhijjah 1447H - 15 Zulhijjah 1447H (seperti dicetak; termasuk bermabit di Mina & wuquf di Arafah)",
+          "nightCount": null,
+          "distanceM": 850,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Jarak ke Jamrah",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "AZIZIYAH — AL-WATANIYAH HOTEL @ SETARAF — 01 ZULHIJJAH 1447H - 15 ZULHIJJAH 1447H (TERMASUK BERMABIT DI MINA & WUQUF DIARAFAH) +- 850 METER JARAK KE JAMRAH",
+              "status": "unclear"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Ruve Al Madinah Hotel @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "MADINAH — RUVE AL MADINAH HOTEL @ SETARAF (+- 180 METER DARI DATARAN MASJID NABAWI)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Komersial",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENERBANGAN KOMERSIAL",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing Haji / Mutawwif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PEMBIMBING HAJI / MUTAWWIF",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyyah Haji (ibadah sunnah) pada 8 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah dalam dan ziarah luar di Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PROGRAM ZIARAH DALAM DAN ZIARAH LUAR DI MAKKAH & DI MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengangkutan bas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENGANGKUTAN BAS",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan: sarapan / makan tengahari / makan malam (buffet)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insuran takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "INSURAN TAKAFUL BERKELOMPOK. **TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji / ceramah secara intensif di Malaysia dan Tanah Suci termasuk di Mina & Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "KURSUS HAJI / CERAMAH SECARA INTENSIF DI MALAYSIA DAN TANAH SUCI TERMASUK DI MINA & ARAFAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air zam zam 5 liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "AIR ZAM ZAM 5 LITER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati: beg troli, beg sandang, beg kasut, uncang batu, buku panduan, ihram/telekung & buku bimbingan zikir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "CENDERAHATI : BEG TROLI, BEG SANDANG, BEG KASUT, UNCANG BATU, BUKU PANDUAN, IHRAM/TELEKUNG & BUKU BIMBINGAN ZIKIR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Makkah (5*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "HOTEL PENGINAPAN DI MAKKAH (5*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Madinah (4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "HOTEL PENGINAPAN DI MADINAH (4*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Mina (Khemah Muassim) / di hotel Aziziyah (3*-4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "PENGINAPAN DI MINA (KHEMAH MUASSIM) / DI HOTEL AZIZIYAH (3* - 4*)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Insuran tambahan (pilihan)",
+          "evidence": [
+            {
+              "pdfPage": 132,
+              "text": "**TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "TRID 07",
+          "codeIsInternal": false,
+          "priceSen": 6799000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "4 ORANG SEBILIK TRID 07 RM67,990.00",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 08",
+          "codeIsInternal": false,
+          "priceSen": 6999000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "3 ORANG SEBILIK TRID 08 RM69,990.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 09",
+          "codeIsInternal": false,
+          "priceSen": 7499000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 132,
+              "text": "2 ORANG SEBILIK TRID 09 RM74,990.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tri-d-jumeirah-eksklusif",
+      "name": "Pakej Jumeirah Eksklusif",
+      "series": "Jumeirah",
+      "tierLabel": "Eksklusif",
+      "duration": {
+        "value": null,
+        "min": 20,
+        "max": 25,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "PAKEJ JUMEIRAH EKSKLUSIF — TEMPOH (+-) 20 - 25 HARI",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered",
+        "condition": null,
+        "description": "Tarwiyah pada 8 Zulhijjah disenaraikan sebagai inklusi pakej tanpa syarat dicetak.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4],
+        "defaultArrangementNote": "Varian 3 dan 2 orang sebilik bertanda '* 4 orang sebilik - Aziziyah'. Disebut sebagai penginapan transit di Aziziyah; nama hotel Aziziyah tidak dicetak.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "PENGINAPAN DI MINA (KHEMAH PMN) / DI HOTEL AZIZIYAH (3* - 4*)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 133,
+            "text": "**PERKHIDMATAN MASYA'IR NAIK TARAF (PMN) DISEDIAKAN DENGAN BAYARAN TAMBAHAN PMN TELAH TERMASUK DALAM HARGA PAKEJ HAJI DAN PENGINAPAN TRANSIT DI AZIZIYAH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 133,
+            "text": "* 4 ORANG SEBILIK - AZIZIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN; bayaran tambahan PMN dinyatakan telah termasuk dalam harga pakej.",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "MINA : KHEMAH PMN / AZIZIYAH",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 133,
+            "text": "**PERKHIDMATAN MASYA'IR NAIK TARAF (PMN) DISEDIAKAN DENGAN BAYARAN TAMBAHAN PMN TELAH TERMASUK DALAM HARGA PAKEJ HAJI DAN PENGINAPAN TRANSIT DI AZIZIYAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "PENERBANGAN KOMERSIL (KELAS PERNIAGAAN)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "business",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "TIKET KELAS PERNIAGAAN — HARAMAIN SPEED TRAIN (HRR) (MAKKAH - MADINAH)",
+            "status": "unclear"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sarapan / makan tengahari / makan malam (buffet)",
+        "evidence": [
+          {
+            "pdfPage": 133,
+            "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada kekosongan bilik dan kelulusan TH (terma hlm. 133)."
+      },
+      "unresolvedConflicts": [
+        "Kotak 'Naiktaraf ke PMN RM8,500.00 / seorang' turut dicetak di bawah pakej Eksklusif walaupun nota Mina menyatakan PMN telah termasuk dalam harga pakej."
+      ],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Jumeirah Jabal Omar @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "MAKKAH — JUMEIRAH JABAL OMAR @ SETARAF (+- 45 METER DARI DATARAN MASJIDIL HARAM)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Sofitel Shahd Al Madinah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
+          "meals": null,
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "MADINAH — SOFITEL SHAHD AL MADINAH @ SETARAF (+- 50 METER DARI DATARAN MASJID NABAWI)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penerbangan Komersil (Kelas Perniagaan)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "PENERBANGAN KOMERSIL (KELAS PERNIAGAAN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pembimbing Haji / Mutawwif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "PEMBIMBING HAJI / MUTAWWIF",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyyah Haji (ibadah sunnah) pada 8 Zulhijjah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "TARWIYYAH HAJI (IBADAH SUNNAH) PADA 8 ZULHIJJAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Program ziarah dalam dan ziarah luar di Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "PROGRAM ZIARAH DALAM DAN ZIARAH LUAR DI MAKKAH & DI MADINAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pengangkutan bas",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "PENGANGKUTAN BAS",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sajian makanan: sarapan / makan tengahari / makan malam (buffet)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "SAJIAN MAKANAN : SARAPAN / MAKAN TENGAHARI / MAKAN MALAM (BUFFET)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Insuran takaful berkelompok",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "INSURAN TAKAFUL BERKELOMPOK. **TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji / ceramah secara intensif di Malaysia dan Tanah Suci termasuk di Mina & Arafah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "KURSUS HAJI / CERAMAH SECARA INTENSIF DI MALAYSIA DAN TANAH SUCI TERMASUK DI MINA & ARAFAH",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Air zam zam 5 liter",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "AIR ZAM ZAM 5 LITER",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Cenderahati: beg troli, beg sandang, beg kasut, uncang batu, buku panduan, ihram/telekung & buku bimbingan zikir",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "CENDERAHATI : BEG TROLI, BEG SANDANG, BEG KASUT, UNCANG BATU, BUKU PANDUAN, IHRAM/TELEKUNG & BUKU BIMBINGAN ZIKIR",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Makkah (5*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "HOTEL PENGINAPAN DI MAKKAH (5*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Hotel penginapan di Madinah (5*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "HOTEL PENGINAPAN DI MADINAH (5*)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Mina (Khemah PMN) / di hotel Aziziyah (3*-4*)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "PENGINAPAN DI MINA (KHEMAH PMN) / DI HOTEL AZIZIYAH (3* - 4*)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "text": "Insuran tambahan (pilihan)",
+          "evidence": [
+            {
+              "pdfPage": 133,
+              "text": "**TIDAK TERMASUK INSURAN TAMBAHAN (PILIHAN)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "TRID 10",
+          "codeIsInternal": false,
+          "priceSen": 8598000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 ORANG SEBILIK",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 133,
+              "text": "4 ORANG SEBILIK TRID 10 RM85,980.00",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 11",
+          "codeIsInternal": false,
+          "priceSen": 8998000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 133,
+              "text": "3 ORANG SEBILIK TRID 11 RM89,980.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "TRID 12",
+          "codeIsInternal": false,
+          "priceSen": 9598000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 ORANG SEBILIK",
+          "notes": "Bilik Aziziyah 4 orang sebilik.",
+          "priceEvidence": [
+            {
+              "pdfPage": 133,
+              "text": "2 ORANG SEBILIK TRID 12 RM95,980.00* (* 4 ORANG SEBILIK - AZIZIYAH)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "tri-d-naik-taraf-pmn",
+      "packageIds": [
+        "tri-d-romance-al-sadd-ekonomi",
+        "tri-d-jumeirah-klasik",
+        "tri-d-jumeirah-premium"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Naik taraf ke PMN (Perkhidmatan Masyair Naiktaraf): bas khas sepanjang masyair, naik taraf fasiliti khemah Mina & Arafah, jarak khemah Mina berhampiran Kompleks Jamarat",
+      "priceSen": 850000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": null,
+      "evidence": [
+        {
+          "pdfPage": 131,
+          "text": "NAIKTARAF KE PMN (PERKHIDMATAN MASYAIR NAIKTARAF) RM8,500.00 / SEORANG",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 132,
+          "text": "NAIKTARAF KE PMN (PERKHIDMATAN MASYAIR NAIKTARAF) RM8,500.00 / SEORANG (Klasik dan Premium)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "tri-d-penerbangan-komersil-perniagaan",
+      "packageIds": ["tri-d-romance-al-sadd-ekonomi"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Penerbangan komersil kelas perniagaan (bayaran tambahan lebih kurang RM19,000)",
+      "priceSen": 1900000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kelulusan Tabung Haji. Amaun dicetak sebagai '+-' (anggaran); asas seorang tidak dicetak secara jelas.",
+      "evidence": [
+        {
+          "pdfPage": 131,
+          "text": "***PENERBANGAN KOMERSIL KELAS PERNIAGAAN DENGAN BAYARAN TAMBAHAN +- RM 19,000.00 TERTAKLUK KEPADA KELULUSAN TABUNG HAJI.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "tri-d-penerbangan-komersil-ekonomi",
+      "packageIds": ["tri-d-romance-al-sadd-ekonomi"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Penerbangan komersil kelas ekonomi (bayaran tambahan lebih kurang RM9,500)",
+      "priceSen": 950000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kelulusan Tabung Haji. Amaun dicetak sebagai '+-' (anggaran); asas seorang tidak dicetak secara jelas.",
+      "evidence": [
+        {
+          "pdfPage": 131,
+          "text": "***PENERBANGAN KOMERSIL KELAS EKONOMI DENGAN BAYARAN TAMBAHAN +- RM 9,500.00 TERTAKLUK KEPADA KELULUSAN TABUNG HAJI.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "tri-d-bayaran-haji-pjh",
+      "packageIds": [
+        "tri-d-romance-al-sadd-ekonomi",
+        "tri-d-jumeirah-klasik",
+        "tri-d-jumeirah-premium",
+        "tri-d-jumeirah-eksklusif"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 131,
+          "text": "**HARGA PAKEJ HAJI ADALAH TERMASUK BAYARAN HAJI PJH 1448H/2027M SEBANYAK RM23,398.00 YANG AKAN DI DEBITKAN DARI AKAUN TH JEMAAH HAJI PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "tri-d-caj-tambahan-th",
+      "packageIds": [
+        "tri-d-romance-al-sadd-ekonomi",
+        "tri-d-jumeirah-klasik",
+        "tri-d-jumeirah-premium",
+        "tri-d-jumeirah-eksklusif"
+      ],
+      "description": "Caj tambahan jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 131,
+          "text": "WALAU BAGAIMANAPUN, TH BERHAK UNTUK MENGENAKAN CAJ TAMBAHAN JIKA BERLAKU PENAMBAHAN KOS ATAU PENGENALAN KOS BAHARU OLEH PIHAK BERAUTORITI / BERKUASA DI ARAB SAUDI",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "tri-d-caj-pmn-eksklusif",
+      "packageIds": ["tri-d-jumeirah-eksklusif"],
+      "description": "Bayaran tambahan PMN (dinyatakan telah termasuk dalam harga pakej; amaun tidak dinyatakan untuk pakej ini)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 133,
+          "text": "**PERKHIDMATAN MASYA'IR NAIK TARAF (PMN) DISEDIAKAN DENGAN BAYARAN TAMBAHAN PMN TELAH TERMASUK DALAM HARGA PAKEJ HAJI",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": "tri-d-jumeirah-eksklusif",
+      "field": "masyair/upgrades",
+      "note": "Konflik: nota Mina menyatakan PMN termasuk dalam harga, tetapi kotak 'Naiktaraf ke PMN RM8,500 / seorang' turut dicetak di bawah pakej Eksklusif. Naik taraf PMN tidak dikaitkan dengan pakej Eksklusif.",
+      "pages": [133]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah.dateLabel",
+      "note": "Tarikh Aziziyah dicetak '01 Zulhijjah 1447H - 15 Zulhijjah 1447H' pada brosur 1448H; disalin seperti dicetak. Teks kecil kabur.",
+      "pages": [132]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "tri-d-jumeirah-eksklusif",
+      "field": "stays.aziziyah",
+      "note": "Nama hotel Aziziyah untuk Jumeirah Eksklusif tidak dicetak (hanya 'hotel Aziziyah (3*-4*)' / 'penginapan transit di Aziziyah').",
+      "pages": [133]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "trainClass",
+      "note": "Label 'Tiket kelas Ekonomi/Perniagaan' diletak bersebelahan grafik Haramain Speed Train; ditafsir sebagai kelas kereta api. Bagi Premium dan Eksklusif senarai inklusi hanya menyebut 'Pengangkutan bas' tanpa tiket tren.",
+      "pages": [131, 132, 133]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "tri-d-jumeirah-premium",
+      "field": "flightClass",
+      "note": "Penerbangan komersial dinyatakan tanpa kelas penerbangan.",
+      "pages": [132]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "tri-d-romance-al-sadd-ekonomi",
+      "field": "upgrades.penerbangan-komersil",
+      "note": "Pilihan penerbangan komersil (+-RM19,000 / +-RM9,500) dicetak hanya pada hlm. 131 (Romance); tidak jelas sama ada terpakai untuk Jumeirah Klasik.",
+      "pages": [131]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "relocations/travelDates",
+      "note": "Tiada ilustrasi perjalanan atau tarikh berlepas dicetak; susunan Aziziyah/Makkah/Madinah tidak dinyatakan.",
+      "pages": [130, 131, 132, 133]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 130-133.",
+      "pages": [130, 131, 132, 133]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [130]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-H",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan zum bagi teks kecil (nota PMN, Aziziyah, footnote penerbangan).",
+    "independentCheck": null
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "wira-saujana",
+    "label": "Wira Saujana",
+    "name": "Wira Saujana Travels & Tours",
+    "legalName": "Wira Saujana Travels & Tours Sdn Bhd",
+    "website": "www.wirasaujana.com",
+    "publicContact": "03 6242 9944; 012 244 3543 (Puan Eka); 017 774 3855 (Ustaz Ridwan); eka@wirasaujana.com",
+    "licenceNumberAsPublished": "PJH 33/1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 137,
+        "text": "17 TAHUN BERLESEN & BERPENGALAMAN SEBAGAI PENGELOLA JEMAAH HAJI (PJH) SEJAK 2011 — NO LESEN : PJH 33 / 1448H",
+        "status": "transcribed"
+      },
+      {
+        "pdfPage": 134,
+        "text": "NO. LESEN HAJI : PJH 33/1448H — LESEN MOTAC : KPK/LN 0236 — NO SSM : 198801004328 (171685-M)",
+        "status": "unclear"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Harga tertakluk kepada perubahan pihak Tabung Haji, penerbangan, hotel, kadar mata wang, kekosongan bilik dan lain-lain.",
+        "evidence": [
+          {
+            "pdfPage": 137,
+            "text": "Harga yang dipamerkan adalah tertakluk kepada perubahan pihak Tabung Haji, penerbangan, hotel, kadar mata wang, kekosongan bilik dan lain-lain. Sebarang perubahan akan dimaklumkan dari semasa ke semasa.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada pihak Tabung Haji dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 137,
+            "text": "Tarikh penerbangan dan pilihan jenis penerbangan tertakluk kepada pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Terma lain seperti dalam borang pendaftaran pakej haji WSTT; pembatalan selepas jadual penerbangan dan visa disahkan tertakluk kepada penolakan kos yang terlibat.",
+        "evidence": [
+          {
+            "pdfPage": 137,
+            "text": "Terma dan syarat lain adalah seperti di dalam borang pendaftaran pakej haji WSTT, sebarang pembatalan pakej setelah jadual penerbangan dan visa telah disahkan tertakluk kepada penolakan kos-kos yang terlibat",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Kadar denda pembatalan/penundaan seperti dalam Borang Pengesahan Terimaan Tawaran Perkhidmatan Pakej Haji 1448H/2027M.",
+        "evidence": [
+          {
+            "pdfPage": 137,
+            "text": "Jika bakal haji membuat pembatalan atau penundaan pemergian haji, kadar denda bakal haji adalah seperti yang dinyatakan di dalam borang PENGESAHAN TERIMAAN TAWARAN PERKHIDMATAN PAKEJ HAJI 1448H / 2027M.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bilangan hari/malam di Hotel Jumeirah Jabal Omar sebelum operasi masyair bergantung kepada jadual penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 136,
+            "text": "*Jumlah hari / malam penginapan di Hotel Jumeirah Jabal Omar sebelum Operasi Masyair (kerja-kerja haji) adalah bergantung kepada jadual penerbangan yang diberikan oleh pihak Tabung Haji.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [134, 137],
+    "pagesReviewed": [134, 135, 136, 137],
+    "pageNotes": [
+      {
+        "pdfPage": 134,
+        "content": "Muka depan: Pakej Haji Premium Jumeirah Jabal Omar, 'Harga dari RM54,970' (ulangan WIRA 1), lesen PJH (teks kecil kabur)."
+      },
+      {
+        "pdfPage": 135,
+        "content": "Hotel Jumeirah Jabal Omar, Mövenpick Anwar Al-Madinah, Manazil Al-Maqam (Aziziyah); jadual harga WIRA 1-4, tempoh ±40 hari, Aziziyah 4-5 sebilik, naik taraf bilik berdua RM6,000, Bayaran Haji PJH."
+      },
+      {
+        "pdfPage": 136,
+        "content": "Ilustrasi perjalanan haji (carter KUL-JED-MED-KUL), Tarwiyah 8 Zulhijjah tertakluk kebenaran Muassasah, kuliah harian."
+      },
+      {
+        "pdfPage": 137,
+        "content": "Pembimbing, perkhidmatan tambahan, cenderahati, No. Lesen PJH 33/1448H, terma & syarat, pembatalan, hubungan. Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "wira-saujana-haji-premium-jumeirah",
+      "name": "Pakej Haji Premium Jumeirah Jabal Omar",
+      "series": "Pakej Haji Premium",
+      "tierLabel": "Premium (Harga Ekonomi)",
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 135,
+            "text": "TEMPOH ±40 HARI mengikut ketetapan Tabung Haji (TH)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa",
+        "description": "Bergerak dan bermalam di Mina pada 8 Zulhijjah sebelum wukuf di Arafah; ilustrasi menyebut Tarwiyah di Mina 07-09 Zulhijjah walaupun menginap di Aziziyah.",
+        "evidence": [
+          {
+            "pdfPage": 136,
+            "text": "TARWIYAH — Bergerak dan bermalam di MINA pada 08 ZULHIJJAH ... (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 136,
+            "text": "TARWIYAH DI MINA 07-09 ZULHIJJAH — Mengikuti sunnah perjalanan haji Rasulullah dengan bergerak dan bermalam di Mina sebelum wukuf di Arafah.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Penginapan Aziziyah 4-5 orang sebilik berasingan lelaki & wanita.",
+        "dateLabel": "Sebelum operasi masyair dan 10-15 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 135,
+            "text": "TERMASUK PENGINAPAN AZIZIYAH 4-5 ORANG SEBILIK BERASINGAN LELAKI & WANITA",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 136,
+            "text": "04 MENGINAP DI AZIZIYAH ... sebelum memasuki fasa kemuncak ibadah haji",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 136,
+            "text": "PENGINAPAN DI AZIZIYAH 10-15 ZULHIJJAH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "not_stated",
+        "description": "Jenis khemah Mina/Arafah (Muaisim atau PMN) tidak dinyatakan.",
+        "evidence": []
+      },
+      "relocations": {
+        "count": 3,
+        "note": "Ilustrasi: Movenpick Sepang (KLIA) → Jeddah → Hotel Jumeirah Jabal Omar → Aziziyah (Manazil Al-Maqam) → masyair → Aziziyah 10-15 Zulhijjah → Makkah Jumeirah Jabal Omar (15 Zulhijjah) → Madinah Anwar Movenpick → KLIA. Ilustrasi untuk penerbangan carter KUL-JED-MED-KUL, tertakluk agihan penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 136,
+            "text": "PERJALANAN HAJI KAMI: 01 Movenpick Sepang KLIA; 02 Mendarat di Jeddah; 03 Menginap di Hotel Jumeirah Jabal Omar; 04 Menginap di Aziziyah; 09 Penginapan di Aziziyah 10-15 Zulhijjah; 10 Kembali ke Makkah Hotel Jumeirah Jabal Omar 15 Zulhijjah; 11 Madinah menginap di Hotel Anwar Movenpick",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 136,
+            "text": "*Ilustrasi aturcara perjalanan haji di atas adalah bagi penerbangan carter KUL-JED-MED-KUL. Hal ini tertakluk kepada perubahan berdasarkan agihan penerbangan yang diberikan oleh Tabung Haji",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 136,
+            "text": "*Ilustrasi aturcara perjalanan haji di atas adalah bagi penerbangan carter KUL-JED-MED-KUL",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 137,
+            "text": "Tiket Haramain Speed Train sehala ke Makkah/Madinah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "3 kali sehari: Makkah buffet antarabangsa (International Buffet) bertaraf 5 bintang; Madinah Far East buffet; Aziziyah buffet Melayu",
+        "evidence": [
+          {
+            "pdfPage": 135,
+            "text": "Sajian bertaraf 5 bintang 3 kali sehari (International Buffet) dengan juadah dari pelbagai negara termasuk menu Melayu.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 135,
+            "text": "Sajian makanan Far East 3 kali sehari secara buffet.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 135,
+            "text": "Sajian buffet Melayu 3 kali sehari, menepati citarasa Malaysia.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Harga tertakluk kepada perubahan dan kekosongan bilik (terma hlm. 137)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Jumeirah Jabal Omar Makkah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": false,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke perkarangan Masjidil Haram",
+          "meals": "3 kali sehari (International Buffet)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 135,
+              "text": "JUMEIRAH JABAL OMAR MAKKAH — HOTEL TERBARU BERTARAF 5 BINTANG — 45 Meter ke perkarangan Masjidil Haram (*Penentuan jarak hotel ini adalah mengikut ketetapan Tabung Haji (TH))",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 134,
+              "text": "HANYA 45 METER* KE DATARAN MASJIDIL HARAM",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Manazil Al-Maqam",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "Sebelum operasi masyair dan 10-15 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 500,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Kompleks Jamarat",
+          "meals": "Buffet Melayu 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 135,
+              "text": "MANAZIL AL-MAQAM — AZIZIYAH — Dekat dengan Kompleks Jamarat — 500 Meter ke Kompleks Jamarat",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 135,
+              "text": "TERMASUK PENGINAPAN AZIZIYAH 4-5 ORANG SEBILIK BERASINGAN LELAKI & WANITA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Hotel Jumeirah Jabal Omar",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": "15 Zulhijjah (kembali ke Makkah)",
+          "nightCount": null,
+          "distanceM": 45,
+          "distanceIsApproximate": false,
+          "distanceReference": "haram_courtyard",
+          "distanceReferenceAsPublished": "Ke perkarangan Masjidil Haram",
+          "meals": "3 kali sehari (International Buffet)",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 136,
+              "text": "10 KEMBALI KE MAKKAH HOTEL JUMEIRAH JABAL OMAR — 15 Zulhijjah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 4,
+          "hotelNameAsPublished": "Mövenpick Anwar Al-Madinah",
+          "orEquivalent": false,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 20,
+          "distanceIsApproximate": false,
+          "distanceReference": "nabawi_courtyard",
+          "distanceReferenceAsPublished": "Ke perkarangan Masjidin Nabawi",
+          "meals": "Far East buffet 3 kali sehari",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 135,
+              "text": "MÖVENPICK ANWAR AL-MADINAH — Hotel paling dekat ke Masjid Nabawi — 20 Meter ke perkarangan Masjidin Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Penginapan Aziziyah 4-5 orang sebilik berasingan lelaki & wanita",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 135,
+              "text": "TERMASUK PENGINAPAN AZIZIYAH 4-5 ORANG SEBILIK BERASINGAN LELAKI & WANITA",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tarwiyah di Mina pada 8 Zulhijjah",
+          "condition": "Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa",
+          "evidence": [
+            {
+              "pdfPage": 136,
+              "text": "Bergerak dan bermalam di MINA pada 08 ZULHIJJAH (Tertakluk kepada kebenaran pihak Muassasah dan keadaan semasa)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kuliah harian berkitab sepanjang di Tanah Suci",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 136,
+              "text": "KULIAH HARIAN — Pengajian harian berkitab secara konsisten sepanjang di Tanah Suci",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Majlis makan malam dan Mahabbah Haji",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 136,
+              "text": "Majlis Makan Malam dan Mahabbah Haji.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Taif",
+          "condition": "Bergantung kepada kelulusan TH",
+          "evidence": [
+            {
+              "pdfPage": 136,
+              "text": "Ziarah Taif (bergantung kepada kelulusan TH).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Kursus haji perdana",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "PERKHIDMATAN TAMBAHAN LAIN YANG DITAWARKAN: Kursus haji perdana.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "5 kali umrah tambahan",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "5 kali umrah tambahan.",
+              "status": "transcribed"
+            },
+            {
+              "pdfPage": 136,
+              "text": "Pelaksanaan 5 kali umrah tambahan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Pelan insuran berkumpulan komprehensif (takaful ikhlas)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "Pelan insuran berkumpulan komprehensif (takaful ikhlas).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah standard Makkah & Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "Ziarah standard Makkah & Madinah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah tambahan ke Taif, mendaki Gua Hira' dan Muzium Wahyu",
+          "condition": "Jika dibenarkan",
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "Ziarah tambahan ke Taif, mendaki Gua Hira' dan Muzium Wahyu (jika dibenarkan).",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Tiket Haramain Speed Train sehala ke Makkah/Madinah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "Tiket Haramain Speed Train sehala ke Makkah/Madinah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Lebih 20 cenderahati premium & eksklusif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 137,
+              "text": "LEBIH 20 CENDERAHATI PREMIUM & EKSKLUSIF — Dari set bagasi, pakaian, hingga kelengkapan kecil",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "WIRA 1",
+          "codeIsInternal": false,
+          "priceSen": 5497000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "5 Makkah orang sebilik | 4 Madinah orang sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 135,
+              "text": "WIRA 1 — 5 MAKKAH ORANG SEBILIK | 4 MADINAH ORANG SEBILIK — RM 54,970",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "WIRA 2",
+          "codeIsInternal": false,
+          "priceSen": 5997000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "4 Makkah orang sebilik | 4 Madinah orang sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 135,
+              "text": "WIRA 2 — 4 MAKKAH ORANG SEBILIK | 4 MADINAH ORANG SEBILIK — RM 59,970",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "WIRA 3",
+          "codeIsInternal": false,
+          "priceSen": 6997000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "3 Makkah orang sebilik | 3 Madinah orang sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 135,
+              "text": "WIRA 3 — 3 MAKKAH ORANG SEBILIK | 3 MADINAH ORANG SEBILIK — RM 69,970",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "WIRA 4",
+          "codeIsInternal": false,
+          "priceSen": 7997000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_stated",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "2 Makkah orang sebilik | 2 Madinah orang sebilik",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 135,
+              "text": "WIRA 4 — 2 MAKKAH ORANG SEBILIK | 2 MADINAH ORANG SEBILIK — RM 79,970",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "wira-saujana-aziziyah-bilik-berdua",
+      "packageIds": ["wira-saujana-haji-premium-jumeirah"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Naik taraf ke bilik ber-dua di Aziziyah",
+      "priceSen": 600000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "First come, first serve basis. Asas caj (seorang/sebilik) tidak dicetak secara jelas; ditafsir seorang.",
+      "evidence": [
+        {
+          "pdfPage": 135,
+          "text": "*TAMBAHAN RM6,000 UNTUK NAIKTARAF KE BILIK BER-DUA DI AZIZIAH (FIRST COME, FIRST SERVE BASIS)",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "wira-saujana-bayaran-haji-pjh",
+      "packageIds": ["wira-saujana-haji-premium-jumeirah"],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 135,
+          "text": "Harga pakej haji adalah termasuk bayaran haji PJH 1448H/2027M sebanyak RM23,398 yang akan didebitkan dari akaun TH jemaah haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "wira-saujana-caj-tambahan-th",
+      "packageIds": ["wira-saujana-haji-premium-jumeirah"],
+      "description": "Caj tambahan jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 135,
+          "text": "Walau bagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "wira-saujana-kos-pembatalan-selepas-visa",
+      "packageIds": ["wira-saujana-haji-premium-jumeirah"],
+      "description": "Kos-kos yang terlibat jika pakej dibatalkan setelah jadual penerbangan dan visa disahkan (ditolak daripada refund)",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 137,
+          "text": "sebarang pembatalan pakej setelah jadual penerbangan dan visa telah disahkan tertakluk kepada penolakan kos-kos yang terlibat secara langsung atau tidak langsung bagi proses dan jumlah refund.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga 'dari RM54,970' pada muka depan",
+      "reason": "Ulangan varian WIRA 1, bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 134,
+          "text": "HARGA DARI RM 54,970 — PAKEJ HAJI PREMIUM HARGA EKONOMI",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": "wira-saujana-haji-premium-jumeirah",
+      "field": "masyair/pmnStatus",
+      "note": "Jenis khemah Mina/Arafah (Muaisim atau PMN) dan status PMN tidak dinyatakan di mana-mana halaman 134-137.",
+      "pages": [134, 135, 136, 137]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "wira-saujana-haji-premium-jumeirah",
+      "field": "flightClass/trainClass",
+      "note": "Kelas penerbangan dan kelas kereta api Haramain tidak dinyatakan; hanya ilustrasi carter KUL-JED-MED-KUL dan 'tiket Haramain Speed Train sehala'.",
+      "pages": [136, 137]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "wira-saujana-haji-premium-jumeirah",
+      "field": "inclusions",
+      "note": "Senarai di hlm. 137 bertajuk 'Perkhidmatan tambahan lain yang ditawarkan'; tidak dinyatakan secara jelas sama ada semuanya termasuk dalam harga pakej.",
+      "pages": [137]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "wira-saujana-haji-premium-jumeirah",
+      "field": "upgrades.aziziyah-bilik-berdua.basis",
+      "note": "Caj RM6,000 naik taraf bilik berdua Aziziyah tidak menyatakan seorang atau sebilik; direkod per_person.",
+      "pages": [135]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "wira-saujana-haji-premium-jumeirah",
+      "field": "stays.distanceReference",
+      "note": "Jarak Jumeirah dinyatakan '45 meter ke perkarangan Masjidil Haram' (hlm. 135) dan '45 meter* ke dataran Masjidil Haram' (hlm. 134); penentuan jarak mengikut ketetapan TH.",
+      "pages": [134, 135]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.licenceEvidence",
+      "note": "Teks lesen di muka depan terlalu kecil/kabur; nombor lesen diambil dari hlm. 137 yang jelas.",
+      "pages": [134, 137]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 134-137.",
+      "pages": [134, 135, 136, 137]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [137]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-H",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan zum bagi teks kecil (lesen, nota Aziziyah, nota jarak).",
+    "independentCheck": null
+  }
+}

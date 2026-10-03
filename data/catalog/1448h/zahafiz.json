@@ -1,0 +1,1615 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "zahafiz",
+    "label": "Zahafiz",
+    "name": "Zahafiz Travel & Tours",
+    "legalName": "Zahafiz Travel & Tours Sdn Bhd",
+    "website": "www.zahafiztravel.com",
+    "publicContact": "Admin HQ (Shah Alam) 03-5549 1549 / 03-5542 3004; 012-238 9544 (Hotline); zahafiz_haji@yahoo.com",
+    "licenceNumberAsPublished": null,
+    "licenceEvidence": [
+      {
+        "pdfPage": 138,
+        "text": "NO LESEN HAJI PJH: PJH3?/1448H (199601015609) (KPL/LN 3557) — digit kedua nombor lesen tidak boleh dibaca",
+        "status": "unclear"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Jika pakej pilihan utama tiada kekosongan atau tidak cukup regu, bakal haji ditawarkan pakej alternatif yang setaraf; keutamaan kepada jemaah terpilih awal yang mendaftar awal.",
+        "evidence": [
+          {
+            "pdfPage": 141,
+            "text": "Sekiranya pakej pilihan utama tiada kekosongan pada masa tempahan disahkan atau tidak cukup regu di akhir penyusunan bilik penginapan, bakal haji akan ditawarkan untuk menerima pakej-pakej pilihan alternatif yang setaraf",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Harga tertakluk kepada perubahan kadar mata wang, surcaj bahan api, cukai tempat duduk, kekosongan bilik dan faktor lain.",
+        "evidence": [
+          {
+            "pdfPage": 141,
+            "text": "Harga yang dinyatakan dalam brosur atau laman web adalah tertakluk kepada perubahan berdasarkan perubahan kadar mata wang, surcaj bahan api, cukai tempat duduk, kekosongan bilik, dan faktor-faktor lain.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Tarikh dan syarikat penerbangan tertakluk kepada TH dan syarikat penerbangan; tempoh di Tanah Suci bergantung kepada jadual penerbangan TH.",
+        "evidence": [
+          {
+            "pdfPage": 141,
+            "text": "Tarikh dan syarikat penerbangan adalah tertakluk kepada yang disediakan oleh tabung haji dan syarikat penerbangan yang terlibat. Tempoh masa jemaah berada di tanah suci adalah bergantung kepada jadual penerbangan yang disusun oleh tabung haji.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: 5% (selepas bayaran pakej), 20% (selepas jadual penerbangan dikeluarkan), 40% (selepas jadual penerbangan dikeluarkan dan visa diperuntukkan) daripada harga pakej setelah ditolak Bayaran Haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 141,
+            "text": "KATEGORI 1 5% ... setelah membuat bayaran pakej haji; KATEGORI 2 20% ... setelah jadual penerbangan haji dikeluarkan; KATEGORI 3 40% ... setelah jadual penerbangan haji dikeluarkan dan visa haji diperuntukan.",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [138, 141],
+    "pagesReviewed": [138, 139, 140, 141],
+    "pageNotes": [
+      {
+        "pdfPage": 138,
+        "content": "Muka depan + Pakej C Sawaed (ZTC5-ZTC24), Aziziyah Rahaf Al-Mashaer, naik taraf bilik Aziziyah, Business Class, PMN ±RM10,000, Bayaran Haji PJH RM23,398; lesen kabur."
+      },
+      {
+        "pdfPage": 139,
+        "content": "Pakej B Mira (ZTB5-ZTB24), Pakej B Safwah (ZTS4-ZTS2), Pakej A Movenpick (ZTA4-ZTA2, Khemah PMN)."
+      },
+      {
+        "pdfPage": 140,
+        "content": "Kenapa pilih Zahafiz; perkhidmatan naik taraf berbayar (PMN kecuali Pakej A, GMC RM1500, bilik berdua Madinah ±RM3000, HHSR kelas perniagaan ±RM400, balik awal/lewat); senarai cenderahati."
+      },
+      {
+        "pdfPage": 141,
+        "content": "Terma & syarat, denda pembatalan 5%/20%/40%, hubungan dan akaun bank. Tiada harga."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "zahafiz-pakej-c-sawaed",
+      "name": "Pakej C Sawaed",
+      "series": "Pakej C",
+      "tierLabel": "C",
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "TEMPOH : ±40 (Mekah ±35 Hari | Madinah ±5 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": [4, 5],
+        "defaultArrangementNote": "Penginapan di Aziziyah disusun secara ber-4/5 mengikut jantina.",
+        "dateLabel": "Terus ke Aziziyah; masuk Makkah 16 Zulhijjah",
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "Terus ke Aziziyah . Masuk Makkah 16 Zulhijjah",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 138,
+            "text": "Penginapan di Aziziyah akan disusun secara ber-4/5 mengikut jantina",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim PJH; pilihan naik taraf PMN (±RM10,000).",
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "KHEMAH : Khemah Muassim PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": "Terus ke Aziziyah, masuk Makkah 16 Zulhijjah, kemudian Madinah (±5 hari).",
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "Terus ke Aziziyah . Masuk Makkah 16 Zulhijjah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "PENERBANGAN: Carter Tabung Haji (KT) Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "TRAIN (SEHALA) : Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Aziziyah, Makkah, Madinah: 3X sehari (Fullboard) masakan Asia",
+        "evidence": [
+          {
+            "pdfPage": 138,
+            "text": "AZIZIYAH: 3X Sehari (Fullboard) Masakan Asia; MAKKAH: 3X Sehari (Fullboard) Masakan Asia; MADINAH : 3X Sehari (Fullboard) Masakan Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kepada kekosongan; pakej alternatif setaraf ditawarkan jika tiada kekosongan (terma hlm. 141)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "aziziyah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Rahaf Al-Mashaer @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "Terus ke Aziziyah hingga 16 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 480,
+          "distanceIsApproximate": true,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Ke Dataran Jamrah",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 138,
+              "text": "HOTEL AZIZIYAH — RAHAF AL-MASHAER @ SETARAF — Jarak ± 480m ke Dataran Jamrah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "makkah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Sawaed Al Khair @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": "Masuk Makkah 16 Zulhijjah",
+          "nightCount": null,
+          "distanceM": 380,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjidil Haram",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 138,
+              "text": "HOTEL MEKAH — SAWAED AL KHAIR @ SETARAF — Jarak ± 380m ke Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "Safwat Al Madinah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjid Nabawi",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 138,
+              "text": "HOTEL MADINAH — SAFWAT AL MADINAH @ SETARAF — Jarak ± 180m ke Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 138,
+              "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Penginapan di Aziziyah (ber-4/5 mengikut jantina)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 138,
+              "text": "Penginapan di Aziziyah akan disusun secara ber-4/5 mengikut jantina",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZTC5",
+          "codeIsInternal": false,
+          "priceSen": 4790000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-5 RM47,900 ZTC5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTC4",
+          "codeIsInternal": false,
+          "priceSen": 4990000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-4 RM49,900 ZTC4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTC3",
+          "codeIsInternal": false,
+          "priceSen": 5190000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-3 RM51,900 ZTC3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTC2",
+          "codeIsInternal": false,
+          "priceSen": 6390000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-2 RM63,900 ZTC2",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTC23",
+          "codeIsInternal": false,
+          "priceSen": 6490000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2 (Katil 3)",
+          "notes": "Label '(Katil 3)'/'(Katil 4)' dicetak sangat kecil dan kabur; maksud (2 orang dalam bilik 3/4 katil) tidak dinyatakan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-2 (Katil 3) RM64,900 ZTC23",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTC24",
+          "codeIsInternal": false,
+          "priceSen": 6790000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2 (Katil 4)",
+          "notes": "Label '(Katil 3)'/'(Katil 4)' dicetak sangat kecil dan kabur; maksud (2 orang dalam bilik 3/4 katil) tidak dinyatakan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 138,
+              "text": "Bilik Ber-2 (Katil 4) RM67,900 ZTC24",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-pakej-b-mira",
+      "name": "Pakej B Mira",
+      "series": "Pakej B",
+      "tierLabel": "B",
+      "duration": {
+        "value": 40,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TEMPOH : ±40 (Mekah ±35 Hari | Madinah ±5 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Pakej dinyatakan 'terus masuk Makkah'; tiada hotel Aziziyah disenaraikan.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "Pakej terus masuk Makkah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim PJH; pilihan naik taraf PMN (±RM10,000).",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "KHEMAH : Khemah Muassim PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "PENERBANGAN: Carter Tabung Haji (KT) Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TRAIN (SEHALA) : Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah, Madinah: 3X sehari (Fullboard) masakan Asia",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "MAKKAH: 3X Sehari (Fullboard) Masakan Asia; MADINAH : 3X Sehari (Fullboard) Masakan Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kepada kekosongan; pakej alternatif setaraf ditawarkan jika tiada kekosongan (terma hlm. 141)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Mira Ajyad @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 400,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjidil Haram",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MAKKAH — MIRA AJYAD @ SETARAF — Jarak ±400m Ke Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Leader Al-Muna Kareem @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 180,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjid Nabawi",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MADINAH — LEADER AL-MUNA KAREEM @ SETARAF — Jarak ± 180m Ke Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pakej terus masuk Makkah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Pakej terus masuk Makkah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZTB5",
+          "codeIsInternal": false,
+          "priceSen": 6090000,
+          "currency": "MYR",
+          "makkahOccupancy": 5,
+          "madinahOccupancy": 5,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-5",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-5 RM60,900 ZTB5",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTB4",
+          "codeIsInternal": false,
+          "priceSen": 6290000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-4 RM62,900 ZTB4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTB3",
+          "codeIsInternal": false,
+          "priceSen": 6790000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-3 RM67,900 ZTB3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTB2",
+          "codeIsInternal": false,
+          "priceSen": 7490000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-2 RM74,900 ZTB2",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTB23",
+          "codeIsInternal": false,
+          "priceSen": 7590000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2 (Katil 3)",
+          "notes": "Label '(Katil 3)'/'(Katil 4)' dicetak sangat kecil dan kabur; maksud (2 orang dalam bilik 3/4 katil) tidak dinyatakan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-2 (Katil 3) RM75,900 ZTB23",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTB24",
+          "codeIsInternal": false,
+          "priceSen": 7790000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2 (Katil 4)",
+          "notes": "Label '(Katil 3)'/'(Katil 4)' dicetak sangat kecil dan kabur; maksud (2 orang dalam bilik 3/4 katil) tidak dinyatakan.",
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-2 (Katil 4) RM77,900 ZTB24",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-pakej-b-safwah",
+      "name": "Pakej B Safwah",
+      "series": "Pakej B",
+      "tierLabel": "B",
+      "duration": {
+        "value": 28,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TEMPOH : ±28 (Mekah ±24 Hari | Madinah ±4 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Pakej dinyatakan 'terus masuk Makkah'; tiada hotel Aziziyah disenaraikan.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "Pakej terus masuk Makkah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Muassim PJH; pilihan naik taraf PMN (±RM10,000).",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "KHEMAH : Khemah Muassim PJH",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "PENERBANGAN: Carter Tabung Haji (KT) Kelas Ekonomi / Komersial",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TRAIN (SEHALA) : Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah, Madinah: 3X sehari (Fullboard) masakan Asia",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "MAKKAH: 3X Sehari (Fullboard) Masakan Asia; MADINAH : 3X Sehari (Fullboard) Masakan Asia",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kepada kekosongan; pakej alternatif setaraf ditawarkan jika tiada kekosongan (terma hlm. 141)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Safwah Tower 3 @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjidil Haram",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MAKKAH — SAFWAH TOWER 3 @ SETARAF — Jarak ± 60m Ke Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "Grand Millennium Al-Haram @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 100,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjid Nabawi",
+          "meals": "3X sehari (Fullboard) masakan Asia",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MADINAH — GRAND MILLENNIUM AL-HARAM @ SETARAF — Jarak ±100m Ke Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pakej terus masuk Makkah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Pakej terus masuk Makkah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Permohonan balik awal tanpa kos tambahan jika tarikh TH melebihi tempoh pakej",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Syarikat akan membuat permohonan balik awal sekiranya tarikh yang diberikan oleh TH adalah melebihi tempoh pakej tanpa kos tambahan",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZTS4",
+          "codeIsInternal": false,
+          "priceSen": 9590000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-4 RM95,900 ZTS4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTS3",
+          "codeIsInternal": false,
+          "priceSen": 10390000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-3 RM103,900 ZTS3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTS2",
+          "codeIsInternal": false,
+          "priceSen": 12090000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-2 RM120,900 ZTS2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-pakej-a-movenpick",
+      "name": "Pakej A Movenpick",
+      "series": "Pakej A",
+      "tierLabel": "A",
+      "duration": {
+        "value": 22,
+        "min": null,
+        "max": null,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TEMPOH : ±22 (Mekah ±19 Hari | Madinah ±3 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "travelDates": {
+        "label": null,
+        "evidence": []
+      },
+      "tarwiyah": {
+        "status": "not_stated",
+        "condition": null,
+        "description": null,
+        "evidence": []
+      },
+      "aziziyah": {
+        "status": "not_stated",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Pakej dinyatakan 'terus masuk Makkah'; tiada hotel Aziziyah disenaraikan.",
+        "dateLabel": null,
+        "nightCount": null,
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "Pakej terus masuk Makkah",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "pmn",
+        "description": "Khemah PMN (±RM10,000). Khemah Arafah dengan dewan solat khas, tandas khas, bilik istirehat, buffet Melayu; khemah Mina berdekatan bangunan melontar; bas sewa khas sepanjang hari tasyrik; pilihan pulang ke Makkah dengan bas sewa khas 10, 11 dan 12 Zulhijjah (Nafar Awal).",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "KHEMAH : Khemah PMN ±RM10,000",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 139,
+            "text": "Keistimewaan Khemah PMN: Khemah Arafah dengan dewan solat khas, tandas khas dan bilik istirehat serta makanan buffet sajian Melayu; Khemah Mina berdekatan dengan bangunan melontar; Bas sewa khas sepanjang hari tasyrik; Pilihan jemaah untuk pulang ke Makkah dengan bas sewa khas untuk 10,11 dan 12 Zulhijjah (Nafar Awal)",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 140,
+            "text": "Perkhidmatan masya'ir naik taraf (PMN) disediakan secara pilihan dengan bayaran tambahan kecuali untuk Pakej A",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "relocations": {
+        "count": null,
+        "note": null,
+        "evidence": []
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "PENERBANGAN: Carter Tabung Haji (KT) Kelas Ekonomi / Komersial",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "economy",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "TRAIN (SEHALA) : Kelas Ekonomi",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Makkah, Madinah: 3X sehari (Fullboard) \"International Buffet\"",
+        "evidence": [
+          {
+            "pdfPage": 139,
+            "text": "MAKKAH: 3X Sehari (Fullboard) \"International Buffet\"; MADINAH : 3X Sehari (Fullboard) \"International Buffet\"",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": "Tertakluk kepada kekosongan; pakej alternatif setaraf ditawarkan jika tiada kekosongan (terma hlm. 141)."
+      },
+      "unresolvedConflicts": [],
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "Hajar Movenpick @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjidil Haram",
+          "meals": "3X sehari (Fullboard) International Buffet",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MAKKAH — HAJAR MOVENPICK @ SETARAF (5 bintang) — Jarak ±80m Ke Dataran Masjidil Haram",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 2,
+          "hotelNameAsPublished": "The Biltmore Al Madinah @ Setaraf",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 15,
+          "distanceIsApproximate": true,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Ke Dataran Masjid Nabawi",
+          "meals": "3X sehari (Fullboard) International Buffet",
+          "roomSizeSqm": null,
+          "privateBathroom": null,
+          "privateForBookingGroup": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "HOTEL MADINAH — THE BILTMORE AL MADINAH @ SETARAF (3 bintang) — Jarak ± 15m Ke Dataran Masjid Nabawi",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Pakej terus masuk Makkah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Pakej terus masuk Makkah",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "Keretapi sehala ke Madinah termasuk pengurusan bagasi",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Khemah PMN dengan keistimewaan (dewan solat khas Arafah, khemah Mina berdekatan bangunan melontar, bas sewa khas hari tasyrik)",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 139,
+              "text": "KHEMAH : Khemah PMN ±RM10,000",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "exclusions": [],
+      "variants": [
+        {
+          "code": "ZTA4",
+          "codeIsInternal": false,
+          "priceSen": 15990000,
+          "currency": "MYR",
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-4 RM159,900 ZTA4",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTA3",
+          "codeIsInternal": false,
+          "priceSen": 16990000,
+          "currency": "MYR",
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-3 RM169,900 ZTA3",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "ZTA2",
+          "codeIsInternal": false,
+          "priceSen": 17990000,
+          "currency": "MYR",
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "Bilik Ber-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 139,
+              "text": "Bilik Ber-2 RM179,900 ZTA2",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "zahafiz-aziziyah-bilik-berdua",
+      "packageIds": ["zahafiz-pakej-c-sawaed"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Upgrade bilik ber-2 di Aziziyah",
+      "priceSen": 800000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "Pilihan untuk upgrade bilik ber-2 di Aziziyah :- RM8000/Pax *Tertakluk kepada kekosongan",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-aziziyah-bilik-bertiga",
+      "packageIds": ["zahafiz-pakej-c-sawaed"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "aziziyah_room",
+      "description": "Upgrade bilik ber-3 di Aziziyah",
+      "priceSen": 400000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 3,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "Pilihan untuk upgrade bilik ber-3 di Aziziyah :- RM4000/Pax *Tertakluk kepada kekosongan",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-naik-taraf-pmn",
+      "packageIds": ["zahafiz-pakej-c-sawaed", "zahafiz-pakej-b-mira", "zahafiz-pakej-b-safwah"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Perkhidmatan masyair naik taraf (PMN)",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Amaun dicetak sebagai '±RM10 000' (anggaran); asas seorang tidak dicetak. Disediakan secara pilihan dengan bayaran tambahan kecuali Pakej A.",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "Pilihan Masyair: Pilihan untuk perkhidmatan naik taraf (PMN) : (±RM10 000)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 139,
+          "text": "Pilihan Masyair: Pilihan untuk perkhidmatan naik taraf (PMN) : (±RM10 000) (Pakej B Mira dan B Safwah)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 140,
+          "text": "Perkhidmatan masya'ir naik taraf (PMN) disediakan secara pilihan dengan bayaran tambahan kecuali untuk Pakej A",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-penerbangan-business-class",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Pilihan penerbangan Business Class (termasuk airport transfer)",
+      "priceSen": 1800000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk kepada kekosongan",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "Pilihan Penerbangan Business Class :- RM18000/Pax *Tertakluk kepada kekosongan (Termasuk airport transfer)",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 139,
+          "text": "Pilihan Penerbangan Business Class :- RM18000/Pax *Tertakluk kepada kekosongan (Termasuk airport transfer) (B Mira, B Safwah, A Movenpick)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-gmc-ke-madinah",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Kenderaan GMC sehala ke Madinah secara berkongsi",
+      "priceSen": 150000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Secara berkongsi",
+      "evidence": [
+        {
+          "pdfPage": 140,
+          "text": "Bagi yang memilih untuk menaiki GMC ke Madinah sehala, tambahan bayaran dikenakan RM1500/Pax secara berkongsi",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 139,
+          "text": "Pilihan kenderaan GMC ke Madinah dengan bayaran RM1500/ Pax secara berkongsi (Pakej A)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-madinah-bilik-berdua",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "applicableVariantCodes": [
+        "ZTC5",
+        "ZTC4",
+        "ZTC3",
+        "ZTB5",
+        "ZTB4",
+        "ZTB3",
+        "ZTS4",
+        "ZTS3",
+        "ZTA4",
+        "ZTA3"
+      ],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Bilik 2 orang sebilik semasa di Madinah bagi jemaah yang memilih 3-5 orang sebilik",
+      "priceSen": 300000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": 2,
+      "availability": "inquiry_required",
+      "condition": "Tertakluk pada kekosongan bilik. Amaun dicetak sebagai '±RM3000' (anggaran); asas seorang tidak dicetak.",
+      "evidence": [
+        {
+          "pdfPage": 140,
+          "text": "Bagi yang memilih 3-5 orang sebilik dan ingin memohon 2 orang sebilik semasa di Madinah akan disediakan dengan kos tambahan tertakluk pada kekosongan bilik (±RM3000)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-kereta-api-kelas-perniagaan",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "other",
+      "description": "Kereta api Haramain (HHSR) kelas perniagaan",
+      "priceSen": 40000,
+      "basis": "per_person",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Mengikut harga semasa dan kekosongan tempat duduk. Amaun dicetak sebagai '±RM400' (anggaran); asas seorang tidak dicetak.",
+      "evidence": [
+        {
+          "pdfPage": 140,
+          "text": "Kereta api (HHSR) kelas perniagaan mengikut harga semasa dan kekosongan tempat duduk. (±RM400)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-sajian-far-east-makkah",
+      "packageIds": ["zahafiz-pakej-b-safwah"],
+      "applicableVariantCodes": [],
+      "includedInVariantCodes": [],
+      "kind": "meal",
+      "description": "Naik taraf sajian penuh Far East di Makkah",
+      "priceSen": 20000,
+      "basis": "per_night",
+      "nightCount": null,
+      "resultingOccupancy": null,
+      "availability": "inquiry_required",
+      "condition": "Harga ±RM200/hari bermula 16 Zulhijjah (anggaran); asas seorang tidak dicetak.",
+      "evidence": [
+        {
+          "pdfPage": 139,
+          "text": "Naik taraf sajian penuh Far east di Makkah dengan tambahan bayaran (harga ±RM200/hari bermula 16 Zulhijjah)",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "charges": [
+    {
+      "id": "zahafiz-bayaran-haji-pjh",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "HARGA PAKEJ HAJI ADALAH TERMASUK BAYARAN HAJI PJH 1448H/2027M SEBANYAK RM23,398 YANG AKAN DIDEBITKAN DARI AKAUN TH JEMAAH HAJI PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-caj-tambahan-th",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "description": "Caj tambahan jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "WALAU BAGAIMANAPUN, TH BERHAK UNTUK MENGENAKAN CAJ TAMBAHAN JIKA BERLAKU PENAMBAHAN KOS ATAU PENGENALAN KOS BAHARU OLEH PIHAK BERAUTORITI/BERKUASA DI ARAB SAUDI.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-caj-pmn-pakej-a",
+      "packageIds": ["zahafiz-pakej-a-movenpick"],
+      "description": "Khemah PMN (nilai dicetak ±RM10,000; PMN termasuk untuk Pakej A)",
+      "priceSen": 1000000,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 139,
+          "text": "KHEMAH : Khemah PMN ±RM10,000",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 140,
+          "text": "PMN disediakan secara pilihan dengan bayaran tambahan kecuali untuk Pakej A",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-balik-awal-lewat",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "description": "Bayaran tambahan (pengangkutan, penginapan & makan) bagi jemaah yang hendak balik awal atau lewat dari jadual asal",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 140,
+          "text": "Bagi jemaah yang hendak balik awal atau lewat dari jadual asal akan dikenakan bayaran tambahan (Pengangkutan, penginapan, & makan)",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "zahafiz-penerbangan-komersial",
+      "packageIds": [
+        "zahafiz-pakej-c-sawaed",
+        "zahafiz-pakej-b-mira",
+        "zahafiz-pakej-b-safwah",
+        "zahafiz-pakej-a-movenpick"
+      ],
+      "description": "Jemaah yang ingin menaiki penerbangan komersial mesti memilih kelas perniagaan atau kelas pertama dengan bayaran tambahan",
+      "priceSen": null,
+      "basis": "per_person",
+      "nightCount": null,
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 140,
+          "text": "Jemaah yang ingin menaiki penerbangan komersial mestilah memilih penerbangan kelas perniagaan atau pertama dengan bayaran tambahan.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [
+    {
+      "description": "Harga tajuk pakej (RM47,900 ZTC5; RM60,900 ZTB5; RM95,900 ZTS4; RM159,900 ZTA4)",
+      "reason": "Ulangan varian sedia ada dalam jadual harga, bukan pakej tambahan",
+      "countsAsVariant": false,
+      "evidence": [
+        {
+          "pdfPage": 138,
+          "text": "RM 47,900 Bilik Ber 5 ZTC5",
+          "status": "transcribed"
+        },
+        {
+          "pdfPage": 139,
+          "text": "RM 60,900 Bilik Ber 5 ZTB5; RM 95,900 Bilik Ber 4 ZTS4; RM 159,900 Bilik Ber 4 ZTA4",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "pjh.licenceNumberAsPublished",
+      "note": "Nombor lesen dicetak 'PJH3?/1448H' tetapi digit kedua kabur walaupun pada 500 dpi; dibiarkan null.",
+      "pages": [138]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "tarwiyah",
+      "note": "Tarwiyah tidak dinyatakan untuk mana-mana pakej dalam halaman 138-141.",
+      "pages": [138, 139, 140, 141]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "variants.roomLabelAsPublished",
+      "note": "Varian ZTC23/ZTC24/ZTB23/ZTB24 berlabel 'Bilik Ber-2 (Katil 3)/(Katil 4)' dalam teks sangat kecil dan kabur; direkod sebagai 2 orang sebilik. Perlu pengesahan maksud dengan PJH.",
+      "pages": [138, 139]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah",
+      "note": "Pakej B Mira, B Safwah dan A Movenpick dinyatakan 'terus masuk Makkah' tanpa hotel Aziziyah; status Aziziyah direkod not_stated kerana tidak dinyatakan secara jelas sebagai tidak termasuk.",
+      "pages": [139]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass",
+      "note": "Pakej B Safwah dan A Movenpick: 'Carter Tabung Haji (KT) Kelas Ekonomi / Komersial' — kelas tidak muktamad.",
+      "pages": [139]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "upgrades.priceSen",
+      "note": "PMN (±RM10,000), bilik berdua Madinah (±RM3,000), HHSR kelas perniagaan (±RM400) dan sajian Far East (±RM200/hari) ialah anggaran '±'; direkod pada nilai nominal.",
+      "pages": [138, 139, 140]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": "zahafiz-pakej-a-movenpick",
+      "field": "charges.caj-pmn-pakej-a",
+      "note": "'Khemah PMN ±RM10,000' untuk Pakej A ditafsir sebagai nilai PMN yang termasuk dalam harga (hlm. 140: PMN pilihan berbayar kecuali Pakej A).",
+      "pages": [139, 140]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
+      "note": "Tidak dinyatakan dalam halaman 138-141.",
+      "pages": [138, 139, 140, 141]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [138]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-H",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual imej halaman 1800 px + render semula 250 dpi (pdftoppm) dan potongan zum bagi teks kecil (jadual harga, Maklumat Penting, lesen pada 500 dpi).",
+    "independentCheck": null
+  }
+}

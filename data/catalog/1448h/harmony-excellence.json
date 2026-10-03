@@ -1,0 +1,1394 @@
+{
+  "schemaVersion": 1,
+  "seasonId": "1448H",
+  "pjh": {
+    "id": "harmony-excellence",
+    "label": "Harmony Excellence",
+    "name": "Harmony Excellence Holidays",
+    "legalName": "Harmony Excellence Holidays Sdn Bhd",
+    "website": "www.umrahharmony.com",
+    "publicContact": "010 885 3200; 019 348 2120; 013 729 2120",
+    "licenceNumberAsPublished": "PJH 15 / 1448H",
+    "licenceEvidence": [
+      {
+        "pdfPage": 62,
+        "text": "PJH 15 / 1448H — 1021644 U — KPK / LN 7118 (IOTU)",
+        "status": "transcribed"
+      }
+    ],
+    "terms": [
+      {
+        "text": "Tarikh penerbangan, bilangan hari dan jenis penerbangan tertakluk kepada ketetapan penerbangan carter haji TH dan syarikat penerbangan.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Bakal haji bertanggungjawab mencukupkan bayaran haji pada kadar bayaran haji jemaah muassasah atau kadar yang ditetapkan TH.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "2. Bakal haji bertanggungjawab mencukupkan bayaran haji pada kadar bayaran haji jemaah muassasah atau kadar bayaran haji yang ditetapkan oleh pihak TH.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Risalah hanya ringkasan; terma dan perincian penuh dalam buku tawaran pakej haji HEH.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "3. Risalah ini hanya ringkasan pakej sahaja. Terma dan syarat dan perincian penuh perlu dirujuk dalam buku tawaran pakej haji HEH bagi setiap jenis pakej yang diambil.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Deposit pendaftaran RM5,000 seorang; baki dimaklumkan secara berjadual.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Deposit pendaftaran adalah sebanyak RM 5,000/seorang. Bayaran hendaklah dibuat terus ke akaun rasmi Harmony Excellence Holidays Sdn Bhd. Baki pembayaran akan diberitahu secara berjadual.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      {
+        "text": "Denda pembatalan: Kategori 1 5%, Kategori 2 20%, Kategori 3 40% daripada harga pakej selepas ditolak bayaran haji PJH.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "KATEGORI 1 Denda pembatalan sebanyak 5% ... KATEGORI 2 ... 20% ... KATEGORI 3 ... 40% daripada harga pakej haji setelah ditolak bayaran haji PJH",
+            "status": "transcribed"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "pageRange": [
+      62,
+      63
+    ],
+    "pagesReviewed": [
+      62,
+      63
+    ],
+    "pageNotes": [
+      {
+        "pdfPage": 62,
+        "content": "Haji Harmony 1448H: 4 pakej (Prestige Ajyad HEH1–3, Safwah Lite HEH4–6, Safwah Standard HEH7–9, Safwah Premium HEH10–12), hotel & jarak, RM23,398 termasuk, lesen PJH 15/1448H."
+      },
+      {
+        "pdfPage": 63,
+        "content": "Makluman penting (khemah Muassim, Aziziyah berkelompok ikut jantina), kelebihan, Tarwiyah tertakluk kebenaran, syarat penerimaan, deposit RM5,000, pembatalan, 25 barangan."
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "harmony-excellence-prestige-ajyad",
+      "name": "Prestige Ajyad",
+      "series": "Haji Harmony 1448H",
+      "tierLabel": "Prestige Ajyad",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "PRESTIGE AJYAD (+- 40 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji",
+        "description": "Perjalanan haji secara Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "MELAKSANAKAN TARWIYAH 1. Perjalanan haji secara Tarwiyah ( tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji ).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "3. Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "1. Hotel di Aziziyah disediakan berhampiran kompleks Jamarat, tidak perlu bersesak di khemah Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Asia Tenggara (Muassim).",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "2. Khemah Asia Tenggara (Muassim) disediakan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK Haramain Speed Train sehala.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "7. Termasuk Haramain Speed Train (perjalanan sehala).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian makan penuh 3 kali sehari di hotel Makkah, Madinah & Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK sajian makan penuh 3 kali sehari.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "5. Sajian makan penuh di hotel Makkah, Madinah & Aziziyah 3 kali sehari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "PRESTIGE AL MASHAER HOTEL @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 430,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidil Haram",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MAKKAH - PRESTIGE AL MASHAER HOTEL @ SETARAF 430 M DARI MASJIDIL HARAM.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "NUZUL ARRAYYAN @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Kompleks Jamarat",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "AL ANSAR PLATINUM @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 200,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidin Nabawi",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MADINAH - AL ANSAR PLATINUM @ SETARAF 200 M DARI MASJIDIN NABAWI.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "TERMASUK Haramain Speed Train sehala.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "4 kali umrah tambahan; pengangkutan ke tempat miqat",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "3. 4 kali menunaikan umrah tambahan, pengangkutan ke tempat miqat disediakan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "4. Termasuk ziarah Kota Taif.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makan malam istimewa di Tanah Arab",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "6. Makan malam istimewa di Tanah Arab.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "9. Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Lebih 25 barangan signature Harmony",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "TERMASUK lebih 25 Barangan Signature Harmony",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "HEH 1",
+          "codeIsInternal": false,
+          "priceSen": 4990000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 1 RM 49,900 (BILIK BER-4)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 2",
+          "codeIsInternal": false,
+          "priceSen": 5490000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 2 RM 54,900 (BILIK BER-3)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 3",
+          "codeIsInternal": false,
+          "priceSen": 5990000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 3 RM 59,900 (BILIK BER-2)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "harmony-excellence-safwah-lite",
+      "name": "Safwah Lite",
+      "series": "Haji Harmony 1448H",
+      "tierLabel": "Lite",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "SAFWAH LITE (+- 40 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji",
+        "description": "Perjalanan haji secara Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "MELAKSANAKAN TARWIYAH 1. Perjalanan haji secara Tarwiyah ( tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji ).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "3. Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "1. Hotel di Aziziyah disediakan berhampiran kompleks Jamarat, tidak perlu bersesak di khemah Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Asia Tenggara (Muassim).",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "2. Khemah Asia Tenggara (Muassim) disediakan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK Haramain Speed Train sehala.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "7. Termasuk Haramain Speed Train (perjalanan sehala).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian makan penuh 3 kali sehari di hotel Makkah, Madinah & Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK sajian makan penuh 3 kali sehari.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "5. Sajian makan penuh di hotel Makkah, Madinah & Aziziyah 3 kali sehari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "AL SAFWAH HOTEL TOWER 3 @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidil Haram",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MAKKAH - AL SAFWAH HOTEL TOWER 3 @ SETARAF 60 M DARI MASJIDIL HARAM.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "NUZUL ARRAYYAN @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Kompleks Jamarat",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "AL ANSAR PLATINUM @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 200,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidin Nabawi",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MADINAH - AL ANSAR PLATINUM @ SETARAF 200 M DARI MASJIDIN NABAWI.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "TERMASUK Haramain Speed Train sehala.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "4 kali umrah tambahan; pengangkutan ke tempat miqat",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "3. 4 kali menunaikan umrah tambahan, pengangkutan ke tempat miqat disediakan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "4. Termasuk ziarah Kota Taif.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makan malam istimewa di Tanah Arab",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "6. Makan malam istimewa di Tanah Arab.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "9. Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Lebih 25 barangan signature Harmony",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "TERMASUK lebih 25 Barangan Signature Harmony",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "HEH 4",
+          "codeIsInternal": false,
+          "priceSen": 5590000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 4 RM 55,900 (BILIK BER-4)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 5",
+          "codeIsInternal": false,
+          "priceSen": 6090000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 5 RM 60,900 (BILIK BER-3)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 6",
+          "codeIsInternal": false,
+          "priceSen": 6590000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 6 RM 65,900 (BILIK BER-2)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "harmony-excellence-safwah-standard",
+      "name": "Safwah Standard",
+      "series": "Haji Harmony 1448H",
+      "tierLabel": "Standard",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "SAFWAH STANDARD (+- 40 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji",
+        "description": "Perjalanan haji secara Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "MELAKSANAKAN TARWIYAH 1. Perjalanan haji secara Tarwiyah ( tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji ).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "3. Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "1. Hotel di Aziziyah disediakan berhampiran kompleks Jamarat, tidak perlu bersesak di khemah Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Asia Tenggara (Muassim).",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "2. Khemah Asia Tenggara (Muassim) disediakan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK Haramain Speed Train sehala.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "7. Termasuk Haramain Speed Train (perjalanan sehala).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian makan penuh 3 kali sehari di hotel Makkah, Madinah & Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK sajian makan penuh 3 kali sehari.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "5. Sajian makan penuh di hotel Makkah, Madinah & Aziziyah 3 kali sehari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "AL SAFWAH HOTEL TOWER 3 @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 60,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidil Haram",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MAKKAH - AL SAFWAH HOTEL TOWER 3 @ SETARAF 60 M DARI MASJIDIL HARAM.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "NUZUL ARRAYYAN @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Kompleks Jamarat",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "ELAF TAIBAH HOTEL @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidin Nabawi",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MADINAH - ELAF TAIBAH HOTEL @ SETARAF 80 M DARI MASJIDIN NABAWI.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "TERMASUK Haramain Speed Train sehala.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "4 kali umrah tambahan; pengangkutan ke tempat miqat",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "3. 4 kali menunaikan umrah tambahan, pengangkutan ke tempat miqat disediakan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "4. Termasuk ziarah Kota Taif.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makan malam istimewa di Tanah Arab",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "6. Makan malam istimewa di Tanah Arab.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "9. Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Lebih 25 barangan signature Harmony",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "TERMASUK lebih 25 Barangan Signature Harmony",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "HEH 7",
+          "codeIsInternal": false,
+          "priceSen": 6590000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 7 RM 65,900 (BILIK BER-4)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 8",
+          "codeIsInternal": false,
+          "priceSen": 7090000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 8 RM 70,900 (BILIK BER-3)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 9",
+          "codeIsInternal": false,
+          "priceSen": 7590000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 9 RM 75,900 (BILIK BER-2)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "harmony-excellence-safwah-premium",
+      "name": "Safwah Premium",
+      "series": "Haji Harmony 1448H",
+      "tierLabel": "Premium",
+      "duration": {
+        "value": 40,
+        "approximate": true,
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "SAFWAH PREMIUM (+- 40 Hari)",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "tarwiyah": {
+        "status": "offered_subject_to_approval",
+        "condition": "Tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji",
+        "description": "Perjalanan haji secara Tarwiyah.",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "MELAKSANAKAN TARWIYAH 1. Perjalanan haji secara Tarwiyah ( tertakluk kepada kebenaran pihak Muassasah / Maktab & Tabung Haji ).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "aziziyah": {
+        "status": "included",
+        "condition": null,
+        "defaultOccupancies": null,
+        "defaultArrangementNote": "Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "3. Penginapan di Aziziyah bersifat berkelompok dan mengikut jantina.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "1. Hotel di Aziziyah disediakan berhampiran kompleks Jamarat, tidak perlu bersesak di khemah Muassim.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "masyair": {
+        "type": "muaisim",
+        "description": "Khemah Asia Tenggara (Muassim).",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "2. Khemah Asia Tenggara (Muassim) disediakan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "flightClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 63,
+            "text": "1. Tarikh penerbangan, bilangan hari dan jenis penerbangan adalah tertakluk kepada ketetapan penerbangan cater haji dari pihak Tabung Haji dan syarikat penerbangan.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "trainClass": {
+        "value": "not_stated",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK Haramain Speed Train sehala.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "7. Termasuk Haramain Speed Train (perjalanan sehala).",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "meals": {
+        "description": "Sajian makan penuh 3 kali sehari di hotel Makkah, Madinah & Aziziyah",
+        "evidence": [
+          {
+            "pdfPage": 62,
+            "text": "TERMASUK sajian makan penuh 3 kali sehari.",
+            "status": "transcribed"
+          },
+          {
+            "pdfPage": 63,
+            "text": "5. Sajian makan penuh di hotel Makkah, Madinah & Aziziyah 3 kali sehari.",
+            "status": "transcribed"
+          }
+        ]
+      },
+      "availability": {
+        "status": "inquiry_required",
+        "note": null
+      },
+      "stays": [
+        {
+          "location": "makkah",
+          "sequence": 1,
+          "hotelNameAsPublished": "SAFWAH ROYAL ORCHID @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 50,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidil Haram",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MAKKAH - SAFWAH ROYAL ORCHID @ SETARAF 50 M DARI MASJIDIL HARAM.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "aziziyah",
+          "sequence": 2,
+          "hotelNameAsPublished": "NUZUL ARRAYYAN @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 600,
+          "distanceIsApproximate": false,
+          "distanceReference": "jamarat",
+          "distanceReferenceAsPublished": "Dari Kompleks Jamarat",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": true,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "AZIZIYAH - NUZUL ARRAYYAN @ SETARAF 600 M DARI KOMPLEKS JAMARAT.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "location": "madinah",
+          "sequence": 3,
+          "hotelNameAsPublished": "ELAF TAIBAH HOTEL @ SETARAF",
+          "orEquivalent": true,
+          "roomCategory": null,
+          "dateLabel": null,
+          "nightCount": null,
+          "distanceM": 80,
+          "distanceIsApproximate": false,
+          "distanceReference": "other",
+          "distanceReferenceAsPublished": "Dari Masjidin Nabawi",
+          "meals": "Sajian makan penuh 3 kali sehari",
+          "privateBathroom": null,
+          "genderSeparated": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "MADINAH - ELAF TAIBAH HOTEL @ SETARAF 80 M DARI MASJIDIN NABAWI.",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "inclusions": [
+        {
+          "text": "Haramain Speed Train sehala",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 62,
+              "text": "TERMASUK Haramain Speed Train sehala.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "4 kali umrah tambahan; pengangkutan ke tempat miqat",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "3. 4 kali menunaikan umrah tambahan, pengangkutan ke tempat miqat disediakan.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Ziarah Kota Taif",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "4. Termasuk ziarah Kota Taif.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Makan malam istimewa di Tanah Arab",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "6. Makan malam istimewa di Tanah Arab.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "9. Sesi ulangkaji dan pemantapan pelaksanaan haji di Aziziah.",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "text": "Lebih 25 barangan signature Harmony",
+          "condition": null,
+          "evidence": [
+            {
+              "pdfPage": 63,
+              "text": "TERMASUK lebih 25 Barangan Signature Harmony",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "code": "HEH 10",
+          "codeIsInternal": false,
+          "priceSen": 7590000,
+          "makkahOccupancy": 4,
+          "madinahOccupancy": 4,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-4",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 10 RM 75,900 (BILIK BER-4)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 11",
+          "codeIsInternal": false,
+          "priceSen": 8090000,
+          "makkahOccupancy": 3,
+          "madinahOccupancy": 3,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-3",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 11 RM 80,900 (BILIK BER-3)",
+              "status": "transcribed"
+            }
+          ]
+        },
+        {
+          "code": "HEH 12",
+          "codeIsInternal": false,
+          "priceSen": 8590000,
+          "makkahOccupancy": 2,
+          "madinahOccupancy": 2,
+          "pmnStatus": "not_included",
+          "travellerCategory": "adult",
+          "roomLabelAsPublished": "BILIK BER-2",
+          "notes": null,
+          "priceEvidence": [
+            {
+              "pdfPage": 62,
+              "text": "HEH 12 RM 85,900 (BILIK BER-2)",
+              "status": "transcribed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": [],
+  "charges": [
+    {
+      "id": "harmony-excellence-bayaran-haji-pjh",
+      "packageIds": [
+        "harmony-excellence-prestige-ajyad",
+        "harmony-excellence-safwah-lite",
+        "harmony-excellence-safwah-standard",
+        "harmony-excellence-safwah-premium"
+      ],
+      "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada Akaun TH)",
+      "priceSen": 2339800,
+      "basis": "per_person",
+      "included": true,
+      "kind": "mandatory",
+      "evidence": [
+        {
+          "pdfPage": 62,
+          "text": "Harga pakej Haji adalah termasuk Bayaran Haji PJH 1448H/2027M sebanyak RM 23,398 yang akan didebitkan dari Akaun TH Jemaah Haji PJH.",
+          "status": "transcribed"
+        }
+      ]
+    },
+    {
+      "id": "harmony-excellence-caj-tambahan-th",
+      "packageIds": [
+        "harmony-excellence-prestige-ajyad",
+        "harmony-excellence-safwah-lite",
+        "harmony-excellence-safwah-standard",
+        "harmony-excellence-safwah-premium"
+      ],
+      "description": "Caj tambahan oleh TH jika berlaku penambahan kos atau kos baharu oleh pihak berautoriti di Arab Saudi",
+      "priceSen": null,
+      "basis": "per_person",
+      "included": false,
+      "kind": "conditional",
+      "evidence": [
+        {
+          "pdfPage": 62,
+          "text": "Walaubagaimanapun, TH berhak untuk mengenakan caj tambahan jika berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti / berkuasa di Arab Saudi.",
+          "status": "transcribed"
+        }
+      ]
+    }
+  ],
+  "excludedItems": [],
+  "gaps": [
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "aziziyah.defaultOccupancies",
+      "note": "Saiz bilik Aziziyah tidak dinyatakan (hanya 'berkelompok dan mengikut jantina'); tarikh Aziziyah juga tidak dicetak.",
+      "pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "flightClass/trainClass",
+      "note": "Kelas penerbangan dan Haramain Speed Train tidak dinyatakan.",
+      "pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "stays.dateLabel",
+      "note": "Tarikh/bilangan malam setiap hotel tidak dicetak.",
+      "pages": [
+        62
+      ]
+    },
+    {
+      "severity": "non_blocking",
+      "packageId": null,
+      "field": "approval",
+      "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
+      "pages": [
+        62
+      ]
+    }
+  ],
+  "transcription": {
+    "reviewer": "agen-C",
+    "reviewedAt": "2026-10-03",
+    "method": "Bacaan visual halaman penuh (1800 px); teks jelas, tiada zum tambahan diperlukan selain semakan harga.",
+    "independentCheck": null
+  }
+}

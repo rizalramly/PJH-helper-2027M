@@ -8,3 +8,4 @@ test-results
 docs/*.pdf
 Spesifikasi_Aplikasi_Perancang_Pakej_Haji_PJH.md
 data/catalog/
+data/catalog-coverage.json
