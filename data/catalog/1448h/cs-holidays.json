@@ -60,14 +60,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      46,
-      47
-    ],
-    "pagesReviewed": [
-      46,
-      47
-    ],
+    "pageRange": [46, 47],
+    "pagesReviewed": [46, 47],
     "pageNotes": [
       {
         "pdfPage": 46,
@@ -243,7 +237,7 @@
           "nightCount": null,
           "distanceM": 260,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "roomSizeSqm": null,
@@ -635,7 +629,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "roomSizeSqm": null,
@@ -848,9 +842,7 @@
   "upgrades": [
     {
       "id": "cs-holidays-pmn",
-      "packageIds": [
-        "cs-holidays-standard"
-      ],
+      "packageIds": ["cs-holidays-standard"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -871,9 +863,7 @@
     },
     {
       "id": "cs-holidays-bilik-berdua-durrat-mina",
-      "packageIds": [
-        "cs-holidays-standard"
-      ],
+      "packageIds": ["cs-holidays-standard"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -901,10 +891,7 @@
   "charges": [
     {
       "id": "cs-holidays-bayaran-haji-pjh",
-      "packageIds": [
-        "cs-holidays-standard",
-        "cs-holidays-premier"
-      ],
+      "packageIds": ["cs-holidays-standard", "cs-holidays-premier"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -926,9 +913,7 @@
     },
     {
       "id": "cs-holidays-caj-pmn-premier",
-      "packageIds": [
-        "cs-holidays-premier"
-      ],
+      "packageIds": ["cs-holidays-premier"],
       "description": "Khemah PMN di Arafah & Mina (nilai RM10,000), termasuk dalam harga Premier",
       "priceSen": 1000000,
       "basis": "per_person",
@@ -945,10 +930,7 @@
     },
     {
       "id": "cs-holidays-caj-tambahan-th",
-      "packageIds": [
-        "cs-holidays-standard",
-        "cs-holidays-premier"
-      ],
+      "packageIds": ["cs-holidays-standard", "cs-holidays-premier"],
       "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
       "priceSen": null,
       "basis": "per_person",
@@ -965,10 +947,7 @@
     },
     {
       "id": "cs-holidays-ketibaan-awal",
-      "packageIds": [
-        "cs-holidays-standard",
-        "cs-holidays-premier"
-      ],
+      "packageIds": ["cs-holidays-standard", "cs-holidays-premier"],
       "description": "Kos tambahan bagi ketibaan awal (sebelum 1 Zulhijjah)",
       "priceSen": null,
       "basis": "per_person",
@@ -985,9 +964,7 @@
     },
     {
       "id": "cs-holidays-insurans-perjalanan",
-      "packageIds": [
-        "cs-holidays-standard"
-      ],
+      "packageIds": ["cs-holidays-standard"],
       "description": "Insurans perjalanan atas permintaan (bayaran tambahan; Premier sudah termasuk)",
       "priceSen": null,
       "basis": "per_person",
@@ -1010,56 +987,42 @@
       "packageId": null,
       "field": "aziziyah",
       "note": "Brosur tidak menggunakan perkataan 'Aziziyah'. Hotel 01-15 Zulhijjah dinamakan 'hotel Mina' (Durrat Mina/Durrat Rose, kawasan Syisyah, 'masih dalam Tanah Haram'). Ikut R1, direkod stays.location = aziziyah, aziziyah.status = included, labelAsPublished = 'hotel Mina (Syisyah)'. Khemah Mina (mabit 11-13 Zulhijjah) bukan hotel.",
-      "pages": [
-        46,
-        47
-      ]
+      "pages": [46, 47]
     },
     {
       "severity": "non_blocking",
       "packageId": "cs-holidays-standard",
       "field": "variants.CSS03",
       "note": "CSS03 dicetak '4 - 5 Orang Sebilik' dengan satu harga; direkod sebagai dua varian (4 dan 5) dengan kod dan harga sama.",
-      "pages": [
-        46
-      ]
+      "pages": [46]
     },
     {
       "severity": "non_blocking",
       "packageId": "cs-holidays-standard",
       "field": "upgrades.cs-holidays-bilik-berdua-durrat-mina.includedInVariantCodes",
       "note": "Tidak dinyatakan sama ada CSS01 (2 orang sebilik) sudah termasuk bilik berdua di hotel Mina; nota '**Penginapan di Mina secara berkelompok' mencadangkan tidak, maka includedInVariantCodes = [] (tambahan terpakai kepada semua varian Standard). Perlu disahkan.",
-      "pages": [
-        46
-      ]
+      "pages": [46]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan. Penerangan PMN menyebut pergerakan ke Arafah pagi 9 Zulhijjah (bukan 8 Zulhijjah), iaitu bukan Tarwiyah.",
-      "pages": [
-        46,
-        47
-      ]
+      "pages": [46, 47]
     },
     {
       "severity": "non_blocking",
       "packageId": "cs-holidays-standard",
       "field": "masyair.type",
       "note": "Jenis khemah asas Standard tidak dinamakan (Muaissem hanya disebut sebagai perbandingan jarak dalam nota PMN); PMN tambahan RM10,000. Ikut R4, pmnStatus varian Standard = not_stated.",
-      "pages": [
-        46
-      ]
+      "pages": [46]
     },
     {
       "severity": "non_blocking",
       "packageId": "cs-holidays-premier",
       "field": "inclusions.Tawaf Saei Haji awal",
       "note": "Item bertanda '*' tanpa nota kaki yang dapat dikenal pasti.",
-      "pages": [
-        47
-      ]
+      "pages": [47]
     }
   ],
   "transcription": {

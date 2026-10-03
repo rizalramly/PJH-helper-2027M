@@ -60,14 +60,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      24,
-      25
-    ],
-    "pagesReviewed": [
-      24,
-      25
-    ],
+    "pageRange": [24, 25],
+    "pagesReviewed": [24, 25],
     "pageNotes": [
       {
         "pdfPage": 24,
@@ -432,10 +426,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Bilik Berempat Dan Berlima sahaja",
         "dateLabel": null,
         "nightCount": null,
@@ -758,10 +749,7 @@
   "charges": [
     {
       "id": "az-safir-bayaran-haji-pjh",
-      "packageIds": [
-        "az-safir-safir-a",
-        "az-safir-safir-z"
-      ],
+      "packageIds": ["az-safir-safir-a", "az-safir-safir-z"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -778,9 +766,7 @@
     },
     {
       "id": "az-safir-caj-pmn",
-      "packageIds": [
-        "az-safir-safir-z"
-      ],
+      "packageIds": ["az-safir-safir-z"],
       "description": "Perkhidmatan Masyair Naik Taraf (PMN), termasuk dalam harga Safir Z sahaja",
       "priceSen": 800000,
       "basis": "per_person",
@@ -797,10 +783,7 @@
     },
     {
       "id": "az-safir-caj-tambahan-th",
-      "packageIds": [
-        "az-safir-safir-a",
-        "az-safir-safir-z"
-      ],
+      "packageIds": ["az-safir-safir-a", "az-safir-safir-z"],
       "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
       "priceSen": null,
       "basis": "per_person",
@@ -823,65 +806,49 @@
       "packageId": null,
       "field": "variants.code",
       "note": "Kod varian dicetak sangat kecil dan kabur; dibaca sebagai 'Safir 01'–'Safir 07' (mungkin 'Safr'). Harga dan susunan bilik jelas.",
-      "pages": [
-        24
-      ]
+      "pages": [24]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "variants.priceSen",
       "note": "Kad pakej berlabel 'Harga Bermula'; harga direkod seperti dicetak bagi setiap susunan bilik.",
-      "pages": [
-        24
-      ]
+      "pages": [24]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan dalam hlm. 24–25.",
-      "pages": [
-        24,
-        25
-      ]
+      "pages": [24, 25]
     },
     {
       "severity": "non_blocking",
       "packageId": "az-safir-safir-a",
       "field": "aziziyah",
       "note": "Safir A tidak menyenaraikan Aziziyah (hanya Makkah dan Madinah); tidak dinyatakan secara jelas sama ada tiada.",
-      "pages": [
-        24
-      ]
+      "pages": [24]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
       "note": "Jarak hotel dicetak sebagai '+NNNm / setaraf' tanpa titik ukuran.",
-      "pages": [
-        24
-      ]
+      "pages": [24]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.licenceNumberAsPublished",
       "note": "Nombor lesen PJH kabur (06/1448H dibaca dengan resolusi rendah). Lesen brosur bukan bukti kelulusan 1448H.",
-      "pages": [
-        24
-      ]
+      "pages": [24]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass/trainClass",
       "note": "Kelas penerbangan dan kereta api tidak dinyatakan.",
-      "pages": [
-        24,
-        25
-      ]
+      "pages": [24, 25]
     }
   ],
   "transcription": {

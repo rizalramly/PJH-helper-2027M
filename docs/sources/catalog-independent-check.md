@@ -66,17 +66,20 @@ Pas kedua oleh 8 subagen penyemak (penyemak-1 hingga penyemak-8). Setiap penyema
 | --- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Jad | Caj penerbangan Business Class pakej Gold "RM1?,000–RM17,000" di atas harga pakej; digit kedua kabur (13 atau 15) dan amaun ialah julat | Pengesahan PJH atau PDF resolusi asal |
 
-## Perkara untuk keputusan pemilik produk
+## Keputusan pemilik produk (3 Okt 2026)
 
-1. **Titik ukuran "dataran Masjid"** (Az-Zuha, Eiman, CS Holidays, Amani) kini `other`, iaitu tidak disamakan dengan "perkarangan". Jarak ini tidak dikira dalam skor kedekatan. Jika "dataran" dianggap sama dengan perkarangan, ia perlu ditukar secara seragam.
-2. **"Khemah Muassasah"**: MKM merekod `masyair.type = muaisim`, manakala Gemilang merekod `masyair.type = not_stated` dengan `pmnStatus = not_included`. Kesan kepada penapisan sama (tanpa PMN), tetapi label masyair berbeza.
-3. **Tafsiran yang belum dicetak secara eksplisit** (ditanda gap, perlu pengesahan PJH):
+- **D1 "Dataran masjid" = perkarangan.** Jarak hotel Makkah/Madinah yang dicetak "dari/ke dataran Masjidil Haram / Masjid Nabawi" direkod sebagai `haram_courtyard` / `nabawi_courtyard` (133 penginapan dalam 16 PJH). Teks asal kekal dalam `distanceReferenceAsPublished`. Rujukan "pagar", "pintu", "ke Masjid…" tanpa titik ukuran dan rujukan bercampur (cth. Al-Balad Madinah "dataran … pagar") kekal `other`; "Dataran Mina" bukan masjid dan kekal `other`.
+- **D2 "Khemah Muassasah" = Muaisim**, kerana khemah Muassasah terletak di Muaisim. `masyair.type = muaisim` bagi Gemilang (MKM dan Amani sudah begitu); `pmnStatus` varian asas kekal `not_included`.
+
+## Perkara lain untuk perhatian
+
+1. **Tafsiran yang belum dicetak secara eksplisit** (ditanda gap, perlu pengesahan PJH):
    - Rayhar OLA 34/23/24: corak harga menunjukkan digit kedua = kapasiti bilik Makkah.
    - In-Saff dan Rayhar Jumeirah: susunan Aziziyah diterbitkan daripada nota "mengikut pendaftaran/tempahan".
    - Glocal Travel Premium/Private: PMN termasuk berdasarkan ikon.
    - Busyra VIP: Tarwiyah bersyarat berdasarkan kenyataan umum PJH.
-4. **`brochurePage` Busyra** = halaman PDF − 32. Nombor ini tidak dicetak pada halaman, tetapi sepadan dengan rujukan halaman brosur dalam spesifikasi §12.
-5. **Kelulusan PJH**: semua `unverified`. Label "PJH diluluskan" tidak akan dipaparkan sehingga senarai rasmi TH 1448H disemak.
+2. **`brochurePage` Busyra** = halaman PDF − 32. Nombor ini tidak dicetak pada halaman, tetapi sepadan dengan rujukan halaman brosur dalam spesifikasi §12.
+3. **Kelulusan PJH**: semua `unverified`. Label "PJH diluluskan" tidak akan dipaparkan sehingga senarai rasmi TH 1448H disemak.
 
 ## Laporan setiap penyemak
 

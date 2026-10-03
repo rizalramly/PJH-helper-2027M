@@ -241,7 +241,7 @@
           "orEquivalent": true,
           "distanceM": 430,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -278,7 +278,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -627,7 +627,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -664,7 +664,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -1019,7 +1019,7 @@
           "orEquivalent": true,
           "distanceM": 430,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -1056,7 +1056,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -1422,7 +1422,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjidil Haram",
           "meals": "Fullboard 3x sehari",
           "evidence": [
@@ -1459,7 +1459,7 @@
           "orEquivalent": true,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid Nabawi",
           "meals": "Fullboard 3x sehari",
           "evidence": [

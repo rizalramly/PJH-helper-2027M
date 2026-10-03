@@ -198,7 +198,7 @@
           "nightCount": null,
           "distanceM": 430,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [
@@ -260,7 +260,7 @@
           "nightCount": null,
           "distanceM": 430,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [
@@ -619,7 +619,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [
@@ -681,7 +681,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [
@@ -1040,7 +1040,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [
@@ -1102,7 +1102,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari Dataran Masjid",
           "meals": null,
           "evidence": [

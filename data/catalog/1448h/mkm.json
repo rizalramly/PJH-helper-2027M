@@ -70,17 +70,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      102,
-      106
-    ],
-    "pagesReviewed": [
-      102,
-      103,
-      104,
-      105,
-      106
-    ],
+    "pageRange": [102, 106],
+    "pagesReviewed": [102, 103, 104, 105, 106],
     "pageNotes": [
       {
         "pdfPage": 102,
@@ -147,9 +138,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4
-        ],
+        "defaultOccupancies": [4],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -808,9 +797,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4
-        ],
+        "defaultOccupancies": [4],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -1117,9 +1104,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4
-        ],
+        "defaultOccupancies": [4],
         "defaultArrangementNote": "Bilik berempat; naik taraf bilik berdua RM7,000 seorang.",
         "dateLabel": null,
         "nightCount": null,
@@ -2061,11 +2046,7 @@
   "upgrades": [
     {
       "id": "mkm-aziziyah-bilik-berdua",
-      "packageIds": [
-        "mkm-syifa",
-        "mkm-fateh",
-        "mkm-menara-jam"
-      ],
+      "packageIds": ["mkm-syifa", "mkm-fateh", "mkm-menara-jam"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2091,12 +2072,7 @@
     },
     {
       "id": "mkm-pmn-pilihan",
-      "packageIds": [
-        "mkm-syifa",
-        "mkm-salam",
-        "mkm-fateh",
-        "mkm-menara-jam"
-      ],
+      "packageIds": ["mkm-syifa", "mkm-salam", "mkm-fateh", "mkm-menara-jam"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2167,10 +2143,7 @@
     },
     {
       "id": "mkm-penerbangan-komersial",
-      "packageIds": [
-        "mkm-sakinah",
-        "mkm-safa"
-      ],
+      "packageIds": ["mkm-sakinah", "mkm-safa"],
       "description": "Penerbangan komersial (anggaran nilai ±RM15,000; termasuk dalam pakej, nilai anggaran)",
       "priceSen": 1500000,
       "basis": "per_person",
@@ -2187,10 +2160,7 @@
     },
     {
       "id": "mkm-khemah-pmn",
-      "packageIds": [
-        "mkm-sakinah",
-        "mkm-safa"
-      ],
+      "packageIds": ["mkm-sakinah", "mkm-safa"],
       "description": "Khemah PMN (anggaran nilai ±RM10,000; termasuk dalam pakej, nilai anggaran)",
       "priceSen": 1000000,
       "basis": "per_person",
@@ -2274,91 +2244,63 @@
       "packageId": "mkm-salam",
       "field": "aziziyah",
       "note": "Kad Salam hanya menyenaraikan hotel Mekah dan Madinah; Aziziyah tidak dinyatakan (tidak dianggap termasuk atau tidak termasuk).",
-      "pages": [
-        102,
-        103
-      ]
+      "pages": [102, 103]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type",
       "note": "Pakej carter mencetak 'Khemah Muassasah @setaraf' sebagai khemah asas; dipetakan kepada masyair.type 'muaisim' (khemah asas bukan PMN, selaras peraturan R4 Muaisim/Muassasah). Istilah asal dikekalkan dalam description.",
-      "pages": [
-        103,
-        104
-      ]
+      "pages": [103, 104]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.sequence/dateLabel",
       "note": "Susunan dan tarikh penginapan Makkah/Madinah/Aziziyah tidak dicetak; sequence mengikut andaian Makkah, Madinah, Aziziyah tanpa tarikh.",
-      "pages": [
-        103,
-        104
-      ]
+      "pages": [103, 104]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.dateLabel",
       "note": "Tarikh/tempoh penginapan Aziziyah tidak dinyatakan.",
-      "pages": [
-        103,
-        104
-      ]
+      "pages": [103, 104]
     },
     {
       "severity": "non_blocking",
       "packageId": "mkm-safa",
       "field": "flightClass",
       "note": "Safa (pakej tertinggi) dicetak 'penerbangan komersial — kelas ekonomi' manakala Sakinah 'penerbangan kelas perniagaan'; direkod seperti dicetak.",
-      "pages": [
-        104
-      ]
+      "pages": [104]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "charges.priceSen",
       "note": "Nilai penerbangan komersial ±RM15,000 dan khemah PMN ±RM10,000 untuk Sakinah/Safa ialah anggaran, termasuk dalam harga.",
-      "pages": [
-        104
-      ]
+      "pages": [104]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah 8 Zulhijjah dinyatakan pada halaman kelebihan umum tanpa syarat kelulusan; tidak disebut pada kad pakej.",
-      "pages": [
-        102,
-        105,
-        106
-      ]
+      "pages": [102, 105, 106]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 102–106.",
-      "pages": [
-        102,
-        103,
-        104,
-        105,
-        106
-      ]
+      "pages": [102, 103, 104, 105, 106]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        102
-      ]
+      "pages": [102]
     }
   ],
   "transcription": {

@@ -40,13 +40,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      107,
-      107
-    ],
-    "pagesReviewed": [
-      107
-    ],
+    "pageRange": [107, 107],
+    "pagesReviewed": [107],
     "pageNotes": [
       {
         "pdfPage": 107,
@@ -1564,81 +1559,63 @@
       "packageId": null,
       "field": "variants.code",
       "note": "Kod varian (QR5…QR2, QS5…QS2, QT5…QT2, QSA5…QSA2) dicetak dalam lencana sangat kecil dan kabur; dibaca mengikut corak. Harga jelas.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceM",
       "note": "Jarak hotel dicetak sangat kecil ('+- 400 Meter', '+- 80 Meter', '+- 590 Meter dari Jamarat'); titik ukuran Makkah/Madinah tidak dinyatakan. Angka 590 kabur.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "charges.bayaran-haji-pjh",
       "note": "Nota mencetak 'bayaran haji PJH 1447H/2026M' (bukan 1448H/2027M) bagi RM23,398; kemungkinan salah cetak, perlu disahkan.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": "qashwa-travel-tamam",
       "field": "aziziyah",
       "note": "Pakej Tamam tiada hotel Aziziyah dan dilabel 'Sepanjang masa beribadah di Masjidil Haram', tetapi tidak menyatakan secara jelas 'tanpa Aziziyah'.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair",
       "note": "Khemah Muassim di Mina 'Termasuk Pakej' hanya ditunjuk untuk Tamam dan Safwah + Azka (teks kecil kabur). Jenis khemah Rahmah/Safwah tidak dinyatakan. Maka pmnStatus varian Rahmah/Safwah = not_stated (R4); Tamam dan Safwah + Azka = not_included (khemah Muassim dicetak 'Termasuk Pakej').",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": "qashwa-travel-safwah-azka",
       "field": "stays.sequence",
       "note": "Dua hotel Makkah (Al Safwah Tower 3 dan Azka Al Safa) disenaraikan; susunan dan tarikh tidak dinyatakan.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak disebut.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass",
       "note": "Jenis dan kelas penerbangan tidak dinyatakan.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        107
-      ]
+      "pages": [107]
     }
   ],
   "transcription": {

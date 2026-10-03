@@ -100,16 +100,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      77,
-      80
-    ],
-    "pagesReviewed": [
-      77,
-      78,
-      79,
-      80
-    ],
+    "pageRange": [77, 80],
+    "pagesReviewed": [77, 78, 79, 80],
     "pageNotes": [
       {
         "pdfPage": 77,
@@ -165,10 +157,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5,
-          4
-        ],
+        "defaultOccupancies": [5, 4],
         "defaultArrangementNote": "Bilik bercampur secara BERLIMA/BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -512,10 +501,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5,
-          4
-        ],
+        "defaultOccupancies": [5, 4],
         "defaultArrangementNote": "Bilik bercampur secara BERLIMA/BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -870,10 +856,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5,
-          4
-        ],
+        "defaultOccupancies": [5, 4],
         "defaultArrangementNote": "Bilik bercampur secara BERLIMA/BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -1233,10 +1216,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5,
-          4
-        ],
+        "defaultOccupancies": [5, 4],
         "defaultArrangementNote": "Bilik bercampur secara BERLIMA/BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -1618,9 +1598,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4
-        ],
+        "defaultOccupancies": [4],
         "defaultArrangementNote": "Bilik bercampur secara BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -1975,9 +1953,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4
-        ],
+        "defaultOccupancies": [4],
         "defaultArrangementNote": "Bilik bercampur secara BEREMPAT (mengikut jantina bagi setiap pemilihan bilik).",
         "dateLabel": null,
         "nightCount": null,
@@ -2771,9 +2747,7 @@
     },
     {
       "id": "jad-gold-caj-penerbangan-kelas-perniagaan",
-      "packageIds": [
-        "jad-gold"
-      ],
+      "packageIds": ["jad-gold"],
       "description": "Caj tambahan penerbangan komersil kelas perniagaan, sekitar RM1?,000 – RM17,000 (digit kedua julat bawah kabur: 13 atau 15). Teks 'dengan caj tambahan' menunjukkan caj di atas harga pakej.",
       "priceSen": null,
       "basis": "per_person",
@@ -2789,9 +2763,7 @@
     },
     {
       "id": "jad-gold-pmn",
-      "packageIds": [
-        "jad-gold"
-      ],
+      "packageIds": ["jad-gold"],
       "description": "Perkhidmatan Masya'ir Naik Taraf (PMN), dinyatakan telah tersedia dalam pakej (nilai dibaca RM10,000, kabur)",
       "priceSen": null,
       "basis": "per_person",
@@ -2826,72 +2798,49 @@
       "packageId": "jad-gold",
       "field": "charges.jad-gold-caj-penerbangan-kelas-perniagaan",
       "note": "Info Pakej Gold: 'Penerbangan kapal terbang komersil (kelas perniagaan) dengan caj tambahan berjumlah sekitar RM1?,000 – RM17,000.' Disemak semula oleh penyemak-4 pada 400 dpi dan imej terbenam asal (993 px, ~120 ppi): digit kedua julat bawah masih kabur (13 atau 15). Frasa 'dengan caj tambahan' menunjukkan caj di atas harga RM110,900–128,900, tetapi amaun ialah julat 'sekitar', jadi priceSen kekal null. Kos sebenar Gold tidak boleh dikira sehingga disahkan dengan PJH.",
-      "pages": [
-        79
-      ]
+      "pages": [79]
     },
     {
       "severity": "non_blocking",
       "packageId": "jad-gold",
       "field": "masyair / aziziyah / inclusions",
       "note": "Teks Info Pakej Gold sangat kecil (imej sumber ~120 ppi). Dibaca pada 400 dpi: jarak khemah Mina ±200 m, Tawaf & Saie awal, Ziarah Madinah, Kad Perubatan, Aziziyah 'bilik bertiga dan berdua kekal sama' (diguna untuk aziziyahOccupancy JAD 22/23). Nilai PMN dibaca RM10,000 tetapi kekal unclear (tidak digunakan; PMN termasuk).",
-      "pages": [
-        79
-      ]
+      "pages": [79]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan dalam hlm. 77–80.",
-      "pages": [
-        77,
-        78,
-        79,
-        80
-      ]
+      "pages": [77, 78, 79, 80]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass",
       "note": "Pakej selain Gold: penerbangan carter, kelas tidak dinyatakan.",
-      "pages": [
-        77,
-        78,
-        79
-      ]
+      "pages": [77, 78, 79]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
       "note": "Jarak diukur 'ke Masjidil Haram'/'ke Masjid Nabawi' tanpa menyatakan perkarangan; direkod sebagai other. Tarikh menginap, malam dan perpindahan tidak dinyatakan.",
-      "pages": [
-        77,
-        78,
-        79
-      ]
+      "pages": [77, 78, 79]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.meals",
       "note": "Label kecil di bawah bintang hotel (cth. 'Fullboard F…') kabur kecuali Gold 'Fullboard International'; direkod sebagai Fullboard.",
-      "pages": [
-        77,
-        78,
-        79
-      ]
+      "pages": [77, 78, 79]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        77
-      ]
+      "pages": [77]
     }
   ],
   "transcription": {

@@ -215,7 +215,7 @@
           "roomCategory": null,
           "distanceM": 400,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -238,7 +238,7 @@
           "orEquivalent": true,
           "distanceM": 180,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidin Nabawi",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -594,7 +594,7 @@
           "roomCategory": null,
           "distanceM": 400,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -617,7 +617,7 @@
           "orEquivalent": true,
           "distanceM": 180,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidin Nabawi",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -999,7 +999,7 @@
           "orEquivalent": true,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -1045,7 +1045,7 @@
           "orEquivalent": true,
           "distanceM": 180,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidin Nabawi",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -1420,7 +1420,7 @@
           "orEquivalent": true,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [
@@ -1466,7 +1466,7 @@
           "orEquivalent": true,
           "distanceM": 180,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidin Nabawi",
           "meals": "3X sehari makan sajian Asia",
           "evidence": [

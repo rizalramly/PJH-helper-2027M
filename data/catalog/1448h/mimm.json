@@ -80,18 +80,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      96,
-      101
-    ],
-    "pagesReviewed": [
-      96,
-      97,
-      98,
-      99,
-      100,
-      101
-    ],
+    "pageRange": [96, 101],
+    "pagesReviewed": [96, 97, 98, 99, 100, 101],
     "pageNotes": [
       {
         "pdfPage": 96,
@@ -246,7 +236,7 @@
           "nightCount": null,
           "distanceM": 260,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Asia",
           "roomSizeSqm": null,
@@ -566,7 +556,7 @@
           "nightCount": null,
           "distanceM": 45,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Antarabangsa",
           "roomSizeSqm": null,
@@ -886,7 +876,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Asia",
           "roomSizeSqm": null,
@@ -1206,7 +1196,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Asia",
           "roomSizeSqm": null,
@@ -1596,7 +1586,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Antarabangsa",
           "roomSizeSqm": null,
@@ -1986,7 +1976,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Ke Dataran MasjidilHaram",
           "meals": "Makan 3 kali sehari Buffet Antarabangsa",
           "roomSizeSqm": null,
@@ -2262,12 +2252,7 @@
   "upgrades": [
     {
       "id": "mimm-pmn-tambahan",
-      "packageIds": [
-        "mimm-marwah",
-        "mimm-uhud",
-        "mimm-safa",
-        "mimm-nour"
-      ],
+      "packageIds": ["mimm-marwah", "mimm-uhud", "mimm-safa", "mimm-nour"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2353,10 +2338,7 @@
     },
     {
       "id": "mimm-pmn-premium",
-      "packageIds": [
-        "mimm-thur",
-        "mimm-najm"
-      ],
+      "packageIds": ["mimm-thur", "mimm-najm"],
       "description": "Perkhidmatan Masyair Naiktaraf (PMN) bernilai RM12,000 (sudah termasuk dalam harga)",
       "priceSen": 1200000,
       "basis": "per_person",
@@ -2373,10 +2355,7 @@
     },
     {
       "id": "mimm-penerbangan-perniagaan-premium",
-      "packageIds": [
-        "mimm-thur",
-        "mimm-najm"
-      ],
+      "packageIds": ["mimm-thur", "mimm-najm"],
       "description": "Penerbangan komersil kelas perniagaan bernilai RM20,000 (sudah termasuk dalam harga)",
       "priceSen": 2000000,
       "basis": "per_person",
@@ -2436,89 +2415,63 @@
       "packageId": null,
       "field": "masyair.type",
       "note": "Pakej Marwah/Uhud/Safa/Nour tidak menyatakan jenis khemah asas (Muaisim atau lain); hanya PMN sebagai tambahan RM12,000.",
-      "pages": [
-        97,
-        101
-      ]
+      "pages": [97, 101]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.sequence/dateLabel",
       "note": "Susunan dan tarikh penginapan pakej Marwah/Uhud/Safa/Nour tidak dicetak; sequence mengikut susunan kad (Makkah, Madinah, Aziziyah).",
-      "pages": [
-        97
-      ]
+      "pages": [97]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceIsApproximate",
       "note": "Jarak dicetak dengan awalan '+' (cth. '+260 Meter'); mungkin bermaksud ± tetapi tidak dianggap anggaran.",
-      "pages": [
-        97,
-        98
-      ]
+      "pages": [97, 98]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah",
       "note": "Tarikh dan susunan bilik Aziziyah bagi pakej Marwah/Uhud/Safa/Nour tidak dinyatakan; adakah bilangan sebilik varian terpakai di Aziziyah tidak dinyatakan.",
-      "pages": [
-        97
-      ]
+      "pages": [97]
     },
     {
       "severity": "non_blocking",
       "packageId": "mimm-najm",
       "field": "aziziyah",
       "note": "Aziziyah 11-13 Zulhijjah disenarai sebagai manfaat pakej ('Bilik di Hotel Aziziyah dari 11-13 Zulhijjah') tetapi kad hotel ditanda '(Pilihan)'; direkod included + syarat. Tiada caj tambahan dicetak; sahkan sama ada penginapan ini pilihan jemaah.",
-      "pages": [
-        98
-      ]
+      "pages": [98]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah hanya disebut pada banner 'Tarwiyah Pilihan' dan halaman program bimbingan umum; tiada syarat kelulusan dicetak.",
-      "pages": [
-        97,
-        99
-      ]
+      "pages": [97, 99]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 96–101.",
-      "pages": [
-        96,
-        97,
-        98,
-        99,
-        100,
-        101
-      ]
+      "pages": [96, 97, 98, 99, 100, 101]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        96
-      ]
+      "pages": [96]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "variants.pmnStatus",
       "note": "Halaman 101: 'PMN adalah termasuk di dalam Pakej Thur dan Najm sahaja. Tambahan RM12,000 seorang untuk PMN pakej Marwah, Uhud, Safa & Nour.' Khemah asas (Muaisim/Muassasah) tidak dinamakan, maka pmnStatus varian asas = not_stated (peraturan R4); harga asas tidak merangkumi PMN.",
-      "pages": [
-        101
-      ]
+      "pages": [101]
     }
   ],
   "transcription": {

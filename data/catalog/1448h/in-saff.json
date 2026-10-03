@@ -80,21 +80,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      64,
-      72
-    ],
-    "pagesReviewed": [
-      64,
-      65,
-      66,
-      67,
-      68,
-      69,
-      70,
-      71,
-      72
-    ],
+    "pageRange": [64, 72],
+    "pagesReviewed": [64, 65, 66, 67, 68, 69, 70, 71, 72],
     "pageNotes": [
       {
         "pdfPage": 64,
@@ -5134,83 +5121,56 @@
       "packageId": null,
       "field": "masyair.type / pmnStatus",
       "note": "Jenis khemah asas Tier 2–4 (Muaisim atau lain) tidak dinamakan; PMN hanya add-on berbayar bergantung kelulusan TH. Mengikut R4, pmnStatus varian Tier 2–4 = not_stated (bukan not_included). Tier 1 (Raffles) PMN termasuk, bergantung kelulusan TH, RM4,500 dipulangkan jika tidak berjaya.",
-      "pages": [
-        67,
-        68,
-        69
-      ]
+      "pages": [67, 68, 69]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass",
       "note": "Kelas penerbangan asas Tier 2–4 tidak dinyatakan (Charter atau Komersil); business class ialah add-on berjulat tanpa harga tetap.",
-      "pages": [
-        67,
-        68,
-        69
-      ]
+      "pages": [67, 68, 69]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "packages (pembahagian tier)",
       "note": "Pakej dipecah mengikut tier dan hotel Madinah berdasarkan jadual tier hlm. 67–68 (bilik berdua/seorang dan semua bilik CT B menggunakan The Biltmore). Halaman harga hanya menyebut 'Upgrade Hotel Madinah' tanpa harga berasingan; dianggap termasuk dalam harga varian.",
-      "pages": [
-        64,
-        65,
-        67,
-        68
-      ]
+      "pages": [64, 65, 67, 68]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
       "note": "Jarak hotel Makkah/Madinah dicetak dengan ikon sahaja (tiada titik ukuran). Tarikh menginap, malam dan bilangan perpindahan tidak dinyatakan.",
-      "pages": [
-        64,
-        65,
-        66
-      ]
+      "pages": [64, 65, 66]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        64
-      ]
+      "pages": [64]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.basis",
       "note": "Asas kadar add-on PMN (RM5,500/RM4,500) dan business class flight tidak dicetak (seorang/sebilik); direkod per_person.",
-      "pages": [
-        67,
-        68
-      ]
+      "pages": [67, 68]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah (Raffles)",
       "note": "Susunan bilik Aziziyah bagi Pakej Raffles tidak dicetak (nota 'Semua bilik disediakan mengikut pendaftaran' hanya pada hlm. 64–65); aziziyahOccupancy Raffles dibiarkan null.",
-      "pages": [
-        66
-      ]
+      "pages": [66]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass (Raffles)",
       "note": "Flight business class Tier 1 termasuk tetapi hlm. 71 menyatakan tiada jaminan tempat duduk Kelas Perniagaan; RM9,000 dipulangkan jika tidak berjaya (hlm. 68).",
-      "pages": [
-        68,
-        71
-      ]
+      "pages": [68, 71]
     }
   ],
   "transcription": {

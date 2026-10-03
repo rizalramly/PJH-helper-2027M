@@ -153,7 +153,7 @@
         ]
       },
       "masyair": {
-        "type": "not_stated",
+        "type": "muaisim",
         "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
         "evidence": [
           {
@@ -246,7 +246,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid",
           "meals": "Fullboard, menu Asian food",
           "privateBathroom": true,
@@ -510,7 +510,7 @@
         "evidence": []
       },
       "masyair": {
-        "type": "not_stated",
+        "type": "muaisim",
         "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
         "evidence": [
           {
@@ -575,7 +575,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid",
           "meals": "Fullboard, menu Asian food",
           "privateBathroom": true,
@@ -824,7 +824,7 @@
         ]
       },
       "masyair": {
-        "type": "not_stated",
+        "type": "muaisim",
         "description": "Khemah Muassasah (diurus STAT / Muassasah Asia Tenggara). PMN tidak disebut; brosur tidak menyatakan 'Muaisim'.",
         "evidence": [
           {
@@ -925,7 +925,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "Dari Dataran Masjid",
           "meals": "Fullboard, menu Asian food",
           "privateBathroom": true,

@@ -60,15 +60,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      48,
-      50
-    ],
-    "pagesReviewed": [
-      48,
-      49,
-      50
-    ],
+    "pageRange": [48, 50],
+    "pagesReviewed": [48, 49, 50],
     "pageNotes": [
       {
         "pdfPage": 48,
@@ -195,7 +188,7 @@
           "nightCount": null,
           "distanceM": 380,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": null,
           "roomSizeSqm": null,
@@ -220,7 +213,7 @@
           "nightCount": null,
           "distanceM": 180,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": null,
           "roomSizeSqm": null,
@@ -363,9 +356,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          5
-        ],
+        "defaultOccupancies": [5],
         "defaultArrangementNote": "Bilik Ber 5 di Aziziyah (Suite Al-Maqam @ setaraf, penginapan bertaraf hotel).",
         "dateLabel": null,
         "nightCount": null,
@@ -438,7 +429,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": null,
           "roomSizeSqm": null,
@@ -488,7 +479,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": null,
           "roomSizeSqm": null,
@@ -643,10 +634,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
         "dateLabel": null,
         "nightCount": null,
@@ -714,7 +702,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": null,
           "roomSizeSqm": null,
@@ -764,7 +752,7 @@
           "nightCount": null,
           "distanceM": 180,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": null,
           "roomSizeSqm": null,
@@ -1043,7 +1031,7 @@
           "nightCount": null,
           "distanceM": 380,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": null,
           "roomSizeSqm": null,
@@ -1068,7 +1056,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": null,
           "roomSizeSqm": null,
@@ -1249,10 +1237,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Penginapan di Aziziyah secara ber4/5 (mengikut jantina).",
         "dateLabel": null,
         "nightCount": null,
@@ -1320,7 +1305,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": null,
           "roomSizeSqm": null,
@@ -1370,7 +1355,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": null,
           "roomSizeSqm": null,
@@ -1680,7 +1665,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": "Sajian International",
           "roomSizeSqm": null,
@@ -1730,7 +1715,7 @@
           "nightCount": null,
           "distanceM": 10,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": "Sajian International",
           "roomSizeSqm": null,
@@ -2032,7 +2017,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Haram",
           "meals": "Sajian International",
           "roomSizeSqm": null,
@@ -2057,7 +2042,7 @@
           "nightCount": null,
           "distanceM": 10,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid al-Nabawi",
           "meals": "Sajian International",
           "roomSizeSqm": null,
@@ -2288,10 +2273,7 @@
     },
     {
       "id": "eiman-penerbangan-kelas-perniagaan",
-      "packageIds": [
-        "eiman-gold",
-        "eiman-diamond"
-      ],
+      "packageIds": ["eiman-gold", "eiman-diamond"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2322,11 +2304,7 @@
     },
     {
       "id": "eiman-aziziyah-bilik-berdua",
-      "packageIds": [
-        "eiman-mekah-tower",
-        "eiman-safwah-leader",
-        "eiman-safwah-dallah"
-      ],
+      "packageIds": ["eiman-mekah-tower", "eiman-safwah-leader", "eiman-safwah-dallah"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2347,11 +2325,7 @@
     },
     {
       "id": "eiman-aziziyah-bilik-bertiga",
-      "packageIds": [
-        "eiman-mekah-tower",
-        "eiman-safwah-leader",
-        "eiman-safwah-dallah"
-      ],
+      "packageIds": ["eiman-mekah-tower", "eiman-safwah-leader", "eiman-safwah-dallah"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2399,10 +2373,7 @@
     },
     {
       "id": "eiman-caj-pmn",
-      "packageIds": [
-        "eiman-gold",
-        "eiman-diamond"
-      ],
+      "packageIds": ["eiman-gold", "eiman-diamond"],
       "description": "Kos PMN termasuk dalam pakej Gold dan Diamond",
       "priceSen": 750000,
       "basis": "per_person",
@@ -2463,94 +2434,70 @@
       "packageId": null,
       "field": "charges.eiman-bayaran-haji-pjh",
       "note": "Nota bayaran haji di hlm. 48 dicetak 'PJH 1447H/2026M' (bukan 1448H/2027M) dengan amaun RM23,398; kemungkinan salah cetak musim.",
-      "pages": [
-        48
-      ]
+      "pages": [48]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair/pmnStatus",
       "note": "Mekah Tower, Safwah Leader dan Safwah Dallah tidak menyatakan jenis khemah (Muaessim/PMN); pmnStatus = not_stated. Naik taraf PMN + Bas VIP RM9,990 ditawarkan secara umum.",
-      "pages": [
-        48,
-        49
-      ]
+      "pages": [48, 49]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan. Gold/Diamond menyebut 'Ke Arafah 9 Zulhijjah'.",
-      "pages": [
-        48,
-        49,
-        50
-      ]
+      "pages": [48, 49, 50]
     },
     {
       "severity": "non_blocking",
       "packageId": "eiman-klasik-dallah",
       "field": "aziziyah",
       "note": "Klasik Dallah tidak menyenaraikan Aziziyah (Khemah Muaessim di tempatnya); tiada ayat 'tanpa Aziziyah' seperti Klasik Romance. Muka depan 'Pakej Haji Klasik — masuk terus ke hotel Mekah' mungkin terpakai.",
-      "pages": [
-        48,
-        49
-      ]
+      "pages": [48, 49]
     },
     {
       "severity": "non_blocking",
       "packageId": "eiman-diamond",
       "field": "aziziyah",
       "note": "Diamond tidak menyenaraikan Aziziyah; dicetak 'Masuk terus ke hotel Mekah (awal)'. Tidak dinyatakan secara jelas sama ada tiada Aziziyah.",
-      "pages": [
-        49
-      ]
+      "pages": [49]
     },
     {
       "severity": "non_blocking",
       "packageId": "eiman-gold",
       "field": "aziziyah.defaultOccupancies",
       "note": "Susunan bilik Aziziyah bagi Gold tidak dinyatakan; naik taraf Aziziyah ber-2/ber-3 tidak dikaitkan dengan Gold.",
-      "pages": [
-        49
-      ]
+      "pages": [49]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.eiman-penerbangan-kelas-perniagaan.priceSen",
       "note": "Konflik harga: kotak naik taraf RM17,990+- vs nota Gold/Diamond RM17,900+-; kedua-duanya 'bermula' dan anggaran. priceSen = null.",
-      "pages": [
-        49
-      ]
+      "pages": [49]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.priceSen",
       "note": "Naik taraf PMN + Bas VIP (RM9,990) dan Aziziyah ber-2 (RM7,490) berlabel 'Harga Bermula'; direkod seperti dicetak. Pakej layak PMN + Bas VIP tidak dinyatakan (diandaikan pakej tanpa PMN).",
-      "pages": [
-        49
-      ]
+      "pages": [49]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "charges.eiman-caj-pmn",
       "note": "Nota 'Kos PMN sebanyak RM7500' dicetak sangat kecil; dibaca pada 400 dpi.",
-      "pages": [
-        49
-      ]
+      "pages": [49]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "pjh.terms",
       "note": "Hlm. 50 merujuk borang 'PENGESAHAN TERIMA TAWARAN PERKHIDMATAN PAKEJ HAJI 1447H/2026' untuk kadar denda; kadar sebenar tidak dicetak.",
-      "pages": [
-        50
-      ]
+      "pages": [50]
     }
   ],
   "transcription": {

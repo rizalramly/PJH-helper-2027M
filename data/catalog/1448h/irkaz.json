@@ -55,16 +55,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      73,
-      76
-    ],
-    "pagesReviewed": [
-      73,
-      74,
-      75,
-      76
-    ],
+    "pageRange": [73, 76],
+    "pagesReviewed": [73, 74, 75, 76],
     "pageNotes": [
       {
         "pdfPage": 73,
@@ -119,10 +111,7 @@
       "aziziyah": {
         "status": "included",
         "condition": "Pergerakan haji tertakluk kepada perubahan berdasarkan jadual penerbangan TH",
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "4-5 orang sebilik (dicetak pada foto hotel Aziziyah).",
         "dateLabel": "Bermula 1 Zulhijjah; bermalam di Aziziyah & melontar 10–15 Zulhijjah 1448H",
         "nightCount": null,
@@ -494,10 +483,7 @@
       "aziziyah": {
         "status": "included",
         "condition": "Pergerakan haji tertakluk kepada perubahan berdasarkan jadual penerbangan TH",
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "4-5 orang sebilik (dicetak pada foto hotel Aziziyah).",
         "dateLabel": "Bermula 1 Zulhijjah; bermalam di Aziziyah & melontar 10–15 Zulhijjah 1448H",
         "nightCount": null,
@@ -822,10 +808,7 @@
   "charges": [
     {
       "id": "irkaz-bayaran-haji-pjh",
-      "packageIds": [
-        "irkaz-pakej-selesa",
-        "irkaz-pakej-premium-rotana"
-      ],
+      "packageIds": ["irkaz-pakej-selesa", "irkaz-pakej-premium-rotana"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada Akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -841,10 +824,7 @@
     },
     {
       "id": "irkaz-caj-tambahan-th",
-      "packageIds": [
-        "irkaz-pakej-selesa",
-        "irkaz-pakej-premium-rotana"
-      ],
+      "packageIds": ["irkaz-pakej-selesa", "irkaz-pakej-premium-rotana"],
       "description": "Caj tambahan sekiranya berlaku penambahan kos atau pengenalan kos baharu oleh pihak berautoriti atau pihak berkuasa di Arab Saudi",
       "priceSen": null,
       "basis": "per_person",
@@ -866,76 +846,56 @@
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan dalam hlm. 73–76.",
-      "pages": [
-        73,
-        74
-      ]
+      "pages": [73, 74]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type / pmnStatus",
       "note": "Jenis khemah Arafah/Mina (Muaisim atau PMN) tidak dinyatakan.",
-      "pages": [
-        73,
-        74
-      ]
+      "pages": [73, 74]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass / trainClass",
       "note": "Kelas penerbangan dan kelas kereta api Haramain tidak dinyatakan.",
-      "pages": [
-        73,
-        74
-      ]
+      "pages": [73, 74]
     },
     {
       "severity": "non_blocking",
       "packageId": "irkaz-pakej-selesa",
       "field": "stays",
       "note": "Pakej Selesa menyenaraikan dua hotel Mekah (Prestige Ajyad, Maysan Al Mashaer) tanpa menyatakan sama ada berturutan (sebelum/selepas Aziziyah) atau alternatif; susunan direkod mengikut susunan foto.",
-      "pages": [
-        73
-      ]
+      "pages": [73]
     },
     {
       "severity": "non_blocking",
       "packageId": "irkaz-pakej-premium-rotana",
       "field": "stays.distanceM",
       "note": "Jarak Grand Millennium Al Haram ke Masjid Nabawi terlindung/kabur pada imej (kemungkinan ±50 m); dibiarkan null.",
-      "pages": [
-        73
-      ]
+      "pages": [73]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "licenceNumberAsPublished",
       "note": "Hlm. 73 mencetak 'PJH/1448H' tanpa nombor; hlm. 74–76 mencetak 'PJH 17/1448H'.",
-      "pages": [
-        73,
-        74
-      ]
+      "pages": [73, 74]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.orEquivalent",
       "note": "Tiada frasa 'atau setaraf' dicetak; orEquivalent=false. Tarikh menginap/malam di hotel Mekah & Madinah tidak dinyatakan.",
-      "pages": [
-        73
-      ]
+      "pages": [73]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        74
-      ]
+      "pages": [74]
     }
   ],
   "transcription": {

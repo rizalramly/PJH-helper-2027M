@@ -50,13 +50,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      45,
-      45
-    ],
-    "pagesReviewed": [
-      45
-    ],
+    "pageRange": [45, 45],
+    "pagesReviewed": [45],
     "pageNotes": [
       {
         "pdfPage": 45,
@@ -96,10 +91,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Berkelompok 4/5 orang sebilik mengikut jantina di Shisha/Aziziyyah; naik taraf bilik ber-2 SR5,000/pax.",
         "dateLabel": null,
         "nightCount": null,
@@ -423,10 +415,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Berkelompok 4/5 orang sebilik mengikut jantina di Shisha/Aziziyyah; naik taraf bilik ber-2 SR5,000/pax.",
         "dateLabel": null,
         "nightCount": null,
@@ -1011,10 +1000,7 @@
   "upgrades": [
     {
       "id": "citra-aziziyah-bilik-berdua",
-      "packageIds": [
-        "citra-safwah",
-        "citra-transit-eko"
-      ],
+      "packageIds": ["citra-safwah", "citra-transit-eko"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -1037,11 +1023,7 @@
   "charges": [
     {
       "id": "citra-bayaran-haji-pjh",
-      "packageIds": [
-        "citra-safwah",
-        "citra-transit-eko",
-        "citra-standard-eko"
-      ],
+      "packageIds": ["citra-safwah", "citra-transit-eko", "citra-standard-eko"],
       "description": "Bayaran Haji PJH 1448H/2027M (didebit daripada akaun TH)",
       "priceSen": 2339800,
       "basis": "per_person",
@@ -1058,11 +1040,7 @@
     },
     {
       "id": "citra-caj-tambahan-th",
-      "packageIds": [
-        "citra-safwah",
-        "citra-transit-eko",
-        "citra-standard-eko"
-      ],
+      "packageIds": ["citra-safwah", "citra-transit-eko", "citra-standard-eko"],
       "description": "Caj tambahan TH jika berlaku penambahan kos atau kos baharu oleh pihak berkuasa Arab Saudi",
       "priceSen": null,
       "basis": "per_person",
@@ -1079,11 +1057,7 @@
     },
     {
       "id": "citra-insuran-perjalanan-am",
-      "packageIds": [
-        "citra-safwah",
-        "citra-transit-eko",
-        "citra-standard-eko"
-      ],
+      "packageIds": ["citra-safwah", "citra-transit-eko", "citra-standard-eko"],
       "description": "Insuran Perjalanan Am (bayaran tambahan)",
       "priceSen": null,
       "basis": "per_person",
@@ -1106,54 +1080,42 @@
       "packageId": null,
       "field": "upgrades.citra-aziziyah-bilik-berdua.priceSen",
       "note": "Naik taraf bilik ber-2 Shisha/Aziziyyah dicetak dalam SAR (SR5,000/pax); tiada nilai MYR, jadi priceSen = null.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair/pmnStatus",
       "note": "Jenis khemah Mina/Arafah (PMN atau Muaisim) tidak dinyatakan.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass/trainClass",
       "note": "Kelas penerbangan dan kereta api tidak dinyatakan.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.distanceReference",
       "note": "Jarak hotel Makkah/Madinah dicetak sebagai 'NN METER' tanpa titik ukuran.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.location",
       "note": "Hotel Safwat Al Masyaeir berada di 'Shisha' (brosur: 'Shisha/Aziziyyah'); ikut R1 direkod location aziziyah dengan aziziyah.labelAsPublished = 'Shisha'.",
-      "pages": [
-        45
-      ]
+      "pages": [45]
     }
   ],
   "transcription": {

@@ -216,7 +216,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -298,7 +298,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -673,7 +673,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -755,7 +755,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -1125,7 +1125,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -1207,7 +1207,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -1593,7 +1593,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -1675,7 +1675,7 @@
           "nightCount": null,
           "distanceM": 60,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -2056,7 +2056,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -2138,7 +2138,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -2507,7 +2507,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [
@@ -2589,7 +2589,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran masjid (label kecil kabur)",
           "meals": null,
           "evidence": [

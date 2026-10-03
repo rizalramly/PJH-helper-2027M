@@ -80,20 +80,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      108,
-      115
-    ],
-    "pagesReviewed": [
-      108,
-      109,
-      110,
-      111,
-      112,
-      113,
-      114,
-      115
-    ],
+    "pageRange": [108, 115],
+    "pagesReviewed": [108, 109, 110, 111, 112, 113, 114, 115],
     "pageNotes": [
       {
         "pdfPage": 108,
@@ -234,7 +222,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "International Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -259,7 +247,7 @@
           "nightCount": null,
           "distanceM": 15,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "International Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -485,7 +473,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -540,7 +528,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -565,7 +553,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -740,10 +728,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Ber 4/5 mengikut jantina bagi semua kategori pakej.",
         "dateLabel": "1 Zulhijjah - 15 Zulhijjah",
         "nightCount": null,
@@ -851,7 +836,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -876,7 +861,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -1127,7 +1112,7 @@
           "nightCount": null,
           "distanceM": 140,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Sajian Citarasa Melayu 3X Sehari",
           "roomSizeSqm": null,
@@ -1152,7 +1137,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -1381,10 +1366,7 @@
       "aziziyah": {
         "status": "included",
         "condition": null,
-        "defaultOccupancies": [
-          4,
-          5
-        ],
+        "defaultOccupancies": [4, 5],
         "defaultArrangementNote": "Ber 4/5 mengikut jantina bagi semua kategori pakej.",
         "dateLabel": "1 - 15 Zulhijjah",
         "nightCount": null,
@@ -1487,7 +1469,7 @@
           "nightCount": null,
           "distanceM": 140,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Sajian Citarasa Melayu 3X Sehari",
           "roomSizeSqm": null,
@@ -1512,7 +1494,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -1809,7 +1791,7 @@
           "nightCount": null,
           "distanceM": 190,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Sajian Citarasa Melayu 3X Sehari",
           "roomSizeSqm": null,
@@ -1834,7 +1816,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -2122,7 +2104,7 @@
           "nightCount": null,
           "distanceM": 45,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -2177,7 +2159,7 @@
           "nightCount": null,
           "distanceM": 45,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjidil Haram",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -2202,7 +2184,7 @@
           "nightCount": null,
           "distanceM": 100,
           "distanceIsApproximate": true,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "ke dataran Masjid Nabawi",
           "meals": "Asian Fullboard 3X Sehari",
           "roomSizeSqm": null,
@@ -2359,11 +2341,7 @@
   "upgrades": [
     {
       "id": "rayhar-aziziah-masyaer-berdua",
-      "packageIds": [
-        "rayhar-safwah-platinum",
-        "rayhar-olayan-ajyad",
-        "rayhar-orinsis"
-      ],
+      "packageIds": ["rayhar-safwah-platinum", "rayhar-olayan-ajyad", "rayhar-orinsis"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2384,11 +2362,7 @@
     },
     {
       "id": "rayhar-aziziah-masyaer-bertiga",
-      "packageIds": [
-        "rayhar-safwah-platinum",
-        "rayhar-olayan-ajyad",
-        "rayhar-orinsis"
-      ],
+      "packageIds": ["rayhar-safwah-platinum", "rayhar-olayan-ajyad", "rayhar-orinsis"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2409,11 +2383,7 @@
     },
     {
       "id": "rayhar-aziziah-masyaer-berempat",
-      "packageIds": [
-        "rayhar-safwah-platinum",
-        "rayhar-olayan-ajyad",
-        "rayhar-orinsis"
-      ],
+      "packageIds": ["rayhar-safwah-platinum", "rayhar-olayan-ajyad", "rayhar-orinsis"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2434,11 +2404,7 @@
     },
     {
       "id": "rayhar-aziziah-masyaer-berlima",
-      "packageIds": [
-        "rayhar-safwah-platinum",
-        "rayhar-olayan-ajyad",
-        "rayhar-orinsis"
-      ],
+      "packageIds": ["rayhar-safwah-platinum", "rayhar-olayan-ajyad", "rayhar-orinsis"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2459,10 +2425,7 @@
     },
     {
       "id": "rayhar-aziziah-bilik-berdua",
-      "packageIds": [
-        "rayhar-safwah-silver",
-        "rayhar-olayan-aziziah"
-      ],
+      "packageIds": ["rayhar-safwah-silver", "rayhar-olayan-aziziah"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2488,10 +2451,7 @@
     },
     {
       "id": "rayhar-aziziah-bilik-bertiga",
-      "packageIds": [
-        "rayhar-safwah-silver",
-        "rayhar-olayan-aziziah"
-      ],
+      "packageIds": ["rayhar-safwah-silver", "rayhar-olayan-aziziah"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "aziziyah_room",
@@ -2546,9 +2506,7 @@
     },
     {
       "id": "rayhar-penerbangan-perniagaan-platinum",
-      "packageIds": [
-        "rayhar-safwah-platinum"
-      ],
+      "packageIds": ["rayhar-safwah-platinum"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2574,11 +2532,7 @@
     },
     {
       "id": "rayhar-bilik-view-safwah",
-      "packageIds": [
-        "rayhar-safwah-platinum",
-        "rayhar-safwah-gold",
-        "rayhar-safwah-silver"
-      ],
+      "packageIds": ["rayhar-safwah-platinum", "rayhar-safwah-gold", "rayhar-safwah-silver"],
       "applicableVariantCodes": [],
       "includedInVariantCodes": [],
       "kind": "other",
@@ -2599,14 +2553,8 @@
     },
     {
       "id": "rayhar-olayan-haram-view-berdua-deluxe",
-      "packageIds": [
-        "rayhar-olayan-ajyad"
-      ],
-      "applicableVariantCodes": [
-        "OLA 22",
-        "OLA 23",
-        "OLA 24"
-      ],
+      "packageIds": ["rayhar-olayan-ajyad"],
+      "applicableVariantCodes": ["OLA 22", "OLA 23", "OLA 24"],
       "includedInVariantCodes": [],
       "kind": "other",
       "description": "Bilik Haram View di Olayan — Berdua *Deluxe",
@@ -2626,14 +2574,8 @@
     },
     {
       "id": "rayhar-olayan-haram-view-berdua",
-      "packageIds": [
-        "rayhar-olayan-ajyad"
-      ],
-      "applicableVariantCodes": [
-        "OLA 22",
-        "OLA 23",
-        "OLA 24"
-      ],
+      "packageIds": ["rayhar-olayan-ajyad"],
+      "applicableVariantCodes": ["OLA 22", "OLA 23", "OLA 24"],
       "includedInVariantCodes": [],
       "kind": "other",
       "description": "Bilik Haram View di Olayan — Berdua",
@@ -2653,13 +2595,8 @@
     },
     {
       "id": "rayhar-olayan-haram-view-bertiga",
-      "packageIds": [
-        "rayhar-olayan-ajyad"
-      ],
-      "applicableVariantCodes": [
-        "OLA 33",
-        "OLA 34"
-      ],
+      "packageIds": ["rayhar-olayan-ajyad"],
+      "applicableVariantCodes": ["OLA 33", "OLA 34"],
       "includedInVariantCodes": [],
       "kind": "other",
       "description": "Bilik Haram View di Olayan — Bertiga",
@@ -2679,12 +2616,8 @@
     },
     {
       "id": "rayhar-olayan-haram-view-berempat",
-      "packageIds": [
-        "rayhar-olayan-ajyad"
-      ],
-      "applicableVariantCodes": [
-        "OLA 44"
-      ],
+      "packageIds": ["rayhar-olayan-ajyad"],
+      "applicableVariantCodes": ["OLA 44"],
       "includedInVariantCodes": [],
       "kind": "other",
       "description": "Bilik Haram View di Olayan — Berempat",
@@ -2704,12 +2637,8 @@
     },
     {
       "id": "rayhar-olayan-city-view-berempat",
-      "packageIds": [
-        "rayhar-olayan-ajyad"
-      ],
-      "applicableVariantCodes": [
-        "OLA 44"
-      ],
+      "packageIds": ["rayhar-olayan-ajyad"],
+      "applicableVariantCodes": ["OLA 44"],
       "includedInVariantCodes": [],
       "kind": "other",
       "description": "Bilik Deluxe City View di Olayan — Berempat",
@@ -2825,110 +2754,70 @@
       "packageId": null,
       "field": "variants.madinahOccupancy",
       "note": "Varian SAFWAH G-44, OLA 44, OLA AZ44, ORI 44 dan JUM AZ44 dicetak '4/5 Madinah orang sebilik' dengan satu harga; dipecah kepada dua varian (Madinah 4 dan 5) dengan kod dan harga sama (peraturan R2).",
-      "pages": [
-        110,
-        111,
-        112
-      ]
+      "pages": [110, 111, 112]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "variants.code",
       "note": "Kod OLA 34/OLA 23/OLA 24 (dan OLA AZ34/AZ23/AZ24, ORI 23) mempunyai lencana bilangan sebilik sama dengan OLA 33/22 tetapi harga lebih tinggi (cth. OLA 22 RM81,590 < OLA 23 RM83,590 < OLA 24 RM85,990). Nota 'OLA-24, OLA-23 & OLA-34 hanya untuk penginapan di Makkah sahaja' tidak menerangkan perbezaan. Corak harga konsisten dengan digit kedua = kapasiti/jenis bilik Makkah (cth. 2 orang dalam bilik ber-4), tetapi tafsiran ini tidak dicetak; perlu pengesahan PJH sebelum dipaparkan sebagai perbezaan bilik.",
-      "pages": [
-        111,
-        112
-      ]
+      "pages": [111, 112]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak disebut dalam mana-mana halaman 108–115.",
-      "pages": [
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
-        114,
-        115
-      ]
+      "pages": [108, 109, 110, 111, 112, 113, 114, 115]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "flightClass/trainClass",
       "note": "Kelas penerbangan carter/komersial tidak dinyatakan (kecuali pilihan kelas perniagaan berbayar untuk Platinum); kereta api Haramain tidak disebut.",
-      "pages": [
-        110,
-        111,
-        112
-      ]
+      "pages": [110, 111, 112]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type",
       "note": "Jenis khemah asas (Muaisim atau lain) tidak dinyatakan; hanya PMN pilihan RM10,000.",
-      "pages": [
-        114
-      ]
+      "pages": [114]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.dateLabel",
       "note": "Tarikh penginapan Madinah bagi Olayan Ajyad, Olayan Aziziah, Orinsis dan Jumeirah Aziziah tidak dinyatakan; Makkah Olayan Ajyad/Orinsis juga tiada tarikh.",
-      "pages": [
-        111,
-        112
-      ]
+      "pages": [111, 112]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.optional",
       "note": "Kos Aziziah ketika hari Masyaer untuk Safwah Platinum/Olayan Ajyad/Orinsis: bilik ber-N mengikut harga seorang; bilangan malam tidak dinyatakan.",
-      "pages": [
-        114
-      ]
+      "pages": [114]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.roomSizeSqm/privateBathroom/privateForBookingGroup",
       "note": "Tidak dinyatakan dalam halaman 108–115.",
-      "pages": [
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
-        114,
-        115
-      ]
+      "pages": [108, 109, 110, 111, 112, 113, 114, 115]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "approval",
       "note": "Nombor lesen pada brosur bukan bukti kelulusan 1448H; perlu sumber rasmi TH.",
-      "pages": [
-        108
-      ]
+      "pages": [108]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "variants.pmnStatus",
       "note": "Khemah asas tidak dinamakan (hanya 'mengikut peraturan Kementerian Haji Arab Saudi'); PMN + bas sewa khas ialah pilihan RM10,000. pmnStatus semua varian = not_stated (peraturan R4).",
-      "pages": [
-        114
-      ]
+      "pages": [114]
     }
   ],
   "transcription": {

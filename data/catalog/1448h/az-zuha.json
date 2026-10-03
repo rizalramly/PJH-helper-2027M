@@ -54,19 +54,8 @@
     ]
   },
   "source": {
-    "pageRange": [
-      26,
-      32
-    ],
-    "pagesReviewed": [
-      26,
-      27,
-      28,
-      29,
-      30,
-      31,
-      32
-    ],
+    "pageRange": [26, 32],
+    "pagesReviewed": [26, 27, 28, 29, 30, 31, 32],
     "pageNotes": [
       {
         "pdfPage": 26,
@@ -216,7 +205,7 @@
           "nightCount": null,
           "distanceM": 630,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -274,7 +263,7 @@
           "nightCount": null,
           "distanceM": 20,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -573,7 +562,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -631,7 +620,7 @@
           "nightCount": null,
           "distanceM": 350,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -951,7 +940,7 @@
           "nightCount": null,
           "distanceM": 50,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -1009,7 +998,7 @@
           "nightCount": null,
           "distanceM": 20,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -1329,7 +1318,7 @@
           "nightCount": null,
           "distanceM": 80,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "haram_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid al-Haram",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -1387,7 +1376,7 @@
           "nightCount": null,
           "distanceM": 20,
           "distanceIsApproximate": false,
-          "distanceReference": "other",
+          "distanceReference": "nabawi_courtyard",
           "distanceReferenceAsPublished": "dari dataran Masjid an-Nabawi",
           "meals": "Bufet fullboard Asia 3 kali sehari",
           "roomSizeSqm": null,
@@ -1756,66 +1745,42 @@
       "packageId": null,
       "field": "variants.priceSen",
       "note": "Kotak harga utama setiap pakej berlabel 'HARGA BERMULA'; harga direkod seperti dicetak bagi setiap susunan bilik.",
-      "pages": [
-        26,
-        27,
-        28,
-        29
-      ]
+      "pages": [26, 27, 28, 29]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "tarwiyah",
       "note": "Tarwiyah tidak dinyatakan dalam hlm. 26–32.",
-      "pages": [
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32
-      ]
+      "pages": [26, 27, 28, 29, 30, 31, 32]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "masyair.type",
       "note": "Jenis khemah asas (Muaisim atau lain) tidak dinamakan; PMN hanya sebagai tambahan berbayar RM8,900. Ikut R4, pmnStatus varian = not_stated (khemah asas tidak dinyatakan).",
-      "pages": [
-        30
-      ]
+      "pages": [30]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "aziziyah.defaultOccupancies",
       "note": "Bilangan sebilik di Aziziah dicetak sebagai 'mengikut pilihan pakej' (bukan nombor); direkod aziziyahOccupancy = susunan bilik varian. Hotel Dar AlHamd/Dar AlSalah (dua pilihan).",
-      "pages": [
-        30
-      ]
+      "pages": [30]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "upgrades.basis",
       "note": "Harga PMN RM8,900 dan naik taraf penerbangan RM11,900 tidak menyatakan 'seorang'; dianggap per jemaah.",
-      "pages": [
-        30
-      ]
+      "pages": [30]
     },
     {
       "severity": "non_blocking",
       "packageId": null,
       "field": "stays.orEquivalent",
       "note": "Tiada 'setaraf' dicetak bagi hotel Makkah/Madinah; nama hotel direkod tepat.",
-      "pages": [
-        26,
-        27,
-        28,
-        29
-      ]
+      "pages": [26, 27, 28, 29]
     }
   ],
   "transcription": {
